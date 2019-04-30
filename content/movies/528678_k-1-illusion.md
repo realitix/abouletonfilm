@@ -1,0 +1,1 @@
+{"tmdb_id": 528678, "title": "K-1 Illusion", "original_title": "K-1 Illusion", "slug_title": "k-1-illusion", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "K-1 Illusion", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

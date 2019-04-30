@@ -1,0 +1,1 @@
+{"tmdb_id": 304343, "title": "Prema Kanuka", "original_title": "Prema Kanuka", "slug_title": "prema-kanuka", "date": "1981-06-27", "genre": [""], "score": "0.0/10", "synopsis": "No Overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

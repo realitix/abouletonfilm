@@ -1,0 +1,1 @@
+{"tmdb_id": 356942, "title": "Mastery of Steel", "original_title": "Mastery of Steel", "slug_title": "mastery-of-steel", "date": "1933-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Short part of BFI collection \"This Working Life: Steel\".", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 289337, "title": "Bock for President", "original_title": "Bock for President", "slug_title": "bock-for-president", "date": "2010-01-15", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Documentary about Ute Bock", "image": "/img/default-cover.png", "actors": ["Ute Bock (Ute Bock)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

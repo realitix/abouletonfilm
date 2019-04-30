@@ -1,1 +1,0 @@
-{"tmdb_id": 506450, "title": "Gro Chwipio", "original_title": "Gro Chwipio", "slug_title": "gro-chwipio", "date": "2017-05-13", "genre": [""], "score": "0.0/10", "synopsis": "Winner of Young NOVA Award 2017", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

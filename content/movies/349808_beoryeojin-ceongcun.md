@@ -1,0 +1,1 @@
+{"tmdb_id": 349808, "title": "\ubc84\ub824\uc9c4 \uccad\ucd98", "original_title": "\ubc84\ub824\uc9c4 \uccad\ucd98", "slug_title": "beoryeojin-ceongcun", "date": "1982-09-24", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

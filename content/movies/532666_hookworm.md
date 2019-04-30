@@ -1,0 +1,1 @@
+{"tmdb_id": 532666, "title": "Hookworm", "original_title": "Hookworm", "slug_title": "hookworm", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Non-theatrical government - war short\r Produced for Coordinator of Inter-American Affairs", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

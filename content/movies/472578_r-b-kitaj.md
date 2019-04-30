@@ -1,0 +1,1 @@
+{"tmdb_id": 472578, "title": "R.B. Kitaj", "original_title": "R.B. Kitaj", "slug_title": "r-b-kitaj", "date": "1967-08-25", "genre": [""], "score": "0.0/10", "synopsis": "Biographical short about the American Pop Artist by James Scott", "image": "/img/default-cover.png", "actors": ["R.B. Kitaj ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

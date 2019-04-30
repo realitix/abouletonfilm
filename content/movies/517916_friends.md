@@ -1,0 +1,1 @@
+{"tmdb_id": 517916, "title": "Friends", "original_title": "Friends", "slug_title": "friends", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "The misadventures of a group of friends as they navigate the pitfalls of work, life, and love in Manhattan.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

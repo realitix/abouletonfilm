@@ -1,0 +1,1 @@
+{"tmdb_id": 408411, "title": "The Mechanical Bird", "original_title": "The Mechanical Bird", "slug_title": "the-mechanical-bird", "date": "1951-11-21", "genre": [""], "score": "0.0/10", "synopsis": "A King gets sad for the loss of his songbird.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

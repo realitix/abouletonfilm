@@ -1,0 +1,1 @@
+{"tmdb_id": 414508, "title": "Bravo! Jazz Life", "original_title": "Bravo! Jazz Life", "slug_title": "bravo-jazz-life", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

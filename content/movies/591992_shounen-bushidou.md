@@ -1,0 +1,1 @@
+{"tmdb_id": 591992, "title": "Shounen Bushidou", "original_title": "Shounen Bushidou", "slug_title": "shounen-bushidou", "date": "2004-05-11", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

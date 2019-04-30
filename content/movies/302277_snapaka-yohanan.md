@@ -1,0 +1,1 @@
+{"tmdb_id": 302277, "title": "Snapaka Yohanan", "original_title": "Snapaka Yohanan", "slug_title": "snapaka-yohanan", "date": "1963-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1963 film starring  Thikkurisi Sukumaran Nair and Prem Nazir", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

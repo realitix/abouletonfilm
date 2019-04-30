@@ -1,0 +1,1 @@
+{"tmdb_id": 285989, "title": "Raja Kumari", "original_title": "Raja Kumari", "slug_title": "raja-kumari", "date": "1947-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by A.S.A. Sami.", "image": "/img/default-cover.png", "actors": ["M. G. Ramachandran ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

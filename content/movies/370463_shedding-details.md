@@ -1,0 +1,1 @@
+{"tmdb_id": 370463, "title": "Shedding Details", "original_title": "Shedding Details", "slug_title": "shedding-details", "date": "2009-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A maid talks about her work in a hotel.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

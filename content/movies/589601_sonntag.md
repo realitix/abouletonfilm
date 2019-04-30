@@ -1,0 +1,1 @@
+{"tmdb_id": 589601, "title": "Sonntag", "original_title": "Sonntag", "slug_title": "sonntag", "date": "1976-08-03", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barbara N\u00fcsse (Frau Possberg)", "Karin Schlemmer (Frau Glinka)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

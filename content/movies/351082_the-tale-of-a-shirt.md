@@ -1,0 +1,1 @@
+{"tmdb_id": 351082, "title": "The Tale of a Shirt", "original_title": "The Tale of a Shirt", "slug_title": "the-tale-of-a-shirt", "date": "1933-02-19", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon released 19 February 1933.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

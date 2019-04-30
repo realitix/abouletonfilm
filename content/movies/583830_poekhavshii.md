@@ -1,0 +1,1 @@
+{"tmdb_id": 583830, "title": "\u041f\u043e\u0435\u0445\u0430\u0432\u0448\u0438\u0439", "original_title": "\u041f\u043e\u0435\u0445\u0430\u0432\u0448\u0438\u0439", "slug_title": "poekhavshii", "date": "2019-03-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

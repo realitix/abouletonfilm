@@ -1,0 +1,1 @@
+{"tmdb_id": 214852, "title": "MR.TEAM RETURNS", "original_title": "MR.TEAM RETURNS", "slug_title": "mr-team-returns", "date": "2013-06-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iwfrlEG2VANzcxGBKM6P4cVJtpT.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

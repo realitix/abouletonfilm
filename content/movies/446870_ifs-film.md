@@ -1,0 +1,1 @@
+{"tmdb_id": 446870, "title": "IFS-Film", "original_title": "IFS-Film", "slug_title": "ifs-film", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "IFS-Film is a computer film made using computer-animation software.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 397369, "title": "Maquilas", "original_title": "Maquilas", "slug_title": "maquilas", "date": "2004-11-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rEirdmHg394RC5Lgi66vRuJFHOw.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

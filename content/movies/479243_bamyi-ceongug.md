@@ -1,0 +1,1 @@
+{"tmdb_id": 479243, "title": "\ubc24\uc758 \ucc9c\uad6d", "original_title": "\ubc24\uc758 \ucc9c\uad6d", "slug_title": "bamyi-ceongug", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

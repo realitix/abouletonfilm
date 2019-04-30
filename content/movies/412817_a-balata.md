@@ -1,0 +1,1 @@
+{"tmdb_id": 412817, "title": "A Balata", "original_title": "A Balata", "slug_title": "a-balata", "date": "1936-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nITw2WZzN860QWAoxPHEOS0MRRW.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

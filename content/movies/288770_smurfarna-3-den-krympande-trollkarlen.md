@@ -1,0 +1,1 @@
+{"tmdb_id": 288770, "title": "Smurfarna 3 - Den Krympande Trollkarlen", "original_title": "Smurfarna 3 - Den Krympande Trollkarlen", "slug_title": "smurfarna-3-den-krympande-trollkarlen", "date": "2011-08-25", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

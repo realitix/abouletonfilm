@@ -1,0 +1,1 @@
+{"tmdb_id": 470985, "title": "Quincy Avenue", "original_title": "Quincy Avenue", "slug_title": "quincy-avenue", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "After witnessing the murder of his best friend, Orion tracks down the killer.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

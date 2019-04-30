@@ -1,0 +1,1 @@
+{"tmdb_id": 286419, "title": "Die Fremde", "original_title": "Die Fremde", "slug_title": "die-fremde", "date": "1931-02-05", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gerda Maurus ()", "Harry Hardt ()", "Alfred Beierle ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 452381, "title": "Labyrinth", "original_title": "Labyrinth", "slug_title": "labyrinth", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Reboot/spinoff centered inside the weird fantasy realm of Jim Henson's Labyrinth.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

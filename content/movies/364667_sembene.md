@@ -1,0 +1,1 @@
+{"tmdb_id": 364667, "title": "Sembene", "original_title": "Sembene", "slug_title": "sembene", "date": "2003-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "A short portrait of director Ousmane Semb\u00e8ne.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

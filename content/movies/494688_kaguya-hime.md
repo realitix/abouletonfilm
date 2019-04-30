@@ -1,0 +1,1 @@
+{"tmdb_id": 494688, "title": "Kaguya Hime", "original_title": "Kaguya Hime", "slug_title": "kaguya-hime", "date": "1935-11-21", "genre": [""], "score": "0.0/10", "synopsis": "Toho's production of the classic japanese fairytale.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

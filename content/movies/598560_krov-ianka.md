@@ -1,0 +1,1 @@
+{"tmdb_id": 598560, "title": "\u041a\u0440\u043e\u0432'\u044f\u043d\u043a\u0430", "original_title": "\u041a\u0440\u043e\u0432'\u044f\u043d\u043a\u0430", "slug_title": "krov-ianka", "date": "", "genre": ["Com\u00e9die / Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349624, "title": "\uc6e8\uc2a4\ud134 \uc560\ube44\ub274", "original_title": "\uc6e8\uc2a4\ud134 \uc560\ube44\ub274", "slug_title": "weseuteon-aebinyu", "date": "1993-04-03", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

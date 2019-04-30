@@ -1,0 +1,1 @@
+{"tmdb_id": 244824, "title": "Fighter", "original_title": "Fighter", "slug_title": "fighter", "date": "2011-01-07", "genre": ["Action"], "score": "0.0/10", "synopsis": "An action filled love story.", "image": "/img/default-cover.png", "actors": ["Srabanti Chatterjee (Srabanti Chatterjee)", "Jeet ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

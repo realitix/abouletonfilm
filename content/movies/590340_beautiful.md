@@ -1,0 +1,1 @@
+{"tmdb_id": 590340, "title": "Beautiful", "original_title": "Pi\u0119kna", "slug_title": "beautiful", "date": "1962-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Student film by Skolimowski abot a street ironically called Beautiful.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

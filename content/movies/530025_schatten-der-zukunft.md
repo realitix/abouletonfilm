@@ -1,0 +1,1 @@
+{"tmdb_id": 530025, "title": "Schatten der Zukunft", "original_title": "Schatten der Zukunft", "slug_title": "schatten-der-zukunft", "date": "1985-06-24", "genre": [""], "score": "0.0/10", "synopsis": "Munich Film Festival 1985.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

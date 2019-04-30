@@ -1,0 +1,1 @@
+{"tmdb_id": 252499, "title": "By the Sea", "original_title": "By the Sea", "slug_title": "by-the-sea", "date": "1931-07-12", "genre": [""], "score": "0.0/10", "synopsis": "Tale of a romantic rivalry with a lot of personality humor...and a Betty Boop voice!", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

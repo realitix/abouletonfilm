@@ -1,0 +1,1 @@
+{"tmdb_id": 581107, "title": "The Mill", "original_title": "The Mill", "slug_title": "the-mill", "date": "", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "A Friday night party at an old abandoned mill, turns into a nightmare for 8 college kids", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

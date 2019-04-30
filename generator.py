@@ -31,7 +31,7 @@ def main():
     compute_parrallel(non_existing_ids)
 
 
-def compute_parrallel(ids, threads=4):
+def compute_parrallel(ids, threads=2):
     pool = ThreadPool(threads)
     for _ in tqdm.tqdm(pool.imap_unordered(compute, ids), total=len(ids)):
         pass
@@ -47,7 +47,9 @@ def compute(i):
     try:
         info = movie.info(append_to_response='credits,recommendations,videos,reviews')
         credits = info['credits']
-        reviews = info['reviews']
+        reviews = []
+        if 'reviews' in info:
+            reviews = info['reviews']
         recommandations_id = [x['id'] for x in info['recommendations']['results'][:4]]
         videos = info['videos']
         synopsis = info['overview']
@@ -65,13 +67,14 @@ def compute(i):
             title = info_fr['title']
         if info_fr['genres']:
             genres = ' / '.join([x['name'] for x in info_fr['genres']]),
-    except rex.HTTPError:
-        movie_filename = '{}_{}.md'.format(i, "notfound")
-        with open(os.path.join(HERE, 'content/movies', movie_filename), 'w') as outfile:
-            json.dump(data_notfound, outfile)
-        return
-    except Exception:
-        raise
+    except rex.HTTPError as exc:
+        if exc.response.status_code == 404:
+            movie_filename = '{}_{}.md'.format(i, "notfound")
+            with open(os.path.join(HERE, 'content/movies', movie_filename), 'w') as outfile:
+                json.dump(data_notfound, outfile)
+            return
+        else:
+            return
 
     image_url = "/img/default-cover.png"
     if info['poster_path']:

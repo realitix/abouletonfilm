@@ -1,0 +1,1 @@
+{"tmdb_id": 585953, "title": "Acceleration", "original_title": "Acceleration", "slug_title": "acceleration", "date": "1968-01-01", "genre": ["Animation"], "score": "0.0/10", "synopsis": "A fable on the futility of progress for its own sake.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

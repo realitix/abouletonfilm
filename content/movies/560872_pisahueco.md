@@ -1,0 +1,1 @@
+{"tmdb_id": 560872, "title": "Pisahueco", "original_title": "Pisahueco", "slug_title": "pisahueco", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

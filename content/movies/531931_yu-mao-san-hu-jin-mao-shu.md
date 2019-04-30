@@ -1,0 +1,1 @@
+{"tmdb_id": 531931, "title": "Yu mao san hu jin mao shu", "original_title": "Yu mao san hu jin mao shu", "slug_title": "yu-mao-san-hu-jin-mao-shu", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

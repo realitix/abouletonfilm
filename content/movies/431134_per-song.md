@@ -1,0 +1,1 @@
+{"tmdb_id": 431134, "title": "per song", "original_title": "per song", "slug_title": "per-song", "date": "2016-02-02", "genre": [""], "score": "0.0/10", "synopsis": "Film about young drifters in Chonqing, China.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

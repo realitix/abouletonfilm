@@ -1,0 +1,1 @@
+{"tmdb_id": 327549, "title": "Abu Haylah", "original_title": "Abu Haylah", "slug_title": "abu-haylah", "date": "1962-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Mohamed Shukri Jameel.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

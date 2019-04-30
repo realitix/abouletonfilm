@@ -1,0 +1,1 @@
+{"tmdb_id": 25822, "title": "Hawaii Max", "original_title": "Hawaii Max", "slug_title": "hawaii-max", "date": "2007-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

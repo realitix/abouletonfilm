@@ -1,0 +1,1 @@
+{"tmdb_id": 524514, "title": "Lost Tribes and Promised Lands", "original_title": "Lost Tribes and Promised Lands", "slug_title": "lost-tribes-and-promised-lands", "date": "2010-05-16", "genre": [""], "score": "0.0/10", "synopsis": "A film by Elisabeth Subrin.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 368283, "title": "Drive-in Blues", "original_title": "Drive-in Blues", "slug_title": "drive-in-blues", "date": "1986-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Short Documentary Nostalgic", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

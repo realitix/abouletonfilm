@@ -1,0 +1,1 @@
+{"tmdb_id": 597589, "title": "Des femmes PAS a vendre", "original_title": "Des femmes PAS a vendre", "slug_title": "des-femmes-pas-a-vendre", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "adweg htrudfgh", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

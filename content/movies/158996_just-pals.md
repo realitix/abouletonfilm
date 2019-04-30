@@ -1,0 +1,1 @@
+{"tmdb_id": 158996, "title": "Just Pals", "original_title": "Just Pals", "slug_title": "just-pals", "date": "1932-02-01", "genre": [""], "score": "0.0/10", "synopsis": "Babe Ruth plays ball with some kids.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 426852, "title": "Trickle Dickle Down", "original_title": "Trickle Dickle Down", "slug_title": "trickle-dickle-down", "date": "2012-01-01", "genre": [""], "score": "0.0/10", "synopsis": "An animated parody of trickle down economics", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

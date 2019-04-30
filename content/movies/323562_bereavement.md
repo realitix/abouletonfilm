@@ -1,0 +1,1 @@
+{"tmdb_id": 323562, "title": "Bereavement", "original_title": "Bereavement", "slug_title": "bereavement", "date": "2014-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A dark comedy about closure. Three cats. One dog. A cockatoo. Uncle Herman. Eternity.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

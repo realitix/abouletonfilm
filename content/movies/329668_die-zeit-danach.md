@@ -1,0 +1,1 @@
+{"tmdb_id": 329668, "title": "Die Zeit danach", "original_title": "Die Zeit danach", "slug_title": "die-zeit-danach", "date": "1992-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pinkas Braun ()", "Mathieu Carri\u00e8re ()", "Gottfried John ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

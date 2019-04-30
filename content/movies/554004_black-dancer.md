@@ -1,0 +1,1 @@
+{"tmdb_id": 554004, "title": "Black Dancer", "original_title": "Black Dancer", "slug_title": "black-dancer", "date": "2018-01-29", "genre": [""], "score": "0.0/10", "synopsis": "A short film by Maria Lassnig, shot in 1974.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

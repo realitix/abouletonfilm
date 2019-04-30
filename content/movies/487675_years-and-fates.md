@@ -1,1 +1,0 @@
-{"tmdb_id": 487675, "title": "Years and Fates", "original_title": "\u0413\u043e\u0434\u044b \u0438 \u0441\u0443\u0434\u044c\u0431\u044b", "slug_title": "years-and-fates", "date": "1988-11-17", "genre": [""], "score": "0.0/10", "synopsis": "A Russian film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

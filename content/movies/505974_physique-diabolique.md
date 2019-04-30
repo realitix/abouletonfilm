@@ -1,0 +1,1 @@
+{"tmdb_id": 505974, "title": "Physique diabolique", "original_title": "Physique diabolique", "slug_title": "physique-diabolique", "date": "1912-01-01", "genre": [""], "score": "0.0/10", "synopsis": "The devil performs his magical powers.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

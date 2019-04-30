@@ -1,0 +1,1 @@
+{"tmdb_id": 597750, "title": "Kiral\u0131k Ev", "original_title": "Kiral\u0131k Ev", "slug_title": "kiralik-ev", "date": "1986-04-09", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tJTFRJcqOkcuynXfk5XnA73SEQ7.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

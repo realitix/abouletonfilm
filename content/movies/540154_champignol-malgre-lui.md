@@ -1,0 +1,1 @@
+{"tmdb_id": 540154, "title": "Champignol malgr\u00e9 lui", "original_title": "Champignol malgr\u00e9 lui", "slug_title": "champignol-malgre-lui", "date": "1933-10-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

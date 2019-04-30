@@ -1,0 +1,1 @@
+{"tmdb_id": 330667, "title": "Jokie DVD 2", "original_title": "Jokie DVD 2", "slug_title": "jokie-dvd-2", "date": "2013-04-23", "genre": ["Animation"], "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1riEizny9KGXdjRF1CxzQixxgps.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

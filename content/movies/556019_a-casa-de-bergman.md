@@ -1,0 +1,1 @@
+{"tmdb_id": 556019, "title": "A Casa de Bergman", "original_title": "A Casa de Bergman", "slug_title": "a-casa-de-bergman", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

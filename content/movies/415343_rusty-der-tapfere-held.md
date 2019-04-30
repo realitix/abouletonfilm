@@ -1,0 +1,1 @@
+{"tmdb_id": 415343, "title": "Rusty - Der tapfere Held", "original_title": "Rusty - Der tapfere Held", "slug_title": "rusty-der-tapfere-held", "date": "1997-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

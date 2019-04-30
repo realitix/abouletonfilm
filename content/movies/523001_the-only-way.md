@@ -1,0 +1,1 @@
+{"tmdb_id": 523001, "title": "The Only Way", "original_title": "The Only Way", "slug_title": "the-only-way", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A dissolute English advocate goes to the guillotine in place of his aristocratic double.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

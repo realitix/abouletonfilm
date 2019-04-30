@@ -1,0 +1,1 @@
+{"tmdb_id": 454027, "title": "She-Wolf", "original_title": "Volchitsa", "slug_title": "she-wolf", "date": "1990-04-01", "genre": [""], "score": "0.0/10", "synopsis": "A Turkmen shepherd is on an obsessive quest to kill the wolf that's been snatching his sheep.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

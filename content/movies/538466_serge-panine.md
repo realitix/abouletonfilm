@@ -1,0 +1,1 @@
+{"tmdb_id": 538466, "title": "Serge Panine", "original_title": "Serge Panine", "slug_title": "serge-panine", "date": "1939-01-20", "genre": [""], "score": "0.0/10", "synopsis": "No overview found", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kEwItZvkTC8G9UjsvxzeJE2eGwg.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

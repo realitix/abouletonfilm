@@ -1,0 +1,1 @@
+{"tmdb_id": 415807, "title": "Katyusha", "original_title": "Katyusha", "slug_title": "katyusha", "date": "1914-10-31", "genre": [""], "score": "0.0/10", "synopsis": "A kabuki film based on Tolstoy's novel Resurrection.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

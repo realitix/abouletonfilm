@@ -1,0 +1,1 @@
+{"tmdb_id": 332866, "title": "The Plunderers", "original_title": "Les spoliateurs", "slug_title": "the-plunderers", "date": "1972-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Mohamed Lamine Merbah.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

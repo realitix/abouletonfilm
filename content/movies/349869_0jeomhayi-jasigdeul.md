@@ -1,0 +1,1 @@
+{"tmdb_id": 349869, "title": "0\uc810\ud558\uc758 \uc790\uc2dd\ub4e4", "original_title": "0\uc810\ud558\uc758 \uc790\uc2dd\ub4e4", "slug_title": "0jeomhayi-jasigdeul", "date": "1982-11-27", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

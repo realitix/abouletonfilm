@@ -1,0 +1,1 @@
+{"tmdb_id": 350120, "title": "\uccad\ucd98\uc744 \ub728\uac81\uac8c", "original_title": "\uccad\ucd98\uc744 \ub728\uac81\uac8c", "slug_title": "ceongcuneul-ddeugeobge", "date": "1981-11-28", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

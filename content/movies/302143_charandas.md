@@ -1,0 +1,1 @@
+{"tmdb_id": 302143, "title": "Charandas", "original_title": "Charandas", "slug_title": "charandas", "date": "1977-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring  Amitabh Bachchan, Dharmendra and Sunil Dutt", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

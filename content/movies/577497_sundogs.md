@@ -1,0 +1,1 @@
+{"tmdb_id": 577497, "title": "Sundogs", "original_title": "Sundogs", "slug_title": "sundogs", "date": "", "genre": ["Drame"], "score": "0.0/10", "synopsis": "Mother is looking for work in winter when she stops at a diner to eat with her daughter.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

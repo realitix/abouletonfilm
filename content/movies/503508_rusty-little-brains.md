@@ -1,0 +1,1 @@
+{"tmdb_id": 503508, "title": "Rusty Little Brains", "original_title": "Rusty Little Brains", "slug_title": "rusty-little-brains", "date": "2018-02-06", "genre": [""], "score": "0.0/10", "synopsis": "Maghz-haye koochak zang-zadeh", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

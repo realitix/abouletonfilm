@@ -1,0 +1,1 @@
+{"tmdb_id": 304712, "title": "Mulgi Zaali Ho", "original_title": "Mulgi Zaali Ho", "slug_title": "mulgi-zaali-ho", "date": "1986-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film with a soundtrack featuring Ravindra Sathe and more.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

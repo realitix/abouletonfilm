@@ -1,0 +1,1 @@
+{"tmdb_id": 526616, "title": "One Minute", "original_title": "\u4e00\u5206\u9418", "slug_title": "one-minute", "date": "2011-04-29", "genre": [""], "score": "0.0/10", "synopsis": "2011 short film by Cheuk Wan Chi", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

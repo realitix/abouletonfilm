@@ -1,0 +1,1 @@
+{"tmdb_id": 307321, "title": "Amayakudu", "original_title": "Amayakudu", "slug_title": "amayakudu", "date": "1968-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1968", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

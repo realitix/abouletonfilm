@@ -1,0 +1,1 @@
+{"tmdb_id": 368097, "title": "S\u00f8nnen (The Son)", "original_title": "S\u00f8nnen (The Son)", "slug_title": "sonnen-the-son", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Norwegian Drama based on the Swedish play by the same title.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

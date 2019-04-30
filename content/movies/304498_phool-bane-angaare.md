@@ -1,0 +1,1 @@
+{"tmdb_id": 304498, "title": "Phool Bane Angaare", "original_title": "Phool Bane Angaare", "slug_title": "phool-bane-angaare", "date": "1963-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Mala Sinha, Raaj Kumar and Ashish Kumar", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

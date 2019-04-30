@@ -1,0 +1,1 @@
+{"tmdb_id": 350025, "title": "\uc544\ube60\uc548\ub155 '81", "original_title": "\uc544\ube60\uc548\ub155 '81", "slug_title": "abbaannyeong-81", "date": "1981-04-16", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

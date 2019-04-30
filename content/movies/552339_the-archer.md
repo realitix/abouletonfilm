@@ -1,0 +1,1 @@
+{"tmdb_id": 552339, "title": "The Archer", "original_title": "The Archer", "slug_title": "the-archer", "date": "1963-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A hand-drawn animation of the Chinese folktale \u201cHouyi Shoots Down the Suns.\u201d", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

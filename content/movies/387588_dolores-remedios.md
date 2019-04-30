@@ -1,0 +1,1 @@
+{"tmdb_id": 387588, "title": "Dolores & Remedios", "original_title": "Dolores & Remedios", "slug_title": "dolores-remedios", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

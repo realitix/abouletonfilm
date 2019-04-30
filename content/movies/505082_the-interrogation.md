@@ -1,0 +1,1 @@
+{"tmdb_id": 505082, "title": "The Interrogation", "original_title": "The Interrogation", "slug_title": "the-interrogation", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A man is interrogated.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

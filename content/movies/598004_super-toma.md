@@ -1,0 +1,1 @@
+{"tmdb_id": 598004, "title": "\u0421\u0443\u043f\u0435\u0440-\u0422\u043e\u043c\u0430", "original_title": "\u0421\u0443\u043f\u0435\u0440-\u0422\u043e\u043c\u0430", "slug_title": "super-toma", "date": "", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

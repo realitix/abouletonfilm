@@ -1,0 +1,1 @@
+{"tmdb_id": 541263, "title": "Nach dem Spiel", "original_title": "Nach dem Spiel", "slug_title": "nach-dem-spiel", "date": "1997-11-17", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Documentary by Aysun Bademsoy.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

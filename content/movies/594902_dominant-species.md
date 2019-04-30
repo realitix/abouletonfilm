@@ -1,0 +1,1 @@
+{"tmdb_id": 594902, "title": "Dominant Species", "original_title": "Dominant Species", "slug_title": "dominant-species", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "10 aliens in human host bodies learn how to be men.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

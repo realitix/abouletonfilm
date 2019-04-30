@@ -1,0 +1,1 @@
+{"tmdb_id": 586149, "title": "\ud3d0\uc1c4\ubcd1\ub3d9", "original_title": "\ud3d0\uc1c4\ubcd1\ub3d9", "slug_title": "pyeswaebyeongdong", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

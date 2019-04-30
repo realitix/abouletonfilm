@@ -1,0 +1,1 @@
+{"tmdb_id": 315041, "title": "La mascotte", "original_title": "La mascotte", "slug_title": "la-mascotte", "date": "1935-06-26", "genre": [""], "score": "0.0/10", "synopsis": "Directed by L\u00e9on Mathot", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tq2HlhtK9rwrruLP5LbXGkynr6X.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

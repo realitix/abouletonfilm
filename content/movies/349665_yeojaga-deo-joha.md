@@ -1,0 +1,1 @@
+{"tmdb_id": 349665, "title": "\uc5ec\uc790\uac00 \ub354 \uc88b\uc544", "original_title": "\uc5ec\uc790\uac00 \ub354 \uc88b\uc544", "slug_title": "yeojaga-deo-joha", "date": "1983-06-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

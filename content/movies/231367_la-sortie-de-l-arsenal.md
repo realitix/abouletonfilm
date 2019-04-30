@@ -1,0 +1,1 @@
+{"tmdb_id": 231367, "title": "La sortie de l'arsenal", "original_title": "La sortie de l'arsenal", "slug_title": "la-sortie-de-l-arsenal", "date": "1902-10-29", "genre": [""], "score": "5.5/10", "synopsis": "A man films people passing through a gate.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

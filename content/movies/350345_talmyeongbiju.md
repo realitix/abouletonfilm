@@ -1,0 +1,1 @@
+{"tmdb_id": 350345, "title": "\ud0c8\uba85\ube44\uc8fc", "original_title": "\ud0c8\uba85\ube44\uc8fc", "slug_title": "talmyeongbiju", "date": "1981-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

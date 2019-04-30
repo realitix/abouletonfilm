@@ -1,0 +1,1 @@
+{"tmdb_id": 244700, "title": "Gullah Tales", "original_title": "Gullah Tales", "slug_title": "gullah-tales", "date": "1988-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Oscar nominated short film from 1988", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

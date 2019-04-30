@@ -1,0 +1,1 @@
+{"tmdb_id": 335219, "title": "Dzien oczyszczenia", "original_title": "Dzien oczyszczenia", "slug_title": "dzien-oczyszczenia", "date": "1970-06-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8VoFuA4OMZfYq7ltD5skFBaGo1k.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

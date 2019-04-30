@@ -1,0 +1,1 @@
+{"tmdb_id": 500219, "title": "Der wei\u00dfe Wal", "original_title": "Der wei\u00dfe Wal", "slug_title": "der-weisse-wal", "date": "", "genre": [""], "score": "8.0/10", "synopsis": "Documentary about a white whale swimming in the river Rhine.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

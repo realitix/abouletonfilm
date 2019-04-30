@@ -1,0 +1,1 @@
+{"tmdb_id": 389280, "title": "Demon - Up Close And Personal", "original_title": "Demon - Up Close And Personal", "slug_title": "demon-up-close-and-personal", "date": "2009-11-30", "genre": ["Musique"], "score": "0.0/10", "synopsis": "Live In Germany", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

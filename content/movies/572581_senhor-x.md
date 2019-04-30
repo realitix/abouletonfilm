@@ -1,0 +1,1 @@
+{"tmdb_id": 572581, "title": "Senhor X", "original_title": "Senhor X", "slug_title": "senhor-x", "date": "", "genre": ["Drame / Familial"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Filipe Duarte (X)", "Beatriz Batarda (Y)", "Fernando Lopes (K)", "Carloto Cotta (Colega)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

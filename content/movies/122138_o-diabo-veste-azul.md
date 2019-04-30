@@ -1,0 +1,1 @@
+{"tmdb_id": 122138, "title": "O diabo veste azul", "original_title": "O diabo veste azul", "slug_title": "o-diabo-veste-azul", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 481236, "title": "Suicides", "original_title": "\u5927\u6e38\u620f", "slug_title": "suicides", "date": "1994-12-31", "genre": ["Drame"], "score": "0.0/10", "synopsis": "Chinese film directed by Wang Xiaoshuai.", "image": "/img/default-cover.png", "actors": ["Jia Hongsheng ()", "Xiaoqing Ma ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

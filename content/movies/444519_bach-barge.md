@@ -1,0 +1,1 @@
+{"tmdb_id": 444519, "title": "Bach & Barge", "original_title": "Bach & Barge", "slug_title": "bach-barge", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 586330, "title": "Die Riesenpackung", "original_title": "Die Riesenpackung", "slug_title": "die-riesenpackung", "date": "1990-01-01", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thomas Freitag ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

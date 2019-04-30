@@ -1,0 +1,1 @@
+{"tmdb_id": 597601, "title": "Plucked", "original_title": "Plucked", "slug_title": "plucked", "date": "", "genre": ["Drame / Familial"], "score": "0.0/10", "synopsis": "A young boy tries to save his dying mother by making wishes with his eyelashes.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

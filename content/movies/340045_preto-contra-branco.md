@@ -1,0 +1,1 @@
+{"tmdb_id": 340045, "title": "Preto contra Branco", "original_title": "Preto contra Branco", "slug_title": "preto-contra-branco", "date": "2004-09-13", "genre": [""], "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ykhgi7Gum7olv2T07qA2HgSRi7X.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

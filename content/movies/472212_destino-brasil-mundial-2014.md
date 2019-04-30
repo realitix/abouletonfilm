@@ -1,0 +1,1 @@
+{"tmdb_id": 472212, "title": "Destino Brasil: Mundial 2014", "original_title": "Destino Brasil: Mundial 2014", "slug_title": "destino-brasil-mundial-2014", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

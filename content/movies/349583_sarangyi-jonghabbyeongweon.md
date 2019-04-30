@@ -1,0 +1,1 @@
+{"tmdb_id": 349583, "title": "\uc0ac\ub791\uc758 \uc885\ud569\ubcd1\uc6d0", "original_title": "\uc0ac\ub791\uc758 \uc885\ud569\ubcd1\uc6d0", "slug_title": "sarangyi-jonghabbyeongweon", "date": "1993-05-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

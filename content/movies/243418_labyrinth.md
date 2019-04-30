@@ -1,0 +1,1 @@
+{"tmdb_id": 243418, "title": "Labyrinth", "original_title": "Labyrinth", "slug_title": "labyrinth", "date": "1977-06-01", "genre": ["Animation"], "score": "7.0/10", "synopsis": "Oscar nominated animated short film by Manfredo Manfredi", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 333331, "title": "Kau Lung Sing Sai", "original_title": "Kau Lung Sing Sai", "slug_title": "kau-lung-sing-sai", "date": "2015-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film from Chi-kin Kwok", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

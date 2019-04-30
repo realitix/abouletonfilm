@@ -1,0 +1,1 @@
+{"tmdb_id": 225399, "title": "Vietnam, guerra e pace", "original_title": "Vietnam, guerra e pace", "slug_title": "vietnam-guerra-e-pace", "date": "1968-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary directed by Lamberto Antonelli.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

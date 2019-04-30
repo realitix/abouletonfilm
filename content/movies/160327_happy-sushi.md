@@ -1,0 +1,1 @@
+{"tmdb_id": 160327, "title": "Happy Sushi", "original_title": "Happy Sushi", "slug_title": "happy-sushi", "date": "", "genre": [""], "score": "6.0/10", "synopsis": "The eternal struggle of man versus a wobbly restaurant table is explored.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

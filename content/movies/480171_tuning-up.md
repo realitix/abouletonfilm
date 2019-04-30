@@ -1,0 +1,1 @@
+{"tmdb_id": 480171, "title": "Tuning Up", "original_title": "Tuning Up", "slug_title": "tuning-up", "date": "1921-10-08", "genre": [""], "score": "0.0/10", "synopsis": "Bud is a piano tuner who is beginning at the bottom and working up.", "image": "/img/default-cover.png", "actors": ["Bud Duncan ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

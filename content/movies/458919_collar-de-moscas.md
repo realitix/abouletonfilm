@@ -1,0 +1,1 @@
+{"tmdb_id": 458919, "title": "Collar de moscas", "original_title": "Collar de moscas", "slug_title": "collar-de-moscas", "date": "2002-05-24", "genre": ["Documentaire"], "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fIK0ounx3hghRw8JeyCZhvjCgNu.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

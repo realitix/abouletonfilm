@@ -1,0 +1,1 @@
+{"tmdb_id": 441103, "title": "The Beauty Shoppers 1927", "original_title": "The Beauty Shoppers 1927", "slug_title": "the-beauty-shoppers-1927", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "This film was released in 1927", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

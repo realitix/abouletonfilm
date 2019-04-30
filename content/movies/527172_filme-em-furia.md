@@ -1,0 +1,1 @@
+{"tmdb_id": 527172, "title": "Filme em F\u00faria", "original_title": "Filme em F\u00faria", "slug_title": "filme-em-furia", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

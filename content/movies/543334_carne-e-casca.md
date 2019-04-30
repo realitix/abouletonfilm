@@ -1,0 +1,1 @@
+{"tmdb_id": 543334, "title": "Carne e Casca", "original_title": "Carne e Casca", "slug_title": "carne-e-casca", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r4GJaerwDQ2qkaTnuudZwIOl6QG.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

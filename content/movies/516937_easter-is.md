@@ -1,0 +1,1 @@
+{"tmdb_id": 516937, "title": "Easter Is", "original_title": "Easter Is", "slug_title": "easter-is", "date": "1974-03-01", "genre": [""], "score": "0.0/10", "synopsis": "Benji and Waldo in Easter Is", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 362961, "title": "O Homem de Couro", "original_title": "O Homem de Couro", "slug_title": "o-homem-de-couro", "date": "1970-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jWGJrKnoXqAvKz0xagY7M57hkGj.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

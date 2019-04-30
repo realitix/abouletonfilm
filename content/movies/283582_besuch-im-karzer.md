@@ -1,0 +1,1 @@
+{"tmdb_id": 283582, "title": "Besuch im Karzer", "original_title": "Besuch im Karzer", "slug_title": "besuch-im-karzer", "date": "1934-11-03", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Horst Beck ()", "Hans Leibelt ()", "Marina von Ditmar ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

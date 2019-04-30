@@ -1,0 +1,1 @@
+{"tmdb_id": 591374, "title": "Rocky Soil", "original_title": "Skalna ziemia", "slug_title": "rocky-soil", "date": "1956-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary Short by Wlodzimierz Borowik", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

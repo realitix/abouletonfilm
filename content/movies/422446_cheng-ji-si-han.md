@@ -1,0 +1,1 @@
+{"tmdb_id": 422446, "title": "\u6210\u5409\u601d\u6c57", "original_title": "\u6210\u5409\u601d\u6c57", "slug_title": "cheng-ji-si-han", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

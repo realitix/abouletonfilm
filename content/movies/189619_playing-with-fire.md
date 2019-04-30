@@ -1,0 +1,1 @@
+{"tmdb_id": 189619, "title": "Playing with Fire", "original_title": "Playing with Fire", "slug_title": "playing-with-fire", "date": "1926-09-01", "genre": [""], "score": "0.0/10", "synopsis": "Cartoon classic starring Mutt and Jeff.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

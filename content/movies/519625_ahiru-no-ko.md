@@ -1,0 +1,1 @@
+{"tmdb_id": 519625, "title": "Ahiru no Ko", "original_title": "\u3042\u3072\u308b\u306e\u5b50", "slug_title": "ahiru-no-ko", "date": "1932-04-30", "genre": ["Animation"], "score": "0.0/10", "synopsis": "An adaptation of the The Ugly Duckling.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

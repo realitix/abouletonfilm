@@ -1,0 +1,1 @@
+{"tmdb_id": 549355, "title": "Diadikasia", "original_title": "Diadikasia", "slug_title": "diadikasia", "date": "1976-09-01", "genre": [""], "score": "0.0/10", "synopsis": "An adventure-drama film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 570243, "title": "The Naval Treaty", "original_title": "The Naval Treaty", "slug_title": "the-naval-treaty", "date": "1922-03-09", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

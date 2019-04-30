@@ -1,0 +1,1 @@
+{"tmdb_id": 335245, "title": "Das Unkraut", "original_title": "Das Unkraut", "slug_title": "das-unkraut", "date": "1962-10-17", "genre": ["Animation"], "score": "0.0/10", "synopsis": "Animated short by Wolfgang Urchs.", "image": "/img/default-cover.png", "actors": ["Hans Clarin (Narrator (voice))"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

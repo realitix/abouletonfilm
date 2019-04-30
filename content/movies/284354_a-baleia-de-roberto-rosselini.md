@@ -1,0 +1,1 @@
+{"tmdb_id": 284354, "title": "A Baleia, de Roberto Rosselini", "original_title": "A Baleia, de Roberto Rosselini", "slug_title": "a-baleia-de-roberto-rosselini", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

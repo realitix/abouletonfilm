@@ -1,0 +1,1 @@
+{"tmdb_id": 588052, "title": "Le ruban", "original_title": "Le ruban", "slug_title": "le-ruban", "date": "", "genre": ["Drame / Guerre"], "score": "0.0/10", "synopsis": "A love story during the communist dictatorship in 60\u2019s China.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

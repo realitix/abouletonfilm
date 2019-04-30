@@ -1,0 +1,1 @@
+{"tmdb_id": 555081, "title": "El Perro mas Perro", "original_title": "El Perro mas Perro", "slug_title": "el-perro-mas-perro", "date": "2003-06-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/usG96V0I3GIBSMkVtueYD0r24Tu.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

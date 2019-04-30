@@ -1,0 +1,1 @@
+{"tmdb_id": 236829, "title": "Norway in Revolt", "original_title": "Norway in Revolt", "slug_title": "norway-in-revolt", "date": "1941-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1941 Oscar nominated documentary", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

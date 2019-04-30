@@ -1,0 +1,1 @@
+{"tmdb_id": 302925, "title": "Sau Crore", "original_title": "Sau Crore", "slug_title": "sau-crore", "date": "1991-01-01", "genre": [""], "score": "0.0/10", "synopsis": "CBI Inspector Kumar is assigned to investigate the case of a mysterious murder.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

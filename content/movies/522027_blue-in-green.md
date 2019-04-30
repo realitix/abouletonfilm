@@ -1,0 +1,1 @@
+{"tmdb_id": 522027, "title": "Blue In Green", "original_title": "Blue In Green", "slug_title": "blue-in-green", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Please add to the database by writing an overview of this movie.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

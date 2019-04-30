@@ -1,0 +1,1 @@
+{"tmdb_id": 463523, "title": "Anthrax Among the living", "original_title": "Anthrax Among the living", "slug_title": "anthrax-among-the-living", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eUcuQhP7paBVRMtqwGWtVQ5vjuM.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

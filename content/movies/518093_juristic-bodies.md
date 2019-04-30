@@ -1,0 +1,1 @@
+{"tmdb_id": 518093, "title": "Juristic Bodies", "original_title": "Juristic Bodies", "slug_title": "juristic-bodies", "date": "1995-02-02", "genre": [""], "score": "0.0/10", "synopsis": "Film about identity papers and immigration.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

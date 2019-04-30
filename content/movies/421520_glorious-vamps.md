@@ -1,0 +1,1 @@
+{"tmdb_id": 421520, "title": "Glorious Vamps", "original_title": "Glorious Vamps", "slug_title": "glorious-vamps", "date": "1930-10-15", "genre": [""], "score": "0.0/10", "synopsis": "A burlesque survey of femmes fatales through the ages.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

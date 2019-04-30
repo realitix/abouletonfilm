@@ -1,0 +1,1 @@
+{"tmdb_id": 540754, "title": "Aulas que Matei", "original_title": "Aulas que Matei", "slug_title": "aulas-que-matei", "date": "2018-08-31", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/30wrJPb6DeeZQQLN5FxeMTlbJAD.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

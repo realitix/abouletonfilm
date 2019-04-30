@@ -1,0 +1,1 @@
+{"tmdb_id": 386931, "title": "The Dictator", "original_title": "The Dictator", "slug_title": "the-dictator", "date": "1978-01-01", "genre": [""], "score": "10.0/10", "synopsis": "Ficticious interview with a fictitious dictator.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

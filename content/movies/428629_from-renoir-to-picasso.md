@@ -1,0 +1,1 @@
+{"tmdb_id": 428629, "title": "From Renoir to Picasso", "original_title": "From Renoir to Picasso", "slug_title": "from-renoir-to-picasso", "date": "1950-12-02", "genre": [""], "score": "0.0/10", "synopsis": "1950 Belgian short documentary by Paul Haesaerts", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

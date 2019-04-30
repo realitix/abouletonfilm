@@ -1,0 +1,1 @@
+{"tmdb_id": 588486, "title": "Sakhi Badshah", "original_title": "Sakhi Badshah", "slug_title": "sakhi-badshah", "date": "1996-02-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

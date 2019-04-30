@@ -1,0 +1,1 @@
+{"tmdb_id": 396582, "title": "La sorci\u00e8re", "original_title": "La sorci\u00e8re", "slug_title": "la-sorciere", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "An adaptation of La Sorci\u00e8re from Jules Michelet", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

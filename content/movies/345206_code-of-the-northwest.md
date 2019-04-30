@@ -1,0 +1,1 @@
+{"tmdb_id": 345206, "title": "Code of the Northwest", "original_title": "Code of the Northwest", "slug_title": "code-of-the-northwest", "date": "1926-07-24", "genre": [""], "score": "0.0/10", "synopsis": "A Mountie and his dog must bring in his wanted brother.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

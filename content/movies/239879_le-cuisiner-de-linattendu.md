@@ -1,0 +1,1 @@
+{"tmdb_id": 239879, "title": "Le cuisiner de l\u2019inattendu", "original_title": "Le cuisiner de l\u2019inattendu", "slug_title": "le-cuisiner-de-linattendu", "date": "2007-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

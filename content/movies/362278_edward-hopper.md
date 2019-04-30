@@ -1,0 +1,1 @@
+{"tmdb_id": 362278, "title": "Edward Hopper", "original_title": "Edward Hopper", "slug_title": "edward-hopper", "date": "1981-01-02", "genre": [""], "score": "5.0/10", "synopsis": "No overview.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jk89gbXV1oeIAlDdveUQxTGjQay.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

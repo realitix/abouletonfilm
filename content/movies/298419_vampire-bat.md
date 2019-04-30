@@ -1,0 +1,1 @@
+{"tmdb_id": 298419, "title": "Vampire Bat", "original_title": "Vampire Bat", "slug_title": "vampire-bat", "date": "2014-10-19", "genre": [""], "score": "0.0/10", "synopsis": "F. W. Murnau\u2019s menace is double, and triple, trouble.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

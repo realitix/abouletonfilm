@@ -1,0 +1,1 @@
+{"tmdb_id": 271012, "title": "Up With Me", "original_title": "Up With Me", "slug_title": "up-with-me", "date": "2008-03-08", "genre": [""], "score": "0.0/10", "synopsis": "When a Harlem teen goes to boarding school, he is torn between home and a new world", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 451242, "title": "Cambot: The Sad Sad Robot", "original_title": "Cambot: The Sad Sad Robot", "slug_title": "cambot-the-sad-sad-robot", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A faulty programed robot makes an unlikely friend.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

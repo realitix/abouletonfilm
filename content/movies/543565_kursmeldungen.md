@@ -1,0 +1,1 @@
+{"tmdb_id": 543565, "title": "Kursmeldungen", "original_title": "Kursmeldungen", "slug_title": "kursmeldungen", "date": "2017-07-21", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about people and landscapes in northern Germany.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

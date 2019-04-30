@@ -1,0 +1,1 @@
+{"tmdb_id": 459354, "title": "Lanquidity", "original_title": "Lanquidity", "slug_title": "lanquidity", "date": "2015-07-10", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "About a painter who rethinks the digital image.", "image": "/img/default-cover.png", "actors": ["Kevin Gourvellec ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

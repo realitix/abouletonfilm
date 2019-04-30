@@ -1,0 +1,1 @@
+{"tmdb_id": 373573, "title": "Wake Up, Freak Out: Then Get a Grip", "original_title": "Wake Up, Freak Out: Then Get a Grip", "slug_title": "wake-up-freak-out-then-get-a-grip", "date": "2008-01-02", "genre": [""], "score": "0.0/10", "synopsis": "No overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

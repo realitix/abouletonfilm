@@ -1,0 +1,1 @@
+{"tmdb_id": 513717, "title": "The Curse", "original_title": "The Curse", "slug_title": "the-curse", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "An expatriate lawyer girl from Indonesia who working in Australia got message from ghost spirit.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

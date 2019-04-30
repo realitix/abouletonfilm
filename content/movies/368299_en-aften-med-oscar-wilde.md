@@ -1,0 +1,1 @@
+{"tmdb_id": 368299, "title": "En aften med Oscar Wilde", "original_title": "En aften med Oscar Wilde", "slug_title": "en-aften-med-oscar-wilde", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "'Erik M\u00f8rk' portrays the life of Oscar Wilde.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

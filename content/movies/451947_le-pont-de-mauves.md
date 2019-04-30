@@ -1,0 +1,1 @@
+{"tmdb_id": 451947, "title": "Le pont de Mauves", "original_title": "Le pont de Mauves", "slug_title": "le-pont-de-mauves", "date": "1944-06-15", "genre": ["Animation"], "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fb5JxLIUcMl4bjB83sUm3H3wZSv.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

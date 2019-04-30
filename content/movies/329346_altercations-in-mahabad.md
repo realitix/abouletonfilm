@@ -1,0 +1,1 @@
+{"tmdb_id": 329346, "title": "Altercations in Mahabad", "original_title": "Dargiriha-ye Mahabad", "slug_title": "altercations-in-mahabad", "date": "1980-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Documentary made by the Kurdish resistance movement.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 477968, "title": "Fam\u00edlia Alc\u00e2ntara", "original_title": "Fam\u00edlia Alc\u00e2ntara", "slug_title": "familia-alcantara", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

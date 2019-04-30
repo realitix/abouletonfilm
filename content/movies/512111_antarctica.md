@@ -1,0 +1,1 @@
+{"tmdb_id": 512111, "title": "Antarctica", "original_title": "Antarctica", "slug_title": "antarctica", "date": "", "genre": ["Animation"], "score": "0.0/10", "synopsis": "An animated look at life on the coldest continent in the world.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

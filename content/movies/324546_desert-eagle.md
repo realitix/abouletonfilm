@@ -1,0 +1,1 @@
+{"tmdb_id": 324546, "title": "Desert Eagle", "original_title": "Desert Eagle", "slug_title": "desert-eagle", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A border patrol agent goes up against a drug cartel on a Native American reservation.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

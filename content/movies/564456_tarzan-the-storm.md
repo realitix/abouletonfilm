@@ -1,0 +1,1 @@
+{"tmdb_id": 564456, "title": "Tarzan the Storm", "original_title": "Tarzan the Storm", "slug_title": "tarzan-the-storm", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A remake of Homi Wadia's masterpiece, Toofani Tarzan (1937)", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

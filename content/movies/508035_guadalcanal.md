@@ -1,0 +1,1 @@
+{"tmdb_id": 508035, "title": "Guadalcanal", "original_title": "Guadalcanal", "slug_title": "guadalcanal", "date": "1944-06-01", "genre": [""], "score": "0.0/10", "synopsis": "A Ray Harryhausen news reel on the battle of Guadalcanal in WWII.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

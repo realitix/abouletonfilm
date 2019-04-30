@@ -1,0 +1,1 @@
+{"tmdb_id": 527047, "title": "Homme centre l'univers", "original_title": "Homme centre l'univers", "slug_title": "homme-centre-l-univers", "date": "1978-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A film directed by Ion Grigorescu.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

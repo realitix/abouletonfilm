@@ -1,0 +1,1 @@
+{"tmdb_id": 290097, "title": "15 A\u00f1os De Producci\u00f3n Propia De Tcm", "original_title": "15 A\u00f1os De Producci\u00f3n Propia De Tcm", "slug_title": "15-anos-de-produccion-propia-de-tcm", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

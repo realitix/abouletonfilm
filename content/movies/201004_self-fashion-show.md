@@ -1,0 +1,1 @@
+{"tmdb_id": 201004, "title": "Self-Fashion Show", "original_title": "\u00d6ndivatbemutat\u00f3", "slug_title": "self-fashion-show", "date": "1976-06-14", "genre": ["Drame / Documentaire"], "score": "7.0/10", "synopsis": "Self fashion show.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

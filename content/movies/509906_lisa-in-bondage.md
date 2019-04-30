@@ -1,0 +1,1 @@
+{"tmdb_id": 509906, "title": "Lisa in Bondage", "original_title": "Lisa in Bondage", "slug_title": "lisa-in-bondage", "date": "1978-12-31", "genre": [""], "score": "0.0/10", "synopsis": "An art bondage film by punk-feminist and dominatrix Lisa Baumgardner.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

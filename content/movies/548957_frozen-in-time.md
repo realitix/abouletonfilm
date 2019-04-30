@@ -1,0 +1,1 @@
+{"tmdb_id": 548957, "title": "Frozen in Time", "original_title": "Frozen in Time", "slug_title": "frozen-in-time", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A brief glimpse at a singular moment as moviegoers are seating.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

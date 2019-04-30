@@ -1,0 +1,1 @@
+{"tmdb_id": 293294, "title": "Snuff Bottle", "original_title": "\u516b\u65d7\u5b50\u5f1f", "slug_title": "snuff-bottle", "date": "1988-03-31", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chen Dao-Ming (\u4e4c\u4e16\u4fdd)", "Lee Din-Hing (\u67f3\u5a18)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

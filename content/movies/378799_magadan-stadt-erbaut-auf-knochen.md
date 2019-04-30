@@ -1,0 +1,1 @@
+{"tmdb_id": 378799, "title": "Magadan - Stadt erbaut auf Knochen", "original_title": "Magadan - Stadt erbaut auf Knochen", "slug_title": "magadan-stadt-erbaut-auf-knochen", "date": "2016-01-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

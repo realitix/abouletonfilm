@@ -1,0 +1,1 @@
+{"tmdb_id": 428538, "title": "Method in Madness", "original_title": "Method in Madness", "slug_title": "method-in-madness", "date": "1998-12-01", "genre": [""], "score": "0.0/10", "synopsis": "1998 Sam Taylor-Wood video art piece featuring a dude goin' nuts", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

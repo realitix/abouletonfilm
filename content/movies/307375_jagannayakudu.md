@@ -1,0 +1,1 @@
+{"tmdb_id": 307375, "title": "Jagannayakudu", "original_title": "Jagannayakudu", "slug_title": "jagannayakudu", "date": "2014-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Telugu film from director P.C. Reddy and featuring music from Pramod Kumar.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

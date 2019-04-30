@@ -1,0 +1,1 @@
+{"tmdb_id": 419466, "title": "Ritos de Passagem", "original_title": "Ritos de Passagem", "slug_title": "ritos-de-passagem", "date": "2014-10-02", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/diRzx01Rgsuv0AAp7t4f34IHpMg.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

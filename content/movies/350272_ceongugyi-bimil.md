@@ -1,0 +1,1 @@
+{"tmdb_id": 350272, "title": "\ucc9c\uad6d\uc758 \ube44\ubc00", "original_title": "\ucc9c\uad6d\uc758 \ube44\ubc00", "slug_title": "ceongugyi-bimil", "date": "1990-03-24", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

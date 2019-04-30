@@ -1,0 +1,1 @@
+{"tmdb_id": 260998, "title": "Porca societ\u00e0", "original_title": "Porca societ\u00e0", "slug_title": "porca-societa", "date": "1978-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Eurocrime/Poliziotteschi movie from 1978", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

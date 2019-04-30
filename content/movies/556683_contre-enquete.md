@@ -1,0 +1,1 @@
+{"tmdb_id": 556683, "title": "Contre-enqu\u00eate", "original_title": "Contre-enqu\u00eate", "slug_title": "contre-enquete", "date": "1930-12-05", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

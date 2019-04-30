@@ -1,0 +1,1 @@
+{"tmdb_id": 407751, "title": "Bloodbath", "original_title": "Bloodbath", "slug_title": "bloodbath", "date": "1991-07-24", "genre": [""], "score": "0.0/10", "synopsis": "1991 experimental short by Aryan Kaganof, made under his birth name: Ian Kerkhof", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

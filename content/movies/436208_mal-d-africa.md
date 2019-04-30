@@ -1,0 +1,1 @@
+{"tmdb_id": 436208, "title": "Mal d'Africa", "original_title": "Mal d'Africa", "slug_title": "mal-d-africa", "date": "2016-06-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Riccardo Del Guerra ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

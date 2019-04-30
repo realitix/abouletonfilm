@@ -1,0 +1,1 @@
+{"tmdb_id": 556707, "title": "L'\u00e9trange fianc\u00e9e", "original_title": "L'\u00e9trange fianc\u00e9e", "slug_title": "l-etrange-fiancee", "date": "1931-02-13", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

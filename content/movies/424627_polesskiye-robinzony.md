@@ -1,0 +1,1 @@
+{"tmdb_id": 424627, "title": "Polesskiye robinzony", "original_title": "Polesskiye robinzony", "slug_title": "polesskiye-robinzony", "date": "1934-11-06", "genre": [""], "score": "0.0/10", "synopsis": "Kids in the woods falling from trees and hunted by bears.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

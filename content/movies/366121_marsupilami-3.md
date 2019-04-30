@@ -1,0 +1,1 @@
+{"tmdb_id": 366121, "title": "Marsupilami 3", "original_title": "Marsupilami 3", "slug_title": "marsupilami-3", "date": "2000-11-09", "genre": [""], "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5bAJU7G5Czm3z89PEEgyf6g1OFx.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

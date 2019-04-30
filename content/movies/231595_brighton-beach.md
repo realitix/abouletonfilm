@@ -1,0 +1,1 @@
+{"tmdb_id": 231595, "title": "Brighton Beach", "original_title": "Brighton Beach", "slug_title": "brighton-beach", "date": "1896-10-30", "genre": [""], "score": "6.0/10", "synopsis": "People being fully dressed walking on the beach.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

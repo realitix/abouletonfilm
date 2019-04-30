@@ -1,0 +1,1 @@
+{"tmdb_id": 366388, "title": "Feel Neil", "original_title": "Feel Neil", "slug_title": "feel-neil", "date": "2003-04-27", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "A peek into the world of Neil Diamond impersonators, tribute bands and fans.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

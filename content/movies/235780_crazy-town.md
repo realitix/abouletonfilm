@@ -1,0 +1,1 @@
+{"tmdb_id": 235780, "title": "Crazy Town", "original_title": "Crazy Town", "slug_title": "crazy-town", "date": "1954-02-25", "genre": [""], "score": "0.0/10", "synopsis": "The story of a town where everything is topsy-turvy.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

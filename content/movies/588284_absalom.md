@@ -1,0 +1,1 @@
+{"tmdb_id": 588284, "title": "Absalom", "original_title": "Absalom", "slug_title": "absalom", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "The Biblical story of Absalom\u2019s attempt to take the throne.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

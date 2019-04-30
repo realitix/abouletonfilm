@@ -1,0 +1,1 @@
+{"tmdb_id": 253819, "title": "These Showers Can Talk", "original_title": "These Showers Can Talk", "slug_title": "these-showers-can-talk", "date": "2010-08-22", "genre": [""], "score": "5.5/10", "synopsis": "A short about relationships, stereotypes and dating.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

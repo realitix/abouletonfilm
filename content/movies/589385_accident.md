@@ -1,0 +1,1 @@
+{"tmdb_id": 589385, "title": "Accident", "original_title": "Wypadek", "slug_title": "accident", "date": "1971-04-01", "genre": [""], "score": "0.0/10", "synopsis": "A man goes through his solitary morning routine, then has an accident.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

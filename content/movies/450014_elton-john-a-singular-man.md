@@ -1,0 +1,1 @@
+{"tmdb_id": 450014, "title": "Elton John - A Singular Man", "original_title": "Elton John - A Singular Man", "slug_title": "elton-john-a-singular-man", "date": "2015-01-01", "genre": ["Documentaire"], "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

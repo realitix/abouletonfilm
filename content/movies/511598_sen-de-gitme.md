@@ -1,0 +1,1 @@
+{"tmdb_id": 511598, "title": "Sen de Gitme", "original_title": "Sen de Gitme", "slug_title": "sen-de-gitme", "date": "1996-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yvaTIbLiW8nHedxbD71wNVqOQqm.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

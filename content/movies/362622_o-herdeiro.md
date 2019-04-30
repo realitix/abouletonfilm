@@ -1,0 +1,1 @@
+{"tmdb_id": 362622, "title": "O Herdeiro", "original_title": "O Herdeiro", "slug_title": "o-herdeiro", "date": "2016-10-05", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rodrigo Sant\u2019anna ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

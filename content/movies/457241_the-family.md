@@ -1,0 +1,1 @@
+{"tmdb_id": 457241, "title": "The Family", "original_title": "Rodzina", "slug_title": "the-family", "date": "1971-04-01", "genre": [""], "score": "0.0/10", "synopsis": "Portrait of a provincial family with fourteen children.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

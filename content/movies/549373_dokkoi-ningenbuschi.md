@@ -1,0 +1,1 @@
+{"tmdb_id": 549373, "title": "Dokkoi ningenbuschi", "original_title": "Dokkoi ningenbuschi", "slug_title": "dokkoi-ningenbuschi", "date": "1975-01-03", "genre": [""], "score": "0.0/10", "synopsis": "A japanese documentary.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

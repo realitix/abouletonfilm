@@ -1,0 +1,1 @@
+{"tmdb_id": 350451, "title": "\uc7a0\uc790\ub9ac\uc5d0 \ub4e4 \uc2dc\uac04", "original_title": "\uc7a0\uc790\ub9ac\uc5d0 \ub4e4 \uc2dc\uac04", "slug_title": "jamjarie-deul-sigan", "date": "1990-01-26", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

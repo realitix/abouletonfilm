@@ -1,0 +1,1 @@
+{"tmdb_id": 446049, "title": "All Veneer and No Backbone", "original_title": "All Veneer and No Backbone", "slug_title": "all-veneer-and-no-backbone", "date": "1980-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Experimental split-screen short.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

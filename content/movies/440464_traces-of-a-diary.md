@@ -1,0 +1,1 @@
+{"tmdb_id": 440464, "title": "Traces of a Diary", "original_title": "Traces of a Diary", "slug_title": "traces-of-a-diary", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

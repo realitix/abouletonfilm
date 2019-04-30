@@ -1,0 +1,1 @@
+{"tmdb_id": 345195, "title": "What Can Be Shown", "original_title": "What Can Be Shown", "slug_title": "what-can-be-shown", "date": "1982-09-15", "genre": [""], "score": "0.0/10", "synopsis": "An avant garde narrative about two couples breaking up.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 417892, "title": "\ud0dc\uc591 \uc18d\uc758 \ub0a8\uc790", "original_title": "\ud0dc\uc591 \uc18d\uc758 \ub0a8\uc790", "slug_title": "taeyang-sogyi-namja", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

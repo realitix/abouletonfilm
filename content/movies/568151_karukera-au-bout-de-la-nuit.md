@@ -1,0 +1,1 @@
+{"tmdb_id": 568151, "title": "Karukera, au bout de la nuit", "original_title": "Karukera, au bout de la nuit", "slug_title": "karukera-au-bout-de-la-nuit", "date": "1988-06-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

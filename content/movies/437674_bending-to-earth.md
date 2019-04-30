@@ -1,0 +1,1 @@
+{"tmdb_id": 437674, "title": "Bending to Earth", "original_title": "Bending to Earth", "slug_title": "bending-to-earth", "date": "2015-11-10", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

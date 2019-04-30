@@ -1,0 +1,1 @@
+{"tmdb_id": 537412, "title": "P\u00e1ginas de un diario perdido", "original_title": "P\u00e1ginas de un diario perdido", "slug_title": "paginas-de-un-diario-perdido", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

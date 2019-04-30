@@ -1,0 +1,1 @@
+{"tmdb_id": 448529, "title": "Sphinx Awake", "original_title": "Probuzen\u00e1 sfinga", "slug_title": "sphinx-awake", "date": "1981-03-23", "genre": [""], "score": "0.0/10", "synopsis": "1981 Czech experimental short by Petr Skala", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

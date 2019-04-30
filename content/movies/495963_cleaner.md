@@ -1,0 +1,1 @@
+{"tmdb_id": 495963, "title": "Cleaner", "original_title": "Cleaner", "slug_title": "cleaner", "date": "2004-01-24", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Philipp Schiemann ()", "Chris Forster ()", "H.P. Tillmann ()", "Frank Appenroth ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

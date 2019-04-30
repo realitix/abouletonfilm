@@ -1,0 +1,1 @@
+{"tmdb_id": 546935, "title": "O Despejo ou... Mem\u00f3rias de Gabiru", "original_title": "O Despejo ou... Mem\u00f3rias de Gabiru", "slug_title": "o-despejo-ou-memorias-de-gabiru", "date": "2008-11-09", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

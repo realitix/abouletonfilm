@@ -1,0 +1,1 @@
+{"tmdb_id": 468061, "title": "Cheap Beans", "original_title": "Cheap Beans", "slug_title": "cheap-beans", "date": "", "genre": [""], "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

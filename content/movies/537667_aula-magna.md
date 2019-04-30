@@ -1,0 +1,1 @@
+{"tmdb_id": 537667, "title": "Aula Magna", "original_title": "Aula Magna", "slug_title": "aula-magna", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Andres Denegri.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 474817, "title": "Kambuchi", "original_title": "Kambuchi", "slug_title": "kambuchi", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A movie about arthesanal work in South America.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

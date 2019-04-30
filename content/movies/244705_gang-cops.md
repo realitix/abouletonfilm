@@ -1,0 +1,1 @@
+{"tmdb_id": 244705, "title": "Gang Cops", "original_title": "Gang Cops", "slug_title": "gang-cops", "date": "1988-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Follows the County Sheriff's special gang unit in South Central L.A.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

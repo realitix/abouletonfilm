@@ -1,0 +1,1 @@
+{"tmdb_id": 563096, "title": "Nightmare: Code Valentine", "original_title": "Nightmare: Code Valentine", "slug_title": "nightmare-code-valentine", "date": "2017-03-01", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

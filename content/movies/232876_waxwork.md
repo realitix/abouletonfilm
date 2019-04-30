@@ -1,0 +1,1 @@
+{"tmdb_id": 232876, "title": "Waxwork", "original_title": "Waxwork", "slug_title": "waxwork", "date": "1979-08-18", "genre": [""], "score": "0.0/10", "synopsis": "The play which led to the series Sergeant Cribb.", "image": "/img/default-cover.png", "actors": ["Alan Dobie (Cribb)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

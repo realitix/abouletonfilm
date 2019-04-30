@@ -1,0 +1,1 @@
+{"tmdb_id": 451562, "title": "La potion Ast\u00e9rix", "original_title": "La potion Ast\u00e9rix", "slug_title": "la-potion-asterix", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

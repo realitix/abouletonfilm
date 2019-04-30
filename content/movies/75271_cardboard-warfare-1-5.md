@@ -1,0 +1,1 @@
+{"tmdb_id": 75271, "title": "Cardboard Warfare 1.5", "original_title": "Cardboard Warfare 1.5", "slug_title": "cardboard-warfare-1-5", "date": "2010-10-04", "genre": [""], "score": "3.3/10", "synopsis": "This mini sequel takes war to a chinese restaurant.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "k-1YtaOLQ7w"}

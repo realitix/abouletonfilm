@@ -1,0 +1,1 @@
+{"tmdb_id": 561119, "title": "The Fighting Drummer", "original_title": "Tambour battant", "slug_title": "the-fighting-drummer", "date": "1953-01-14", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bG8svMIQR1WKlzupusvm1g7pfV9.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

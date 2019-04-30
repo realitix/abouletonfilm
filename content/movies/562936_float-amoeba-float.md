@@ -1,0 +1,1 @@
+{"tmdb_id": 562936, "title": "Float! Amoeba, Float!", "original_title": "\u5c0f\u660e\u7c73\u5df4\u6f02\u6d6e\u6f02\u6d6e", "slug_title": "float-amoeba-float", "date": "2018-11-17", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

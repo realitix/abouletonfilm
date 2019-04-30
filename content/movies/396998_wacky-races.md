@@ -1,0 +1,1 @@
+{"tmdb_id": 396998, "title": "Wacky Races", "original_title": "Wacky Races", "slug_title": "wacky-races", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "A Peugot car Commercial short film inspired by the classic Hanna-Barbera cartoon series.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

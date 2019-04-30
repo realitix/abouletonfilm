@@ -1,0 +1,1 @@
+{"tmdb_id": 538273, "title": "Les mains", "original_title": "Les mains", "slug_title": "les-mains", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A 1970's film directed by Pierre Brody.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

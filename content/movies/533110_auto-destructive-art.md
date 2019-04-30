@@ -1,0 +1,1 @@
+{"tmdb_id": 533110, "title": "Auto-Destructive Art", "original_title": "Auto-Destructive Art", "slug_title": "auto-destructive-art", "date": "1965-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A film by Gustav Metzger.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 528686, "title": "K-1 Fight Night", "original_title": "K-1 Fight Night", "slug_title": "k-1-fight-night", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "K-1 Fight Night", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

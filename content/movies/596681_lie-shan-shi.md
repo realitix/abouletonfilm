@@ -1,0 +1,1 @@
+{"tmdb_id": 596681, "title": "\u70c8\u5c71\u6c0f", "original_title": "\u70c8\u5c71\u6c0f", "slug_title": "lie-shan-shi", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nvbGJ74vkgs5lr0FSNEM6a4MaId.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

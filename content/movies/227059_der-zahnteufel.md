@@ -1,0 +1,1 @@
+{"tmdb_id": 227059, "title": "Der Zahnteufel", "original_title": "Der Zahnteufel", "slug_title": "der-zahnteufel", "date": "1915-10-10", "genre": [""], "score": "0.0/10", "synopsis": "Produced as a promotional film for \"Beiersdorfer GmbH\".", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 504799, "title": "Live Art: Take Me (I\u2019m Yours)", "original_title": "Live Art: Take Me (I\u2019m Yours)", "slug_title": "live-art-take-me-im-yours", "date": "2015-02-12", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

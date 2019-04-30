@@ -1,0 +1,1 @@
+{"tmdb_id": 396313, "title": "Convulsion Expulsion", "original_title": "Convulsion Expulsion", "slug_title": "convulsion-expulsion", "date": "2004-01-01", "genre": [""], "score": "2.0/10", "synopsis": "An adventure in pornographic surrealism.", "image": "/img/default-cover.png", "actors": ["Echoplasm ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 284801, "title": "Lav Kush", "original_title": "Lav Kush", "slug_title": "lav-kush", "date": "1951-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Based on the Hindu epic Ramayana.", "image": "/img/default-cover.png", "actors": ["Prem Adib ()", "Amirbai Karnataki ()", "Badri Prasad ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

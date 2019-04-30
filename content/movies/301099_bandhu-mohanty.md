@@ -1,0 +1,1 @@
+{"tmdb_id": 301099, "title": "Bandhu Mohanty", "original_title": "Bandhu Mohanty", "slug_title": "bandhu-mohanty", "date": "1977-06-06", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Dhira Biswal, Anita Das and Lila Dulali", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

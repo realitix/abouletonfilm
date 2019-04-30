@@ -1,0 +1,1 @@
+{"tmdb_id": 201192, "title": "Spiritismus", "original_title": "Spiritismus", "slug_title": "spiritismus", "date": "1919-12-31", "genre": ["Myst\u00e8re"], "score": "0.0/10", "synopsis": "No overview.", "image": "/img/default-cover.png", "actors": ["Lil Dagover ()", "Werner Krauss ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

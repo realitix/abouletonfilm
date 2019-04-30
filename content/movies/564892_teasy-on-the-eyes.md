@@ -1,0 +1,1 @@
+{"tmdb_id": 564892, "title": "Teasy on The Eyes", "original_title": "Teasy on The Eyes", "slug_title": "teasy-on-the-eyes", "date": "1951-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Stag film in which a blundering photographer photographs a model.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

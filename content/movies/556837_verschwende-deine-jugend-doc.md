@@ -1,0 +1,1 @@
+{"tmdb_id": 556837, "title": "Verschwende deine Jugend.doc", "original_title": "Verschwende deine Jugend.doc", "slug_title": "verschwende-deine-jugend-doc", "date": "2005-02-16", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Documentary film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 549366, "title": "Alexandre e Rosa", "original_title": "Alexandre e Rosa", "slug_title": "alexandre-e-rosa", "date": "1978-01-06", "genre": [""], "score": "0.0/10", "synopsis": "A short film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

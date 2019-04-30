@@ -1,0 +1,1 @@
+{"tmdb_id": 503055, "title": "Gente della Sernaglia", "original_title": "Gente della Sernaglia", "slug_title": "gente-della-sernaglia", "date": "1960-02-04", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

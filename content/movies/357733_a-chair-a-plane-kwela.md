@@ -1,0 +1,1 @@
+{"tmdb_id": 357733, "title": "A Chair-a-plane Kwela", "original_title": "A Chair-a-plane Kwela", "slug_title": "a-chair-a-plane-kwela", "date": "2005-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Geoffrey Jones.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

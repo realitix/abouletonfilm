@@ -1,0 +1,1 @@
+{"tmdb_id": 496222, "title": "Papa to Kiss in the Dark", "original_title": "Papa to Kiss in the Dark", "slug_title": "papa-to-kiss-in-the-dark", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wxqci6HgA8eTRsKlq8y4T6bo9EH.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

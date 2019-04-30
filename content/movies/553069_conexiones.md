@@ -1,0 +1,1 @@
+{"tmdb_id": 553069, "title": "Conexiones", "original_title": "Conexiones", "slug_title": "conexiones", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Mexican- American music group tours Cuba performing and sharing culture.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

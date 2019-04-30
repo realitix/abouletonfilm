@@ -1,0 +1,1 @@
+{"tmdb_id": 283189, "title": "Dilorom", "original_title": "Dilorom", "slug_title": "dilorom", "date": "1967-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Ali Khamrayev.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 324041, "title": "Shipwreck", "original_title": "Shipwreck", "slug_title": "shipwreck", "date": "1931-02-09", "genre": [""], "score": "0.0/10", "synopsis": "A Walter Lantz/Bill Nolan Oswald the Lucky Rabbit cartoon released February 9, 1931.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

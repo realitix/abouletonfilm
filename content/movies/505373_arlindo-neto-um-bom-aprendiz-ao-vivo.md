@@ -1,0 +1,1 @@
+{"tmdb_id": 505373, "title": "Arlindo Neto - Um Bom Aprendiz - Ao Vivo", "original_title": "Arlindo Neto - Um Bom Aprendiz - Ao Vivo", "slug_title": "arlindo-neto-um-bom-aprendiz-ao-vivo", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

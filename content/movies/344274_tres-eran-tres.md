@@ -1,0 +1,1 @@
+{"tmdb_id": 344274, "title": "Tres eran tres", "original_title": "Tres eran tres", "slug_title": "tres-eran-tres", "date": "1955-01-10", "genre": [""], "score": "0.0/10", "synopsis": "An anthology film centered around a film company called Tiacapa.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 574609, "title": "Le sexe du Loup-Garou", "original_title": "Le sexe du Loup-Garou", "slug_title": "le-sexe-du-loup-garou", "date": "1978-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Un film de Jakobois", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

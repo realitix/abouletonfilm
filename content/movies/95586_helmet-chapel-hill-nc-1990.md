@@ -1,0 +1,1 @@
+{"tmdb_id": 95586, "title": "Helmet: Chapel Hill, NC, 1990", "original_title": "Helmet: Chapel Hill, NC, 1990", "slug_title": "helmet-chapel-hill-nc-1990", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Helmet: Chapel Hill, NC, 1990", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

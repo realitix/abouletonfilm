@@ -1,0 +1,1 @@
+{"tmdb_id": 350672, "title": "Vacanze al mare", "original_title": "Vacanze al mare", "slug_title": "vacanze-al-mare", "date": "2013-11-12", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ncbqgTZ2E1pCFuoXkcnojM3OZcD.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

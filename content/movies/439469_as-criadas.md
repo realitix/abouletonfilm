@@ -1,0 +1,1 @@
+{"tmdb_id": 439469, "title": "As Criadas", "original_title": "As Criadas", "slug_title": "as-criadas", "date": "2017-02-05", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m6KtTv3Msxa8W9eSVidXlkbyzJb.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

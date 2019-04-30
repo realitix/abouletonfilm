@@ -1,0 +1,1 @@
+{"tmdb_id": 597348, "title": "Aslan Bey", "original_title": "Aslan Bey", "slug_title": "aslan-bey", "date": "1968-04-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sFTLxFPsud7YCUEHjJsqerNnic6.jpg", "actors": ["Y\u0131lmaz G\u00fcney ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

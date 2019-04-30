@@ -1,0 +1,1 @@
+{"tmdb_id": 566732, "title": "Jumpcut", "original_title": "Jumpcut", "slug_title": "jumpcut", "date": "2012-09-01", "genre": ["Romance"], "score": "0.0/10", "synopsis": "The fantasies of a woman: scary and romantic.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

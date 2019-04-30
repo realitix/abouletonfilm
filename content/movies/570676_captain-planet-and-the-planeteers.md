@@ -1,0 +1,1 @@
+{"tmdb_id": 570676, "title": "Captain Planet and the Planeteers", "original_title": "Captain Planet and the Planeteers", "slug_title": "captain-planet-and-the-planeteers", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Plot unknown", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 560199, "title": "Making-of: Babylon Berlin", "original_title": "Making-of: Babylon Berlin", "slug_title": "making-of-babylon-berlin", "date": "2018-09-29", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

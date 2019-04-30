@@ -1,0 +1,1 @@
+{"tmdb_id": 161355, "title": "Bamboo Trap", "original_title": "Bamboo Trap", "slug_title": "bamboo-trap", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "The boldest man-trap ever to be set up!", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nXat1OIylVJcGV1j82mrh95APg0.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

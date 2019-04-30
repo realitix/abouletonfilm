@@ -1,0 +1,1 @@
+{"tmdb_id": 528717, "title": "K-1 World GP  2000 in Fukuoka", "original_title": "K-1 World GP  2000 in Fukuoka", "slug_title": "k-1-world-gp-2000-in-fukuoka", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "K-1 World GP  2000 in Fukuoka", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

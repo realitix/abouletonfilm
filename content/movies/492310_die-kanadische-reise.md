@@ -1,0 +1,1 @@
+{"tmdb_id": 492310, "title": "Die Kanadische Reise", "original_title": "Die Kanadische Reise", "slug_title": "die-kanadische-reise", "date": "", "genre": [""], "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

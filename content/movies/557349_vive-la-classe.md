@@ -1,0 +1,1 @@
+{"tmdb_id": 557349, "title": "Vive la classe", "original_title": "Vive la classe", "slug_title": "vive-la-classe", "date": "1932-05-27", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

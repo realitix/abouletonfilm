@@ -1,0 +1,1 @@
+{"tmdb_id": 452756, "title": "3 Days - A Unique Story", "original_title": "3 Days - A Unique Story", "slug_title": "3-days-a-unique-story", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A UNIQUE STORY BASED ON MANY PROBLEMS IN OUR SOCIETY.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

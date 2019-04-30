@@ -1,0 +1,1 @@
+{"tmdb_id": 537235, "title": "Liebesgeschichten", "original_title": "Liebesgeschichten", "slug_title": "liebesgeschichten", "date": "1925-11-05", "genre": ["Romance"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Olga Tschechowa ()", "Hans Thimig ()", "Claire Rommer ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

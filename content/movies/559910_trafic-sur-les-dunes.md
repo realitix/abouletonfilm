@@ -1,0 +1,1 @@
+{"tmdb_id": 559910, "title": "Trafic sur les dunes", "original_title": "Trafic sur les dunes", "slug_title": "trafic-sur-les-dunes", "date": "1951-04-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hx5qfvRl7xEhnHPFVXKzz5xi2el.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

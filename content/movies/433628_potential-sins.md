@@ -1,0 +1,1 @@
+{"tmdb_id": 433628, "title": "Potential Sins", "original_title": "Potential Sins", "slug_title": "potential-sins", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Potential Sins  Dir: Michael Legge.  Cast: Phyllis Rittner, James Porter.  USA. 1997", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

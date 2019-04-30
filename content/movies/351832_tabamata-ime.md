@@ -1,0 +1,1 @@
+{"tmdb_id": 351832, "title": "Tabamata ime", "original_title": "Tabamata ime", "slug_title": "tabamata-ime", "date": "2006-02-12", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

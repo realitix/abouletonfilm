@@ -1,0 +1,1 @@
+{"tmdb_id": 523592, "title": "Di\u00e1logo con el Che", "original_title": "Di\u00e1logo con el Che", "slug_title": "dialogo-con-el-che", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

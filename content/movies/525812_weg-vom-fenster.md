@@ -1,0 +1,1 @@
+{"tmdb_id": 525812, "title": "Weg vom Fenster", "original_title": "Weg vom Fenster", "slug_title": "weg-vom-fenster", "date": "1970-11-05", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kurt Raab (Erster Erzieher)", "Claus-Dieter Reents (Zuh\u00e4lter)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

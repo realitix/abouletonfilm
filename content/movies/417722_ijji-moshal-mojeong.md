@@ -1,0 +1,1 @@
+{"tmdb_id": 417722, "title": "\uc78a\uc9c0 \ubabb\ud560 \ubaa8\uc815", "original_title": "\uc78a\uc9c0 \ubabb\ud560 \ubaa8\uc815", "slug_title": "ijji-moshal-mojeong", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

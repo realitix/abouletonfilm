@@ -1,0 +1,1 @@
+{"tmdb_id": 563602, "title": "CzechTek", "original_title": "CzechTek", "slug_title": "czechtek", "date": "2017-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tubEm9MKgb3mKlIboK2mCJFcEsq.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

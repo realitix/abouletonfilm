@@ -1,0 +1,1 @@
+{"tmdb_id": 566224, "title": "Et pourtant elle tourne...", "original_title": "Et pourtant elle tourne...", "slug_title": "et-pourtant-elle-tourne", "date": "1981-07-08", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 357674, "title": "Budapest, v\u00e9g\u00e1llom\u00e1s", "original_title": "Budapest, v\u00e9g\u00e1llom\u00e1s", "slug_title": "budapest-vegallomas", "date": "2004-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 365032, "title": "Au Maroc: Tanger", "original_title": "Au Maroc: Tanger", "slug_title": "au-maroc-tanger", "date": "1908-02-23", "genre": [""], "score": "6.0/10", "synopsis": "Shots of Morocco, including a harbour town with a fortress.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

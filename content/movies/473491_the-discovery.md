@@ -1,0 +1,1 @@
+{"tmdb_id": 473491, "title": "The Discovery", "original_title": "The Discovery", "slug_title": "the-discovery", "date": "2008-09-01", "genre": [""], "score": "0.0/10", "synopsis": "An Eternailsm 3-D film by Ken Jacobs", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

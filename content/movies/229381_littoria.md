@@ -1,0 +1,1 @@
+{"tmdb_id": 229381, "title": "Littoria", "original_title": "Littoria", "slug_title": "littoria", "date": "1933-10-21", "genre": [""], "score": "0.0/10", "synopsis": "A documentary on agriculture by Raffaello Matarazzo.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

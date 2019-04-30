@@ -1,0 +1,1 @@
+{"tmdb_id": 523470, "title": "Een Portret van", "original_title": "Een Portret van", "slug_title": "een-portret-van", "date": "1966-01-01", "genre": [""], "score": "0.0/10", "synopsis": "The painter Frank Lodeizen filmed at work and in his surroundings.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

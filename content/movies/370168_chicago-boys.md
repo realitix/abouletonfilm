@@ -1,0 +1,1 @@
+{"tmdb_id": 370168, "title": "Chicago Boys", "original_title": "Chicago Boys", "slug_title": "chicago-boys", "date": "2015-11-08", "genre": ["Documentaire"], "score": "9.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tJyHdIsOXZePcZzWeu2GxylST8P.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

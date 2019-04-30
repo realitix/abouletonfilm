@@ -1,0 +1,1 @@
+{"tmdb_id": 353527, "title": "pablo a voz romantica", "original_title": "pablo a voz romantica", "slug_title": "pablo-a-voz-romantica", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

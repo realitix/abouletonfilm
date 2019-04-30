@@ -1,0 +1,1 @@
+{"tmdb_id": 334020, "title": "Ommi Traki", "original_title": "Ummy Traky", "slug_title": "ommi-traki", "date": "1973-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Abderrazek Hammami.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

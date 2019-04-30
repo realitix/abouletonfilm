@@ -1,0 +1,1 @@
+{"tmdb_id": 569789, "title": "3 minutes Partner", "original_title": "3 minutes Partner", "slug_title": "3-minutes-partner", "date": "2017-12-20", "genre": [""], "score": "0.0/10", "synopsis": "3 minutes Partner", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "M5B7jm4grDs"}

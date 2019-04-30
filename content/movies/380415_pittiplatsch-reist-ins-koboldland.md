@@ -1,0 +1,1 @@
+{"tmdb_id": 380415, "title": "Pittiplatsch reist ins Koboldland", "original_title": "Pittiplatsch reist ins Koboldland", "slug_title": "pittiplatsch-reist-ins-koboldland", "date": "1972-01-01", "genre": ["Familial"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

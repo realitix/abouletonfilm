@@ -1,0 +1,1 @@
+{"tmdb_id": 597274, "title": "\uc544\ubc84\uc9c0\ub97c \ucc3e\uc544\uc11c", "original_title": "\uc544\ubc84\uc9c0\ub97c \ucc3e\uc544\uc11c", "slug_title": "abeojireul-cajaseo", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

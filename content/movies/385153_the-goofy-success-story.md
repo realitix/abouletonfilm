@@ -1,0 +1,1 @@
+{"tmdb_id": 385153, "title": "The Goofy Success Story", "original_title": "The Goofy Success Story", "slug_title": "the-goofy-success-story", "date": "1955-12-07", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

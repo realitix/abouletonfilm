@@ -1,0 +1,1 @@
+{"tmdb_id": 488908, "title": "\u6211\u7684\u76f4\u7537BF", "original_title": "\u6211\u7684\u76f4\u7537BF", "slug_title": "wo-de-zhi-nan-bf", "date": "2017-10-12", "genre": ["Romance / Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sam Wang ()", "Zhu Keren ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

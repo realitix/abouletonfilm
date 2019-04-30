@@ -1,0 +1,1 @@
+{"tmdb_id": 538141, "title": "Cora\u00e7\u00e3o das Trevas", "original_title": "Cora\u00e7\u00e3o das Trevas", "slug_title": "coracao-das-trevas", "date": "2018-07-26", "genre": ["Animation"], "score": "0.0/10", "synopsis": "Heart of Darkness", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

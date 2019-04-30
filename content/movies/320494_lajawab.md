@@ -1,0 +1,1 @@
+{"tmdb_id": 320494, "title": "Lajawab", "original_title": "Lajawab", "slug_title": "lajawab", "date": "1950-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1950", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

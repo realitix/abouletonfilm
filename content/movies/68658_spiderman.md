@@ -1,0 +1,1 @@
+{"tmdb_id": 68658, "title": "Spiderman", "original_title": "Spiderman", "slug_title": "spiderman", "date": "1990-01-01", "genre": [""], "score": "6.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

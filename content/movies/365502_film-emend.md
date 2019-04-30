@@ -1,0 +1,1 @@
+{"tmdb_id": 365502, "title": "Film(emend)", "original_title": "Film(emend)", "slug_title": "film-emend", "date": "1998-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A man polishes his shoe.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

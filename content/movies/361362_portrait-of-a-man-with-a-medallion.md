@@ -1,0 +1,1 @@
+{"tmdb_id": 361362, "title": "Portrait of a Man with a Medallion", "original_title": "Portrait of a Man with a Medallion", "slug_title": "portrait-of-a-man-with-a-medallion", "date": "1959-09-25", "genre": [""], "score": "6.0/10", "synopsis": "1959 Polish short", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349753, "title": "\uc18c\uca4d\uad81 \ud0d0\uc815", "original_title": "\uc18c\uca4d\uad81 \ud0d0\uc815", "slug_title": "sojjeoggung-tamjeong", "date": "1990-02-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

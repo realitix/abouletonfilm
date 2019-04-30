@@ -1,0 +1,1 @@
+{"tmdb_id": 301176, "title": "Mombati", "original_title": "Mombati", "slug_title": "mombati", "date": "1976-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Uttam Kumar, Supriya Choudhury, Anil Chatterjee and Dilip Mukhopadhyay", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

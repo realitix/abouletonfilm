@@ -1,0 +1,1 @@
+{"tmdb_id": 428655, "title": "Adieux, Dames", "original_title": "Adieux, Dames", "slug_title": "adieux-dames", "date": "1987-07-17", "genre": ["Animation"], "score": "0.0/10", "synopsis": "An Ophelia-style self portrait of the director.", "image": "/img/default-cover.png", "actors": ["Krystin Watters ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 556288, "title": "Le n\u00e8gre blanc", "original_title": "Le n\u00e8gre blanc", "slug_title": "le-negre-blanc", "date": "1925-09-18", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

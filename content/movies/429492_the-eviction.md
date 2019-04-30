@@ -1,0 +1,1 @@
+{"tmdb_id": 429492, "title": "The Eviction", "original_title": "The Eviction", "slug_title": "the-eviction", "date": "1904-05-08", "genre": [""], "score": "0.0/10", "synopsis": "Police officers try to evict a determined family from their home.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

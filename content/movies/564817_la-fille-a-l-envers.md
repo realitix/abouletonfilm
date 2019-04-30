@@ -1,0 +1,1 @@
+{"tmdb_id": 564817, "title": "La fille \u00e0 l'envers", "original_title": "La fille \u00e0 l'envers", "slug_title": "la-fille-a-l-envers", "date": "1974-09-18", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

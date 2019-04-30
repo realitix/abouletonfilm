@@ -1,0 +1,1 @@
+{"tmdb_id": 356154, "title": "Chinese Opium Den", "original_title": "Chinese Opium Den", "slug_title": "chinese-opium-den", "date": "1894-10-16", "genre": [""], "score": "3.0/10", "synopsis": "Lost film from 1894, directed by William K.L. Dickson.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

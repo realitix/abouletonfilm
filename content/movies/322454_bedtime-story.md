@@ -1,0 +1,1 @@
+{"tmdb_id": 322454, "title": "Bedtime Story", "original_title": "Bedtime Story", "slug_title": "bedtime-story", "date": "1981-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A collage film, made as much from splicing tape as it is from celluloid.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

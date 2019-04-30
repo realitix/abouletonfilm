@@ -1,0 +1,1 @@
+{"tmdb_id": 349605, "title": "\ubc14\ub78c \ubc14\ub78c \ubc14\ub78c", "original_title": "\ubc14\ub78c \ubc14\ub78c \ubc14\ub78c", "slug_title": "baram-baram-baram", "date": "1983-06-25", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 330367, "title": "The Four Seasons", "original_title": "al-Fusul al-Arba'a", "slug_title": "the-four-seasons", "date": "1990-01-02", "genre": ["Familial"], "score": "0.0/10", "synopsis": "Libyan film directed by Muhamad 'Ali al-Farjani.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 508053, "title": "Mat\u00e9ria de Composi\u00e7\u00e3o", "original_title": "Mat\u00e9ria de Composi\u00e7\u00e3o", "slug_title": "materia-de-composicao", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

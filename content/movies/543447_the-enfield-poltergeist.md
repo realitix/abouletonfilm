@@ -1,0 +1,1 @@
+{"tmdb_id": 543447, "title": "The Enfield Poltergeist", "original_title": "The Enfield Poltergeist", "slug_title": "the-enfield-poltergeist", "date": "2008-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary on the Enfield Poltergeist", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

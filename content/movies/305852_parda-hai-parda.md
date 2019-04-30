@@ -1,0 +1,1 @@
+{"tmdb_id": 305852, "title": "Parda Hai Parda", "original_title": "Parda Hai Parda", "slug_title": "parda-hai-parda", "date": "1992-01-01", "genre": [""], "score": "8.0/10", "synopsis": "Four friends try to woo a girl next door.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

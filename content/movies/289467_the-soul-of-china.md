@@ -1,0 +1,1 @@
+{"tmdb_id": 289467, "title": "The Soul of China", "original_title": "Guo hun", "slug_title": "the-soul-of-china", "date": "1948-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Wancang Bu.", "image": "/img/default-cover.png", "actors": ["Gu Er-Yi ()", "Liu Qiong ()", "Fong Pao ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

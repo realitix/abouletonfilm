@@ -1,0 +1,1 @@
+{"tmdb_id": 508430, "title": "Selfie Pride", "original_title": "Selfie Pride", "slug_title": "selfie-pride", "date": "", "genre": [""], "score": "2.0/10", "synopsis": "Pride kills...and selfies. Selfies kill too.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

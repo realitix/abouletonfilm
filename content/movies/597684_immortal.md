@@ -1,0 +1,1 @@
+{"tmdb_id": 597684, "title": "Immortal", "original_title": "Immortal", "slug_title": "immortal", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A rock guitarist turned vampire must find a way to satiate his thirst.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

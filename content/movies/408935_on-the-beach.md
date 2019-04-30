@@ -1,0 +1,1 @@
+{"tmdb_id": 408935, "title": "On the Beach", "original_title": "On the Beach", "slug_title": "on-the-beach", "date": "1926-07-30", "genre": [""], "score": "0.0/10", "synopsis": "An early example of vintage erotic film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 574615, "title": "Cinema de camera 1. 2. 3. 4.", "original_title": "Cinema de camera 1. 2. 3. 4.", "slug_title": "cinema-de-camera-1-2-3-4", "date": "1986-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Un film de Jakobois", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

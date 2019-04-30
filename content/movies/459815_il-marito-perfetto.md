@@ -1,0 +1,1 @@
+{"tmdb_id": 459815, "title": "Il Marito Perfetto", "original_title": "Il Marito Perfetto", "slug_title": "il-marito-perfetto", "date": "2011-01-05", "genre": ["Horreur / Thriller"], "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

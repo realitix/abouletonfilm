@@ -1,0 +1,1 @@
+{"tmdb_id": 512141, "title": "Aphorisms", "original_title": "Utrinki", "slug_title": "aphorisms", "date": "1971-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "A metaphor on fictitous catastrophe.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

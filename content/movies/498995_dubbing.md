@@ -1,0 +1,1 @@
+{"tmdb_id": 498995, "title": "Dubbing", "original_title": "Synchronisation", "slug_title": "dubbing", "date": "2006-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A soliloquy by Robert de Niro. The ever same image, the words in seven languages.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

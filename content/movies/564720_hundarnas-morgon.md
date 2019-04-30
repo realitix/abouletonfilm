@@ -1,0 +1,1 @@
+{"tmdb_id": 564720, "title": "Hundarnas morgon", "original_title": "Hundarnas morgon", "slug_title": "hundarnas-morgon", "date": "1981-11-17", "genre": ["T\u00e9l\u00e9film"], "score": "0.0/10", "synopsis": "Nazism in a Swedish industrial community in the 1930s.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

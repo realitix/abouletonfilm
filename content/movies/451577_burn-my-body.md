@@ -1,0 +1,1 @@
+{"tmdb_id": 451577, "title": "Burn My Body", "original_title": "Burn My Body", "slug_title": "burn-my-body", "date": "2010-09-18", "genre": [""], "score": "0.0/10", "synopsis": "A Muslim girl rebels against her parents, wanting to stop wearing her veil.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

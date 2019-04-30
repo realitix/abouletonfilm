@@ -1,0 +1,1 @@
+{"tmdb_id": 577296, "title": "Looking Through Glass", "original_title": "Looking Through Glass", "slug_title": "looking-through-glass", "date": "1943-01-23", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "A look at British glass manufacturing.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

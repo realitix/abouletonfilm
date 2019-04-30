@@ -1,0 +1,1 @@
+{"tmdb_id": 567344, "title": "DELLA CONOSCENZA", "original_title": "DELLA CONOSCENZA", "slug_title": "della-conoscenza", "date": "1968-06-12", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

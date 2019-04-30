@@ -1,0 +1,1 @@
+{"tmdb_id": 419809, "title": "Sphere:Circle:Round", "original_title": "Sphere:Circle:Round", "slug_title": "sphere-circle-round", "date": "1992-10-06", "genre": [""], "score": "0.0/10", "synopsis": "A structuralist collage assembled from archival documents.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

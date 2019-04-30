@@ -1,0 +1,1 @@
+{"tmdb_id": 406179, "title": "Lhaj Izziwi", "original_title": "Lhaj Izziwi", "slug_title": "lhaj-izziwi", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Disco Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/58hTnS4u0gdFVRA4Cbo3GOmCHgU.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

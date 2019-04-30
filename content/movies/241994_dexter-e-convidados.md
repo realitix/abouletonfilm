@@ -1,0 +1,1 @@
+{"tmdb_id": 241994, "title": "Dexter e Convidados", "original_title": "Dexter e Convidados", "slug_title": "dexter-e-convidados", "date": "2013-12-09", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iyvz8L2hya3XYLZ0WKi1D12lXZI.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

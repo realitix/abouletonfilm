@@ -1,0 +1,1 @@
+{"tmdb_id": 570679, "title": "Assassin's Creed 2", "original_title": "Assassin's Creed 2", "slug_title": "assassin-s-creed-2", "date": "", "genre": ["Action / Aventure / Drame"], "score": "0.0/10", "synopsis": "Sequel to the 2016 film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

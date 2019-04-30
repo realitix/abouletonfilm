@@ -1,0 +1,1 @@
+{"tmdb_id": 343626, "title": "Brazaletes", "original_title": "Brazaletes", "slug_title": "brazaletes", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "No overview.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rqQzbg37Gtkf4FKyMmmliBaYmv0.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

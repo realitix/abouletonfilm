@@ -1,0 +1,1 @@
+{"tmdb_id": 571521, "title": "Poble rebel", "original_title": "Poble rebel", "slug_title": "poble-rebel", "date": "2018-09-21", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

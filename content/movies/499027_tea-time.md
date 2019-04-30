@@ -1,0 +1,1 @@
+{"tmdb_id": 499027, "title": "Tea Time", "original_title": "Tea Time", "slug_title": "tea-time", "date": "2017-01-01", "genre": [""], "score": "9.0/10", "synopsis": "A three-channel video installation by Ali Kazma.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

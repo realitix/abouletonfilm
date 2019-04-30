@@ -1,0 +1,1 @@
+{"tmdb_id": 427250, "title": "Arriv\u00e9e de 'La Champagne'", "original_title": "Arriv\u00e9e de 'La Champagne'", "slug_title": "arrivee-de-la-champagne", "date": "1899-11-22", "genre": [""], "score": "0.0/10", "synopsis": "Out at sea with boats passing by.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

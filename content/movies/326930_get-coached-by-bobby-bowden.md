@@ -1,0 +1,1 @@
+{"tmdb_id": 326930, "title": "Get Coached by Bobby Bowden", "original_title": "Get Coached by Bobby Bowden", "slug_title": "get-coached-by-bobby-bowden", "date": "2010-11-09", "genre": [""], "score": "0.0/10", "synopsis": "Directed by John Hilton.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

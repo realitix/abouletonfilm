@@ -1,0 +1,1 @@
+{"tmdb_id": 488317, "title": "Ghost in the Boobs", "original_title": "Ghost in the Boobs", "slug_title": "ghost-in-the-boobs", "date": "2017-10-18", "genre": [""], "score": "0.0/10", "synopsis": "A tribute to the original classic.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

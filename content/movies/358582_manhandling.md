@@ -1,0 +1,1 @@
+{"tmdb_id": 358582, "title": "Manhandling", "original_title": "Manhandling", "slug_title": "manhandling", "date": "1962-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Part of BFI collection \"Just the Ticket.\"", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

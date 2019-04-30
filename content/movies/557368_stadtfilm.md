@@ -1,0 +1,1 @@
+{"tmdb_id": 557368, "title": "Stadtfilm", "original_title": "Stadtfilm", "slug_title": "stadtfilm", "date": "1990-02-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

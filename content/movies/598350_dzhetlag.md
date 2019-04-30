@@ -1,0 +1,1 @@
+{"tmdb_id": 598350, "title": "\u0414\u0436\u0435\u0442\u043b\u0430\u0433", "original_title": "\u0414\u0436\u0435\u0442\u043b\u0430\u0433", "slug_title": "dzhetlag", "date": "", "genre": ["Com\u00e9die / Romance"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 564081, "title": "Du bl\u00e9 en liasses", "original_title": "Du bl\u00e9 en liasses", "slug_title": "du-ble-en-liasses", "date": "1974-09-04", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

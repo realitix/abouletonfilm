@@ -1,0 +1,1 @@
+{"tmdb_id": 591379, "title": "Place of Residence", "original_title": "Miejsce zamieszkania", "slug_title": "place-of-residence", "date": "1957-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary Short by Maksymilian Wroclawski", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

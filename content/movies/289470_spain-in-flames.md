@@ -1,0 +1,1 @@
+{"tmdb_id": 289470, "title": "Spain in Flames", "original_title": "Spain in Flames", "slug_title": "spain-in-flames", "date": "1937-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Helen van Dongen.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

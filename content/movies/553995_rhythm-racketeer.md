@@ -1,0 +1,1 @@
+{"tmdb_id": 553995, "title": "Rhythm Racketeer", "original_title": "Rhythm Racketeer", "slug_title": "rhythm-racketeer", "date": "1937-10-01", "genre": [""], "score": "0.0/10", "synopsis": "A Chicago gangster steals jewels and frames his band leader double.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 285489, "title": "Darcy Ribeiro, O Guerreiro Sonhador", "original_title": "Darcy Ribeiro, O Guerreiro Sonhador", "slug_title": "darcy-ribeiro-o-guerreiro-sonhador", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

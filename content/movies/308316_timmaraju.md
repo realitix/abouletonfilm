@@ -1,0 +1,1 @@
+{"tmdb_id": 308316, "title": "Timmaraju", "original_title": "Timmaraju", "slug_title": "timmaraju", "date": "2014-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood film from director Vemagiri.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

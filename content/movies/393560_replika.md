@@ -1,0 +1,1 @@
+{"tmdb_id": 393560, "title": "Replika", "original_title": "Replika", "slug_title": "replika", "date": "1975-01-01", "genre": ["Animation / Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jrutDpfEDxijNFY9ufr5BCgkLER.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

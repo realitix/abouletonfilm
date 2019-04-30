@@ -1,0 +1,1 @@
+{"tmdb_id": 279203, "title": "Avdo's Motorcar", "original_title": "Avdo's Motorcar", "slug_title": "avdo-s-motorcar", "date": "1966-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Dmitri Kesayants (Dmitri Keussaian).", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 555354, "title": "Le m\u00e9decin des pauvres", "original_title": "Le m\u00e9decin des pauvres", "slug_title": "le-medecin-des-pauvres", "date": "1914-10-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

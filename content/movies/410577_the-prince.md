@@ -1,0 +1,1 @@
+{"tmdb_id": 410577, "title": "The Prince", "original_title": "The Prince", "slug_title": "the-prince", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Wealthy Manhattan kids dealing with high school and the drama that comes with it.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

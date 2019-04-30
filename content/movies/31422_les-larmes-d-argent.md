@@ -1,0 +1,1 @@
+{"tmdb_id": 31422, "title": "Les larmes d'argent", "original_title": "Les larmes d'argent", "slug_title": "les-larmes-d-argent", "date": "2007-01-01", "genre": ["Histoire"], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

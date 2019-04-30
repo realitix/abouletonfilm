@@ -1,0 +1,1 @@
+{"tmdb_id": 303075, "title": "Haalappa", "original_title": "Haalappa", "slug_title": "haalappa", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Film featuring the music of Chitra and S.P. Balasubrahmanyam", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

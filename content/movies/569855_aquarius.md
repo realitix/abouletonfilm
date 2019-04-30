@@ -1,0 +1,1 @@
+{"tmdb_id": 569855, "title": "Aquarius", "original_title": "Aquarius", "slug_title": "aquarius", "date": "2003-02-20", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Aquarius is a film about horoscopes and hope, and coping with everyday life.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 473995, "title": "A Trilogy", "original_title": "A Trilogy", "slug_title": "a-trilogy", "date": "1985-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kmJ58BnKyreyUuIGwAjWdMALm6I.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

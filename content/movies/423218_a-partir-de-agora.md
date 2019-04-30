@@ -1,0 +1,1 @@
+{"tmdb_id": 423218, "title": "A Partir de Agora", "original_title": "A Partir de Agora", "slug_title": "a-partir-de-agora", "date": "2014-03-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6516Lg9ylNyCzcdumltExaRrWJH.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

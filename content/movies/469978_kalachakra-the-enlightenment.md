@@ -1,0 +1,1 @@
+{"tmdb_id": 469978, "title": "Kalachakra: The Enlightenment", "original_title": "Kalachakra: The Enlightenment", "slug_title": "kalachakra-the-enlightenment", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

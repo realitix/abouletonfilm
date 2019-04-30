@@ -1,0 +1,1 @@
+{"tmdb_id": 135156, "title": "Jammil - Praieiro", "original_title": "Jammil - Praieiro", "slug_title": "jammil-praieiro", "date": "2016-02-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kGryjeBV1MMmLRyZKRn8ojpeOme.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

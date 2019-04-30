@@ -1,0 +1,1 @@
+{"tmdb_id": 547569, "title": "Amores, Coragem", "original_title": "Amores, Coragem", "slug_title": "amores-coragem", "date": "2018-09-11", "genre": [""], "score": "0.0/10", "synopsis": "Love, Courage", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

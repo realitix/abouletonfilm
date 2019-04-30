@@ -1,0 +1,1 @@
+{"tmdb_id": 533340, "title": "God is a dog", "original_title": "God is a dog", "slug_title": "god-is-a-dog", "date": "2004-01-01", "genre": [""], "score": "0.0/10", "synopsis": "(no summary right now)", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

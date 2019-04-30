@@ -1,0 +1,1 @@
+{"tmdb_id": 278937, "title": "Ghetto Dawg 2", "original_title": "Ghetto Dawg 2", "slug_title": "ghetto-dawg-2", "date": "2005-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A man sets out to seek revenge against those who killed his brother.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

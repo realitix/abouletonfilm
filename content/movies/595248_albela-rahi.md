@@ -1,0 +1,1 @@
+{"tmdb_id": 595248, "title": "Albela Rahi", "original_title": "Albela Rahi", "slug_title": "albela-rahi", "date": "", "genre": ["Musique"], "score": "0.0/10", "synopsis": "The life story of Pakistani pop star, Alamgir.", "image": "/img/default-cover.png", "actors": ["Fawad Afzal Khan (Alamgir)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

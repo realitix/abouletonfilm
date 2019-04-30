@@ -1,0 +1,1 @@
+{"tmdb_id": 368305, "title": "The Soldiers Aren't singing any longer", "original_title": "Soldatene synger ikke lenger", "slug_title": "the-soldiers-aren-t-singing-any-longer", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Norwegian TV-Drama", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

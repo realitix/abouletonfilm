@@ -1,0 +1,1 @@
+{"tmdb_id": 575156, "title": "Rio Doce: Hist\u00f3rias de uma Trag\u00e9dia", "original_title": "Rio Doce: Hist\u00f3rias de uma Trag\u00e9dia", "slug_title": "rio-doce-historias-de-uma-tragedia", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 179211, "title": "The Living Dead", "original_title": "The Living Dead", "slug_title": "the-living-dead", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "9 movies 3 dvds over 13 hours", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

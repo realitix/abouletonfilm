@@ -1,0 +1,1 @@
+{"tmdb_id": 347865, "title": "The Education of Tanis", "original_title": "The Education of Tanis", "slug_title": "the-education-of-tanis", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Plot unknown.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

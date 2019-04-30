@@ -1,0 +1,1 @@
+{"tmdb_id": 510928, "title": "The Chiptune Story", "original_title": "The Chiptune Story", "slug_title": "the-chiptune-story", "date": "2018-03-08", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Creating retro music 8-bits & 16-bits at a time", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

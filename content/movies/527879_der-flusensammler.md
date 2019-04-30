@@ -1,0 +1,1 @@
+{"tmdb_id": 527879, "title": "Der Flusensammler", "original_title": "Der Flusensammler", "slug_title": "der-flusensammler", "date": "1990-01-31", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

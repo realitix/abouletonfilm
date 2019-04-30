@@ -1,0 +1,1 @@
+{"tmdb_id": 465495, "title": "Sors-toi les droits !", "original_title": "Sors-toi les droits !", "slug_title": "sors-toi-les-droits", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A documentary about civic tech initiatives", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

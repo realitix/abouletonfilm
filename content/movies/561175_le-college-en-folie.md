@@ -1,0 +1,1 @@
+{"tmdb_id": 561175, "title": "Le coll\u00e8ge en folie", "original_title": "Le coll\u00e8ge en folie", "slug_title": "le-college-en-folie", "date": "1954-06-16", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 556060, "title": "Little Hotel for Rent", "original_title": "Petit h\u00f4tel \u00e0 louer", "slug_title": "little-hotel-for-rent", "date": "1923-10-23", "genre": [""], "score": "0.0/10", "synopsis": "No overview found", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

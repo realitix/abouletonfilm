@@ -1,0 +1,1 @@
+{"tmdb_id": 518398, "title": "Aldebaran Sees", "original_title": "Aldebaran Sees", "slug_title": "aldebaran-sees", "date": "1969-05-05", "genre": [""], "score": "0.0/10", "synopsis": "Aldebaran is the brightest star in the Taurus constellation.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

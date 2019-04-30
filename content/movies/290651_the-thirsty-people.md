@@ -1,0 +1,1 @@
+{"tmdb_id": 290651, "title": "The Thirsty People", "original_title": "Al-zamioun", "slug_title": "the-thirsty-people", "date": "1971-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Mohamed Shukri Jameel.", "image": "/img/default-cover.png", "actors": ["Khalil Shawki ()", "Nahdia Alramah ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

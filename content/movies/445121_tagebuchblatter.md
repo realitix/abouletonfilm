@@ -1,0 +1,1 @@
+{"tmdb_id": 445121, "title": "Tagebuchbl\u00e4tter", "original_title": "Tagebuchbl\u00e4tter", "slug_title": "tagebuchblatter", "date": "1951-02-02", "genre": [""], "score": "0.0/10", "synopsis": "Short film about a youth camp.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

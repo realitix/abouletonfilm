@@ -1,0 +1,1 @@
+{"tmdb_id": 384503, "title": "Pez blanco", "original_title": "Pez blanco", "slug_title": "pez-blanco", "date": "2009-02-25", "genre": ["Thriller / Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcel Hensema ()", "Peter Bolhuis ()", "Jara Lucieer ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 594764, "title": "The Battle with Satan", "original_title": "The Battle with Satan", "slug_title": "the-battle-with-satan", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "A look at exorcisms in modern-day Poland.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

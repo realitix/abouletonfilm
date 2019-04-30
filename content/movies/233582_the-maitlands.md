@@ -1,0 +1,1 @@
+{"tmdb_id": 233582, "title": "The Maitlands", "original_title": "The Maitlands", "slug_title": "the-maitlands", "date": "1993-11-13", "genre": [""], "score": "0.0/10", "synopsis": "Family saga written by Ronald Mackenzie.", "image": "/img/default-cover.png", "actors": ["Eileen Atkins ()", "Jennifer Ehle ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

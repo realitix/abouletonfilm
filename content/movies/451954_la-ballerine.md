@@ -1,0 +1,1 @@
+{"tmdb_id": 451954, "title": "La ballerine", "original_title": "La ballerine", "slug_title": "la-ballerine", "date": "1944-01-01", "genre": ["Animation"], "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fb5JxLIUcMl4bjB83sUm3H3wZSv.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

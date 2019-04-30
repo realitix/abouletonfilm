@@ -1,0 +1,1 @@
+{"tmdb_id": 443483, "title": "La moda - Giants in Milan - Vol. VI", "original_title": "La moda - Giants in Milan - Vol. VI", "slug_title": "la-moda-giants-in-milan-vol-vi", "date": "2015-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

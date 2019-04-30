@@ -1,0 +1,1 @@
+{"tmdb_id": 403640, "title": "Cultus Ferox  - Rumtour", "original_title": "Cultus Ferox  - Rumtour", "slug_title": "cultus-ferox-rumtour", "date": "2007-03-23", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

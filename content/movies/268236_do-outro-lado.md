@@ -1,0 +1,1 @@
+{"tmdb_id": 268236, "title": "Do Outro Lado", "original_title": "Do Outro Lado", "slug_title": "do-outro-lado", "date": "2015-04-16", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

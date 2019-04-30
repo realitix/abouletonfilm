@@ -1,0 +1,1 @@
+{"tmdb_id": 527586, "title": "her silent life.", "original_title": "her silent life.", "slug_title": "her-silent-life", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "In 1936 an Inuk woman departs her homeland in the North forever. But why?", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

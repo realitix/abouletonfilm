@@ -1,0 +1,1 @@
+{"tmdb_id": 487985, "title": "Karmakonto", "original_title": "Karmakonto", "slug_title": "karmakonto", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Running out of karma.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

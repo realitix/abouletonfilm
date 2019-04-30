@@ -1,0 +1,1 @@
+{"tmdb_id": 332046, "title": "The Madman of Kairouan", "original_title": "Le Fou de Kairouan", "slug_title": "the-madman-of-kairouan", "date": "1939-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Jean-Andr\u00e9 Kreuzi.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

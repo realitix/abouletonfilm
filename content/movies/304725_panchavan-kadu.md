@@ -1,0 +1,1 @@
+{"tmdb_id": 304725, "title": "Panchavan Kadu", "original_title": "Panchavan Kadu", "slug_title": "panchavan-kadu", "date": "1971-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film directed by Kunchako", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

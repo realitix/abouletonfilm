@@ -1,0 +1,1 @@
+{"tmdb_id": 447960, "title": "\ub354 \ud30c\uc774\ud305", "original_title": "\ub354 \ud30c\uc774\ud305", "slug_title": "deo-paiting", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "The Fighting", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

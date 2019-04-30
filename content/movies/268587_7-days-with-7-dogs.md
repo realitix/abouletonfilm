@@ -1,0 +1,1 @@
+{"tmdb_id": 268587, "title": "7 Days With 7 Dogs", "original_title": "7 Days With 7 Dogs", "slug_title": "7-days-with-7-dogs", "date": "2011-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A doggie documentary.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

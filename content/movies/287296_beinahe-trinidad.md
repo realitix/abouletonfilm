@@ -1,0 +1,1 @@
+{"tmdb_id": 287296, "title": "Beinahe Trinidad", "original_title": "Beinahe Trinidad", "slug_title": "beinahe-trinidad", "date": "1985-01-01", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Iris Berben ()", "Dieter Eppler ()", "Elmar Wepper ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

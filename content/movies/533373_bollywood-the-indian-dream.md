@@ -1,0 +1,1 @@
+{"tmdb_id": 533373, "title": "Bollywood, the indian dream", "original_title": "Bollywood, the indian dream", "slug_title": "bollywood-the-indian-dream", "date": "2000-01-01", "genre": [""], "score": "0.0/10", "synopsis": "(no summary right now)", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

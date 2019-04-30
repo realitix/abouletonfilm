@@ -1,0 +1,1 @@
+{"tmdb_id": 308082, "title": "Vamshoddarakudu", "original_title": "Vamshoddarakudu", "slug_title": "vamshoddarakudu", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "2000 Telugu film featuring music from Koti.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

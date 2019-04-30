@@ -1,0 +1,1 @@
+{"tmdb_id": 580441, "title": "The Devil Bear", "original_title": "The Devil Bear", "slug_title": "the-devil-bear", "date": "1929-02-19", "genre": [""], "score": "0.0/10", "synopsis": "An early Canadian horror/drama film.", "image": "/img/default-cover.png", "actors": ["Dorothy Dwan (Werta)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

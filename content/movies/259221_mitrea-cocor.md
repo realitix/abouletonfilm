@@ -1,0 +1,1 @@
+{"tmdb_id": 259221, "title": "Mitrea Cocor", "original_title": "Mitrea Cocor", "slug_title": "mitrea-cocor", "date": "1953-03-14", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

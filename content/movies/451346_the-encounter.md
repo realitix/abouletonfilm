@@ -1,0 +1,1 @@
+{"tmdb_id": 451346, "title": "The encounter", "original_title": "The encounter", "slug_title": "the-encounter", "date": "", "genre": ["Drame"], "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yuula Benivolski (Yuula)", "Faye Mullen (Faye)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

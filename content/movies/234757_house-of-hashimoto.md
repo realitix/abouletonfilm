@@ -1,0 +1,1 @@
+{"tmdb_id": 234757, "title": "House of Hashimoto", "original_title": "House of Hashimoto", "slug_title": "house-of-hashimoto", "date": "1960-11-29", "genre": [""], "score": "0.0/10", "synopsis": "Hashimoto tells his friend G.I. Joe about the Invisible Mouse.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

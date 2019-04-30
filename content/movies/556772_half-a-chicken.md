@@ -1,0 +1,1 @@
+{"tmdb_id": 556772, "title": "Half A Chicken", "original_title": "Half A Chicken", "slug_title": "half-a-chicken", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Bryan struggles to keep his chicken alive.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

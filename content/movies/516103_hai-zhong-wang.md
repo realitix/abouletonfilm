@@ -1,0 +1,1 @@
+{"tmdb_id": 516103, "title": "Hai Zhong Wang", "original_title": "Hai Zhong Wang", "slug_title": "hai-zhong-wang", "date": "2017-10-29", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

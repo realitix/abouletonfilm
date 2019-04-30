@@ -1,0 +1,1 @@
+{"tmdb_id": 556043, "title": "Le chemin du bonheur", "original_title": "Le chemin du bonheur", "slug_title": "le-chemin-du-bonheur", "date": "1934-01-05", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

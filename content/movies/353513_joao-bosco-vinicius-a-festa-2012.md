@@ -1,0 +1,1 @@
+{"tmdb_id": 353513, "title": "Jo\u00e3o Bosco & Vin\u00edcius - A festa 2012", "original_title": "Jo\u00e3o Bosco & Vin\u00edcius - A festa 2012", "slug_title": "joao-bosco-vinicius-a-festa-2012", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

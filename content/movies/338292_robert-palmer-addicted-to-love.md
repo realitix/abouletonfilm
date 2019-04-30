@@ -1,0 +1,1 @@
+{"tmdb_id": 338292, "title": "Robert Palmer: Addicted To Love", "original_title": "Robert Palmer: Addicted To Love", "slug_title": "robert-palmer-addicted-to-love", "date": "1986-01-01", "genre": [""], "score": "7.0/10", "synopsis": "No Overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

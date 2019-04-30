@@ -1,0 +1,1 @@
+{"tmdb_id": 350659, "title": "Carne de Laborat\u00f3rio", "original_title": "Carne de Laborat\u00f3rio", "slug_title": "carne-de-laboratorio", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

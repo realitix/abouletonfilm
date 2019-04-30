@@ -1,0 +1,1 @@
+{"tmdb_id": 203974, "title": "Chatarra", "original_title": "Chatarra", "slug_title": "chatarra", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Directed by F\u00e9lix Rotaeta", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hsqzkuF5Z4JEIDIL214JiSg3cZ7.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

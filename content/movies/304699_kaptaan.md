@@ -1,0 +1,1 @@
+{"tmdb_id": 304699, "title": "Kaptaan", "original_title": "Kaptaan", "slug_title": "kaptaan", "date": "2013-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film about a Pakistani Cricket hero.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

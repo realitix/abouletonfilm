@@ -1,0 +1,1 @@
+{"tmdb_id": 396669, "title": "My Demo Movie", "original_title": "My Demo Movie", "slug_title": "my-demo-movie", "date": "", "genre": [""], "score": "9.5/10", "synopsis": "this is demo movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

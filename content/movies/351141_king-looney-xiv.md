@@ -1,0 +1,1 @@
+{"tmdb_id": 351141, "title": "King Looney XIV", "original_title": "King Looney XIV", "slug_title": "king-looney-xiv", "date": "1935-06-06", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon released 7 June 1935.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

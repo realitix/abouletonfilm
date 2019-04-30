@@ -1,0 +1,1 @@
+{"tmdb_id": 371272, "title": "Essais au bord de la mer", "original_title": "Essais au bord de la mer", "slug_title": "essais-au-bord-de-la-mer", "date": "1926-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Images of water", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

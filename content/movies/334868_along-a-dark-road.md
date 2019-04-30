@@ -1,0 +1,1 @@
+{"tmdb_id": 334868, "title": "Along a Dark Road", "original_title": "Along a Dark Road", "slug_title": "along-a-dark-road", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A hitch hiker reveals a dark truth", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

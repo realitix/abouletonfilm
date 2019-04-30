@@ -1,0 +1,1 @@
+{"tmdb_id": 374235, "title": "Symphony of Rain", "original_title": "Ma'azufatu al-matar", "slug_title": "symphony-of-rain", "date": "1994-01-01", "genre": ["Familial"], "score": "0.0/10", "synopsis": "Directed by Abdella Zarok.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

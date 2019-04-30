@@ -1,0 +1,1 @@
+{"tmdb_id": 304705, "title": "Kottabangarulokam", "original_title": "Kottabangarulokam", "slug_title": "kottabangarulokam", "date": "2008-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film with a soundtrack featuring laiyaraaja, S. Janaki and more.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351128, "title": "The Dog Show", "original_title": "The Dog Show", "slug_title": "the-dog-show", "date": "1934-12-28", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon released 28 December 1934.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

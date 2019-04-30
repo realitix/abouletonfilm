@@ -1,0 +1,1 @@
+{"tmdb_id": 558174, "title": "Plug Walk", "original_title": "Plug Walk", "slug_title": "plug-walk", "date": "2018-03-24", "genre": ["Musique"], "score": "0.0/10", "synopsis": "I don't even understand how the fuck my plug talk", "image": "/img/default-cover.png", "actors": ["Rich the Kid (Himself)"], "comments": [], "recommandations_id": [], "youtube_key": "ToY6sjSV8h8"}

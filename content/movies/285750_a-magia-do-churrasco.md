@@ -1,0 +1,1 @@
+{"tmdb_id": 285750, "title": "A Magia do Churrasco", "original_title": "A Magia do Churrasco", "slug_title": "a-magia-do-churrasco", "date": "", "genre": [""], "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/25TbDjwgfwt9W6KhD1gNWtk1nRo.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

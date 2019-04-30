@@ -1,0 +1,1 @@
+{"tmdb_id": 551135, "title": "Spitfire", "original_title": "Spitfire", "slug_title": "spitfire", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "The story of the fighter plane and pilots that helped win the Battle of Britain in World War II", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

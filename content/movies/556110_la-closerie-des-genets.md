@@ -1,0 +1,1 @@
+{"tmdb_id": 556110, "title": "La closerie des Genets", "original_title": "La closerie des Genets", "slug_title": "la-closerie-des-genets", "date": "1925-02-13", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 433847, "title": "Zucchero - Anteprima Live", "original_title": "Zucchero - Anteprima Live", "slug_title": "zucchero-anteprima-live", "date": "", "genre": ["Musique"], "score": "5.0/10", "synopsis": "Zucchero  AV  KL  DC  LI  HH  KL  IU  CD  GH", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

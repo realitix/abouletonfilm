@@ -1,0 +1,1 @@
+{"tmdb_id": 465331, "title": "The Boy Upstairs", "original_title": "\uc717\uce35\uc758 \uaf2c\ub9c8", "slug_title": "the-boy-upstairs", "date": "2017-07-14", "genre": [""], "score": "0.0/10", "synopsis": "A girl copes with loosing her brother", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

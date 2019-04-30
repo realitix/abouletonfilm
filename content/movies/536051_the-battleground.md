@@ -1,0 +1,1 @@
+{"tmdb_id": 536051, "title": "The Battleground", "original_title": "The Battleground", "slug_title": "the-battleground", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stuart Whitman ()", "Percy Herbert ()", "Randy Boone ()", "Jill Townsend ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

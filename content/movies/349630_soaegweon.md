@@ -1,0 +1,1 @@
+{"tmdb_id": 349630, "title": "\uc18c\uc560\uad8c", "original_title": "\uc18c\uc560\uad8c", "slug_title": "soaegweon", "date": "1983-11-26", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 525089, "title": "\u042d\u043a\u0437\u0430\u043c\u0435\u043d", "original_title": "\u042d\u043a\u0437\u0430\u043c\u0435\u043d", "slug_title": "ekzamen", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 307821, "title": "Devullu", "original_title": "Devullu", "slug_title": "devullu", "date": "2001-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Nitya, Nandan and Prithvi", "image": "/img/default-cover.png", "actors": ["Nitya Shetty (Bhavani)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

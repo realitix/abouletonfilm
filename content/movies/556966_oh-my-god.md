@@ -1,0 +1,1 @@
+{"tmdb_id": 556966, "title": "Oh My GoD!", "original_title": "Oh My GoD!", "slug_title": "oh-my-god", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A new take on the classic Clue (1985) film that will leave viewers begging for more.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

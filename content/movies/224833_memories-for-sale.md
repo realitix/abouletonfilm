@@ -1,0 +1,1 @@
+{"tmdb_id": 224833, "title": "Memories for Sale", "original_title": "Memories for Sale", "slug_title": "memories-for-sale", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Charlie O'Neal (David Sullivan) is a writer desperate for a big break. [imdb]", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

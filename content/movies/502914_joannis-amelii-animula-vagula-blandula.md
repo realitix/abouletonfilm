@@ -1,0 +1,1 @@
+{"tmdb_id": 502914, "title": "Joannis Amelii, animula vagula blandula", "original_title": "Joannis Amelii, animula vagula blandula", "slug_title": "joannis-amelii-animula-vagula-blandula", "date": "1992-12-04", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

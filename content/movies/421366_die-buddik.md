@@ -1,0 +1,1 @@
+{"tmdb_id": 421366, "title": "Die Buddik", "original_title": "Die Buddik", "slug_title": "die-buddik", "date": "1983-05-31", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Elwenspoek (Matz Uhl)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

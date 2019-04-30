@@ -1,0 +1,1 @@
+{"tmdb_id": 509668, "title": "In Cane for Life", "original_title": "A Vida em Cana", "slug_title": "in-cane-for-life", "date": "2002-12-13", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 415500, "title": "El Turno Nocturno", "original_title": "El Turno Nocturno", "slug_title": "el-turno-nocturno", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wAd3vqQ9nOdYE14YhbVFJJSma6V.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

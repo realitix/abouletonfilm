@@ -1,0 +1,1 @@
+{"tmdb_id": 561132, "title": "L'aventuri\u00e8re du Tchad", "original_title": "L'aventuri\u00e8re du Tchad", "slug_title": "l-aventuriere-du-tchad", "date": "1953-11-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

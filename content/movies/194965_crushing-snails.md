@@ -1,0 +1,1 @@
+{"tmdb_id": 194965, "title": "Crushing Snails", "original_title": "Crushing Snails", "slug_title": "crushing-snails", "date": "2012-05-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

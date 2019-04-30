@@ -1,0 +1,1 @@
+{"tmdb_id": 439421, "title": "Spiritual Of Snake", "original_title": "Prea Pous", "slug_title": "spiritual-of-snake", "date": "2008-01-01", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "Spirit Of The Snake", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

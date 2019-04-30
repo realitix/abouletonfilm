@@ -1,0 +1,1 @@
+{"tmdb_id": 545227, "title": "Coyote Vs. Acme", "original_title": "Coyote Vs. Acme", "slug_title": "coyote-vs-acme", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Based on Road Runner\u2019s nemesis, Wile E. Coyote a.k.a. \u2018Super Genius\u2019.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

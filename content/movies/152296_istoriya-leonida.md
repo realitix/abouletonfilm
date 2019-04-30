@@ -1,0 +1,1 @@
+{"tmdb_id": 152296, "title": "Istoriya Leonida", "original_title": "Istoriya Leonida", "slug_title": "istoriya-leonida", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

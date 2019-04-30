@@ -1,0 +1,1 @@
+{"tmdb_id": 500604, "title": "The Man Who Cannot Be Excluded", "original_title": "\u4e0d\u6392\u9664\u5224\u6c7a\u66f8", "slug_title": "the-man-who-cannot-be-excluded", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

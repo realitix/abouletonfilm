@@ -1,0 +1,1 @@
+{"tmdb_id": 340123, "title": "Trezvites", "original_title": "Trezvites", "slug_title": "trezvites", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about alcoholism", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

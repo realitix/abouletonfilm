@@ -1,0 +1,1 @@
+{"tmdb_id": 391263, "title": "In the Spider's Grip", "original_title": "Dans les griffes de l'araign\u00e9e", "slug_title": "in-the-spider-s-grip", "date": "1920-04-04", "genre": [""], "score": "0.0/10", "synopsis": "1925 animated french short by Starewicz", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

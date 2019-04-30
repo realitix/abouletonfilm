@@ -1,0 +1,1 @@
+{"tmdb_id": 306445, "title": "Pratigya 2", "original_title": "Pratigya 2", "slug_title": "pratigya-2", "date": "2014-02-07", "genre": [""], "score": "0.0/10", "synopsis": "A policeman goes undercover in a criminal gang to avenge his family's murder.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

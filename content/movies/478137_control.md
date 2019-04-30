@@ -1,0 +1,1 @@
+{"tmdb_id": 478137, "title": "Control", "original_title": "Kontroll", "slug_title": "control", "date": "2016-09-23", "genre": [""], "score": "0.0/10", "synopsis": "In order to get control of her own life, Tina starts filming herself regularly.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

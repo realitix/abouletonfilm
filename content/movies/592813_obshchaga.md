@@ -1,0 +1,1 @@
+{"tmdb_id": 592813, "title": "\u041e\u0431\u0449\u0430\u0433\u0430", "original_title": "\u041e\u0431\u0449\u0430\u0433\u0430", "slug_title": "obshchaga", "date": "", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

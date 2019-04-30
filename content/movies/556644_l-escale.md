@@ -1,0 +1,1 @@
+{"tmdb_id": 556644, "title": "L'escale", "original_title": "L'escale", "slug_title": "l-escale", "date": "1930-03-29", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

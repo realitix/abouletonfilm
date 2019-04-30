@@ -1,0 +1,1 @@
+{"tmdb_id": 465867, "title": "Der Versuch zu leben", "original_title": "Der Versuch zu leben", "slug_title": "der-versuch-zu-leben", "date": "1983-10-04", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about the Urban Hospital in Berlin.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 527013, "title": "Menschen am Meer", "original_title": "Menschen am Meer", "slug_title": "menschen-am-meer", "date": "1925-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fritz Kampers ()", "Fritz Rasp ()", "Grete Reinwald ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

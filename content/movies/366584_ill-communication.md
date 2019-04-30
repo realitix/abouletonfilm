@@ -1,0 +1,1 @@
+{"tmdb_id": 366584, "title": "Ill Communication", "original_title": "Ill Communication", "slug_title": "ill-communication", "date": "2000-06-05", "genre": [""], "score": "0.0/10", "synopsis": "A robbery is foiled by a deaf shopkeeper.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

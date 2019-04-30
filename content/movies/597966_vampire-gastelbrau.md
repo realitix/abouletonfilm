@@ -1,0 +1,1 @@
+{"tmdb_id": 597966, "title": "Vampire Gastelbrau", "original_title": "Vampire Gastelbrau", "slug_title": "vampire-gastelbrau", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A vampire needs to earn back his tooth.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "bZADBySRUiU"}

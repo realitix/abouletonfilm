@@ -1,0 +1,1 @@
+{"tmdb_id": 545788, "title": "The Death of Gandji", "original_title": "La mort de Gandji", "slug_title": "the-death-of-gandji", "date": "1965-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "A short by Moustapha Alassane.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

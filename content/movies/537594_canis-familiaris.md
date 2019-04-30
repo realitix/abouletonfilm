@@ -1,0 +1,1 @@
+{"tmdb_id": 537594, "title": "Canis familiaris", "original_title": "Canis familiaris", "slug_title": "canis-familiaris", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2lyuOjfoDBSbdLW1IC8AKnH1Sr7.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

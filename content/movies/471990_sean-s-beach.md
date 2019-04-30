@@ -1,0 +1,1 @@
+{"tmdb_id": 471990, "title": "Sean's Beach", "original_title": "Sean's Beach", "slug_title": "sean-s-beach", "date": "2004-01-01", "genre": [""], "score": "0.0/10", "synopsis": "an unseen short made by the American cinematographer Sean Price Williams", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351267, "title": "The Mechanical Cow", "original_title": "The Mechanical Cow", "slug_title": "the-mechanical-cow", "date": "1937-06-24", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon released 25 June 1937.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

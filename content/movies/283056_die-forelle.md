@@ -1,0 +1,1 @@
+{"tmdb_id": 283056, "title": "Die Forelle", "original_title": "Die Forelle", "slug_title": "die-forelle", "date": "1976-07-31", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liselott Baumgarten ()", "Hildegard Alex ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

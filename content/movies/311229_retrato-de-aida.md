@@ -1,0 +1,1 @@
+{"tmdb_id": 311229, "title": "Retrato de Aida", "original_title": "Retrato de Aida", "slug_title": "retrato-de-aida", "date": "2014-12-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aida Folch ()", "Guillermo Oyag\u00fcez ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

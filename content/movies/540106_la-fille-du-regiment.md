@@ -1,0 +1,1 @@
+{"tmdb_id": 540106, "title": "La fille du r\u00e9giment", "original_title": "La fille du r\u00e9giment", "slug_title": "la-fille-du-regiment", "date": "1933-06-12", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

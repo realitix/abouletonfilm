@@ -1,0 +1,1 @@
+{"tmdb_id": 420852, "title": "La natura di Lila", "original_title": "La natura di Lila", "slug_title": "la-natura-di-lila", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["\u00c9va Henger (Lila)", "Giampaolo Innocentini ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

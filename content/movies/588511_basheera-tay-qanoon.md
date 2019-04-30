@@ -1,0 +1,1 @@
+{"tmdb_id": 588511, "title": "Basheera Tay Qanoon", "original_title": "Basheera Tay Qanoon", "slug_title": "basheera-tay-qanoon", "date": "1981-10-09", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

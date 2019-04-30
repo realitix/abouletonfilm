@@ -1,0 +1,1 @@
+{"tmdb_id": 331624, "title": "Suspicious Affluence", "original_title": "El izz bahdala", "slug_title": "suspicious-affluence", "date": "1937-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Togo Mizrahi.", "image": "/img/default-cover.png", "actors": ["Zouzou Labib ()", "Shalom ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 388477, "title": "Goodbye X Goodbye", "original_title": "Goodbye X Goodbye", "slug_title": "goodbye-x-goodbye", "date": "2013-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Two directors talk about German cinema.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

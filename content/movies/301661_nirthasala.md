@@ -1,0 +1,1 @@
+{"tmdb_id": 301661, "title": "Nirthasala", "original_title": "Nirthasala", "slug_title": "nirthasala", "date": "1972-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1972", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

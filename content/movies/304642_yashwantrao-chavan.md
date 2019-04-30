@@ -1,0 +1,1 @@
+{"tmdb_id": 304642, "title": "Yashwantrao Chavan", "original_title": "Yashwantrao Chavan", "slug_title": "yashwantrao-chavan", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Film with a soundtrack featuring various artists from India.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

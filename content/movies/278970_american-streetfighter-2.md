@@ -1,0 +1,1 @@
+{"tmdb_id": 278970, "title": "American Streetfighter 2", "original_title": "American Streetfighter 2", "slug_title": "american-streetfighter-2", "date": "2003-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Sequel to the American Streetfighter", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

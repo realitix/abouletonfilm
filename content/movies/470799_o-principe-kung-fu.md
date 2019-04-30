@@ -1,0 +1,1 @@
+{"tmdb_id": 470799, "title": "O Pr\u00edncipe Kung Fu", "original_title": "O Pr\u00edncipe Kung Fu", "slug_title": "o-principe-kung-fu", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

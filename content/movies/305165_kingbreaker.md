@@ -1,0 +1,1 @@
+{"tmdb_id": 305165, "title": "Kingbreaker", "original_title": "Kingbreaker", "slug_title": "kingbreaker", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A San Diego hitman lives two different lives.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

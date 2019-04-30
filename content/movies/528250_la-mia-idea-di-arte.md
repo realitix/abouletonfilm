@@ -1,0 +1,1 @@
+{"tmdb_id": 528250, "title": "La mia idea di arte", "original_title": "La mia idea di arte", "slug_title": "la-mia-idea-di-arte", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9yuDup87nJYnVTn2M498Yx0BgMI.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

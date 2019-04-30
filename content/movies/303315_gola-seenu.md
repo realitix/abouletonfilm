@@ -1,0 +1,1 @@
+{"tmdb_id": 303315, "title": "Gola Seenu", "original_title": "Gola Seenu", "slug_title": "gola-seenu", "date": "2013-04-06", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Sri and Tashu Kaushik", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 578196, "title": "The Assignment 1.0", "original_title": "L'engagement 1.0", "slug_title": "the-assignment-1-0", "date": "2015-12-17", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zxbklZLYqLIwNTcXX7pV54Z1bJw.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

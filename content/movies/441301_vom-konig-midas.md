@@ -1,0 +1,1 @@
+{"tmdb_id": 441301, "title": "Vom K\u00f6nig Midas", "original_title": "Vom K\u00f6nig Midas", "slug_title": "vom-konig-midas", "date": "1963-05-16", "genre": [""], "score": "0.0/10", "synopsis": "Film by G\u00fcnter Stahnke.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

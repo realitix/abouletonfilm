@@ -1,0 +1,1 @@
+{"tmdb_id": 159519, "title": "Nifty Nurses", "original_title": "Nifty Nurses", "slug_title": "nifty-nurses", "date": "1934-10-19", "genre": [""], "score": "0.0/10", "synopsis": "Scantily clad, irreverent nurses keep things cheerful by singing", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

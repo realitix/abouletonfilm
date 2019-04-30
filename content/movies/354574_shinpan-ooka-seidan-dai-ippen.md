@@ -1,0 +1,1 @@
+{"tmdb_id": 354574, "title": "Shinpan \u00d4oka seidan: Dai-ippen", "original_title": "Shinpan \u00d4oka seidan: Dai-ippen", "slug_title": "shinpan-ooka-seidan-dai-ippen", "date": "1928-05-31", "genre": [""], "score": "0.0/10", "synopsis": "Silent Japanese film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 520758, "title": "Chicken Run 2", "original_title": "Chicken Run 2", "slug_title": "chicken-run-2", "date": "2020-06-12", "genre": ["Animation"], "score": "0.0/10", "synopsis": "A sequel to the 2000 film, \"Chicken Run.\"", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

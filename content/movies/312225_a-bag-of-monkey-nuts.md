@@ -1,0 +1,1 @@
+{"tmdb_id": 312225, "title": "A Bag of Monkey Nuts", "original_title": "A Bag of Monkey Nuts", "slug_title": "a-bag-of-monkey-nuts", "date": "1911-09-30", "genre": [""], "score": "0.0/10", "synopsis": "Eating peanuts causes a workman to act like a monkey.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

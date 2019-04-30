@@ -1,0 +1,1 @@
+{"tmdb_id": 197721, "title": "Studio Tour", "original_title": "Studio Tour", "slug_title": "studio-tour", "date": "2002-12-02", "genre": [""], "score": "0.0/10", "synopsis": "A featurette on the \"A Trip Through the Walt Disney Studios\" DVD.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

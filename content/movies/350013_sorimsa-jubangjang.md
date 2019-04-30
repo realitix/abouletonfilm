@@ -1,0 +1,1 @@
+{"tmdb_id": 350013, "title": "\uc18c\ub9bc\uc0ac \uc8fc\ubc29\uc7a5", "original_title": "\uc18c\ub9bc\uc0ac \uc8fc\ubc29\uc7a5", "slug_title": "sorimsa-jubangjang", "date": "1981-11-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

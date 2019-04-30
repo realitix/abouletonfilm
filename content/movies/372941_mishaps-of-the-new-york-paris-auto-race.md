@@ -1,0 +1,1 @@
+{"tmdb_id": 372941, "title": "Mishaps of the New York-Paris Auto Race", "original_title": "Le Raid Paris-New York en automobile", "slug_title": "mishaps-of-the-new-york-paris-auto-race", "date": "1908-07-31", "genre": [""], "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

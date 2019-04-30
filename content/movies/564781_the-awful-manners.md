@@ -1,0 +1,1 @@
+{"tmdb_id": 564781, "title": "The Awful Manners", "original_title": "Les vilaines mani\u00e8res", "slug_title": "the-awful-manners", "date": "1974-02-13", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

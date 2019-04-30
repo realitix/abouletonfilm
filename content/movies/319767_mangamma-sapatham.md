@@ -1,0 +1,1 @@
+{"tmdb_id": 319767, "title": "Mangamma Sapatham", "original_title": "Mangamma Sapatham", "slug_title": "mangamma-sapatham", "date": "1965-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Jamuna, Taraka Rama Rao Nandamuri and Vanisri", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

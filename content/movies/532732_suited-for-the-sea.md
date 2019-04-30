@@ -1,0 +1,1 @@
+{"tmdb_id": 532732, "title": "Suited for the Sea", "original_title": "Suited for the Sea", "slug_title": "suited-for-the-sea", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Produced for Epcot Educational program.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

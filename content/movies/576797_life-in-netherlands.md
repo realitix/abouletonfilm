@@ -1,0 +1,1 @@
+{"tmdb_id": 576797, "title": "Life in Netherlands", "original_title": "Vita d'Olanda", "slug_title": "life-in-netherlands", "date": "1911-06-16", "genre": [""], "score": "0.0/10", "synopsis": "A short film by Piero Marelli, exploring life in the Netherlands", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 271009, "title": "BBOY for LIFE", "original_title": "BBOY for LIFE", "slug_title": "bboy-for-life", "date": "2012-12-30", "genre": [""], "score": "0.0/10", "synopsis": "Documents the lives of Break Dancers in Guatemala city affected by gangs", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

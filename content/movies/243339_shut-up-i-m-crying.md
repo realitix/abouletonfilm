@@ -1,0 +1,1 @@
+{"tmdb_id": 243339, "title": "Shut Up... I'm Crying", "original_title": "Shut Up... I'm Crying", "slug_title": "shut-up-i-m-crying", "date": "1970-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Oscar nominated short film from 1970", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

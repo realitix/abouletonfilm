@@ -1,0 +1,1 @@
+{"tmdb_id": 193101, "title": "Assignment Berlin", "original_title": "Assignment Berlin", "slug_title": "assignment-berlin", "date": "1982-02-19", "genre": [""], "score": "0.0/10", "synopsis": "no overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

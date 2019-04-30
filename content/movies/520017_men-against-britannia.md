@@ -1,0 +1,1 @@
+{"tmdb_id": 520017, "title": "Men Against Britannia", "original_title": "Men Against Britannia", "slug_title": "men-against-britannia", "date": "1957-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Based on the novel by Pierre Nord.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

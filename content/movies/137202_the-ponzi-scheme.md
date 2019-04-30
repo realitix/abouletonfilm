@@ -1,0 +1,1 @@
+{"tmdb_id": 137202, "title": "The Ponzi Scheme", "original_title": "The Ponzi Scheme", "slug_title": "the-ponzi-scheme", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "The filmmaker investigates the Ponzi Scheme that drained his life savings.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

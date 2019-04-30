@@ -1,0 +1,1 @@
+{"tmdb_id": 127647, "title": "The Case", "original_title": "Xiang zi", "slug_title": "the-case", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A mysterious case arrives at a hotel.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

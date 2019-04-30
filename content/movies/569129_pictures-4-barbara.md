@@ -1,0 +1,1 @@
+{"tmdb_id": 569129, "title": "Pictures 4 Barbara", "original_title": "Pictures 4 Barbara", "slug_title": "pictures-4-barbara", "date": "1981-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film by Barbara Hammer.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

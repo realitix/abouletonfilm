@@ -1,0 +1,1 @@
+{"tmdb_id": 557347, "title": "Verdun, souvenirs d'histoire", "original_title": "Verdun, souvenirs d'histoire", "slug_title": "verdun-souvenirs-d-histoire", "date": "1931-11-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

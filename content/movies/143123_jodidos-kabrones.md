@@ -1,0 +1,1 @@
+{"tmdb_id": 143123, "title": "Jodidos kabrones", "original_title": "Jodidos kabrones", "slug_title": "jodidos-kabrones", "date": "2012-02-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4MZMAcW1QiP9BOLOpczKiXzxUn5.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

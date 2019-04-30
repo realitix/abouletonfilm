@@ -1,0 +1,1 @@
+{"tmdb_id": 597375, "title": "Vurguncular", "original_title": "Vurguncular", "slug_title": "vurguncular", "date": "1971-04-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ExziENxHdswET4Om4vh8Kjz2pT.jpg", "actors": ["Y\u0131lmaz G\u00fcney ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

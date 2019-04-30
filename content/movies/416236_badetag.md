@@ -1,0 +1,1 @@
+{"tmdb_id": 416236, "title": "Badetag", "original_title": "Badetag", "slug_title": "badetag", "date": "2004-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "A short documentary directed by David Wnendt.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 377566, "title": "Dolly Mixtures", "original_title": "Dolly Mixtures", "slug_title": "dolly-mixtures", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Simon West documentary about the band Dolly Mixture.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

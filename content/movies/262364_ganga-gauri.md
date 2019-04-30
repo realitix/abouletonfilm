@@ -1,0 +1,1 @@
+{"tmdb_id": 262364, "title": "Ganga Gauri", "original_title": "Ganga Gauri", "slug_title": "ganga-gauri", "date": "1973-05-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "Jayalalithaa J ()", "Chittor V. Nagaiah ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

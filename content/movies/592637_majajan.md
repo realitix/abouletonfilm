@@ -1,0 +1,1 @@
+{"tmdb_id": 592637, "title": "Majajan", "original_title": "Majajan", "slug_title": "majajan", "date": "", "genre": [""], "score": "8.0/10", "synopsis": "A young son of a Landlord, \"Prince\" falls in love with a poor village belle.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

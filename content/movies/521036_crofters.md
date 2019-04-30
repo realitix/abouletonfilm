@@ -1,0 +1,1 @@
+{"tmdb_id": 521036, "title": "Crofters", "original_title": "Crofters", "slug_title": "crofters", "date": "1944-12-30", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "A look at everyday life in the crofting community of Achriesgill in Sutherland.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

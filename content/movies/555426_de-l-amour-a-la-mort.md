@@ -1,0 +1,1 @@
+{"tmdb_id": 555426, "title": "De l'amour \u00e0 la mort", "original_title": "De l'amour \u00e0 la mort", "slug_title": "de-l-amour-a-la-mort", "date": "1916-10-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

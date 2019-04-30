@@ -1,0 +1,1 @@
+{"tmdb_id": 305850, "title": "Pandanti Jeevitham", "original_title": "Pandanti Jeevitham", "slug_title": "pandanti-jeevitham", "date": "1980-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1980", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

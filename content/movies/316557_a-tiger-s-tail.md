@@ -1,0 +1,1 @@
+{"tmdb_id": 316557, "title": "A Tiger's Tail", "original_title": "A Tiger's Tail", "slug_title": "a-tiger-s-tail", "date": "1964-12-09", "genre": [""], "score": "0.0/10", "synopsis": "About a little boy and his genie friend.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

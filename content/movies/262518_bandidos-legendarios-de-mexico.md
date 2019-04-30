@@ -1,0 +1,1 @@
+{"tmdb_id": 262518, "title": "Bandidos legendarios de M\u00e9xico", "original_title": "Bandidos legendarios de M\u00e9xico", "slug_title": "bandidos-legendarios-de-mexico", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Micky Huidobro ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

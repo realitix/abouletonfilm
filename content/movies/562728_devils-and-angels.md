@@ -1,0 +1,1 @@
+{"tmdb_id": 562728, "title": "Devils and Angels", "original_title": "Devils and Angels", "slug_title": "devils-and-angels", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A look into Kustom Kulture, lowbrow art, and rockabilly culture.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 374441, "title": "Rolling Stars 2", "original_title": "Rolling Stars 2", "slug_title": "rolling-stars-2", "date": "2002-06-27", "genre": ["Documentaire"], "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9AoR7dUFj2cMewCNPbBQDamy4JX.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

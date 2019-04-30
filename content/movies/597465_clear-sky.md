@@ -1,0 +1,1 @@
+{"tmdb_id": 597465, "title": "Clear Sky", "original_title": "Clear Sky", "slug_title": "clear-sky", "date": "2018-12-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 499740, "title": "Bulundi", "original_title": "Bulundi", "slug_title": "bulundi", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A college professor agrees to teach the son of a gangster and becomes a pawn in a deadly game.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

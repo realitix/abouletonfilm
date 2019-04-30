@@ -1,0 +1,1 @@
+{"tmdb_id": 483672, "title": "Ophelia", "original_title": "Ophelia", "slug_title": "ophelia", "date": "1969-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A portrait inspired by reading about John Millais' painting Ophelia.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

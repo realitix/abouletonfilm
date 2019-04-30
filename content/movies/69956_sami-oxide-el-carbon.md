@@ -1,0 +1,1 @@
+{"tmdb_id": 69956, "title": "Sami Oxide El Carbon", "original_title": "Sami Oxide El Carbon", "slug_title": "sami-oxide-el-carbon", "date": "2011-07-17", "genre": [""], "score": "0.0/10", "synopsis": "No Overview Available", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

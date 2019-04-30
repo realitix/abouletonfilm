@@ -1,0 +1,1 @@
+{"tmdb_id": 302232, "title": "Nirdosh", "original_title": "Nirdosh", "slug_title": "nirdosh", "date": "1941-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Nalini Jaywant and Mukesh", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

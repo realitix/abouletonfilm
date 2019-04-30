@@ -1,0 +1,1 @@
+{"tmdb_id": 585328, "title": "Youth Shall Be Served", "original_title": "Youth Shall Be Served", "slug_title": "youth-shall-be-served", "date": "1933-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Anthony Asquith\u2019s advert for Stork Margarine.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

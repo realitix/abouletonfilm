@@ -1,0 +1,1 @@
+{"tmdb_id": 351487, "title": "A Yarn About Yarn", "original_title": "A Yarn About Yarn", "slug_title": "a-yarn-about-yarn", "date": "1941-12-12", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon released 12 December 1941.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

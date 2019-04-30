@@ -1,0 +1,1 @@
+{"tmdb_id": 597068, "title": "Die Schweiz von oben", "original_title": "Die Schweiz von oben", "slug_title": "die-schweiz-von-oben", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

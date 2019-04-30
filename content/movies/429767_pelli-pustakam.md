@@ -1,0 +1,1 @@
+{"tmdb_id": 429767, "title": "Pelli Pustakam", "original_title": "Pelli Pustakam", "slug_title": "pelli-pustakam", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "2013 Telugu Movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

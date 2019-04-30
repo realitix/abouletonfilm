@@ -1,0 +1,1 @@
+{"tmdb_id": 414631, "title": "AWA Super Sunday", "original_title": "AWA Super Sunday", "slug_title": "awa-super-sunday", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "American Wrestling Alliance supercard on April 24th, 1983.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

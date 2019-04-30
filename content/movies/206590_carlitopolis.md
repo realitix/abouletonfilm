@@ -1,0 +1,1 @@
+{"tmdb_id": 206590, "title": "Carlitopolis", "original_title": "Carlitopolis", "slug_title": "carlitopolis", "date": "2006-01-28", "genre": [""], "score": "5.5/10", "synopsis": "A short by Luis Nieto.", "image": "/img/default-cover.png", "actors": ["Luis Nieto (Professor Nieto)"], "comments": [], "recommandations_id": [], "youtube_key": "kgLeiLGvMto"}

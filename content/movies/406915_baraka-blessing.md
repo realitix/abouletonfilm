@@ -1,0 +1,1 @@
+{"tmdb_id": 406915, "title": "Baraka (Blessing)", "original_title": "Baraka (Blessing)", "slug_title": "baraka-blessing", "date": "2008-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about the aftermath of a racist attack.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

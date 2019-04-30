@@ -1,0 +1,1 @@
+{"tmdb_id": 597715, "title": "A Buck's Worth", "original_title": "A Buck's Worth", "slug_title": "a-buck-s-worth", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Short movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

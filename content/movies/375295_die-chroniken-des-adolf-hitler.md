@@ -1,0 +1,1 @@
+{"tmdb_id": 375295, "title": "Die Chroniken des Adolf Hitler", "original_title": "Die Chroniken des Adolf Hitler", "slug_title": "die-chroniken-des-adolf-hitler", "date": "2013-05-14", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

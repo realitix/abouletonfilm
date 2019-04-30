@@ -1,0 +1,1 @@
+{"tmdb_id": 572808, "title": "Petrolineide", "original_title": "Petrolineide", "slug_title": "petrolineide", "date": "1949-01-01", "genre": ["T\u00e9l\u00e9film"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

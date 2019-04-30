@@ -1,0 +1,1 @@
+{"tmdb_id": 558138, "title": "Goat Lover 4", "original_title": "Goat Lover 4", "slug_title": "goat-lover-4", "date": "2011-01-01", "genre": [""], "score": "0.0/10", "synopsis": "The conclusion of the story of Ukpabi and his young son, and their mischief.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

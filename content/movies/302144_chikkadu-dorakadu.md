@@ -1,0 +1,1 @@
+{"tmdb_id": 302144, "title": "Chikkadu Dorakadu", "original_title": "Chikkadu Dorakadu", "slug_title": "chikkadu-dorakadu", "date": "1967-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Jayalalitha J, Taraka Rama Rao Nandamuri and Kanta Rao", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

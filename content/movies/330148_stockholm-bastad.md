@@ -1,0 +1,1 @@
+{"tmdb_id": 330148, "title": "Stockholm - B\u00e5stad", "original_title": "Stockholm - B\u00e5stad", "slug_title": "stockholm-bastad", "date": "2011-07-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4zV2Cj4Hr8th9ZVUtuYzLxMtHBP.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

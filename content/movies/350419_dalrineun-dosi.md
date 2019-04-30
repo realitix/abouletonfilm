@@ -1,0 +1,1 @@
+{"tmdb_id": 350419, "title": "\ub2ec\ub9ac\ub294 \ub3c4\uc2dc", "original_title": "\ub2ec\ub9ac\ub294 \ub3c4\uc2dc", "slug_title": "dalrineun-dosi", "date": "1989-11-25", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

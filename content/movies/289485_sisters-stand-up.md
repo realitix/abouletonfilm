@@ -1,0 +1,1 @@
+{"tmdb_id": 289485, "title": "Sisters Stand Up", "original_title": "Sisters Stand Up", "slug_title": "sisters-stand-up", "date": "1950-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Shih Hui.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

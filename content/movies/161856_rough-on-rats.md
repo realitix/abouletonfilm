@@ -1,0 +1,1 @@
+{"tmdb_id": 161856, "title": "Rough on Rats", "original_title": "Rough on Rats", "slug_title": "rough-on-rats", "date": "1933-07-13", "genre": ["Animation"], "score": "6.7/10", "synopsis": "An animated short, part of Van Beuren's Aesop Fables collection.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

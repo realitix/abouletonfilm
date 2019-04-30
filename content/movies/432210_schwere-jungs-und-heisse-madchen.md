@@ -1,0 +1,1 @@
+{"tmdb_id": 432210, "title": "Schwere Jungs Und Heisse M\u00e4dchen", "original_title": "Schwere Jungs Und Heisse M\u00e4dchen", "slug_title": "schwere-jungs-und-heisse-madchen", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

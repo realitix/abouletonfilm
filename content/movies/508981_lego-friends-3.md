@@ -1,0 +1,1 @@
+{"tmdb_id": 508981, "title": "LEGO Friends 3", "original_title": "LEGO Friends 3", "slug_title": "lego-friends-3", "date": "2015-12-04", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tQETFI9D0x4BHdpB60M1nLAft4R.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

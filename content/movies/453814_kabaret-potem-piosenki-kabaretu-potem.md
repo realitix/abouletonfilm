@@ -1,0 +1,1 @@
+{"tmdb_id": 453814, "title": "Kabaret Potem - Piosenki Kabaretu Potem", "original_title": "Kabaret Potem - Piosenki Kabaretu Potem", "slug_title": "kabaret-potem-piosenki-kabaretu-potem", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

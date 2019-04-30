@@ -1,0 +1,1 @@
+{"tmdb_id": 556311, "title": "Florine, la fleur du Valois", "original_title": "Florine, la fleur du Valois", "slug_title": "florine-la-fleur-du-valois", "date": "1927-03-25", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

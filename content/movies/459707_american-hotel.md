@@ -1,0 +1,1 @@
+{"tmdb_id": 459707, "title": "American Hotel", "original_title": "American Hotel", "slug_title": "american-hotel", "date": "1983-01-05", "genre": [""], "score": "0.0/10", "synopsis": "Film by Telscher.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gyEgV9hDekj36hQH8NZyYCyjQcm.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

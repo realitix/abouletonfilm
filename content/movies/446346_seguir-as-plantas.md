@@ -1,0 +1,1 @@
+{"tmdb_id": 446346, "title": "Seguir as Plantas", "original_title": "Seguir as Plantas", "slug_title": "seguir-as-plantas", "date": "2016-09-23", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gF1iIjFIhHrOm1W5QBwPr00Lwud.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

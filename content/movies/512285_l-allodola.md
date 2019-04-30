@@ -1,0 +1,1 @@
+{"tmdb_id": 512285, "title": "L'allodola", "original_title": "L'allodola", "slug_title": "l-allodola", "date": "1973-03-16", "genre": [""], "score": "0.0/10", "synopsis": "Vittorio Cottafavi's 1973 television adaptation of Jean Anouih's play on Joan of Arc.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

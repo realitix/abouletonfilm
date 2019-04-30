@@ -1,0 +1,1 @@
+{"tmdb_id": 350314, "title": "\uce60\uc0c9\uc870", "original_title": "\uce60\uc0c9\uc870", "slug_title": "cilsaegjo", "date": "1990-10-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

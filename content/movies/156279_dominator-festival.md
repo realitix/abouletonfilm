@@ -1,0 +1,1 @@
+{"tmdb_id": 156279, "title": "Dominator Festival", "original_title": "Dominator Festival", "slug_title": "dominator-festival", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Live registration of the dutch Dominator hardcore festival (2005).", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 353336, "title": "Mister Cok", "original_title": "Monsieur Cok", "slug_title": "mister-cok", "date": "2009-01-16", "genre": ["Science-Fiction / Animation"], "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/54T8U24M8hzcXnOcBVQcziERsyL.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "Fb3HxswYEoI"}

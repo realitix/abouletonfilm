@@ -1,0 +1,1 @@
+{"tmdb_id": 333048, "title": "Light and Darkness", "original_title": "Nur wa zalem", "slug_title": "light-and-darkness", "date": "1947-01-02", "genre": [""], "score": "0.0/10", "synopsis": "The first Syrian talkie.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

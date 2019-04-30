@@ -1,0 +1,1 @@
+{"tmdb_id": 392168, "title": "\u62c6\u5c40\u4e13\u5bb6", "original_title": "\u62c6\u5c40\u4e13\u5bb6", "slug_title": "chai-ju-zhuan-jia", "date": "", "genre": [""], "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mjGDel7wWLJj4JUs47KcXdHfyEr.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

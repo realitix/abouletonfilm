@@ -1,0 +1,1 @@
+{"tmdb_id": 536274, "title": "Dear, Sweet Emma", "original_title": "Dear, Sweet Emma", "slug_title": "dear-sweet-emma", "date": "2003-03-01", "genre": ["Animation / Com\u00e9die"], "score": "0.0/10", "synopsis": "Emma has a dark side.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

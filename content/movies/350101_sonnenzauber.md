@@ -1,0 +1,1 @@
+{"tmdb_id": 350101, "title": "Sonnenzauber", "original_title": "Sonnenzauber", "slug_title": "sonnenzauber", "date": "1937-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Short animated film about wine processing.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 371256, "title": "Edmond Yakiri", "original_title": "Edmond Yakiri", "slug_title": "edmond-yakiri", "date": "2006-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about family of director.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

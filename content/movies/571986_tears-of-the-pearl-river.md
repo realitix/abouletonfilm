@@ -1,0 +1,1 @@
+{"tmdb_id": 571986, "title": "Tears of the Pearl River", "original_title": "Zhujiang lei", "slug_title": "tears-of-the-pearl-river", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "The final film of acclaimed director Chusheng Cai.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 471297, "title": "CARMEN - OPERA DIFERIDO", "original_title": "CARMEN - OPERA DIFERIDO", "slug_title": "carmen-opera-diferido", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mQqMq8W3rgsdU9RpxlF0fTmNQXV.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

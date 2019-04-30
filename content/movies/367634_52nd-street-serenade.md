@@ -1,0 +1,1 @@
+{"tmdb_id": 367634, "title": "52nd Street Serenade", "original_title": "52nd Street Serenade", "slug_title": "52nd-street-serenade", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "American Indie Film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 518363, "title": "El nadador", "original_title": "El nadador", "slug_title": "el-nadador", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A boy throws himself into the sea without looking back.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

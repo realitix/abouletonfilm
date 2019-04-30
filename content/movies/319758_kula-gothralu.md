@@ -1,0 +1,1 @@
+{"tmdb_id": 319758, "title": "Kula Gothralu", "original_title": "Kula Gothralu", "slug_title": "kula-gothralu", "date": "1962-01-01", "genre": [""], "score": "0.0/10", "synopsis": "FIlm starring Mikkilineni, Akkineni Nageshwara Rao and Krishna Kumari", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

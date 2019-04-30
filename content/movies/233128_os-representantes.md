@@ -1,0 +1,1 @@
+{"tmdb_id": 233128, "title": "Os representantes", "original_title": "Os representantes", "slug_title": "os-representantes", "date": "2009-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

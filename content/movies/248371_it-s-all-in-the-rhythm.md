@@ -1,0 +1,1 @@
+{"tmdb_id": 248371, "title": "It's All in the Rhythm", "original_title": "It's All in the Rhythm", "slug_title": "it-s-all-in-the-rhythm", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "It's All in the Rhythm", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349881, "title": "\ucac4\ubcd1\uc218\ucca9 2", "original_title": "\ucac4\ubcd1\uc218\ucca9 2", "slug_title": "jjolbyeongsuceob-2", "date": "1990-05-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

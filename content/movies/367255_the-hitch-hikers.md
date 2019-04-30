@@ -1,0 +1,1 @@
+{"tmdb_id": 367255, "title": "The Hitch-hikers", "original_title": "The Hitch-hikers", "slug_title": "the-hitch-hikers", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "American Standalone.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

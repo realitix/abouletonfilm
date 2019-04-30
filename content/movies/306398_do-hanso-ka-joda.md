@@ -1,0 +1,1 @@
+{"tmdb_id": 306398, "title": "Do Hanso Ka Joda", "original_title": "Do Hanso Ka Joda", "slug_title": "do-hanso-ka-joda", "date": "1992-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1992", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 433740, "title": "Trouble", "original_title": "Bela-1986", "slug_title": "trouble", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Bela. Aka: Trouble  Dir:  Cast: Nihat Yi\u011fit' (The 'Turkish Bruce Lee').  TURKEY - 1986", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 598447, "title": "Kara Davut", "original_title": "Kara Davut", "slug_title": "kara-davut", "date": "1967-04-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kartal Tibet (Kara Davut)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

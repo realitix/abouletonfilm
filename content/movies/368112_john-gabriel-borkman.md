@@ -1,0 +1,1 @@
+{"tmdb_id": 368112, "title": "John Gabriel Borkman", "original_title": "John Gabriel Borkman", "slug_title": "john-gabriel-borkman", "date": "1978-01-10", "genre": [""], "score": "0.0/10", "synopsis": "Based on a play by Henrik Ibsen (Norwegian)", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

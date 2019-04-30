@@ -1,0 +1,1 @@
+{"tmdb_id": 347913, "title": "Un mundo para mi", "original_title": "Un mundo para mi", "slug_title": "un-mundo-para-mi", "date": "", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vicente Parra ()", "Agn\u00e8s Laurent ()", "Barbara Laage ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

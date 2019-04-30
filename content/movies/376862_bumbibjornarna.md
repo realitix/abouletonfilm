@@ -1,0 +1,1 @@
+{"tmdb_id": 376862, "title": "Bumbibj\u00f6rnarna", "original_title": "Bumbibj\u00f6rnarna", "slug_title": "bumbibjornarna", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9a66BKUoQNPfm2nVyOkaL1w3Bsh.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

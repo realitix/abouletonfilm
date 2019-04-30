@@ -1,0 +1,1 @@
+{"tmdb_id": 299606, "title": "Mentira", "original_title": "Mentira", "slug_title": "mentira", "date": "2004-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Raunchy thriller starring Martha Acu\u00f1a, Veronica de la Campa and Jaime Gerner.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 529829, "title": "Der dicke Rebell", "original_title": "Der dicke Rebell", "slug_title": "der-dicke-rebell", "date": "1987-06-20", "genre": [""], "score": "0.0/10", "synopsis": "Documentary film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 514719, "title": "Quarto Camarim", "original_title": "Quarto Camarim", "slug_title": "quarto-camarim", "date": "2017-09-05", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cZRtSYQlX8QfExjSXsTyaZtNQMg.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

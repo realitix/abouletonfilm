@@ -1,0 +1,1 @@
+{"tmdb_id": 564734, "title": "Nada Al\u00e9m da Noite", "original_title": "Nada Al\u00e9m da Noite", "slug_title": "nada-alem-da-noite", "date": "2018-11-29", "genre": [""], "score": "0.0/10", "synopsis": "Nothing But Night", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350877, "title": "\ub2ec\ube5b \uc0ac\ub0e5\uafbc", "original_title": "\ub2ec\ube5b \uc0ac\ub0e5\uafbc", "slug_title": "dalbic-sanyangggun", "date": "1987-03-14", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

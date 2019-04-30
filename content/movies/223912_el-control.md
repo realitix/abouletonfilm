@@ -1,0 +1,1 @@
+{"tmdb_id": 223912, "title": "El control", "original_title": "El control", "slug_title": "el-control", "date": "2013-09-25", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yRAtAdteYCKIsG4kwxswpOa23wR.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 404078, "title": "Leaving", "original_title": "Leaving", "slug_title": "leaving", "date": "2008-11-18", "genre": [""], "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

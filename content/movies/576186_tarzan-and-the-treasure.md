@@ -1,0 +1,1 @@
+{"tmdb_id": 576186, "title": "Tarzan and the Treasure", "original_title": "Tarzan and the Treasure", "slug_title": "tarzan-and-the-treasure", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Tarzan vs. Macau triads in Malay jungle", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

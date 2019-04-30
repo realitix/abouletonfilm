@@ -1,0 +1,1 @@
+{"tmdb_id": 351976, "title": "O Mundo Segundo Anish Kapoor", "original_title": "O Mundo Segundo Anish Kapoor", "slug_title": "o-mundo-segundo-anish-kapoor", "date": "", "genre": ["Documentaire"], "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

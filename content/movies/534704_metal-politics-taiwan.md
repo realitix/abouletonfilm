@@ -1,0 +1,1 @@
+{"tmdb_id": 534704, "title": "Metal Politics Taiwan", "original_title": "Metal Politics Taiwan", "slug_title": "metal-politics-taiwan", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 503541, "title": "Il confino di Cesare Pavese", "original_title": "Il confino di Cesare Pavese", "slug_title": "il-confino-di-cesare-pavese", "date": "1967-02-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

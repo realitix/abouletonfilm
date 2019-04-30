@@ -1,0 +1,1 @@
+{"tmdb_id": 451247, "title": "Coyote Story", "original_title": "Coyote Story", "slug_title": "coyote-story", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "When Coyote meets some ducks, they put him in the mood for a good dinner.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

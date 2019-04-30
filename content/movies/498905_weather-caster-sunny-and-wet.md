@@ -1,0 +1,1 @@
+{"tmdb_id": 498905, "title": "Weather caster sunny and wet", "original_title": "Weather caster sunny and wet", "slug_title": "weather-caster-sunny-and-wet", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

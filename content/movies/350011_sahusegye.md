@@ -1,0 +1,1 @@
+{"tmdb_id": 350011, "title": "\uc0ac\ud6c4\uc138\uacc4", "original_title": "\uc0ac\ud6c4\uc138\uacc4", "slug_title": "sahusegye", "date": "1982-02-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

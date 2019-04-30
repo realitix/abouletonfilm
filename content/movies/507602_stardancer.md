@@ -1,0 +1,1 @@
+{"tmdb_id": 507602, "title": "Stardancer", "original_title": "Stardancer", "slug_title": "stardancer", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Ihman Esturco", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

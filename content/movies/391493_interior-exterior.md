@@ -1,0 +1,1 @@
+{"tmdb_id": 391493, "title": "Interior/Exterior", "original_title": "Interior/Exterior", "slug_title": "interior-exterior", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A group of renowned japanese artists talk about japanese culture.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 428345, "title": "Der gemischte Frauenchor", "original_title": "Der gemischte Frauenchor", "slug_title": "der-gemischte-frauenchor", "date": "1916-06-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernst Lubitsch (Dirigent)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

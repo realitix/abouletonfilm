@@ -1,0 +1,1 @@
+{"tmdb_id": 525111, "title": "Moje miasto", "original_title": "Moje miasto", "slug_title": "moje-miasto", "date": "1950-01-01", "genre": ["Documentaire"], "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

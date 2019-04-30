@@ -1,0 +1,1 @@
+{"tmdb_id": 371415, "title": "Etrangere", "original_title": "Etrangere", "slug_title": "etrangere", "date": "2010-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Short about a female bodybuilder.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

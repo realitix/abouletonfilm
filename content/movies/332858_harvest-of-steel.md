@@ -1,0 +1,1 @@
+{"tmdb_id": 332858, "title": "Harvest of Steel", "original_title": "Moissons d'acier", "slug_title": "harvest-of-steel", "date": "1983-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Ghaouti Bendedouche.", "image": "/img/default-cover.png", "actors": ["Sid Ahmed Agoumi ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

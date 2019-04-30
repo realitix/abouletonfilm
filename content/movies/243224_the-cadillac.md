@@ -1,0 +1,1 @@
+{"tmdb_id": 243224, "title": "The Cadillac", "original_title": "The Cadillac", "slug_title": "the-cadillac", "date": "1962-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Oscar nominated short film from 1962", "image": "/img/default-cover.png", "actors": ["Alex Montoya ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

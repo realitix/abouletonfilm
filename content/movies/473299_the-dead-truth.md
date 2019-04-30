@@ -1,0 +1,1 @@
+{"tmdb_id": 473299, "title": "The Dead Truth", "original_title": "The Dead Truth", "slug_title": "the-dead-truth", "date": "2017-08-31", "genre": [""], "score": "0.0/10", "synopsis": "A one man made all out family conundrum.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

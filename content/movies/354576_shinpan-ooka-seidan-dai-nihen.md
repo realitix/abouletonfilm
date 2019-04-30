@@ -1,0 +1,1 @@
+{"tmdb_id": 354576, "title": "Shinpan \u00d4oka seidan: Dai-nihen", "original_title": "Shinpan \u00d4oka seidan: Dai-nihen", "slug_title": "shinpan-ooka-seidan-dai-nihen", "date": "1928-06-08", "genre": [""], "score": "0.0/10", "synopsis": "Silent Japanese film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

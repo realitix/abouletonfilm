@@ -1,0 +1,1 @@
+{"tmdb_id": 183351, "title": "Jiu Se Lu", "original_title": "Jiu Se Lu", "slug_title": "jiu-se-lu", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

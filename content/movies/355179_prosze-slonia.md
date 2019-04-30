@@ -1,0 +1,1 @@
+{"tmdb_id": 355179, "title": "Prosz\u0119 s\u0142onia", "original_title": "Prosz\u0119 s\u0142onia", "slug_title": "prosze-slonia", "date": "1980-12-31", "genre": [""], "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Fupdr0dPzaB2mjRiRPetFxsWmD.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

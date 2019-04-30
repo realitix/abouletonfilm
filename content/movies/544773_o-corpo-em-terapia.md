@@ -1,0 +1,1 @@
+{"tmdb_id": 544773, "title": "O Corpo em Terapia", "original_title": "O Corpo em Terapia", "slug_title": "o-corpo-em-terapia", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6M62GMo7AVcVc9l30JW9TyVE499.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

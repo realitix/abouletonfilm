@@ -1,0 +1,1 @@
+{"tmdb_id": 339414, "title": "Let's Do This", "original_title": "Let's Do This", "slug_title": "let-s-do-this", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Two guys hit the road working for a motivational speaking company.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

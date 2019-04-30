@@ -1,0 +1,1 @@
+{"tmdb_id": 350328, "title": "\uc9c0\uc625 12\uad00\ubb38", "original_title": "\uc9c0\uc625 12\uad00\ubb38", "slug_title": "jiog-12gwanmun", "date": "1980-05-24", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

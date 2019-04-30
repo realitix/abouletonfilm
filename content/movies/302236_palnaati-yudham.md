@@ -1,0 +1,1 @@
+{"tmdb_id": 302236, "title": "Palnaati Yudham", "original_title": "Palnaati Yudham", "slug_title": "palnaati-yudham", "date": "1966-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Taraka Rama Rao Nandamuri, Bhanumathi Ramakrishna and Mikkilineni", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

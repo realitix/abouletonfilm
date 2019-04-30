@@ -1,0 +1,1 @@
+{"tmdb_id": 555742, "title": "L'ami des montagnes", "original_title": "L'ami des montagnes", "slug_title": "l-ami-des-montagnes", "date": "1921-03-11", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 367316, "title": "Okay okay. Der moderne Tanz", "original_title": "Okay okay. Der moderne Tanz", "slug_title": "okay-okay-der-moderne-tanz", "date": "1980-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Essay film about music and urbanity.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

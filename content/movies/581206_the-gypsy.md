@@ -1,0 +1,1 @@
+{"tmdb_id": 581206, "title": "The Gypsy", "original_title": "La Gitana", "slug_title": "the-gypsy", "date": "1909-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A man sneaks away from his wife to see a gypsy. The woman and gypsy duel to the death.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

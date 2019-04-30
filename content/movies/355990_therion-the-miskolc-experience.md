@@ -1,0 +1,1 @@
+{"tmdb_id": 355990, "title": "Therion The Miskolc Experience", "original_title": "Therion The Miskolc Experience", "slug_title": "therion-the-miskolc-experience", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

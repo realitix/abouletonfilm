@@ -1,0 +1,1 @@
+{"tmdb_id": 570606, "title": "La r\u00e8gle du je", "original_title": "La r\u00e8gle du je", "slug_title": "la-regle-du-je", "date": "1992-09-23", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4U2bqeH77pu2T7vERhDeSeEBsvE.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

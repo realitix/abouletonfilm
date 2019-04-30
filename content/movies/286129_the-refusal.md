@@ -1,0 +1,1 @@
+{"tmdb_id": 286129, "title": "The Refusal", "original_title": "Al-raft", "slug_title": "the-refusal", "date": "1982-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Mohamed Bouamari.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

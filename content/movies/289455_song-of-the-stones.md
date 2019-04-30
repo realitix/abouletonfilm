@@ -1,0 +1,1 @@
+{"tmdb_id": 289455, "title": "Song of the Stones", "original_title": "Nashid al-hijara", "slug_title": "song-of-the-stones", "date": "1988-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Michel Khlefi.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

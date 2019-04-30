@@ -1,0 +1,1 @@
+{"tmdb_id": 539460, "title": "Goodbye Marilyn", "original_title": "Goodbye Marilyn", "slug_title": "goodbye-marilyn", "date": "2018-09-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A9JOqlscl27qjCsItIps9L99soN.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

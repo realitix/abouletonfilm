@@ -1,0 +1,1 @@
+{"tmdb_id": 350965, "title": "\ub0ad\ud654\ube44\uad8c", "original_title": "\ub0ad\ud654\ube44\uad8c", "slug_title": "nanghwabigweon", "date": "1979-01-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

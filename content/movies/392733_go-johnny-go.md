@@ -1,0 +1,1 @@
+{"tmdb_id": 392733, "title": "Go Johnny Go", "original_title": "Go Johnny Go", "slug_title": "go-johnny-go", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Johnny Abarrientos, Rochelle Barrameda, Willie Revillame", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

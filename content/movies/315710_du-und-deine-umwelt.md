@@ -1,0 +1,1 @@
+{"tmdb_id": 315710, "title": "Du und Deine Umwelt", "original_title": "Du und Deine Umwelt", "slug_title": "du-und-deine-umwelt", "date": "1975-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "A educational short.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

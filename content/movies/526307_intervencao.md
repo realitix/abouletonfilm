@@ -1,0 +1,1 @@
+{"tmdb_id": 526307, "title": "Interven\u00e7\u00e3o", "original_title": "Interven\u00e7\u00e3o", "slug_title": "intervencao", "date": "2017-07-14", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8nvsWs1TOUImQ9YgZsJj9FUSYi5.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

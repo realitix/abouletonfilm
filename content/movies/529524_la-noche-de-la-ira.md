@@ -1,0 +1,1 @@
+{"tmdb_id": 529524, "title": "La noche de la ira", "original_title": "La noche de la ira", "slug_title": "la-noche-de-la-ira", "date": "", "genre": [""], "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

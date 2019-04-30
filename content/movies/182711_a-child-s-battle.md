@@ -1,0 +1,1 @@
+{"tmdb_id": 182711, "title": "A Child's Battle", "original_title": "A Child's Battle", "slug_title": "a-child-s-battle", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

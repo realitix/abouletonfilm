@@ -1,0 +1,1 @@
+{"tmdb_id": 211521, "title": "Candie Candie", "original_title": "Candie Candie", "slug_title": "candie-candie", "date": "1980-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/stfO9qMCciZOr7Nmyrfdy3hcDoj.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

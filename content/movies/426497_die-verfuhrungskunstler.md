@@ -1,0 +1,1 @@
+{"tmdb_id": 426497, "title": "Die Verf\u00fchrungsk\u00fcnstler", "original_title": "Die Verf\u00fchrungsk\u00fcnstler", "slug_title": "die-verfuhrungskunstler", "date": "2013-04-28", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

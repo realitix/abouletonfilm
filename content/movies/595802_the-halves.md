@@ -1,0 +1,1 @@
+{"tmdb_id": 595802, "title": "The Halves", "original_title": "Les moiti\u00e9s", "slug_title": "the-halves", "date": "2015-08-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5HogcfEWKnv7kHahdoEEN2c6GTp.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

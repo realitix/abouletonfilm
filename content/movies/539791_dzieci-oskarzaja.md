@@ -1,0 +1,1 @@
+{"tmdb_id": 539791, "title": "Dzieci Oskarzaja", "original_title": "Dzieci Oskarzaja", "slug_title": "dzieci-oskarzaja", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5GyC61ASbBUHMVQzgMdnpTnofOb.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 307969, "title": "Duniya Jhukti Hai", "original_title": "Duniya Jhukti Hai", "slug_title": "duniya-jhukti-hai", "date": "1960-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood film from director JBH Wadia.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

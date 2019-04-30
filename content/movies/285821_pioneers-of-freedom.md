@@ -1,0 +1,1 @@
+{"tmdb_id": 285821, "title": "Pioneers of Freedom", "original_title": "Para Perintis Kemerdekaan", "slug_title": "pioneers-of-freedom", "date": "1980-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Asrul Sani.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

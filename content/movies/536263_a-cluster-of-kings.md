@@ -1,0 +1,1 @@
+{"tmdb_id": 536263, "title": "A Cluster of Kings", "original_title": "A Cluster of Kings", "slug_title": "a-cluster-of-kings", "date": "1927-01-16", "genre": ["Animation"], "score": "0.0/10", "synopsis": "animated short", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

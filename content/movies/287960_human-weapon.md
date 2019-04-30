@@ -1,0 +1,1 @@
+{"tmdb_id": 287960, "title": "Human Weapon", "original_title": "Human Weapon", "slug_title": "human-weapon", "date": "2003-06-25", "genre": [""], "score": "0.0/10", "synopsis": "A sober, in-depth examination of the complexities of the suicide bombing phenomenon.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

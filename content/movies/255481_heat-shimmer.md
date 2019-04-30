@@ -1,0 +1,1 @@
+{"tmdb_id": 255481, "title": "Heat Shimmer", "original_title": "Heat Shimmer", "slug_title": "heat-shimmer", "date": "1978-01-01", "genre": [""], "score": "0.0/10", "synopsis": "3-colour separation film.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ucbQultY0DK7NYQIi5oX4WxnXa8.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

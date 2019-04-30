@@ -1,0 +1,1 @@
+{"tmdb_id": 561909, "title": "#Yoxdubel\u0259s\u00f6hb\u0259t", "original_title": "#Yoxdubel\u0259s\u00f6hb\u0259t", "slug_title": "yoxdubel-sohb-t", "date": "2017-01-11", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 535124, "title": "Sodom's Cat", "original_title": "\u7d22\u591a\u746a\u7684\u8c93", "slug_title": "sodom-s-cat", "date": "", "genre": ["Romance / Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

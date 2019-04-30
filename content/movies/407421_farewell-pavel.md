@@ -1,1 +1,0 @@
-{"tmdb_id": 407421, "title": "Farewell Pavel", "original_title": "Farewell Pavel", "slug_title": "farewell-pavel", "date": "1999-06-15", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eIh8Bt4Pq3Kj6kUycZYUuDzcIkE.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

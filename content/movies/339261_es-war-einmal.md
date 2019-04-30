@@ -1,0 +1,1 @@
+{"tmdb_id": 339261, "title": "Es war einmal", "original_title": "Es war einmal", "slug_title": "es-war-einmal", "date": "1957-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Animated film about Germany's drift into nazism.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

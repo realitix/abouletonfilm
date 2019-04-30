@@ -1,0 +1,1 @@
+{"tmdb_id": 366778, "title": "Barber Shop", "original_title": "Barber Shop", "slug_title": "barber-shop", "date": "1986-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A young woman gets a haircut.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 471580, "title": "K\u00e1tharsis", "original_title": "K\u00e1tharsis", "slug_title": "katharsis", "date": "2017-08-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lCzdYiUCGOM6SsvjC3DRvFpFXUn.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

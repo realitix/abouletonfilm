@@ -1,0 +1,1 @@
+{"tmdb_id": 501733, "title": "Frederick", "original_title": "Frederick", "slug_title": "frederick", "date": "2017-06-06", "genre": ["Myst\u00e8re / Crime"], "score": "0.0/10", "synopsis": "How far would you go for your art?", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

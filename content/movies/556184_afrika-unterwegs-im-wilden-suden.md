@@ -1,0 +1,1 @@
+{"tmdb_id": 556184, "title": "Afrika - Unterwegs im wilden S\u00fcden", "original_title": "Afrika - Unterwegs im wilden S\u00fcden", "slug_title": "afrika-unterwegs-im-wilden-suden", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

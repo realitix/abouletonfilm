@@ -1,0 +1,1 @@
+{"tmdb_id": 516551, "title": "Chile: By Reason or By Force", "original_title": "Chile: Pela Raz\u00e3o ou Pela For\u00e7a", "slug_title": "chile-by-reason-or-by-force", "date": "1983-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

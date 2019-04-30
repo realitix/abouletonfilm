@@ -1,0 +1,1 @@
+{"tmdb_id": 567345, "title": "Fashions for Women", "original_title": "Fashions for Women", "slug_title": "fashions-for-women", "date": "1927-03-26", "genre": [""], "score": "0.0/10", "synopsis": "Film by Dorothy Arzner.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

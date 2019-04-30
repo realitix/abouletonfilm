@@ -1,0 +1,1 @@
+{"tmdb_id": 574326, "title": "Earth and Fire", "original_title": "Earth and Fire", "slug_title": "earth-and-fire", "date": "1970-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Un court film de Robert Fulton", "image": "/img/default-cover.png", "actors": ["Paul Soldner (Himself)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

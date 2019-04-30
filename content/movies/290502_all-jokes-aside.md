@@ -1,0 +1,1 @@
+{"tmdb_id": 290502, "title": "All Jokes Aside", "original_title": "All Jokes Aside", "slug_title": "all-jokes-aside", "date": "2000-01-01", "genre": [""], "score": "0.0/10", "synopsis": "\"Laughumentary\" about black comedians in Hollywood.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 584283, "title": "Morden i Sandhamn 05 - I stundens hetta", "original_title": "Morden i Sandhamn 05 - I stundens hetta", "slug_title": "morden-i-sandhamn-05-i-stundens-hetta", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

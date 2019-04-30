@@ -1,0 +1,1 @@
+{"tmdb_id": 589232, "title": "Abschied", "original_title": "Abschied", "slug_title": "abschied", "date": "2014-02-15", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Claudia Martini ()", "Martina Spitzer ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

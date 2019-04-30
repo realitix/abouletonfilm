@@ -1,0 +1,1 @@
+{"tmdb_id": 597292, "title": "Talihsiz Yavrum", "original_title": "Talihsiz Yavrum", "slug_title": "talihsiz-yavrum", "date": "1974-04-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hIKeRLECLlUv7FzBWg7RpejWsfl.jpg", "actors": ["Fatma Girik ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

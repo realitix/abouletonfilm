@@ -1,0 +1,1 @@
+{"tmdb_id": 334643, "title": "Love... Another Four Letter Word", "original_title": "Love... Another Four Letter Word", "slug_title": "love-another-four-letter-word", "date": "2011-02-16", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Angela Burris.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

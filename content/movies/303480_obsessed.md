@@ -1,0 +1,1 @@
+{"tmdb_id": 303480, "title": "Obsessed", "original_title": "\u9b3c\u63a9\u773c", "slug_title": "obsessed", "date": "1983-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A fireman is possesed by the dead, burnt corpse of a woman he tried to save.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

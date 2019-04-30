@@ -1,0 +1,1 @@
+{"tmdb_id": 306341, "title": "Aduthaathu Albert", "original_title": "Aduthaathu Albert", "slug_title": "aduthaathu-albert", "date": "1985-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1980s motion picture starring G.N. Rangarajan", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

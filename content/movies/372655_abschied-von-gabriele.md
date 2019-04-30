@@ -1,0 +1,1 @@
+{"tmdb_id": 372655, "title": "Abschied von Gabriele", "original_title": "Abschied von Gabriele", "slug_title": "abschied-von-gabriele", "date": "1976-09-22", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Manja G\u00f6ring ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

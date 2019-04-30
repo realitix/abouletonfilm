@@ -1,0 +1,1 @@
+{"tmdb_id": 591648, "title": "W\u0142adcy przyg\u00f3d. St\u0105d do Oblivio", "original_title": "W\u0142adcy przyg\u00f3d. St\u0105d do Oblivio", "slug_title": "wladcy-przygod-stad-do-oblivio", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

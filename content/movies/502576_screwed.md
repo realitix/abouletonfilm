@@ -1,0 +1,1 @@
+{"tmdb_id": 502576, "title": "SCREWED", "original_title": "SCREWED", "slug_title": "screwed", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "He thought taking the easy way would be right , but boy was he wrong !  https://youtu.be/FuW_a0LZiL8", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

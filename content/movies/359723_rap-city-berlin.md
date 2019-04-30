@@ -1,0 +1,1 @@
+{"tmdb_id": 359723, "title": "Rap City Berlin", "original_title": "Rap City Berlin", "slug_title": "rap-city-berlin", "date": "2005-04-25", "genre": [""], "score": "0.0/10", "synopsis": "a dvd about berlins rap crews", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

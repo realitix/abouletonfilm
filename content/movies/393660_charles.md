@@ -1,0 +1,1 @@
+{"tmdb_id": 393660, "title": "CHARLEs", "original_title": "CHARLEs", "slug_title": "charles", "date": "2014-11-08", "genre": [""], "score": "0.0/10", "synopsis": "CHARLEs encounters and old friend.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/atFAhotBPKwZQyfcXEhRxiiQRQz.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

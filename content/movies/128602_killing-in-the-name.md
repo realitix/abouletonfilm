@@ -1,0 +1,1 @@
+{"tmdb_id": 128602, "title": "Killing in the Name", "original_title": "Killing in the Name", "slug_title": "killing-in-the-name", "date": "2010-08-01", "genre": [""], "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uqpdxAx6HH6nWX4ktpy0k10DBZB.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

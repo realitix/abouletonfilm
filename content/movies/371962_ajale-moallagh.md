@@ -1,0 +1,1 @@
+{"tmdb_id": 371962, "title": "Ajale Moallagh", "original_title": "Ajale Moallagh", "slug_title": "ajale-moallagh", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Persian (Iranian) Movie", "image": "/img/default-cover.png", "actors": ["Nosratolah Vahdat ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

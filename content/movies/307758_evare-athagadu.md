@@ -1,0 +1,1 @@
+{"tmdb_id": 307758, "title": "Evare Athagadu", "original_title": "Evare Athagadu", "slug_title": "evare-athagadu", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "Film starring  Vallabha, Priyamani, Jaya Seal", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

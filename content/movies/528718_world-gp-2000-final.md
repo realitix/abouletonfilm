@@ -1,0 +1,1 @@
+{"tmdb_id": 528718, "title": "World GP 2000 Final", "original_title": "World GP 2000 Final", "slug_title": "world-gp-2000-final", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "World GP 2000 Final", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

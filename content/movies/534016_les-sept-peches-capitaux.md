@@ -1,0 +1,1 @@
+{"tmdb_id": 534016, "title": "Les sept p\u00e9ch\u00e9s capitaux", "original_title": "Les sept p\u00e9ch\u00e9s capitaux", "slug_title": "les-sept-peches-capitaux", "date": "1992-01-01", "genre": [""], "score": "0.0/10", "synopsis": "(no summary right now)", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

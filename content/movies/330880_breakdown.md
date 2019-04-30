@@ -1,0 +1,1 @@
+{"tmdb_id": 330880, "title": "Breakdown", "original_title": "Rupture", "slug_title": "breakdown", "date": "1982-01-02", "genre": [""], "score": "6.0/10", "synopsis": "Directed by Mohamed Chouikh.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

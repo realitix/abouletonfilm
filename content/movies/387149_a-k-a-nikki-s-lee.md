@@ -1,0 +1,1 @@
+{"tmdb_id": 387149, "title": "A.k.a. Nikki S. Lee", "original_title": "A.k.a. Nikki S. Lee", "slug_title": "a-k-a-nikki-s-lee", "date": "2006-01-01", "genre": [""], "score": "0.0/10", "synopsis": "The jet set life of artist Nikki S. Lee.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

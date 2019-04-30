@@ -1,0 +1,1 @@
+{"tmdb_id": 114487, "title": "Charly Graf - Ein deutscher Boxer", "original_title": "Charly Graf - Ein deutscher Boxer", "slug_title": "charly-graf-ein-deutscher-boxer", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

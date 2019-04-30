@@ -1,0 +1,1 @@
+{"tmdb_id": 290881, "title": "Traveller's Palm", "original_title": "Traveller's Palm", "slug_title": "traveller-s-palm", "date": "1976-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Written by Joyce Borenstein.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

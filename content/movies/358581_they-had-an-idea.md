@@ -1,0 +1,1 @@
+{"tmdb_id": 358581, "title": "They Had an Idea", "original_title": "They Had an Idea", "slug_title": "they-had-an-idea", "date": "1953-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Part of BFI collection \"Just the Ticket.\"", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

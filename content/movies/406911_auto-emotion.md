@@ -1,0 +1,1 @@
+{"tmdb_id": 406911, "title": "Auto Emotion", "original_title": "Auto Emotion", "slug_title": "auto-emotion", "date": "1982-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Short industry film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

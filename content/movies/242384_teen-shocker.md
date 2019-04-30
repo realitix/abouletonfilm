@@ -1,0 +1,1 @@
+{"tmdb_id": 242384, "title": "Teen Shocker", "original_title": "Teen Shocker", "slug_title": "teen-shocker", "date": "2002-01-02", "genre": [""], "score": "6.0/10", "synopsis": "A short by Ulrich Meczulat.", "image": "/img/default-cover.png", "actors": ["Sandy Senkbeil ()", "Ulrich Meczulat ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

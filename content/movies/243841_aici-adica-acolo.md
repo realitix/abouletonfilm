@@ -1,0 +1,1 @@
+{"tmdb_id": 243841, "title": "Aici... adica acolo", "original_title": "Aici... adica acolo", "slug_title": "aici-adica-acolo", "date": "2012-01-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

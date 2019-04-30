@@ -1,0 +1,1 @@
+{"tmdb_id": 488664, "title": "Legacy of Blood", "original_title": "Legacy of Blood", "slug_title": "legacy-of-blood", "date": "1974-03-12", "genre": [""], "score": "0.0/10", "synopsis": "An insurance man is heavily in debt to a money lender and must pay or die.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

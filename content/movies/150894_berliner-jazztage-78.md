@@ -1,0 +1,1 @@
+{"tmdb_id": 150894, "title": "Berliner Jazztage '78", "original_title": "Berliner Jazztage '78", "slug_title": "berliner-jazztage-78", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A Fela Kuti concert documentary produced for German television", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 129896, "title": "Sheared", "original_title": "Sheared", "slug_title": "sheared", "date": "2011-01-01", "genre": ["Science-Fiction"], "score": "0.0/10", "synopsis": "No overview found.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jtjZE2x9jdbYVOIm1DJ81FuxzvK.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 474247, "title": "Le cin\u00e9matographe", "original_title": "Le cin\u00e9matographe", "slug_title": "le-cinematographe", "date": "1969-05-01", "genre": [""], "score": "0.0/10", "synopsis": "An experimental film directed by Michel Baulez.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

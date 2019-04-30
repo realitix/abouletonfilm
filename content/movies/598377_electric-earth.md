@@ -1,0 +1,1 @@
+{"tmdb_id": 598377, "title": "Electric Earth", "original_title": "Electric Earth", "slug_title": "electric-earth", "date": "1999-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1999 video art piece by filmmaker Doug Aitken", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 494812, "title": "KADHAKALI", "original_title": "KADHAKALI", "slug_title": "kadhakali", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "DIRECTED BY SAIJU KANNANAIKAL IN MALAYALAM", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n2vLwWOT6K29xSnk87mEZ9enYOt.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 477633, "title": "Cars - Hook International", "original_title": "Cars - Hook International", "slug_title": "cars-hook-international", "date": "2007-09-24", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

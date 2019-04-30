@@ -1,0 +1,1 @@
+{"tmdb_id": 564966, "title": "Caravaggio, la potenza della luce", "original_title": "Caravaggio, la potenza della luce", "slug_title": "caravaggio-la-potenza-della-luce", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

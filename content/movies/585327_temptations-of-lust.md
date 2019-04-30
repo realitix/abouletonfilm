@@ -1,0 +1,1 @@
+{"tmdb_id": 585327, "title": "Temptations of Lust", "original_title": "Temptations of Lust", "slug_title": "temptations-of-lust", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 443011, "title": "Douglas Bravo", "original_title": "Douglas Bravo", "slug_title": "douglas-bravo", "date": "1970-02-21", "genre": [""], "score": "0.0/10", "synopsis": "A citizen made film from Venezuela", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

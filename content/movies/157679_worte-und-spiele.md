@@ -1,0 +1,1 @@
+{"tmdb_id": 157679, "title": "Worte und Spiele", "original_title": "Worte und Spiele", "slug_title": "worte-und-spiele", "date": "1998-01-01", "genre": [""], "score": "5.0/10", "synopsis": "film by farocki", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3IaDlor9BCAlObpQfYi1rnAPtdL.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

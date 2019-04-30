@@ -1,0 +1,1 @@
+{"tmdb_id": 558647, "title": "Sa majest\u00e9 petite barbe", "original_title": "Sa majest\u00e9 petite barbe", "slug_title": "sa-majeste-petite-barbe", "date": "2008-01-01", "genre": [""], "score": "0.0/10", "synopsis": "short film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

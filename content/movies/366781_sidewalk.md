@@ -1,0 +1,1 @@
+{"tmdb_id": 366781, "title": "Sidewalk", "original_title": "Sidewalk", "slug_title": "sidewalk", "date": "2008-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Short film about a street in New York.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

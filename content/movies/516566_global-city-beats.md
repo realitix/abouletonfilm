@@ -1,0 +1,1 @@
+{"tmdb_id": 516566, "title": "Global City Beats", "original_title": "Global City Beats", "slug_title": "global-city-beats", "date": "2009-06-18", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dBAuemx1VKtUaspV3yos2ChiuuE.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

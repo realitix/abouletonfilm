@@ -1,0 +1,1 @@
+{"tmdb_id": 329352, "title": "The Green Light", "original_title": "al-Daw' al-Akhdar", "slug_title": "the-green-light", "date": "1976-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Libyan film released in 1976.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 547592, "title": "La Jau\ufeffla\ufeff", "original_title": "La Jau\ufeffla\ufeff", "slug_title": "la-jaula", "date": "2016-07-31", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5NZYVovNiRhGnYU5gjGPUoU8rf5.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

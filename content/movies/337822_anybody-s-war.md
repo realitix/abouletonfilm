@@ -1,0 +1,1 @@
+{"tmdb_id": 337822, "title": "Anybody's War", "original_title": "Anybody's War", "slug_title": "anybody-s-war", "date": "1930-07-09", "genre": [""], "score": "0.0/10", "synopsis": "A dog catcher is rejected by the army, but sneaks in with his dog.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

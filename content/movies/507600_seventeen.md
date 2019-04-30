@@ -1,0 +1,1 @@
+{"tmdb_id": 507600, "title": "Seventeen", "original_title": "Seventeen", "slug_title": "seventeen", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Filmmaker Mollie Mills explores the hopes and dreams of adolescents in seaside Britain", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

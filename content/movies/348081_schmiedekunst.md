@@ -1,0 +1,1 @@
+{"tmdb_id": 348081, "title": "Schmiedekunst", "original_title": "Schmiedekunst", "slug_title": "schmiedekunst", "date": "1936-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about skilled blacksmiths.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

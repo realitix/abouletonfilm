@@ -1,0 +1,1 @@
+{"tmdb_id": 573108, "title": "The Caribbean Cafe  Hot", "original_title": "The Caribbean Cafe  Hot", "slug_title": "the-caribbean-cafe-hot", "date": "2009-11-04", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Miosotis (Waitress)", "Anna Song (Client)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

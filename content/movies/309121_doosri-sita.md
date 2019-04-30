@@ -1,0 +1,1 @@
+{"tmdb_id": 309121, "title": "Doosri Sita", "original_title": "Doosri Sita", "slug_title": "doosri-sita", "date": "1974-07-05", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1974", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

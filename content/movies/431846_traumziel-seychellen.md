@@ -1,0 +1,1 @@
+{"tmdb_id": 431846, "title": "Traumziel Seychellen", "original_title": "Traumziel Seychellen", "slug_title": "traumziel-seychellen", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

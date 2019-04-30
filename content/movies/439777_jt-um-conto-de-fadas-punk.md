@@ -1,0 +1,1 @@
+{"tmdb_id": 439777, "title": "JT - Um Conto de Fadas Punk", "original_title": "JT - Um Conto de Fadas Punk", "slug_title": "jt-um-conto-de-fadas-punk", "date": "2017-02-05", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

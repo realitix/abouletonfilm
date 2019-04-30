@@ -1,0 +1,1 @@
+{"tmdb_id": 274448, "title": "Locos por las part\u00edculas", "original_title": "Locos por las part\u00edculas", "slug_title": "locos-por-las-particulas", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 564397, "title": "Crystals", "original_title": "Crystals", "slug_title": "crystals", "date": "1951-12-01", "genre": [""], "score": "0.0/10", "synopsis": "Experimental film by Elwood Decker.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

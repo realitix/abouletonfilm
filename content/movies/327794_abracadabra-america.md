@@ -1,0 +1,1 @@
+{"tmdb_id": 327794, "title": "Abracadabra America", "original_title": "Amrika Shika Bika", "slug_title": "abracadabra-america", "date": "1993-01-02", "genre": [""], "score": "5.0/10", "synopsis": "Directed by Khairy Beshara.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

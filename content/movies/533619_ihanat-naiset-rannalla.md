@@ -1,0 +1,1 @@
+{"tmdb_id": 533619, "title": "Ihanat naiset rannalla", "original_title": "Ihanat naiset rannalla", "slug_title": "ihanat-naiset-rannalla", "date": "2017-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Boy sees lovely ladies at the beach", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

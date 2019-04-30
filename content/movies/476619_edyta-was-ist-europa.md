@@ -1,0 +1,1 @@
+{"tmdb_id": 476619, "title": "Edyta \u2013 was ist Europa?", "original_title": "Edyta \u2013 was ist Europa?", "slug_title": "edyta-was-ist-europa", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

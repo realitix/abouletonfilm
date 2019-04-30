@@ -1,0 +1,1 @@
+{"tmdb_id": 595860, "title": "Mascha und der B\u00e4r", "original_title": "Mascha und der B\u00e4r", "slug_title": "mascha-und-der-bar", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

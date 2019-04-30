@@ -1,0 +1,1 @@
+{"tmdb_id": 479353, "title": "The Price of Fairness", "original_title": "The Price of Fairness", "slug_title": "the-price-of-fairness", "date": "", "genre": [""], "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

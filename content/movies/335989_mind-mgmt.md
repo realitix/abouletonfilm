@@ -1,0 +1,1 @@
+{"tmdb_id": 335989, "title": "Mind MGMT", "original_title": "Mind MGMT", "slug_title": "mind-mgmt", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "A film based on the popular comic book series Mind MGMT by Matt Kindt.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

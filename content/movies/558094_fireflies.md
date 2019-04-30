@@ -1,0 +1,1 @@
+{"tmdb_id": 558094, "title": "Fireflies", "original_title": "Deduna", "slug_title": "fireflies", "date": "1987-10-01", "genre": [""], "score": "0.0/10", "synopsis": "Life in a Georgian village as seen from the perspective of a 10 year old girl.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

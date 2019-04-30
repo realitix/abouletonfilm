@@ -1,0 +1,1 @@
+{"tmdb_id": 406074, "title": "Vaibhav Movie", "original_title": "Vaibhav Movie", "slug_title": "vaibhav-movie", "date": "", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "Vaibhav movie details", "image": "/img/default-cover.png", "actors": ["Vaibhav Gupta (Main)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

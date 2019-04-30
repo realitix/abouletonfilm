@@ -1,0 +1,1 @@
+{"tmdb_id": 562962, "title": "The Scenery Through the Smog", "original_title": "\u98a8\u5f9e\u54ea\u88e1\u4f86", "slug_title": "the-scenery-through-the-smog", "date": "2018-11-18", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

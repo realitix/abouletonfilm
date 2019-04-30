@@ -1,0 +1,1 @@
+{"tmdb_id": 196758, "title": "Brecht vs. Pabst", "original_title": "Brecht vs. Pabst", "slug_title": "brecht-vs-pabst", "date": "2007-09-17", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about Brecht vs. Pabst vision of The Threepenny Opera (1931).", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

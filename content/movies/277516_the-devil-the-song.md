@@ -1,0 +1,1 @@
+{"tmdb_id": 277516, "title": "The Devil & the Song", "original_title": "The Devil & the Song", "slug_title": "the-devil-the-song", "date": "1989-03-31", "genre": [""], "score": "0.0/10", "synopsis": "(no plot found)", "image": "/img/default-cover.png", "actors": ["Bles Bridges ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350238, "title": "\ubc14\ub2e4\ub85c \uac04 \ubaa9\ub9c8", "original_title": "\ubc14\ub2e4\ub85c \uac04 \ubaa9\ub9c8", "slug_title": "badaro-gan-mogma", "date": "1980-10-18", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

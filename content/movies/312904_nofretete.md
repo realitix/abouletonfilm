@@ -1,0 +1,1 @@
+{"tmdb_id": 312904, "title": "Nofretete", "original_title": "Nofretete", "slug_title": "nofretete", "date": "2004-06-19", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 433678, "title": "Ameerpet Lo", "original_title": "Ameerpet Lo", "slug_title": "ameerpet-lo", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "2016 Telugu Movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

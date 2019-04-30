@@ -1,0 +1,1 @@
+{"tmdb_id": 166292, "title": "Fire Bugs", "original_title": "Fire Bugs", "slug_title": "fire-bugs", "date": "1930-05-08", "genre": [""], "score": "0.0/10", "synopsis": "Bimbo has problems trying to put out a fire that's burning a building to a crisp.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

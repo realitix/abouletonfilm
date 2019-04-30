@@ -1,0 +1,1 @@
+{"tmdb_id": 334421, "title": "My Life, My Passion", "original_title": "Ya Dunya Ya Gharami", "slug_title": "my-life-my-passion", "date": "1996-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Magdy Ahmed Aly.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

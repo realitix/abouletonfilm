@@ -1,0 +1,1 @@
+{"tmdb_id": 456364, "title": "Likneslsen om sadden", "original_title": "Likneslsen om sadden", "slug_title": "likneslsen-om-sadden", "date": "2011-02-02", "genre": [""], "score": "0.0/10", "synopsis": "A farmer works his field.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

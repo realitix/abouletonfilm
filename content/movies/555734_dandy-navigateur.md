@@ -1,0 +1,1 @@
+{"tmdb_id": 555734, "title": "Dandy navigateur", "original_title": "Dandy navigateur", "slug_title": "dandy-navigateur", "date": "1920-10-22", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

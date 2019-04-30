@@ -1,0 +1,1 @@
+{"tmdb_id": 282345, "title": "The Civil Servant", "original_title": "Al bash kateb", "slug_title": "the-civil-servant", "date": "1922-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Mohamed Bayoumi.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

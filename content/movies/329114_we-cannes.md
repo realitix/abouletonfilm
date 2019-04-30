@@ -1,0 +1,1 @@
+{"tmdb_id": 329114, "title": "We Cannes", "original_title": "We Cannes", "slug_title": "we-cannes", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Discover the magic of making films", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5oioFtVY0PEWWbhEC9m3O8A4xLV.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

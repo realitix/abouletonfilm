@@ -1,0 +1,1 @@
+{"tmdb_id": 462019, "title": "A Figament of My Imagination", "original_title": "A Figament of My Imagination", "slug_title": "a-figament-of-my-imagination", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Is it a dream or a nightmare?", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

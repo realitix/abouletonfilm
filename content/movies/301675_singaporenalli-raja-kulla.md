@@ -1,0 +1,1 @@
+{"tmdb_id": 301675, "title": "Singaporenalli Raja Kulla", "original_title": "Singaporenalli Raja Kulla", "slug_title": "singaporenalli-raja-kulla", "date": "1978-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1978", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

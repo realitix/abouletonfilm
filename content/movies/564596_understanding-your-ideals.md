@@ -1,0 +1,1 @@
+{"tmdb_id": 564596, "title": "Understanding Your Ideals", "original_title": "Understanding Your Ideals", "slug_title": "understanding-your-ideals", "date": "1950-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Young Jeff learns the error of his ways.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

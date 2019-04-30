@@ -1,0 +1,1 @@
+{"tmdb_id": 571250, "title": "Soz Ucar", "original_title": "Soz Ucar", "slug_title": "soz-ucar", "date": "2017-06-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qUnyCqSPVf1cqSZqS0rzIFOdmrB.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

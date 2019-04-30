@@ -1,0 +1,1 @@
+{"tmdb_id": 240359, "title": "Das Spukhaus", "original_title": "Das Spukhaus", "slug_title": "das-spukhaus", "date": "2003-06-10", "genre": [""], "score": "0.0/10", "synopsis": "A haunted house documentary by Volker Anding.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

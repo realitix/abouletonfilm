@@ -1,0 +1,1 @@
+{"tmdb_id": 581137, "title": "Les Mots", "original_title": "Les Mots", "slug_title": "les-mots", "date": "2013-02-10", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Nicky Hamlyn.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

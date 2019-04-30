@@ -1,0 +1,1 @@
+{"tmdb_id": 342755, "title": "Zing Mee Met Barbie", "original_title": "Zing Mee Met Barbie", "slug_title": "zing-mee-met-barbie", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xzXH7iuL639Lon5Jitag7xC3LN9.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

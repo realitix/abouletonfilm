@@ -1,0 +1,1 @@
+{"tmdb_id": 296522, "title": "Boston Strong", "original_title": "Boston Strong", "slug_title": "boston-strong", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "In Development, to star Casey Affleck", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

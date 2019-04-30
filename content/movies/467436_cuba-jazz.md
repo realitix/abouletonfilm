@@ -1,0 +1,1 @@
+{"tmdb_id": 467436, "title": "Cuba Jazz", "original_title": "Cuba Jazz", "slug_title": "cuba-jazz", "date": "2015-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jteeE51aCMDIQsGdDlLFjZX5B1p.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

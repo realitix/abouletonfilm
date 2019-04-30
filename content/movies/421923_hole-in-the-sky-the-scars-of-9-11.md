@@ -1,0 +1,1 @@
+{"tmdb_id": 421923, "title": "Hole in the Sky - The Scars of 9/11", "original_title": "Hole in the Sky - The Scars of 9/11", "slug_title": "hole-in-the-sky-the-scars-of-9-11", "date": "2006-09-06", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 289675, "title": "The Story of Steel", "original_title": "The Story of Steel", "slug_title": "the-story-of-steel", "date": "1956-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Documentary directed by Harisadhan Dasgupta.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

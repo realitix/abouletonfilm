@@ -1,0 +1,1 @@
+{"tmdb_id": 556986, "title": "La vagabonde", "original_title": "La vagabonde", "slug_title": "la-vagabonde", "date": "1932-01-28", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

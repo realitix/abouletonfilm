@@ -1,0 +1,1 @@
+{"tmdb_id": 403501, "title": "Balasci\u00f2", "original_title": "Balasci\u00f2", "slug_title": "balascio", "date": "2003-01-01", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Natalino Balasso ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

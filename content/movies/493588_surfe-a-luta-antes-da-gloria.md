@@ -1,0 +1,1 @@
+{"tmdb_id": 493588, "title": "Surfe: A luta antes da gl\u00f3ria", "original_title": "Surfe: A luta antes da gl\u00f3ria", "slug_title": "surfe-a-luta-antes-da-gloria", "date": "2017-12-18", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

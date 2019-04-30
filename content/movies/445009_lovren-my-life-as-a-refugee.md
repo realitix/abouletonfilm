@@ -1,0 +1,1 @@
+{"tmdb_id": 445009, "title": "Lovren: My Life as a Refugee", "original_title": "Lovren: My Life as a Refugee", "slug_title": "lovren-my-life-as-a-refugee", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

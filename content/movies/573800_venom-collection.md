@@ -1,0 +1,1 @@
+{"tmdb_id": 573800, "title": "Venom Collection", "original_title": "Venom Collection", "slug_title": "venom-collection", "date": "", "genre": [""], "score": "8.0/10", "synopsis": "Film series centered on the Venom Marvel character.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

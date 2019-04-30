@@ -1,0 +1,1 @@
+{"tmdb_id": 588496, "title": "Sher Khan", "original_title": "Sher Khan", "slug_title": "sher-khan", "date": "1981-08-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

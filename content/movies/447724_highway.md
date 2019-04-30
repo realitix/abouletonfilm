@@ -1,0 +1,1 @@
+{"tmdb_id": 447724, "title": "HighWay", "original_title": "HighWay", "slug_title": "highway", "date": "1987-07-16", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "A woman driving alone at night encounter a man covered with blood on the road.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

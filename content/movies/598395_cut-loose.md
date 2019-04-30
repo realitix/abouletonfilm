@@ -1,0 +1,1 @@
+{"tmdb_id": 598395, "title": "Cut Loose", "original_title": "Cut Loose", "slug_title": "cut-loose", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Starring Phil Dunham", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

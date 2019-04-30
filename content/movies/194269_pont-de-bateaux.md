@@ -1,0 +1,1 @@
+{"tmdb_id": 194269, "title": "Pont de bateaux", "original_title": "Pont de bateaux", "slug_title": "pont-de-bateaux", "date": "1896-11-14", "genre": [""], "score": "6.5/10", "synopsis": "A crowd of passers-by is granted access to a drawbridge by its gatekeeper.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

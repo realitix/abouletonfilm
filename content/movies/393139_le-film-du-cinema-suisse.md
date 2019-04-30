@@ -1,0 +1,1 @@
+{"tmdb_id": 393139, "title": "Le film du cin\u00e9ma suisse", "original_title": "Le film du cin\u00e9ma suisse", "slug_title": "le-film-du-cinema-suisse", "date": "1991-04-16", "genre": [""], "score": "0.0/10", "synopsis": "Cannes Festival 1991", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 352283, "title": "Dora Kerst", "original_title": "Dora Kerst", "slug_title": "dora-kerst", "date": "2009-11-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ifMCtUAaCd5ZMzJxg306y9m5qdx.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

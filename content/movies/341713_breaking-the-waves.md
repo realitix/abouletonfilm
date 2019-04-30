@@ -1,0 +1,1 @@
+{"tmdb_id": 341713, "title": "Breaking the Waves", "original_title": "Breaking the Waves", "slug_title": "breaking-the-waves", "date": "2014-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A rowing team gets a new captain - a woman!", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

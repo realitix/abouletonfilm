@@ -1,0 +1,1 @@
+{"tmdb_id": 345219, "title": "Cyclone of the Range", "original_title": "Cyclone of the Range", "slug_title": "cyclone-of-the-range", "date": "1927-04-26", "genre": [""], "score": "0.0/10", "synopsis": "A cowboy searches for the man who killed his brother.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

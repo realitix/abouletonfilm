@@ -1,0 +1,1 @@
+{"tmdb_id": 556842, "title": "Freedom2speak v2.0", "original_title": "Freedom2speak v2.0", "slug_title": "freedom2speak-v2-0", "date": "2004-02-08", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Documentary film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

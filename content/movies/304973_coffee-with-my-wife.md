@@ -1,0 +1,1 @@
+{"tmdb_id": 304973, "title": "Coffee with My Wife", "original_title": "Coffee with My Wife", "slug_title": "coffee-with-my-wife", "date": "2013-11-22", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 2013", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

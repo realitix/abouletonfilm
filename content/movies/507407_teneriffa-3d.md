@@ -1,0 +1,1 @@
+{"tmdb_id": 507407, "title": "Teneriffa 3D", "original_title": "Teneriffa 3D", "slug_title": "teneriffa-3d", "date": "2013-05-24", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lwNFr5VWQClLPCkr8MqSVe9LRLm.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

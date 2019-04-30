@@ -1,0 +1,1 @@
+{"tmdb_id": 257848, "title": "The Truth lies in Rostock", "original_title": "The Truth lies in Rostock", "slug_title": "the-truth-lies-in-rostock", "date": "1993-01-01", "genre": ["Documentaire"], "score": "4.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

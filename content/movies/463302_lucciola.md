@@ -1,0 +1,1 @@
+{"tmdb_id": 463302, "title": "Lucciola", "original_title": "Lucciola", "slug_title": "lucciola", "date": "1917-02-02", "genre": [""], "score": "0.0/10", "synopsis": "A homeless girl gets taken in by a painter.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

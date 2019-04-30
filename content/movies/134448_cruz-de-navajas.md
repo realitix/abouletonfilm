@@ -1,0 +1,1 @@
+{"tmdb_id": 134448, "title": "Cruz de navajas", "original_title": "Cruz de navajas", "slug_title": "cruz-de-navajas", "date": "2008-02-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ausencio Cruz ()", "Jos\u00e9 Carlos Ruiz ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

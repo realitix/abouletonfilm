@@ -1,0 +1,1 @@
+{"tmdb_id": 364168, "title": "The Bengali Night", "original_title": "La noche bengal\u00ed", "slug_title": "the-bengali-night", "date": "1980-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A short film by Narcisa Hirsch.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

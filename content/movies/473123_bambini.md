@@ -1,0 +1,1 @@
+{"tmdb_id": 473123, "title": "Bambini", "original_title": "Bambini", "slug_title": "bambini", "date": "1960-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

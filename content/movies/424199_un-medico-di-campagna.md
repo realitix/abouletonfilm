@@ -1,0 +1,1 @@
+{"tmdb_id": 424199, "title": "Un medico di campagna", "original_title": "Un medico di campagna", "slug_title": "un-medico-di-campagna", "date": "2012-02-04", "genre": [""], "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

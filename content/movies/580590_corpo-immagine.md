@@ -1,0 +1,1 @@
+{"tmdb_id": 580590, "title": "Corpo immagine", "original_title": "Corpo immagine", "slug_title": "corpo-immagine", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 317174, "title": "Krtek ve snu", "original_title": "Krtek ve snu", "slug_title": "krtek-ve-snu", "date": "2000-09-01", "genre": ["Animation / Familial"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hYAPHlryCN0R6w3ejvJijIUWgja.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

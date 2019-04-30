@@ -1,0 +1,1 @@
+{"tmdb_id": 333073, "title": "Qaffas al-Harim", "original_title": "Qaffas al-Harim", "slug_title": "qaffas-al-harim", "date": "1986-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Hussein Kamal.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

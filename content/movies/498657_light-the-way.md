@@ -1,0 +1,1 @@
+{"tmdb_id": 498657, "title": "Light the Way", "original_title": "Light the Way", "slug_title": "light-the-way", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Light the Way (2011)", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

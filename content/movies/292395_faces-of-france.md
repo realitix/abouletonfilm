@@ -1,0 +1,1 @@
+{"tmdb_id": 292395, "title": "Faces of France", "original_title": "Visages de France", "slug_title": "faces-of-france", "date": "1937-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Documentary directed by Andr\u00e9 Vigneau and Andr\u00e9 Wurmser.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

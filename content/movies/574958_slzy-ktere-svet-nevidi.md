@@ -1,0 +1,1 @@
+{"tmdb_id": 574958, "title": "Slzy, kter\u00e9 sv\u011bt nevid\u00ed", "original_title": "Slzy, kter\u00e9 sv\u011bt nevid\u00ed", "slug_title": "slzy-ktere-svet-nevidi", "date": "1962-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jan Werich ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

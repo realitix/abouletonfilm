@@ -1,0 +1,1 @@
+{"tmdb_id": 460900, "title": "Interstices", "original_title": "Interstices", "slug_title": "interstices", "date": "2003-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Presented at Documenta 14 in Athens.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 581425, "title": "Batticuore", "original_title": "Batticuore", "slug_title": "batticuore", "date": "1939-01-13", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Assia Noris (Arlette / La baronessina Dvorak)", "John Lodge (Lord Jerry Dansbury)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

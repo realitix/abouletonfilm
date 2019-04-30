@@ -1,0 +1,1 @@
+{"tmdb_id": 577597, "title": "Punkt krytyczny. Energia odNowa", "original_title": "Punkt krytyczny. Energia odNowa", "slug_title": "punkt-krytyczny-energia-odnowa", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcin Doroci\u0144ski (Narrator)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

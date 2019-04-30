@@ -1,0 +1,1 @@
+{"tmdb_id": 573007, "title": "Trile\u00e7e", "original_title": "Trile\u00e7e", "slug_title": "trilece", "date": "2018-12-28", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Derda Yasir Yenal ()", "Emirhan Oktay ()", "Semra Din\u00e7er ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

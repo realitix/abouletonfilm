@@ -1,0 +1,1 @@
+{"tmdb_id": 558290, "title": "Jahreskonzert KKM Bingen-B\u00fcdesheim 2018", "original_title": "Jahreskonzert KKM Bingen-B\u00fcdesheim 2018", "slug_title": "jahreskonzert-kkm-bingen-budesheim-2018", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

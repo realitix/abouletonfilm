@@ -1,0 +1,1 @@
+{"tmdb_id": 588519, "title": "Sher Dil", "original_title": "Sher Dil", "slug_title": "sher-dil", "date": "1990-12-21", "genre": [""], "score": "0.0/10", "synopsis": "Sher Dil cast by Sultan Rahi", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

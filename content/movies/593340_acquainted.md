@@ -1,0 +1,1 @@
+{"tmdb_id": 593340, "title": "Acquainted", "original_title": "Acquainted", "slug_title": "acquainted", "date": "", "genre": [""], "score": "8.0/10", "synopsis": "Former classmates run into each other at a bar and form an unexpected bond.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

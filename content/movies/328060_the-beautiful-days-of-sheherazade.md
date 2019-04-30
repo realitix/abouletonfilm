@@ -1,0 +1,1 @@
+{"tmdb_id": 328060, "title": "The Beautiful Days of Sheherazade", "original_title": "Ayyam Chahrazad aI-Hilwa", "slug_title": "the-beautiful-days-of-sheherazade", "date": "1982-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Mostafa Darkaoui.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

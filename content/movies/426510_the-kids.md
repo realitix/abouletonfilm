@@ -1,0 +1,1 @@
+{"tmdb_id": 426510, "title": "The Kids", "original_title": "Los guambras", "slug_title": "the-kids", "date": "1961-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "Three children from different regions travel across the country to obtain a fellowship.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

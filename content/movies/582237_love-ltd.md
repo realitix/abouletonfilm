@@ -1,0 +1,1 @@
+{"tmdb_id": 582237, "title": "Love, Ltd.", "original_title": "Love, Ltd.", "slug_title": "love-ltd", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "An early short film by Jennifer Phang about sexuality produced for Frameline.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

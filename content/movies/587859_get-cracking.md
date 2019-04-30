@@ -1,0 +1,1 @@
+{"tmdb_id": 587859, "title": "Get Cracking", "original_title": "Get Cracking", "slug_title": "get-cracking", "date": "1944-03-13", "genre": ["Com\u00e9die / Guerre"], "score": "0.0/10", "synopsis": "Theatrical advertisement for National Savings Stamps.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

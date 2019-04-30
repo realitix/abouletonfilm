@@ -1,0 +1,1 @@
+{"tmdb_id": 363581, "title": "Zdravstvui, Sochi", "original_title": "Zdravstvui, Sochi", "slug_title": "zdravstvui-sochi", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Reveals the Black Sea resort vying with western beaches in the 1970s.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

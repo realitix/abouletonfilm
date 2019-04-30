@@ -1,0 +1,1 @@
+{"tmdb_id": 531135, "title": "Lightmare", "original_title": "Lightmare", "slug_title": "lightmare", "date": "2001-06-19", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Robert Seidel.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

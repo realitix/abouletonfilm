@@ -1,0 +1,1 @@
+{"tmdb_id": 518763, "title": "Afternoon Tea", "original_title": "Afternoon Tea", "slug_title": "afternoon-tea", "date": "2015-04-09", "genre": ["Documentaire"], "score": "8.0/10", "synopsis": "Four elderly women meet for tea and a chat about preparing for death.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

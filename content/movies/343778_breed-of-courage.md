@@ -1,0 +1,1 @@
+{"tmdb_id": 343778, "title": "Breed of Courage", "original_title": "Breed of Courage", "slug_title": "breed-of-courage", "date": "1927-08-06", "genre": [""], "score": "0.0/10", "synopsis": "During a feud between remote families, a dog saves the day.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

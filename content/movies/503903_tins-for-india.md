@@ -1,0 +1,1 @@
+{"tmdb_id": 503903, "title": "Tins for India", "original_title": "Tins for India", "slug_title": "tins-for-india", "date": "1941-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "The manufacture of kerosene tins in an Indian factory.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

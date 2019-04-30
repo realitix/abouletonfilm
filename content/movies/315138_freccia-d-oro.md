@@ -1,0 +1,1 @@
+{"tmdb_id": 315138, "title": "Freccia d'oro", "original_title": "Freccia d'oro", "slug_title": "freccia-d-oro", "date": "1935-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Venice Film Festival 1935", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

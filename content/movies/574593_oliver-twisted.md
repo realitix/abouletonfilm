@@ -1,0 +1,1 @@
+{"tmdb_id": 574593, "title": "Oliver Twisted", "original_title": "Oliver Twisted", "slug_title": "oliver-twisted", "date": "1923-01-12", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "Joe Rock does a slapstick adaptation of Oliver Twist.", "image": "/img/default-cover.png", "actors": ["Joe Rock ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

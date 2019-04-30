@@ -1,0 +1,1 @@
+{"tmdb_id": 334140, "title": "Ask Us Who We Are", "original_title": "Ask Us Who We Are", "slug_title": "ask-us-who-we-are", "date": "2011-04-09", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Bess O'Brien.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

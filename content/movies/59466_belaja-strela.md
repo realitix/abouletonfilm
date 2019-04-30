@@ -1,0 +1,1 @@
+{"tmdb_id": 59466, "title": "Belaja strela", "original_title": "Belaja strela", "slug_title": "belaja-strela", "date": "2007-01-01", "genre": ["Crime / Action / Drame"], "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uU30NaqFyZhDsKePey8iTSbgrYS.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 423148, "title": "It Gets Worse", "original_title": "It Gets Worse", "slug_title": "it-gets-worse", "date": "2008-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A Film By Clifton Childree", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 389800, "title": "Como Comer um Elefante", "original_title": "Como Comer um Elefante", "slug_title": "como-comer-um-elefante", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

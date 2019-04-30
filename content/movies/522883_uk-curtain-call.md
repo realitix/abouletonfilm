@@ -1,0 +1,1 @@
+{"tmdb_id": 522883, "title": "UK - Curtain Call", "original_title": "UK - Curtain Call", "slug_title": "uk-curtain-call", "date": "2015-12-16", "genre": [""], "score": "0.0/10", "synopsis": "UK live at Club Citta, Japan - November 8, 2013", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 84916, "title": "O.C. California \"The Debut\"", "original_title": "O.C. California \"The Debut\"", "slug_title": "o-c-california-the-debut", "date": "", "genre": [""], "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 147312, "title": "Surfarara", "original_title": "Surfarara", "slug_title": "surfarara", "date": "1955-12-31", "genre": [""], "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kThoxqdXKnHjpQFNzZFx4ldfMo0.jpg", "actors": [], "comments": [], "recommandations_id": [148118, 227289, 147159, 148050], "youtube_key": "notfound"}

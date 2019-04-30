@@ -1,0 +1,1 @@
+{"tmdb_id": 415342, "title": "Lian huan pao", "original_title": "Lian huan pao", "slug_title": "lian-huan-pao", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A hit-man and his cop-brother gets involved with drug-dealing gangs in Hong Kong.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

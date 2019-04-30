@@ -1,0 +1,1 @@
+{"tmdb_id": 76423, "title": "Elemagika", "original_title": "Elemagika", "slug_title": "elemagika", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Paddle Pop Lions first full length feature film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

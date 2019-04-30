@@ -1,0 +1,1 @@
+{"tmdb_id": 386848, "title": "The Babylon Mystery - Nebuchadnessar", "original_title": "The Babylon Mystery - Nebuchadnessar", "slug_title": "the-babylon-mystery-nebuchadnessar", "date": "2004-03-11", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

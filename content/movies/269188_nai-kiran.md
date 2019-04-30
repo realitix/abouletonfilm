@@ -1,0 +1,1 @@
+{"tmdb_id": 269188, "title": "Nai Kiran", "original_title": "Nai Kiran", "slug_title": "nai-kiran", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Directed by S.M. Agha, Fareed Ahmed &amp; Nurul Islam", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

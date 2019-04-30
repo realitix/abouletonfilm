@@ -1,0 +1,1 @@
+{"tmdb_id": 351124, "title": "Hot Sands", "original_title": "Hot Sands", "slug_title": "hot-sands", "date": "1934-11-02", "genre": [""], "score": "0.0/10", "synopsis": "The Pup of Arabia.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

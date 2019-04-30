@@ -1,0 +1,1 @@
+{"tmdb_id": 565888, "title": "Le point douloureux", "original_title": "Le point douloureux", "slug_title": "le-point-douloureux", "date": "1979-10-17", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

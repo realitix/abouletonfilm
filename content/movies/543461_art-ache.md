@@ -1,0 +1,1 @@
+{"tmdb_id": 543461, "title": "Art Ache", "original_title": "Art Ache", "slug_title": "art-ache", "date": "1993-01-01", "genre": [""], "score": "0.0/10", "synopsis": "An artist describes himself.", "image": "/img/default-cover.png", "actors": ["Michael Saker (Michael Saker)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

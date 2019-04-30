@@ -1,0 +1,1 @@
+{"tmdb_id": 284351, "title": "Curta! Rel\u00e2mpago", "original_title": "Curta! Rel\u00e2mpago", "slug_title": "curta-relampago", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

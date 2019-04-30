@@ -1,0 +1,1 @@
+{"tmdb_id": 349959, "title": "\uae08\uac15\ud608\uc778", "original_title": "\uae08\uac15\ud608\uc778", "slug_title": "geumganghyeolin", "date": "1982-03-12", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 499889, "title": "Men of the Dance", "original_title": "Men of the Dance", "slug_title": "men-of-the-dance", "date": "1965-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A film by Costa Diagne.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

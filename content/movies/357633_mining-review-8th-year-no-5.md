@@ -1,0 +1,1 @@
+{"tmdb_id": 357633, "title": "Mining Review 8th Year No 5", "original_title": "Mining Review 8th Year No 5", "slug_title": "mining-review-8th-year-no-5", "date": "1955-01-02", "genre": [""], "score": "0.0/10", "synopsis": "British documentary.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

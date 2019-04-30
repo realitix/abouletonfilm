@@ -1,0 +1,1 @@
+{"tmdb_id": 339311, "title": "Wycieczka w kosmos", "original_title": "Wycieczka w kosmos", "slug_title": "wycieczka-w-kosmos", "date": "1961-06-29", "genre": [""], "score": "0.0/10", "synopsis": "Animated short film written by Stanislaw Lem.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

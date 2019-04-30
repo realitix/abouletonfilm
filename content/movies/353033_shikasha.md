@@ -1,0 +1,1 @@
+{"tmdb_id": 353033, "title": "Shikasha", "original_title": "Shikasha", "slug_title": "shikasha", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A woman and her child get trapped underground while investigators look for them.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

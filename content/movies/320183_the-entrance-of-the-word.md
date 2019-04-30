@@ -1,0 +1,1 @@
+{"tmdb_id": 320183, "title": "The Entrance of the Word", "original_title": "The Entrance of the Word", "slug_title": "the-entrance-of-the-word", "date": "2011-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A Classic By Pastor Chris Oyakhilome Ph. D", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

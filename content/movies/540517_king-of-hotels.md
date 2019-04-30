@@ -1,0 +1,1 @@
+{"tmdb_id": 540517, "title": "King of Hotels", "original_title": "Le roi des palaces", "slug_title": "king-of-hotels", "date": "1932-12-16", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

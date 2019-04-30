@@ -1,0 +1,1 @@
+{"tmdb_id": 76369, "title": "Die See der kleinen Monster", "original_title": "Die See der kleinen Monster", "slug_title": "die-see-der-kleinen-monster", "date": "2010-08-10", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

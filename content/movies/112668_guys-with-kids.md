@@ -1,0 +1,1 @@
+{"tmdb_id": 112668, "title": "Guys With Kids", "original_title": "Guys With Kids", "slug_title": "guys-with-kids", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "30-something dads struggle as parents because they are still children at heart.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

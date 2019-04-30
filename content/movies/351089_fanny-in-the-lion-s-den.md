@@ -1,0 +1,1 @@
+{"tmdb_id": 351089, "title": "Fanny in the Lion's Den", "original_title": "Fanny in the Lion's Den", "slug_title": "fanny-in-the-lion-s-den", "date": "1933-07-22", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon released 23 July 1933.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

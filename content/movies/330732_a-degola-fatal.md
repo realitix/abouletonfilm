@@ -1,0 +1,1 @@
+{"tmdb_id": 330732, "title": "A Degola Fatal", "original_title": "A Degola Fatal", "slug_title": "a-degola-fatal", "date": "2004-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gL6wqFCrwH1VPtg9GeNgrkt71c7.jpg", "actors": ["Glauber Rocha ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 378393, "title": "Killer Psychopaths", "original_title": "Killer Psychopaths", "slug_title": "killer-psychopaths", "date": "2015-02-10", "genre": ["Documentaire"], "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

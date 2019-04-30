@@ -1,0 +1,1 @@
+{"tmdb_id": 339690, "title": "The Cure", "original_title": "The Cure", "slug_title": "the-cure", "date": "2013-07-01", "genre": ["Thriller / Drame"], "score": "10.0/10", "synopsis": "David suffers from unbearable migraines. Will he find the cure?", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "j8QV11ltl7s"}

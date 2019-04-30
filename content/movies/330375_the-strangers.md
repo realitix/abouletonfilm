@@ -1,0 +1,1 @@
+{"tmdb_id": 330375, "title": "The Strangers", "original_title": "Gharibeh-ha", "slug_title": "the-strangers", "date": "1980-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Iranian film starring Morteza Aghili.", "image": "/img/default-cover.png", "actors": ["Morteza Aghili ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

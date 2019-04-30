@@ -1,0 +1,1 @@
+{"tmdb_id": 397571, "title": "Keechaka", "original_title": "Keechaka", "slug_title": "keechaka", "date": "2015-10-29", "genre": [""], "score": "0.0/10", "synopsis": "Sujata, a Software Engineer, is out to kill Koti, a Serial Rapist.", "image": "/img/default-cover.png", "actors": ["Yamini Bhaskar ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

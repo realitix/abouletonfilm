@@ -1,0 +1,1 @@
+{"tmdb_id": 567349, "title": "The Story of Tank Commander Nishizumi", "original_title": "Nishizumi senshacho-den", "slug_title": "the-story-of-tank-commander-nishizumi", "date": "1940-12-01", "genre": [""], "score": "0.0/10", "synopsis": "Japanese film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

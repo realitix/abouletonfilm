@@ -1,0 +1,1 @@
+{"tmdb_id": 337767, "title": "Beauty and the Body", "original_title": "Beauty and the Body", "slug_title": "beauty-and-the-body", "date": "1963-08-01", "genre": [""], "score": "0.0/10", "synopsis": "A Thrilling Experience in the World of Beauty and Adventure!", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

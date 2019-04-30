@@ -1,0 +1,1 @@
+{"tmdb_id": 516096, "title": "Simpatici - Camping", "original_title": "Simpatici - Camping", "slug_title": "simpatici-camping", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Going camping", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3q7I5nFMQbNuxME33eMo494KCnX.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

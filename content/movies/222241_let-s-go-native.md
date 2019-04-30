@@ -1,0 +1,1 @@
+{"tmdb_id": 222241, "title": "Let's Go Native", "original_title": "T\u00f6chter der Sonne", "slug_title": "let-s-go-native", "date": "1964-02-10", "genre": [""], "score": "1.0/10", "synopsis": "The adventures of three tourists in a nudist camp in Corsica.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

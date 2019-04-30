@@ -1,0 +1,1 @@
+{"tmdb_id": 390290, "title": "West Side Berlin", "original_title": "West Side Berlin", "slug_title": "west-side-berlin", "date": "2014-06-29", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

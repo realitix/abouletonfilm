@@ -1,0 +1,1 @@
+{"tmdb_id": 406919, "title": "6horts #2: Friday", "original_title": "6horts #2: Friday", "slug_title": "6horts-2-friday", "date": "2002-01-01", "genre": [""], "score": "0.0/10", "synopsis": "In a mosque, shoes are stolen.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

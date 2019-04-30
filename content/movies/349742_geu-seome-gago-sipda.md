@@ -1,0 +1,1 @@
+{"tmdb_id": 349742, "title": "\uadf8 \uc12c\uc5d0 \uac00\uace0 \uc2f6\ub2e4", "original_title": "\uadf8 \uc12c\uc5d0 \uac00\uace0 \uc2f6\ub2e4", "slug_title": "geu-seome-gago-sipda", "date": "1993-12-24", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

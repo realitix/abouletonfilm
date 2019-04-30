@@ -1,0 +1,1 @@
+{"tmdb_id": 331606, "title": "Victory of a People", "original_title": "Victoire d'un peuple", "slug_title": "victory-of-a-people", "date": "1975-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Ibrahim Babai.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

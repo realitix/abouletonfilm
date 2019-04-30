@@ -1,0 +1,1 @@
+{"tmdb_id": 489321, "title": "\ud0d0\ud558\ub2e4 \uc695\ub9dd\uc758 \uc12c", "original_title": "\ud0d0\ud558\ub2e4 \uc695\ub9dd\uc758 \uc12c", "slug_title": "tamhada-yogmangyi-seom", "date": "2017-05-07", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

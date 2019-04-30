@@ -1,0 +1,1 @@
+{"tmdb_id": 306401, "title": "Ivanente Priyaputhran", "original_title": "Ivanente Priyaputhran", "slug_title": "ivanente-priyaputhran", "date": "1977-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Prem Nazir and Jayan", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

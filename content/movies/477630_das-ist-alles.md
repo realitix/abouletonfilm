@@ -1,0 +1,1 @@
+{"tmdb_id": 477630, "title": "Das ist alles", "original_title": "Das ist alles", "slug_title": "das-ist-alles", "date": "2001-10-30", "genre": [""], "score": "0.0/10", "synopsis": "Portrait of a Russian village near Kaliningrad and its multiethnic inhabitants.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

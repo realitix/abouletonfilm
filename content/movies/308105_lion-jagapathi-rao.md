@@ -1,0 +1,1 @@
+{"tmdb_id": 308105, "title": "Lion Jagapathi Rao", "original_title": "Lion Jagapathi Rao", "slug_title": "lion-jagapathi-rao", "date": "1991-01-01", "genre": [""], "score": "7.0/10", "synopsis": "Kannada drama from director Om Sai Prakash.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

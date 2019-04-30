@@ -1,0 +1,1 @@
+{"tmdb_id": 574819, "title": "Looking for Kafka", "original_title": "\u00c0 la recherche de Kafka", "slug_title": "looking-for-kafka", "date": "2006-02-15", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sxztzNlXNhJBQyOfS2Y1b06G320.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 563821, "title": "Let's Talk Turkey", "original_title": "Let's Talk Turkey", "slug_title": "let-s-talk-turkey", "date": "1955-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Either a cooking short or propaganda from Big Turkey.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

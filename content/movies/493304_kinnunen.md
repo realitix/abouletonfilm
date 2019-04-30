@@ -1,0 +1,1 @@
+{"tmdb_id": 493304, "title": "Kinnunen", "original_title": "Kinnunen", "slug_title": "kinnunen", "date": "2008-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Amazing adventures of a Finn in Estonia. A Finn in search of wife.", "image": "/img/default-cover.png", "actors": ["Sesa Lehto (Juha Kinnunen)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

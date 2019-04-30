@@ -1,0 +1,1 @@
+{"tmdb_id": 326188, "title": "Kyuu BondS", "original_title": "Kyuu BondS", "slug_title": "kyuu-bonds", "date": "2007-01-01", "genre": ["Com\u00e9die"], "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bou (Himself)", "Miku (Himself)", "Teruki (Himself)", "Kanon (Himself)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

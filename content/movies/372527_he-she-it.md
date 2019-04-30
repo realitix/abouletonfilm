@@ -1,0 +1,1 @@
+{"tmdb_id": 372527, "title": "He.  She.  It.", "original_title": "He.  She.  It.", "slug_title": "he-she-it", "date": "2008-07-27", "genre": [""], "score": "0.0/10", "synopsis": "A teacher misbehaves to save his last two pupils.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

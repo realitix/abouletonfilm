@@ -1,0 +1,1 @@
+{"tmdb_id": 329469, "title": "A Finger in the Works", "original_title": "Un doigt dans l'engrenage", "slug_title": "a-finger-in-the-works", "date": "1974-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Ahmed Rachedi.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

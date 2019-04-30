@@ -1,0 +1,1 @@
+{"tmdb_id": 362437, "title": "The Devil in Velvet", "original_title": "The Devil in Velvet", "slug_title": "the-devil-in-velvet", "date": "1968-02-01", "genre": [""], "score": "0.0/10", "synopsis": "Larry Crane Sexploitation movie.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

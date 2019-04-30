@@ -1,0 +1,1 @@
+{"tmdb_id": 587688, "title": "Parsifal Verlernen", "original_title": "Parsifal Verlernen", "slug_title": "parsifal-verlernen", "date": "2017-05-25", "genre": [""], "score": "0.0/10", "synopsis": "An opera film by Alexander Kluge", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

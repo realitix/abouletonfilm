@@ -1,0 +1,1 @@
+{"tmdb_id": 350122, "title": "\ucd98\uc0c9\ud638\uace1", "original_title": "\ucd98\uc0c9\ud638\uace1", "slug_title": "cunsaeghogog", "date": "1981-06-28", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

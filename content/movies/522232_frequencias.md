@@ -1,0 +1,1 @@
+{"tmdb_id": 522232, "title": "Frequ\u00eancias", "original_title": "Frequ\u00eancias", "slug_title": "frequencias", "date": "2018-05-29", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jTxQIBf9d0GGhyHHt8pZcUaDM46.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

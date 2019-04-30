@@ -1,0 +1,1 @@
+{"tmdb_id": 328075, "title": "The Closed Door", "original_title": "al-Bab al-Nasdud", "slug_title": "the-closed-door", "date": "1994-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Abdelkader Lagtaa.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351126, "title": "Jack's Shack", "original_title": "Jack's Shack", "slug_title": "jack-s-shack", "date": "1934-11-30", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon released 30 November 1934.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 591785, "title": "\u0130kinci P\u0259rd\u0259", "original_title": "\u0130kinci P\u0259rd\u0259", "slug_title": "ikinci-p-rd", "date": "", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6v8PiDaEycWpPDeaPbRsf6EVQAr.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

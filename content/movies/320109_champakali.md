@@ -1,0 +1,1 @@
+{"tmdb_id": 320109, "title": "Champakali", "original_title": "Champakali", "slug_title": "champakali", "date": "1957-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1957", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 72406, "title": "Dis Life", "original_title": "Dis Life", "slug_title": "dis-life", "date": "2004-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "No movie overview available.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

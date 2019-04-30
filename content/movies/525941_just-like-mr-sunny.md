@@ -1,0 +1,1 @@
+{"tmdb_id": 525941, "title": "Just Like Mr. Sunny", "original_title": "Just Like Mr. Sunny", "slug_title": "just-like-mr-sunny", "date": "1983-12-04", "genre": [""], "score": "0.0/10", "synopsis": "Disney Channel Premiere Movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

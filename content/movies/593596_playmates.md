@@ -1,0 +1,1 @@
+{"tmdb_id": 593596, "title": "Playmates", "original_title": "Playmates", "slug_title": "playmates", "date": "1944-04-08", "genre": ["Musique"], "score": "0.0/10", "synopsis": "Billy McDonald sings \"Playmates\".", "image": "/img/default-cover.png", "actors": ["Billy McDonald ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

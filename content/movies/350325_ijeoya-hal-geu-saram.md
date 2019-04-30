@@ -1,0 +1,1 @@
+{"tmdb_id": 350325, "title": "\uc78a\uc5b4\uc57c \ud560 \uadf8 \uc0ac\ub78c", "original_title": "\uc78a\uc5b4\uc57c \ud560 \uadf8 \uc0ac\ub78c", "slug_title": "ijeoya-hal-geu-saram", "date": "1980-02-16", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

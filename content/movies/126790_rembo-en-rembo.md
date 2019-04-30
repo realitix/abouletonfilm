@@ -1,0 +1,1 @@
+{"tmdb_id": 126790, "title": "Rembo en Rembo", "original_title": "Rembo en Rembo", "slug_title": "rembo-en-rembo", "date": "2004-12-01", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1SNhtGUfNoRwNgXOpWIK3DykEGr.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 585095, "title": "Children of the Night", "original_title": "Children of the Night", "slug_title": "children-of-the-night", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Two girls meeting at an internet forum spend the night together.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 366329, "title": "Crasher Two! R/C Bloopers Tape", "original_title": "Crasher Two! R/C Bloopers Tape", "slug_title": "crasher-two-r-c-bloopers-tape", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "43 minutes of modeling mayhem.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

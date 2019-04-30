@@ -1,0 +1,1 @@
+{"tmdb_id": 284561, "title": "Jigoki ni ochita mitsuhide", "original_title": "Jigoki ni ochita mitsuhide", "slug_title": "jigoki-ni-ochita-mitsuhide", "date": "1926-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Kichiro Tsuji.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

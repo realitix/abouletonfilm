@@ -1,0 +1,1 @@
+{"tmdb_id": 274967, "title": "Voodoo Vengeance", "original_title": "Voodoo Vengeance", "slug_title": "voodoo-vengeance", "date": "1913-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Jack Bonavita.", "image": "/img/default-cover.png", "actors": ["Jack Bonavita ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 477966, "title": "La maison de la rue Arbat", "original_title": "La maison de la rue Arbat", "slug_title": "la-maison-de-la-rue-arbat", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

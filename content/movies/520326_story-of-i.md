@@ -1,0 +1,1 @@
+{"tmdb_id": 520326, "title": "Story of I", "original_title": "Story of I", "slug_title": "story-of-i", "date": "1997-04-24", "genre": [""], "score": "8.0/10", "synopsis": "Directed by Jo Ann Kaplan.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8wEmDhIj72RUfHEWnDZv26upAma.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

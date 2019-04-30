@@ -1,0 +1,1 @@
+{"tmdb_id": 554528, "title": "En Preparacion", "original_title": "En Preparacion", "slug_title": "en-preparacion", "date": "2010-01-10", "genre": [""], "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bJwFlzJ26Rtk2UjBqLc9sR3Pr9f.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

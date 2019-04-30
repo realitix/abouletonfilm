@@ -1,0 +1,1 @@
+{"tmdb_id": 303364, "title": "Rangbaaz", "original_title": "Rangbaaz", "slug_title": "rangbaaz", "date": "1996-10-25", "genre": [""], "score": "0.0/10", "synopsis": "Three men, who have lost faith in law and order, decide to fight for justice on their own terms.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

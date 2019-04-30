@@ -1,0 +1,1 @@
+{"tmdb_id": 452896, "title": "Cook, mug, cook!", "original_title": "Dome\u010dku, va\u0159!", "slug_title": "cook-mug-cook", "date": "2007-01-01", "genre": ["Animation"], "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

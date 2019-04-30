@@ -1,0 +1,1 @@
+{"tmdb_id": 461200, "title": "Eradication Code 6", "original_title": "Eradication Code 6", "slug_title": "eradication-code-6", "date": "", "genre": [""], "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nKHNi7KlEpW7YSIkrpv8Fehnt49.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

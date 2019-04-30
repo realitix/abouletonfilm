@@ -1,0 +1,1 @@
+{"tmdb_id": 587684, "title": "The Attendant", "original_title": "Polaznik", "slug_title": "the-attendant", "date": "1973-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "A rural community in the mountains. A story about death.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

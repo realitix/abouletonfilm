@@ -1,0 +1,1 @@
+{"tmdb_id": 234721, "title": "Bouncing Benny", "original_title": "Bouncing Benny", "slug_title": "bouncing-benny", "date": "1960-11-09", "genre": [""], "score": "0.0/10", "synopsis": "A boy with a springlike spine bounces his way through childhood.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

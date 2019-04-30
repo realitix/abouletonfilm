@@ -1,0 +1,1 @@
+{"tmdb_id": 331179, "title": "O Liberdade", "original_title": "O Liberdade", "slug_title": "o-liberdade", "date": "2012-01-01", "genre": ["Documentaire / Musique"], "score": "0.0/10", "synopsis": "Film from Rafael Andreazza, C\u00edntia Langie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

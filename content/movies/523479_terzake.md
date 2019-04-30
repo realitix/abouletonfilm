@@ -1,0 +1,1 @@
+{"tmdb_id": 523479, "title": "Terzake", "original_title": "Terzake", "slug_title": "terzake", "date": "1977-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Political texts from the journal In Search, edited by M.S. Arnoni (Wim Schlebaum)", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

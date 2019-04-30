@@ -1,0 +1,1 @@
+{"tmdb_id": 391807, "title": "Para Usted", "original_title": "Para Usted", "slug_title": "para-usted", "date": "1999-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A series of short vignettes featuring a cast of toys and antiques.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

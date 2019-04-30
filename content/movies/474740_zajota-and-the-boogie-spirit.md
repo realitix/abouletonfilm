@@ -1,0 +1,1 @@
+{"tmdb_id": 474740, "title": "Zajota and the Boogie Spirit", "original_title": "Zajota and the Boogie Spirit", "slug_title": "zajota-and-the-boogie-spirit", "date": "1989-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Animated short by the", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

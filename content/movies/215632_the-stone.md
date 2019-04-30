@@ -1,0 +1,1 @@
+{"tmdb_id": 215632, "title": "The Stone", "original_title": "The Stone", "slug_title": "the-stone", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A young 'Go' player is sucked into the world of crime when a mob boss enlists him as a teacher.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

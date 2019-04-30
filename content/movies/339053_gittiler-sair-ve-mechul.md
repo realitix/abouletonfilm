@@ -1,0 +1,1 @@
+{"tmdb_id": 339053, "title": "Gittiler 'Sair ve Mechul'", "original_title": "Gittiler 'Sair ve Mechul'", "slug_title": "gittiler-sair-ve-mechul", "date": "2015-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film from \tKenan Korkmaz", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

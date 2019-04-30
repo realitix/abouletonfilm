@@ -1,0 +1,1 @@
+{"tmdb_id": 350266, "title": "\ube68\uac04 \uc5ec\ubc30\uc6b0", "original_title": "\ube68\uac04 \uc5ec\ubc30\uc6b0", "slug_title": "bbalgan-yeobaeu", "date": "1989-06-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

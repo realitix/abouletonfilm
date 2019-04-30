@@ -1,0 +1,1 @@
+{"tmdb_id": 350110, "title": "\uc870\uc6a9\ud55c \ubc29", "original_title": "\uc870\uc6a9\ud55c \ubc29", "slug_title": "joyonghan-bang", "date": "1982-08-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 296410, "title": "Best Friends", "original_title": "Best Friends", "slug_title": "best-friends", "date": "2013-04-11", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Grace Dunham ()", "Alice Gregory ()", "Isabel Halley ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

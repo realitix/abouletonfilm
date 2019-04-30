@@ -1,0 +1,1 @@
+{"tmdb_id": 31115, "title": "Dominant Gene", "original_title": "Dominant Gene", "slug_title": "dominant-gene", "date": "2011-12-01", "genre": [""], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

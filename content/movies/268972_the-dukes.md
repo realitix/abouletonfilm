@@ -1,0 +1,1 @@
+{"tmdb_id": 268972, "title": "The Dukes", "original_title": "The Dukes", "slug_title": "the-dukes", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Comedy starring Jennifer Beals, Chandra West, David Lovgren, Michael Goorjian", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

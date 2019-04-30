@@ -1,0 +1,1 @@
+{"tmdb_id": 500661, "title": "The Berkel", "original_title": "Die Berkel", "slug_title": "the-berkel", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kNHKs8fuaM7To9134D6rgy76zLI.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

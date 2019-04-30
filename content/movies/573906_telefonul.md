@@ -1,0 +1,1 @@
+{"tmdb_id": 573906, "title": "Telefonul", "original_title": "Telefonul", "slug_title": "telefonul", "date": "1991-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

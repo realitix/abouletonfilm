@@ -1,0 +1,1 @@
+{"tmdb_id": 598416, "title": "\u6b65\u6b65\u8ffd\u9b42", "original_title": "\u6b65\u6b65\u8ffd\u9b42", "slug_title": "bu-bu-zhui-hun", "date": "", "genre": ["Thriller / Myst\u00e8re"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

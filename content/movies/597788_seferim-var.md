@@ -1,0 +1,1 @@
+{"tmdb_id": 597788, "title": "Seferim Var", "original_title": "Seferim Var", "slug_title": "seferim-var", "date": "1975-04-09", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNj7f7mBdIagbForTlyVAdu06WN.jpg", "actors": ["Beh\u00e7et Nacar ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

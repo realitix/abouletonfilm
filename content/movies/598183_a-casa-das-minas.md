@@ -1,0 +1,1 @@
+{"tmdb_id": 598183, "title": "A Casa das Minas", "original_title": "A Casa das Minas", "slug_title": "a-casa-das-minas", "date": "1979-03-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nunes Pereira (himself)", "D\u00e9cio Teobaldo (himself)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

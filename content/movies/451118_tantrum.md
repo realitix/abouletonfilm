@@ -1,0 +1,1 @@
+{"tmdb_id": 451118, "title": "Tantrum", "original_title": "Tantrum", "slug_title": "tantrum", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A babysitter has a rough night.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

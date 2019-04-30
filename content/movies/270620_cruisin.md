@@ -1,0 +1,1 @@
+{"tmdb_id": 270620, "title": "Cruisin'", "original_title": "Cruisin'", "slug_title": "cruisin", "date": "2014-05-19", "genre": [""], "score": "0.0/10", "synopsis": "Comedy - Devin Begley, Destiny Monique, Amanda Nix, Liana Mendoza, Noel Gugliemi", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

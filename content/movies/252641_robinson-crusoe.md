@@ -1,0 +1,1 @@
+{"tmdb_id": 252641, "title": "Robinson Crusoe", "original_title": "Robinson Crusoe", "slug_title": "robinson-crusoe", "date": "1933-11-17", "genre": [""], "score": "0.0/10", "synopsis": "Terrytoons version of the Robinson Crusoe story with Farmer Al Falfa.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 506862, "title": "Bright Mirror", "original_title": "Bright Mirror", "slug_title": "bright-mirror", "date": "2013-02-22", "genre": [""], "score": "0.0/10", "synopsis": "A film by Paul Clipson.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zcCtglh6cSkW4u2t7oAvevqkKJK.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

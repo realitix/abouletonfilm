@@ -1,0 +1,1 @@
+{"tmdb_id": 564360, "title": "Chronique d'un couple", "original_title": "Chronique d'un couple", "slug_title": "chronique-d-un-couple", "date": "1971-11-24", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nEBywzcI0EZzvRTCEtFjfqqOy9e.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

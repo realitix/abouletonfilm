@@ -1,0 +1,1 @@
+{"tmdb_id": 578336, "title": "Last Hustle in Brooklyn", "original_title": "Last Hustle in Brooklyn", "slug_title": "last-hustle-in-brooklyn", "date": "1979-04-14", "genre": [""], "score": "0.0/10", "synopsis": "Short by Spike Lee.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

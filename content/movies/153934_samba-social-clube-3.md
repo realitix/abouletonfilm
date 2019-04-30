@@ -1,0 +1,1 @@
+{"tmdb_id": 153934, "title": "Samba Social Clube 3", "original_title": "Samba Social Clube 3", "slug_title": "samba-social-clube-3", "date": "2016-02-18", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7wpYUuPUBSHJ3OszX0h0m4qulXz.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

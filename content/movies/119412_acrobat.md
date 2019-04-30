@@ -1,0 +1,1 @@
+{"tmdb_id": 119412, "title": "Acrobat", "original_title": "Acrobat", "slug_title": "acrobat", "date": "2012-07-16", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": ".", "image": "/img/default-cover.png", "actors": ["Fabrice Champion ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

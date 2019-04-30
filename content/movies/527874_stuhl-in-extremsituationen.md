@@ -1,0 +1,1 @@
+{"tmdb_id": 527874, "title": "Stuhl in Extremsituationen", "original_title": "Stuhl in Extremsituationen", "slug_title": "stuhl-in-extremsituationen", "date": "1986-06-05", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

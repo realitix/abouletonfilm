@@ -1,0 +1,1 @@
+{"tmdb_id": 456082, "title": "La sombra del elefante", "original_title": "La sombra del elefante", "slug_title": "la-sombra-del-elefante", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Francisco Franco Bahamonde ()", "Juan Carlos I ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

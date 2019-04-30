@@ -1,0 +1,1 @@
+{"tmdb_id": 332100, "title": "Factory of Wives", "original_title": "Masnaa el zawjate", "slug_title": "factory-of-wives", "date": "1941-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Niazi Mostafa.", "image": "/img/default-cover.png", "actors": ["Kouka ()", "Mahmoud Zulfikar ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

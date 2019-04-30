@@ -1,0 +1,1 @@
+{"tmdb_id": 438268, "title": "Mandela's Gun", "original_title": "Mandela's Gun", "slug_title": "mandela-s-gun", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "MANDELAS GUN is a political thriller, based on Mandelas African Odyssey.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

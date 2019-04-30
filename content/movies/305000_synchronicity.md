@@ -1,0 +1,1 @@
+{"tmdb_id": 305000, "title": "Synchronicity", "original_title": "Synchronicity", "slug_title": "synchronicity", "date": "2013-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Japanese snowboard movie.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

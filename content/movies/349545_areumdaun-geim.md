@@ -1,0 +1,1 @@
+{"tmdb_id": 349545, "title": "\uc544\ub984\ub2e4\uc6b4 \uac8c\uc784", "original_title": "\uc544\ub984\ub2e4\uc6b4 \uac8c\uc784", "slug_title": "areumdaun-geim", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 573327, "title": "Ze \u017eivota pt\u00e1k\u016f", "original_title": "Ze \u017eivota pt\u00e1k\u016f", "slug_title": "ze-zivota-ptaku", "date": "1973-01-01", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

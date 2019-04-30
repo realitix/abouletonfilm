@@ -1,0 +1,1 @@
+{"tmdb_id": 264665, "title": "Disco Collection", "original_title": "Disco Collection", "slug_title": "disco-collection", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Disco Collection", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

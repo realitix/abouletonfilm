@@ -1,0 +1,1 @@
+{"tmdb_id": 548732, "title": "Timecop", "original_title": "Timecop", "slug_title": "timecop", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A remake of the 1994 sci-fi film about an agent in the future who enforces the laws of time travel.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

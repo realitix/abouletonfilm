@@ -1,0 +1,1 @@
+{"tmdb_id": 400016, "title": "Vida de Artista", "original_title": "Vida de Artista", "slug_title": "vida-de-artista", "date": "1971-12-31", "genre": [""], "score": "0.0/10", "synopsis": "Experimental film by Haroldo Marinho Barbosa.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

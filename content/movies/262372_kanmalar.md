@@ -1,0 +1,1 @@
+{"tmdb_id": 262372, "title": "Kanmalar", "original_title": "Kanmalar", "slug_title": "kanmalar", "date": "1972-09-24", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "B. Saroja Devi ()", "Sowcar Janaki ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

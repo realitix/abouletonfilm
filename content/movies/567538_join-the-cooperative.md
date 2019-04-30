@@ -1,0 +1,1 @@
+{"tmdb_id": 567538, "title": "Join The Cooperative", "original_title": "Join The Cooperative", "slug_title": "join-the-cooperative", "date": "1925-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No Overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

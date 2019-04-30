@@ -1,0 +1,1 @@
+{"tmdb_id": 327581, "title": "Excuse Me Law!", "original_title": "'Afwan Ayuha al-Qanun", "slug_title": "excuse-me-law", "date": "1985-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Inas Al Degheidy.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

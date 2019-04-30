@@ -1,0 +1,1 @@
+{"tmdb_id": 440416, "title": "The Spirit of Liberation", "original_title": "The Spirit of Liberation", "slug_title": "the-spirit-of-liberation", "date": "", "genre": ["Documentaire / Histoire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 369308, "title": "Cosmic Wave", "original_title": "Cosmic Wave", "slug_title": "cosmic-wave", "date": "1979-11-19", "genre": [""], "score": "0.0/10", "synopsis": "Japanese Experimental Animation | Directed by: Furukawa Taku", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

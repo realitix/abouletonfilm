@@ -1,0 +1,1 @@
+{"tmdb_id": 535920, "title": "Yiri Kan", "original_title": "Yiri Kan", "slug_title": "yiri-kan", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A documentary on the African xylophone", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

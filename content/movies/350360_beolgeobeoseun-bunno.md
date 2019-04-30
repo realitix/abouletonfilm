@@ -1,0 +1,1 @@
+{"tmdb_id": 350360, "title": "\ubc8c\uac70\ubc97\uc740 \ubd84\ub178", "original_title": "\ubc8c\uac70\ubc97\uc740 \ubd84\ub178", "slug_title": "beolgeobeoseun-bunno", "date": "1989-11-11", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

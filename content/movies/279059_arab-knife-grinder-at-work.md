@@ -1,0 +1,1 @@
+{"tmdb_id": 279059, "title": "Arab Knife Grinder at Work", "original_title": "Arab Knife Grinder at Work", "slug_title": "arab-knife-grinder-at-work", "date": "1897-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Short released in 1897.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

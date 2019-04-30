@@ -1,0 +1,1 @@
+{"tmdb_id": 69647, "title": "Sabato italiano", "original_title": "Sabato italiano", "slug_title": "sabato-italiano", "date": "1992-01-24", "genre": [""], "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4HjEmBXopwhIbqmGviv6GIrxsUE.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

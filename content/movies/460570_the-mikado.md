@@ -1,0 +1,1 @@
+{"tmdb_id": 460570, "title": "The Mikado", "original_title": "The Mikado", "slug_title": "the-mikado", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Opera Australias's 2011 rendition of the Gilbert and Sullivan opera \"The Mikado\".", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "1NLV24qTnlg"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 380086, "title": "Casa de Cachorro", "original_title": "Casa de Cachorro", "slug_title": "casa-de-cachorro", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

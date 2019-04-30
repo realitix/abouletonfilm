@@ -1,0 +1,1 @@
+{"tmdb_id": 570400, "title": "Along with the Gods 3", "original_title": "\uc2e0\uacfc\ud568\uaed8 3", "slug_title": "along-with-the-gods-3", "date": "", "genre": ["Action / Drame / Fantastique"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Doh Kyung-soo ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

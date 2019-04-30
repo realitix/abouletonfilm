@@ -1,0 +1,1 @@
+{"tmdb_id": 428792, "title": "Godard mon ami", "original_title": "Godard mon ami", "slug_title": "godard-mon-ami", "date": "2016-11-25", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n2h2hsaiOHeoD4EulccnZypSvLi.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

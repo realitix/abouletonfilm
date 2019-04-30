@@ -1,0 +1,1 @@
+{"tmdb_id": 368080, "title": "Buster be good", "original_title": "Buster be good", "slug_title": "buster-be-good", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "American Short Film, Comedy", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

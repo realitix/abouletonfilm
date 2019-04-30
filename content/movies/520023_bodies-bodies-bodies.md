@@ -1,0 +1,1 @@
+{"tmdb_id": 520023, "title": "Bodies, Bodies, Bodies", "original_title": "Bodies, Bodies, Bodies", "slug_title": "bodies-bodies-bodies", "date": "", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "Upcoming A24 horror film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

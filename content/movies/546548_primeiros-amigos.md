@@ -1,0 +1,1 @@
+{"tmdb_id": 546548, "title": "Primeiros Amigos", "original_title": "Primeiros Amigos", "slug_title": "primeiros-amigos", "date": "2018-11-23", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2WPEh241InkIh6JwOFzvBCCK3l4.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

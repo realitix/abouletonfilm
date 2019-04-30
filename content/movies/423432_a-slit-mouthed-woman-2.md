@@ -1,0 +1,1 @@
+{"tmdb_id": 423432, "title": "A Slit Mouthed Woman 2", "original_title": "A Slit Mouthed Woman 2", "slug_title": "a-slit-mouthed-woman-2", "date": "", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rin Asuka ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

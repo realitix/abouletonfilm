@@ -1,0 +1,1 @@
+{"tmdb_id": 557930, "title": "Beira-Mar", "original_title": "Beira-Mar", "slug_title": "beira-mar", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mateus Almada ()", "Maur\u00edcio Jos\u00e9 Barcellos ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

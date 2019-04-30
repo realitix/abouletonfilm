@@ -1,0 +1,1 @@
+{"tmdb_id": 571393, "title": "Man in a Bubble", "original_title": "Man in a Bubble", "slug_title": "man-in-a-bubble", "date": "1981-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Last film by Sidney Peterson.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

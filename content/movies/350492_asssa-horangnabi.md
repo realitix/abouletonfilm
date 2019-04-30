@@ -1,0 +1,1 @@
+{"tmdb_id": 350492, "title": "\uc557\uc2f8 \ud638\ub791\ub098\ube44", "original_title": "\uc557\uc2f8 \ud638\ub791\ub098\ube44", "slug_title": "asssa-horangnabi", "date": "1989-12-23", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 421023, "title": "Portraits", "original_title": "Portrety", "slug_title": "portraits", "date": "1964-01-01", "genre": ["Animation"], "score": "0.0/10", "synopsis": "A group of mourners provide different portraits of a deceased man at a funeral.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

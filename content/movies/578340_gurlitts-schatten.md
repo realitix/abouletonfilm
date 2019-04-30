@@ -1,0 +1,1 @@
+{"tmdb_id": 578340, "title": "Gurlitts Schatten", "original_title": "Gurlitts Schatten", "slug_title": "gurlitts-schatten", "date": "2017-11-02", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter R\u00fchring (Gurlitt)", "Martin Ostermeier ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

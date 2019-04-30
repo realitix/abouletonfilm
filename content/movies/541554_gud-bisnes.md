@@ -1,0 +1,1 @@
+{"tmdb_id": 541554, "title": "Gud bisnes", "original_title": "Gud bisnes", "slug_title": "gud-bisnes", "date": "2010-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/93zgXNdOXmFxLht2sYl8T1cXDaw.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

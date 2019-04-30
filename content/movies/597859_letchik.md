@@ -1,0 +1,1 @@
+{"tmdb_id": 597859, "title": "\u041b\u0435\u0442\u0447\u0438\u043a", "original_title": "\u041b\u0435\u0442\u0447\u0438\u043a", "slug_title": "letchik", "date": "", "genre": ["Guerre / Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 331527, "title": "Aame Katha", "original_title": "Aame Katha", "slug_title": "aame-katha", "date": "1977-11-18", "genre": [""], "score": "0.0/10", "synopsis": "A 1977 Telugu movie.", "image": "/img/default-cover.png", "actors": ["Rajinikanth ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

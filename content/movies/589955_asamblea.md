@@ -1,0 +1,1 @@
+{"tmdb_id": 589955, "title": "Asamblea", "original_title": "Asamblea", "slug_title": "asamblea", "date": "2019-03-16", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2TLpuM2w2ZgqlLEYeqWiSX3wpgf.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

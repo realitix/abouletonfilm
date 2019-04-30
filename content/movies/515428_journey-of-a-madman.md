@@ -1,0 +1,1 @@
+{"tmdb_id": 515428, "title": "Journey Of A Madman", "original_title": "Journey Of A Madman", "slug_title": "journey-of-a-madman", "date": "2018-03-24", "genre": [""], "score": "0.0/10", "synopsis": "A man slips into making a dark decision.", "image": "/img/default-cover.png", "actors": ["Jon Jarocki ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

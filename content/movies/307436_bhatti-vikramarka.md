@@ -1,0 +1,1 @@
+{"tmdb_id": 307436, "title": "Bhatti Vikramarka", "original_title": "Bhatti Vikramarka", "slug_title": "bhatti-vikramarka", "date": "1960-09-28", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1960", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

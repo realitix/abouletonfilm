@@ -1,0 +1,1 @@
+{"tmdb_id": 209240, "title": "Ferenc a kr\u00e1va", "original_title": "Ferenc a kr\u00e1va", "slug_title": "ferenc-a-krava", "date": "1927-01-01", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ferenc Futurista (himself)", "Eman Fiala ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

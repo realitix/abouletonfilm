@@ -1,0 +1,1 @@
+{"tmdb_id": 307945, "title": "Saamanyudu", "original_title": "Saamanyudu", "slug_title": "saamanyudu", "date": "2006-10-19", "genre": [""], "score": "5.0/10", "synopsis": "Film starring Jagapathi Babu, Kamna Jethmalani and Archana", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

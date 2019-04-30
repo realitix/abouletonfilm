@@ -1,0 +1,1 @@
+{"tmdb_id": 536794, "title": "Superbeldades", "original_title": "Superbeldades", "slug_title": "superbeldades", "date": "1964-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jacqueline Myrna ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

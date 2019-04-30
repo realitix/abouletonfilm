@@ -1,0 +1,1 @@
+{"tmdb_id": 282486, "title": "Noite de Cristais", "original_title": "Noite de Cristais", "slug_title": "noite-de-cristais", "date": "2010-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larissa Vereza ()", "Miguel Andrade ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

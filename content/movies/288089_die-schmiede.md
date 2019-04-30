@@ -1,0 +1,1 @@
+{"tmdb_id": 288089, "title": "Die Schmiede", "original_title": "Die Schmiede", "slug_title": "die-schmiede", "date": "1924-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Martin Berger.", "image": "/img/default-cover.png", "actors": ["Kurt Gerron ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

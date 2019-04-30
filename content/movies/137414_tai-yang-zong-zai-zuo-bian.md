@@ -1,0 +1,1 @@
+{"tmdb_id": 137414, "title": "\u592a\u967d\u7e3d\u5728\u5de6\u908a", "original_title": "\u592a\u967d\u7e3d\u5728\u5de6\u908a", "slug_title": "tai-yang-zong-zai-zuo-bian", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

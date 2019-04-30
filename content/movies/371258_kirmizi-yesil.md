@@ -1,0 +1,1 @@
+{"tmdb_id": 371258, "title": "K\u0131rm\u0131z\u0131 Ye\u015fil", "original_title": "K\u0131rm\u0131z\u0131 Ye\u015fil", "slug_title": "kirmizi-yesil", "date": "1988-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about life in Berlin", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

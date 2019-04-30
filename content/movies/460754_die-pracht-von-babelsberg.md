@@ -1,0 +1,1 @@
+{"tmdb_id": 460754, "title": "Die Pracht von Babelsberg", "original_title": "Die Pracht von Babelsberg", "slug_title": "die-pracht-von-babelsberg", "date": "2017-05-30", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

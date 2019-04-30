@@ -1,0 +1,1 @@
+{"tmdb_id": 326202, "title": "Urban Street", "original_title": "Urban Street", "slug_title": "urban-street", "date": "2015-02-13", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Sandoya ()", "\u00c1ngela Guerrero ()", "Bryan Cuenca ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

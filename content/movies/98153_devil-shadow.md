@@ -1,0 +1,1 @@
+{"tmdb_id": 98153, "title": "Devil Shadow", "original_title": "Devil Shadow", "slug_title": "devil-shadow", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A cartoonist is haunted by his mother's murderer.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

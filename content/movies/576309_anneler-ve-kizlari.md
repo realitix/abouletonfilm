@@ -1,0 +1,1 @@
+{"tmdb_id": 576309, "title": "Anneler ve Kizlari", "original_title": "Anneler ve Kizlari", "slug_title": "anneler-ve-kizlari", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9VJY2JI7UpyDIcBCnfmPYm8QVKb.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

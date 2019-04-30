@@ -1,0 +1,1 @@
+{"tmdb_id": 556129, "title": "Voulez-vous faire du cin\u00e9ma?", "original_title": "Voulez-vous faire du cin\u00e9ma?", "slug_title": "voulez-vous-faire-du-cinema", "date": "1924-10-23", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 333744, "title": "Burning Streets", "original_title": "Shawari Min Nar", "slug_title": "burning-streets", "date": "1983-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Samir Seif.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

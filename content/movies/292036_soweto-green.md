@@ -1,0 +1,1 @@
+{"tmdb_id": 292036, "title": "Soweto Green", "original_title": "Soweto Green", "slug_title": "soweto-green", "date": "1995-01-01", "genre": [""], "score": "0.0/10", "synopsis": "An American couple moves to Johannesburg after Nelson Mandela is elected president.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

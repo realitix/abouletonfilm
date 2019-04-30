@@ -1,0 +1,1 @@
+{"tmdb_id": 491579, "title": "Sports Oddities", "original_title": "Sports Oddities", "slug_title": "sports-oddities", "date": "1949-12-31", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "A Pete Smith Specialty comedy short", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

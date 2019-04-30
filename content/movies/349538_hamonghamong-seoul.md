@@ -1,0 +1,1 @@
+{"tmdb_id": 349538, "title": "\ud558\ubabd\ud558\ubabd \uc11c\uc6b8", "original_title": "\ud558\ubabd\ud558\ubabd \uc11c\uc6b8", "slug_title": "hamonghamong-seoul", "date": "1994-11-08", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

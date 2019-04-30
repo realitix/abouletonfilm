@@ -1,0 +1,1 @@
+{"tmdb_id": 349463, "title": "\uc5d0\ub374\uc758 \uc11c\ucabd", "original_title": "\uc5d0\ub374\uc758 \uc11c\ucabd", "slug_title": "edenyi-seojjog", "date": "1995-06-17", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

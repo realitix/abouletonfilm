@@ -1,0 +1,1 @@
+{"tmdb_id": 320265, "title": "Ha-Maftayach Hazahav", "original_title": "Ha-Maftayach Hazahav", "slug_title": "ha-maftayach-hazahav", "date": "1954-01-21", "genre": [""], "score": "0.0/10", "synopsis": "Venice Film Festival 1954", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

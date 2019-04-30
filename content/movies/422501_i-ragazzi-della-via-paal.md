@@ -1,0 +1,1 @@
+{"tmdb_id": 422501, "title": "I ragazzi della via Paal", "original_title": "I ragazzi della via Paal", "slug_title": "i-ragazzi-della-via-paal", "date": "1935-01-08", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

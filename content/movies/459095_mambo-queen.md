@@ -1,0 +1,1 @@
+{"tmdb_id": 459095, "title": "Mambo Queen", "original_title": "Mambo Queen", "slug_title": "mambo-queen", "date": "1995-02-02", "genre": [""], "score": "0.0/10", "synopsis": "A dancing woman.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

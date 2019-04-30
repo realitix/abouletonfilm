@@ -1,0 +1,1 @@
+{"tmdb_id": 281897, "title": "Broken Spring Dreams", "original_title": "Chun can meng duan", "slug_title": "broken-spring-dreams", "date": "1955-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Sun-fung Lee.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

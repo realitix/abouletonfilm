@@ -1,0 +1,1 @@
+{"tmdb_id": 533834, "title": "Sybil, tous les trous sont permis", "original_title": "Sybil, tous les trous sont permis", "slug_title": "sybil-tous-les-trous-sont-permis", "date": "1981-01-07", "genre": [""], "score": "0.0/10", "synopsis": "No overview found", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

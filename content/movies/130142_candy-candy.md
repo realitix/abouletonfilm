@@ -1,0 +1,1 @@
+{"tmdb_id": 130142, "title": "Candy candy", "original_title": "Candy candy", "slug_title": "candy-candy", "date": "", "genre": ["Drame / Com\u00e9die / Romance"], "score": "0.0/10", "synopsis": "Adventures of a little girl", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

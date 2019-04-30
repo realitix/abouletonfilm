@@ -1,0 +1,1 @@
+{"tmdb_id": 334283, "title": "I'm the Artist", "original_title": "Moi l'artiste", "slug_title": "i-m-the-artist", "date": "1995-01-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

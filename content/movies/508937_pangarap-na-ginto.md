@@ -1,0 +1,1 @@
+{"tmdb_id": 508937, "title": "Pangarap na ginto", "original_title": "Pangarap na ginto", "slug_title": "pangarap-na-ginto", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "No description.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 596826, "title": "Bombac\u0131", "original_title": "Bombac\u0131", "slug_title": "bombaci", "date": "1988-04-07", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/57nou5x0B2vOg4k3zoZiStb2fgY.jpg", "actors": ["C\u00fcneyt Ark\u0131n ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

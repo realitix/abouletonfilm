@@ -1,0 +1,1 @@
+{"tmdb_id": 416072, "title": "Fatal Glory", "original_title": "Fatal Glory", "slug_title": "fatal-glory", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "\"Cut-and-paste\" movie.", "image": "/img/default-cover.png", "actors": ["Jonathan Isgar ()", "Wayne Archer ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

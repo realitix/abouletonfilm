@@ -1,0 +1,1 @@
+{"tmdb_id": 421828, "title": "Cockroach", "original_title": "Gikaburi", "slug_title": "cockroach", "date": "2001-07-06", "genre": [""], "score": "0.0/10", "synopsis": "My name is a \u201ccockroach\u201d. I was called that from childhood.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

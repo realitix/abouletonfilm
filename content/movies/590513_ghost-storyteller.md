@@ -1,0 +1,1 @@
+{"tmdb_id": 590513, "title": "Ghost Storyteller", "original_title": "Kataribe", "slug_title": "ghost-storyteller", "date": "2014-09-20", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "A horror storyteller discovers his story is real.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

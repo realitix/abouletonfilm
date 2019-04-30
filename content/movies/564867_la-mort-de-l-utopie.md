@@ -1,0 +1,1 @@
+{"tmdb_id": 564867, "title": "La mort de l'utopie", "original_title": "La mort de l'utopie", "slug_title": "la-mort-de-l-utopie", "date": "1975-12-03", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wvAEu3eCDl5CHNPhhB9RlpSlexD.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

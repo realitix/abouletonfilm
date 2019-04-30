@@ -1,0 +1,1 @@
+{"tmdb_id": 550255, "title": "Time\u2019s Wake (Once Removed)", "original_title": "Time\u2019s Wake (Once Removed)", "slug_title": "times-wake-once-removed", "date": "1987-09-13", "genre": [""], "score": "0.0/10", "synopsis": "Experimental, 16mm", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

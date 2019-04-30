@@ -1,0 +1,1 @@
+{"tmdb_id": 592288, "title": "Locu di Morte", "original_title": "Locu di Morte", "slug_title": "locu-di-morte", "date": "2017-10-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/229zQxsWEE1ElJyzWYzsgIItzzj.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

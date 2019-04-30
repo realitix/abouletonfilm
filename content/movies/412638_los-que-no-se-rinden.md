@@ -1,0 +1,1 @@
+{"tmdb_id": 412638, "title": "Los que no se rinden", "original_title": "Los que no se rinden", "slug_title": "los-que-no-se-rinden", "date": "1961-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

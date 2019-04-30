@@ -1,0 +1,1 @@
+{"tmdb_id": 8947, "title": "Dirty Tricks", "original_title": "Dirty Tricks", "slug_title": "dirty-tricks", "date": "", "genre": ["Thriller"], "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

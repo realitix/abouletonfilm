@@ -1,0 +1,1 @@
+{"tmdb_id": 597839, "title": "\u041f\u043e\u0434\u0441\u0442\u0430\u0432\u043d\u044b\u0435", "original_title": "\u041f\u043e\u0434\u0441\u0442\u0430\u0432\u043d\u044b\u0435", "slug_title": "podstavnye", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

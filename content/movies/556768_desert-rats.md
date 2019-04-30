@@ -1,0 +1,1 @@
+{"tmdb_id": 556768, "title": "Desert Rats", "original_title": "Desert Rats", "slug_title": "desert-rats", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Out in the Salt Flats, people think nothing can survive, but Lily did.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

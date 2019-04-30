@@ -1,0 +1,1 @@
+{"tmdb_id": 343684, "title": "Mallorca Zombie", "original_title": "Mallorca Zombie", "slug_title": "mallorca-zombie", "date": "2011-02-11", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/58dq21Pptlc5hR11N1bEz37Qru5.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349602, "title": "\ubabd\ub140\ud55c", "original_title": "\ubabd\ub140\ud55c", "slug_title": "mongnyeohan", "date": "1984-08-18", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

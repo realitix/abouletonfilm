@@ -1,0 +1,1 @@
+{"tmdb_id": 595377, "title": "Beastie", "original_title": "Beastie", "slug_title": "beastie", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "1974 horror short film from director Dusty Nelson.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

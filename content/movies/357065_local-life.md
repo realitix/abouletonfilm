@@ -1,0 +1,1 @@
+{"tmdb_id": 357065, "title": "Local Life", "original_title": "Local Life", "slug_title": "local-life", "date": "1982-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Clive Mitchell.", "image": "/img/default-cover.png", "actors": ["Brian Redhead ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

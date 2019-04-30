@@ -1,0 +1,1 @@
+{"tmdb_id": 461074, "title": "A Doll's House", "original_title": "A Doll's House", "slug_title": "a-doll-s-house", "date": "1911-07-28", "genre": [""], "score": "0.0/10", "synopsis": "Based on the play by Henrik Ibsen.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

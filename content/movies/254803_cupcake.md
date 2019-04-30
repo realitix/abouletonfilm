@@ -1,0 +1,1 @@
+{"tmdb_id": 254803, "title": "Cupcake", "original_title": "Cupcake", "slug_title": "cupcake", "date": "2013-10-19", "genre": [""], "score": "0.0/10", "synopsis": "There's nothing sweet about it.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

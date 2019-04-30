@@ -1,1 +1,0 @@
-{"tmdb_id": 486676, "title": "Fluchtgeschichten", "original_title": "Fluchtgeschichten", "slug_title": "fluchtgeschichten", "date": "1996-08-11", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

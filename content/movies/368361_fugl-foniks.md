@@ -1,0 +1,1 @@
+{"tmdb_id": 368361, "title": "Fugl F\u00f8niks", "original_title": "Fugl F\u00f8niks", "slug_title": "fugl-foniks", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Danish Documentary", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

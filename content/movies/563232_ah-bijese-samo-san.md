@@ -1,0 +1,1 @@
+{"tmdb_id": 563232, "title": "Ah, bije\u0161e samo san", "original_title": "Ah, bije\u0161e samo san", "slug_title": "ah-bijese-samo-san", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A very early Yugoslav amateur film produced by Kino Klub Zagreb.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

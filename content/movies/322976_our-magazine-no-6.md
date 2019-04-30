@@ -1,0 +1,1 @@
+{"tmdb_id": 322976, "title": "Our Magazine No. 6", "original_title": "Our Magazine No. 6", "slug_title": "our-magazine-no-6", "date": "1954-01-01", "genre": ["Familial"], "score": "0.0/10", "synopsis": "Magazine short.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

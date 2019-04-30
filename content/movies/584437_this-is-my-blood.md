@@ -1,0 +1,1 @@
+{"tmdb_id": 584437, "title": "This Is My Blood", "original_title": "This Is My Blood", "slug_title": "this-is-my-blood", "date": "", "genre": ["Thriller / Action"], "score": "0.0/10", "synopsis": "A priest in training is not what she seems.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

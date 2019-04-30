@@ -1,0 +1,1 @@
+{"tmdb_id": 363172, "title": "Film Diary", "original_title": "Film Diary", "slug_title": "film-diary", "date": "2014-10-09", "genre": [""], "score": "0.0/10", "synopsis": "A travel diary of sorts, shot in super-8 and mainly edited in camera.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

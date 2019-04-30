@@ -1,0 +1,1 @@
+{"tmdb_id": 375978, "title": "ZAWAZAWA", "original_title": "ZAWAZAWA", "slug_title": "zawazawa", "date": "2013-01-01", "genre": ["Animation"], "score": "0.0/10", "synopsis": "Short animation by Komazaki Tomomi.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

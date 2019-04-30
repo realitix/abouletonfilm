@@ -1,0 +1,1 @@
+{"tmdb_id": 342189, "title": "Delicious Catastrophe", "original_title": "Delicious Catastrophe", "slug_title": "delicious-catastrophe", "date": "1970-05-28", "genre": [""], "score": "0.0/10", "synopsis": "Directed by: Piotr Kamler", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

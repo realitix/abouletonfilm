@@ -1,0 +1,1 @@
+{"tmdb_id": 435374, "title": "Permanencias", "original_title": "Permanencias", "slug_title": "permanencias", "date": "2011-05-13", "genre": [""], "score": "0.0/10", "synopsis": "Inside the air is denser.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ain740zWNdBJ2aBrFvIQ2CdSE2Y.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

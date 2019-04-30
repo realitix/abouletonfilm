@@ -1,0 +1,1 @@
+{"tmdb_id": 461945, "title": "So war die DDR 1", "original_title": "So war die DDR 1", "slug_title": "so-war-die-ddr-1", "date": "", "genre": ["Documentaire / Histoire"], "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nWY595b9tG21w9hNGOF5DgX27KI.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

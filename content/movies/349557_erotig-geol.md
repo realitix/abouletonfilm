@@ -1,0 +1,1 @@
+{"tmdb_id": 349557, "title": "\uc5d0\ub85c\ud2f1 \uac78", "original_title": "\uc5d0\ub85c\ud2f1 \uac78", "slug_title": "erotig-geol", "date": "1995-09-08", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

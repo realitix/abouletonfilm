@@ -1,0 +1,1 @@
+{"tmdb_id": 400564, "title": "Calino bureaucrate", "original_title": "Calino bureaucrate", "slug_title": "calino-bureaucrate", "date": "1909-06-02", "genre": [""], "score": "0.0/10", "synopsis": "A Calino comedy short.", "image": "/img/default-cover.png", "actors": ["Cl\u00e9ment M\u00e9g\u00e9 (Calino)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

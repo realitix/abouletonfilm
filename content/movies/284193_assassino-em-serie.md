@@ -1,0 +1,1 @@
+{"tmdb_id": 284193, "title": "Assassino em s\u00e9rie", "original_title": "Assassino em s\u00e9rie", "slug_title": "assassino-em-serie", "date": "", "genre": [""], "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

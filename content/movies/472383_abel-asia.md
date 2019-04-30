@@ -1,0 +1,1 @@
+{"tmdb_id": 472383, "title": "Abel/Asia", "original_title": "Abel/Asia", "slug_title": "abel-asia", "date": "1998-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Asia Argento ()", "Abel Ferrara ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 216201, "title": "Colour: Dawn is gone", "original_title": "Colour: Dawn is gone", "slug_title": "colour-dawn-is-gone", "date": "2012-08-23", "genre": ["Drame"], "score": "0.0/10", "synopsis": "Sinahala Drama movie", "image": "/img/default-cover.png", "actors": ["Kamal Addararachchi (Uncle)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

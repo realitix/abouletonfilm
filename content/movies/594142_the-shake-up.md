@@ -1,0 +1,1 @@
+{"tmdb_id": 594142, "title": "The Shake-Up", "original_title": "The Shake-Up", "slug_title": "the-shake-up", "date": "2019-06-06", "genre": [""], "score": "0.0/10", "synopsis": "Documentary by Ben Altenberg", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

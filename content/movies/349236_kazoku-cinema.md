@@ -1,0 +1,1 @@
+{"tmdb_id": 349236, "title": "Kazoku Cinema", "original_title": "\uac00\uc871 \uc2dc\ub124\ub9c8", "slug_title": "kazoku-cinema", "date": "1998-11-28", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1qAZsuLucWDFrCs3OyQ0LIwo8Ss.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

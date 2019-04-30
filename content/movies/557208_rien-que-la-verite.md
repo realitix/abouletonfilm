@@ -1,0 +1,1 @@
+{"tmdb_id": 557208, "title": "Rien que la v\u00e9rit\u00e9", "original_title": "Rien que la v\u00e9rit\u00e9", "slug_title": "rien-que-la-verite", "date": "1931-09-11", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

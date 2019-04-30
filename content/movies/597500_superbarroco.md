@@ -1,0 +1,1 @@
+{"tmdb_id": 597500, "title": "SuperBarroco", "original_title": "SuperBarroco", "slug_title": "superbarroco", "date": "2008-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Everaldo Pontes ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

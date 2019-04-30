@@ -1,0 +1,1 @@
+{"tmdb_id": 546904, "title": "I Zoi Entaftha", "original_title": "I Zoi Entaftha", "slug_title": "i-zoi-entaftha", "date": "2015-12-06", "genre": [""], "score": "0.0/10", "synopsis": "A series of tragicomic events during the three last days of a Greek Easter.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

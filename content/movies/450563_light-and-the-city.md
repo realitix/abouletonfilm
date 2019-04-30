@@ -1,0 +1,1 @@
+{"tmdb_id": 450563, "title": "Light and the City", "original_title": "Light and the City", "slug_title": "light-and-the-city", "date": "1970-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A film by Leo Hurwitz &amp; Peggy Lawson.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 557217, "title": "Sur la voie du bonheur", "original_title": "Sur la voie du bonheur", "slug_title": "sur-la-voie-du-bonheur", "date": "1931-10-28", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

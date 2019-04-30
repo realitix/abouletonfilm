@@ -1,0 +1,1 @@
+{"tmdb_id": 503062, "title": "Socrates uno di noi", "original_title": "Socrates uno di noi", "slug_title": "socrates-uno-di-noi", "date": "2015-05-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

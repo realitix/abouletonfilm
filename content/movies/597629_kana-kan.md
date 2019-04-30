@@ -1,0 +1,1 @@
+{"tmdb_id": 597629, "title": "Kana Kan", "original_title": "Kana Kan", "slug_title": "kana-kan", "date": "1976-04-03", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mazGJIPO35LjBjQ8Q98qclMitca.jpg", "actors": ["Ayhan I\u015fik ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

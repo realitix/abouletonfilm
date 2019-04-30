@@ -1,0 +1,1 @@
+{"tmdb_id": 506007, "title": "Divided Together", "original_title": "Divided Together", "slug_title": "divided-together", "date": "2018-02-17", "genre": [""], "score": "0.0/10", "synopsis": "A politician prepares to speak.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

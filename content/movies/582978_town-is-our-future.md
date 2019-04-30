@@ -1,0 +1,1 @@
+{"tmdb_id": 582978, "title": "Town Is Our Future", "original_title": "Kaupungissa on tulevaisuus", "slug_title": "town-is-our-future", "date": "1967-01-18", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jaakko Pakkasvirta (Narrator)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

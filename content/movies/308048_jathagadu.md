@@ -1,0 +1,1 @@
+{"tmdb_id": 308048, "title": "Jathagadu", "original_title": "Jathagadu", "slug_title": "jathagadu", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "1981 Bollywood film from director Boiana Subbha Rao.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

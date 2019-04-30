@@ -1,0 +1,1 @@
+{"tmdb_id": 566501, "title": "La derelitta", "original_title": "La derelitta", "slug_title": "la-derelitta", "date": "1983-06-15", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rZ2JDxsvUUlp8cttNjJtPV9Q2uH.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 550781, "title": "Junkertown: The Plan", "original_title": "Junkertown: The Plan", "slug_title": "junkertown-the-plan", "date": "2017-08-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

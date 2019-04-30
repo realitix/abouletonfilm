@@ -1,0 +1,1 @@
+{"tmdb_id": 386056, "title": "Platzwunder", "original_title": "Platzwunder", "slug_title": "platzwunder", "date": "1984-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Abstract feature film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

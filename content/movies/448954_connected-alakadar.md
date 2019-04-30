@@ -1,0 +1,1 @@
+{"tmdb_id": 448954, "title": "Connected: Alakadar", "original_title": "Connected: Alakadar", "slug_title": "connected-alakadar", "date": "", "genre": [""], "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rG1hmegcFTHnjS3w6xukBLpvZeC.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

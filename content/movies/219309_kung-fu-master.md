@@ -1,0 +1,1 @@
+{"tmdb_id": 219309, "title": "Kung Fu Master", "original_title": "Kung Fu Master", "slug_title": "kung-fu-master", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "TBC - Movie about a Kung Fu Master", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

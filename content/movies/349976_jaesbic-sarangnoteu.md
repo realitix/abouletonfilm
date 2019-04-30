@@ -1,0 +1,1 @@
+{"tmdb_id": 349976, "title": "\uc7bf\ube5b \uc0ac\ub791\ub178\ud2b8", "original_title": "\uc7bf\ube5b \uc0ac\ub791\ub178\ud2b8", "slug_title": "jaesbic-sarangnoteu", "date": "1990-10-27", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 445621, "title": "La segunda primera matriz", "original_title": "The Second One", "slug_title": "la-segunda-primera-matriz", "date": "1972-03-08", "genre": [""], "score": "0.0/10", "synopsis": "1972 Mexican experimental film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

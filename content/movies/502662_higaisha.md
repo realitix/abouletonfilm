@@ -1,0 +1,1 @@
+{"tmdb_id": 502662, "title": "Higaisha", "original_title": "Higaisha", "slug_title": "higaisha", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

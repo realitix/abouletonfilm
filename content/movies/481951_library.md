@@ -1,0 +1,1 @@
+{"tmdb_id": 481951, "title": "Library", "original_title": "Library", "slug_title": "library", "date": "1997-10-18", "genre": [""], "score": "0.0/10", "synopsis": "One day at the Martynas Ma\u017evydas National Library of Lithuania.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

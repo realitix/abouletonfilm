@@ -1,0 +1,1 @@
+{"tmdb_id": 503570, "title": "The Flatwoods Monster", "original_title": "The Flatwoods Monster", "slug_title": "the-flatwoods-monster", "date": "", "genre": ["Science-Fiction"], "score": "0.0/10", "synopsis": "A future film about the Flatwood Monster", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

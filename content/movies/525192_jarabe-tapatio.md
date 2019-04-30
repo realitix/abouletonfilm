@@ -1,0 +1,1 @@
+{"tmdb_id": 525192, "title": "Jarabe tapat\u00edo", "original_title": "Jarabe tapat\u00edo", "slug_title": "jarabe-tapatio", "date": "1896-12-05", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Some Mexicans doing a traditional dance.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

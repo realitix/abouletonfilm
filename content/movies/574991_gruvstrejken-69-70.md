@@ -1,0 +1,1 @@
+{"tmdb_id": 574991, "title": "Gruvstrejken 69/70", "original_title": "Gruvstrejken 69/70", "slug_title": "gruvstrejken-69-70", "date": "1970-09-07", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

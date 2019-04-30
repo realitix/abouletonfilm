@@ -1,0 +1,1 @@
+{"tmdb_id": 539261, "title": "Paris-Camargue", "original_title": "Paris-Camargue", "slug_title": "paris-camargue", "date": "1935-09-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zUFxMYj2Q2pFVHAfiLgyWzn7SW7.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

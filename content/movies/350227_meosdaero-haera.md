@@ -1,0 +1,1 @@
+{"tmdb_id": 350227, "title": "\uba4b\ub300\ub85c \ud574\ub77c", "original_title": "\uba4b\ub300\ub85c \ud574\ub77c", "slug_title": "meosdaero-haera", "date": "1980-09-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

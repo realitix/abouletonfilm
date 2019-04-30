@@ -1,0 +1,1 @@
+{"tmdb_id": 500767, "title": "Partida", "original_title": "Partida", "slug_title": "partida", "date": "2012-08-04", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arnaldo Moura (C\u00e1ssio)", "Eliandro Martins (Roberto)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

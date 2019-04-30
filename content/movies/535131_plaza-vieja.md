@@ -1,0 +1,1 @@
+{"tmdb_id": 535131, "title": "Plaza vieja", "original_title": "Plaza vieja", "slug_title": "plaza-vieja", "date": "1962-07-13", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

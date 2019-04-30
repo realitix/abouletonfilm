@@ -1,0 +1,1 @@
+{"tmdb_id": 331154, "title": "What a Trip", "original_title": "What a Trip", "slug_title": "what-a-trip", "date": "2009-01-01", "genre": ["Documentaire"], "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aTmN9ZPZYDtX2oLJIxXti6tLFpI.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

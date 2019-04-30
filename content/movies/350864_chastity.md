@@ -1,0 +1,1 @@
+{"tmdb_id": 350864, "title": "Chastity", "original_title": "\uc815\uc870", "slug_title": "chastity", "date": "1979-01-21", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yu In-chon ()", "Hwang Hae ()", "Sa Mi-ja ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

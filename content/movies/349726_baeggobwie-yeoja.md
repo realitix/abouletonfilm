@@ -1,0 +1,1 @@
+{"tmdb_id": 349726, "title": "\ubc30\uaf3d\uc704\uc5d0 \uc5ec\uc790", "original_title": "\ubc30\uaf3d\uc704\uc5d0 \uc5ec\uc790", "slug_title": "baeggobwie-yeoja", "date": "1993-11-12", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

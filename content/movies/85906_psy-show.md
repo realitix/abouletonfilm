@@ -1,0 +1,1 @@
+{"tmdb_id": 85906, "title": "Psy Show", "original_title": "Psy Show", "slug_title": "psy-show", "date": "1999-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No overview found.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/14LIUQWcue5qV3Fp8db5m8voI4F.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

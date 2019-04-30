@@ -1,0 +1,1 @@
+{"tmdb_id": 385975, "title": "Petras Erlebnis", "original_title": "Petras Erlebnis", "slug_title": "petras-erlebnis", "date": "1956-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A girl tells about a competition at school.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

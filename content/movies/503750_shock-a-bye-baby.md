@@ -1,0 +1,1 @@
+{"tmdb_id": 503750, "title": "Shock-A-Bye Baby", "original_title": "Shock-A-Bye Baby", "slug_title": "shock-a-bye-baby", "date": "1973-12-05", "genre": [""], "score": "0.0/10", "synopsis": "A mystery writer's son is being held for $1 million ransom.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

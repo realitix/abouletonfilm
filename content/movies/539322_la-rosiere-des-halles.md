@@ -1,0 +1,1 @@
+{"tmdb_id": 539322, "title": "La rosi\u00e8re des Halles", "original_title": "La rosi\u00e8re des Halles", "slug_title": "la-rosiere-des-halles", "date": "1935-10-11", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

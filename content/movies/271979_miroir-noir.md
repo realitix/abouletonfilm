@@ -1,0 +1,1 @@
+{"tmdb_id": 271979, "title": "Miroir noir", "original_title": "Miroir noir", "slug_title": "miroir-noir", "date": "1995-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Djingareye Maiga.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

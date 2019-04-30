@@ -1,0 +1,1 @@
+{"tmdb_id": 283263, "title": "Dj Super Cuts 2", "original_title": "Dj Super Cuts 2", "slug_title": "dj-super-cuts-2", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about Polish turntablism/dj community", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "KaQpTn9nQNg"}

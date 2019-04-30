@@ -1,0 +1,1 @@
+{"tmdb_id": 538539, "title": "Savage Brigade", "original_title": "La brigade sauvage", "slug_title": "savage-brigade", "date": "1939-04-26", "genre": [""], "score": "0.0/10", "synopsis": "No overview found", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aVxUZn7upiRKbssYLXiTlcT3RLW.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 564224, "title": "Growing Pains", "original_title": "Growing Pains", "slug_title": "growing-pains", "date": "1928-09-22", "genre": [""], "score": "0.0/10", "synopsis": "Our Gang movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

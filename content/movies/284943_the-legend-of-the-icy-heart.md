@@ -1,0 +1,1 @@
+{"tmdb_id": 284943, "title": "The Legend of the Icy Heart", "original_title": "Legenda o ledyanom serdtse", "slug_title": "the-legend-of-the-icy-heart", "date": "1958-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Eldar Shengelaya.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

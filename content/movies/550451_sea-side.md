@@ -1,0 +1,1 @@
+{"tmdb_id": 550451, "title": "Sea Side", "original_title": "Sea Side", "slug_title": "sea-side", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

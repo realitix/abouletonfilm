@@ -1,0 +1,1 @@
+{"tmdb_id": 350353, "title": "\ud558\uc580 \ubbf8\uc18c", "original_title": "\ud558\uc580 \ubbf8\uc18c", "slug_title": "hayan-miso", "date": "1981-08-30", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

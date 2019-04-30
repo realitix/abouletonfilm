@@ -1,0 +1,1 @@
+{"tmdb_id": 54984, "title": "Job the Dog", "original_title": "Job the Dog", "slug_title": "job-the-dog", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "This is a short film based on the subliminal effects of trauma.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

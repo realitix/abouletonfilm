@@ -1,0 +1,1 @@
+{"tmdb_id": 561124, "title": "Une fille dans le soleil", "original_title": "Une fille dans le soleil", "slug_title": "une-fille-dans-le-soleil", "date": "1953-01-14", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

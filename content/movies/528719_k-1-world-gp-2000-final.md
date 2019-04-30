@@ -1,0 +1,1 @@
+{"tmdb_id": 528719, "title": "K-1 World GP 2000 Final", "original_title": "K-1 World GP 2000 Final", "slug_title": "k-1-world-gp-2000-final", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "K-1 World GP 2000 Final", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

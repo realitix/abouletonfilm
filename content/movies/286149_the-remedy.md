@@ -1,0 +1,1 @@
+{"tmdb_id": 286149, "title": "The Remedy", "original_title": "The Remedy", "slug_title": "the-remedy", "date": "1983-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Serif G\u00f6ren.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

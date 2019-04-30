@@ -1,0 +1,1 @@
+{"tmdb_id": 333755, "title": "A Way to Travel", "original_title": "Sikat Safar", "slug_title": "a-way-to-travel", "date": "1986-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Bashir El Deek.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 259381, "title": "Jack the Monster", "original_title": "Jack the Monster", "slug_title": "jack-the-monster", "date": "2013-01-01", "genre": ["Animation"], "score": "0.0/10", "synopsis": "A lonely girl meets a weird creature in the park", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

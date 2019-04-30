@@ -1,0 +1,1 @@
+{"tmdb_id": 208587, "title": "Halifax v Salford", "original_title": "Halifax v Salford", "slug_title": "halifax-v-salford", "date": "1901-03-20", "genre": [""], "score": "6.0/10", "synopsis": "Northern Union footage.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 223312, "title": "Djurens krigare", "original_title": "Djurens krigare", "slug_title": "djurens-krigare", "date": "1999-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "A documentary about animal rights activists", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

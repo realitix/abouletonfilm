@@ -1,0 +1,1 @@
+{"tmdb_id": 556660, "title": "Les taciturnes", "original_title": "Les taciturnes", "slug_title": "les-taciturnes", "date": "1929-09-27", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

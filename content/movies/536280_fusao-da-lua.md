@@ -1,0 +1,1 @@
+{"tmdb_id": 536280, "title": "Fus\u00e3o da Lua", "original_title": "Fus\u00e3o da Lua", "slug_title": "fusao-da-lua", "date": "2016-09-15", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/509E2FUgsT1ZtwDllmEaF7DU9hc.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

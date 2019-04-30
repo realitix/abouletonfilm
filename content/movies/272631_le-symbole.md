@@ -1,0 +1,1 @@
+{"tmdb_id": 272631, "title": "Le Symbole", "original_title": "Le Symbole", "slug_title": "le-symbole", "date": "1994-01-02", "genre": [""], "score": "0.0/10", "synopsis": "DIrected by Ahmadou Diallo.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

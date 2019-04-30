@@ -1,0 +1,1 @@
+{"tmdb_id": 369432, "title": "Scrap Diary", "original_title": "Scrap Diary", "slug_title": "scrap-diary", "date": "2002-01-01", "genre": ["Animation"], "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6e0NEMDUN7ZFNaArB2yMNoXohgL.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

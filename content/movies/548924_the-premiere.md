@@ -1,0 +1,1 @@
+{"tmdb_id": 548924, "title": "The Premiere", "original_title": "The Premiere", "slug_title": "the-premiere", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Friendship opportunities arise at a Hollywood premiere.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

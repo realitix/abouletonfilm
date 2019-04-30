@@ -1,0 +1,1 @@
+{"tmdb_id": 345104, "title": "The Serpent's Fang", "original_title": "Il Serpente a Sonagli", "slug_title": "the-serpent-s-fang", "date": "1935-09-28", "genre": [""], "score": "0.0/10", "synopsis": "Early, proto giallo set in a boarding house for girls.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

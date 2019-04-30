@@ -1,0 +1,1 @@
+{"tmdb_id": 59187, "title": "Row Hard No Excuses", "original_title": "Row Hard No Excuses", "slug_title": "row-hard-no-excuses", "date": "2007-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Two men set out to win a trans-Atlantic rowboat race", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

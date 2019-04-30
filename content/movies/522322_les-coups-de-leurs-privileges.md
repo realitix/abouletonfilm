@@ -1,0 +1,1 @@
+{"tmdb_id": 522322, "title": "Les coups de leurs privil\u00e8ges", "original_title": "Les coups de leurs privil\u00e8ges", "slug_title": "les-coups-de-leurs-privileges", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

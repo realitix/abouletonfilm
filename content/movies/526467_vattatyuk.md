@@ -1,0 +1,1 @@
+{"tmdb_id": 526467, "title": "Vattaty\u00fak", "original_title": "Vattaty\u00fak", "slug_title": "vattatyuk", "date": "1990-09-27", "genre": [""], "score": "0.0/10", "synopsis": "1990 Hungarian crime comedy.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

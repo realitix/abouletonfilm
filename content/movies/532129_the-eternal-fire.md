@@ -1,0 +1,1 @@
+{"tmdb_id": 532129, "title": "The Eternal Fire", "original_title": "The Eternal Fire", "slug_title": "the-eternal-fire", "date": "1938-10-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Technicolor tour of Mt. Vesuvius and surrounding area.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

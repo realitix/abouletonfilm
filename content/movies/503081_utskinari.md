@@ -1,0 +1,1 @@
+{"tmdb_id": 503081, "title": "Utskinari", "original_title": "Utskinari", "slug_title": "utskinari", "date": "1991-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lev Durov ()", "Nino Tarkhan-Mouravi ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

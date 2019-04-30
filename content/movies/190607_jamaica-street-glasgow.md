@@ -1,0 +1,1 @@
+{"tmdb_id": 190607, "title": "Jamaica Street, Glasgow", "original_title": "Jamaica Street, Glasgow", "slug_title": "jamaica-street-glasgow", "date": "1901-12-10", "genre": [""], "score": "5.0/10", "synopsis": "Jamaica Street, Glasgow", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

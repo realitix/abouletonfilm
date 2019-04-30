@@ -1,0 +1,1 @@
+{"tmdb_id": 556324, "title": "La le\u00e7on bien apprise", "original_title": "La le\u00e7on bien apprise", "slug_title": "la-lecon-bien-apprise", "date": "1926-10-24", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 549344, "title": "Haiti, le chemin de la libert\u00e9", "original_title": "Haiti, le chemin de la libert\u00e9", "slug_title": "haiti-le-chemin-de-la-liberte", "date": "1973-01-05", "genre": [""], "score": "0.0/10", "synopsis": "Documentary film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

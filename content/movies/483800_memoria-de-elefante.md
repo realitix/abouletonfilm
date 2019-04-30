@@ -1,0 +1,1 @@
+{"tmdb_id": 483800, "title": "Mem\u00f3ria de Elefante", "original_title": "Mem\u00f3ria de Elefante", "slug_title": "memoria-de-elefante", "date": "2010-08-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tais Bizerril ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

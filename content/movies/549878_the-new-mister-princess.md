@@ -1,0 +1,1 @@
+{"tmdb_id": 549878, "title": "The New Mister Princess", "original_title": "The New Mister Princess", "slug_title": "the-new-mister-princess", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Short 2017 film that won the 48 Hour Film Project.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

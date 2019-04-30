@@ -1,0 +1,1 @@
+{"tmdb_id": 585980, "title": "Amorphia", "original_title": "Amorphia", "slug_title": "amorphia", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A love story", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

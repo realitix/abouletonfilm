@@ -1,0 +1,1 @@
+{"tmdb_id": 589674, "title": "Wong Ping's Fables 2", "original_title": "Wong Ping's Fables 2", "slug_title": "wong-ping-s-fables-2", "date": "2019-03-21", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

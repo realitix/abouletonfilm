@@ -1,0 +1,1 @@
+{"tmdb_id": 293904, "title": "Za-la-Mort", "original_title": "Za-la-Mort", "slug_title": "za-la-mort", "date": "1915-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Emilio Ghione.", "image": "/img/default-cover.png", "actors": ["Emilio Ghione ()", "Kally Sambucini ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

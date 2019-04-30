@@ -1,0 +1,1 @@
+{"tmdb_id": 304963, "title": "Chikati Velugulu", "original_title": "Chikati Velugulu", "slug_title": "chikati-velugulu", "date": "1975-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1975", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

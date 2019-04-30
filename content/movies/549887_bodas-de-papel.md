@@ -1,0 +1,1 @@
+{"tmdb_id": 549887, "title": "Bodas de Papel", "original_title": "Bodas de Papel", "slug_title": "bodas-de-papel", "date": "2014-06-17", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joana de Verona (Helena)", "Tom\u00e1s Alves (Paulo)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

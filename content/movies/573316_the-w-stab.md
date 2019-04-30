@@ -1,0 +1,1 @@
+{"tmdb_id": 573316, "title": "The W. Stab", "original_title": "The W. Stab", "slug_title": "the-w-stab", "date": "1935-01-01", "genre": ["Crime"], "score": "0.0/10", "synopsis": "A commercial for cigarettes in fictional form.", "image": "/img/default-cover.png", "actors": ["Clifford McLaglen (Tim Potter)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

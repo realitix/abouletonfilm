@@ -1,0 +1,1 @@
+{"tmdb_id": 494175, "title": "Die Bacchantin", "original_title": "Die Bacchantin", "slug_title": "die-bacchantin", "date": "1924-12-29", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Olga Tschechowa ()", "Charlotte Ander ()", "Hans Mierendorff ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 157587, "title": "Rio 'The Magnificent'", "original_title": "Rio 'The Magnificent'", "slug_title": "rio-the-magnificent", "date": "1932-04-17", "genre": [""], "score": "0.0/10", "synopsis": "Fitzpatrick Traveltalks", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

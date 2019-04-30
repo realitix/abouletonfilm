@@ -1,0 +1,1 @@
+{"tmdb_id": 567089, "title": "Soy Luna En Concierto - Mexico", "original_title": "Soy Luna En Concierto - Mexico", "slug_title": "soy-luna-en-concierto-mexico", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

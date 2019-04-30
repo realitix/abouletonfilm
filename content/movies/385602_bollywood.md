@@ -1,0 +1,1 @@
+{"tmdb_id": 385602, "title": "Bollywood", "original_title": "Bollywood", "slug_title": "bollywood", "date": "1994-09-16", "genre": [""], "score": "0.0/10", "synopsis": "A revenge tale is wrapped in a parody of Bollywood films.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

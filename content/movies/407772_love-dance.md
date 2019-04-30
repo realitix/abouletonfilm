@@ -1,0 +1,1 @@
+{"tmdb_id": 407772, "title": "Love Dance", "original_title": "Love Dance", "slug_title": "love-dance", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "When a married couple wanders into an adult store they get a little more than they bargained for.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

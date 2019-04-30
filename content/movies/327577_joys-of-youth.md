@@ -1,0 +1,1 @@
+{"tmdb_id": 327577, "title": "Joys of Youth", "original_title": "Afrah al chabab", "slug_title": "joys-of-youth", "date": "1964-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Muhammad Selman.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

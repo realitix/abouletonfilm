@@ -1,0 +1,1 @@
+{"tmdb_id": 339029, "title": "A Sweet Life", "original_title": "\u7518\u3044\u751f\u6d3b", "slug_title": "a-sweet-life", "date": "2010-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A girl goes out destroying things", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 565781, "title": "Bem no Meio do C\u00e9u", "original_title": "Bem no Meio do C\u00e9u", "slug_title": "bem-no-meio-do-ceu", "date": "2018-11-25", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

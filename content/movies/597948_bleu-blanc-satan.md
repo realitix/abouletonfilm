@@ -1,0 +1,1 @@
+{"tmdb_id": 597948, "title": "Bleu Blanc Satan", "original_title": "Bleu Blanc Satan", "slug_title": "bleu-blanc-satan", "date": "", "genre": ["Musique / Documentaire"], "score": "0.0/10", "synopsis": "Documentary on French black metal", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

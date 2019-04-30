@@ -1,0 +1,1 @@
+{"tmdb_id": 530994, "title": "Buy, Buy St.Pauli", "original_title": "Buy, Buy St.Pauli", "slug_title": "buy-buy-st-pauli", "date": "2014-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Irene Bude ()", "Siri Keil ()", "Olaf Sobczak ()", "Timo Selengia ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

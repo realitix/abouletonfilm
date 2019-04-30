@@ -1,0 +1,1 @@
+{"tmdb_id": 580981, "title": "Captain Sudd", "original_title": "Captain Sudd", "slug_title": "captain-sudd", "date": "1923-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Rarely seen comedy.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

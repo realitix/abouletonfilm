@@ -1,0 +1,1 @@
+{"tmdb_id": 349515, "title": "\ub0a8\uc790\uc758 \ud5a5\uae30", "original_title": "\ub0a8\uc790\uc758 \ud5a5\uae30", "slug_title": "namjayi-hyanggi", "date": "1998-09-12", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

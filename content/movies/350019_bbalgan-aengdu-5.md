@@ -1,0 +1,1 @@
+{"tmdb_id": 350019, "title": "\ube68\uac04 \uc575\ub450 5", "original_title": "\ube68\uac04 \uc575\ub450 5", "slug_title": "bbalgan-aengdu-5", "date": "1990-09-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

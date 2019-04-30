@@ -1,0 +1,1 @@
+{"tmdb_id": 417578, "title": "Quimera", "original_title": "Quimera", "slug_title": "quimera", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Z2ESEGCVSdHc7dq47Z29HqHQjk.jpg", "actors": ["Eryka Foz (Prostituta)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

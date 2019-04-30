@@ -1,0 +1,1 @@
+{"tmdb_id": 530758, "title": "Effetto Olmi", "original_title": "Effetto Olmi", "slug_title": "effetto-olmi", "date": "1982-06-17", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ermanno Olmi (Himself)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

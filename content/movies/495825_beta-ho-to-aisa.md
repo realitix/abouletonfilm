@@ -1,0 +1,1 @@
+{"tmdb_id": 495825, "title": "Beta Ho To Aisa", "original_title": "Beta Ho To Aisa", "slug_title": "beta-ho-to-aisa", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Quest of Asha and her mother Laxmi to get justice in a corrupt society", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

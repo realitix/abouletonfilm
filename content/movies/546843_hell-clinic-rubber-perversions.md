@@ -1,0 +1,1 @@
+{"tmdb_id": 546843, "title": "Hell Clinic Rubber Perversions", "original_title": "Hell Clinic Rubber Perversions", "slug_title": "hell-clinic-rubber-perversions", "date": "2009-10-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 568426, "title": "CarJack", "original_title": "CarJack", "slug_title": "carjack", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Charlie vole une voiture, mais il a un colis tr\u00e8s sp\u00e9cial \u00e0 l'int\u00e9rieur.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

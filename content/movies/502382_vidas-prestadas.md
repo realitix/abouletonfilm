@@ -1,0 +1,1 @@
+{"tmdb_id": 502382, "title": "Vidas prestadas", "original_title": "Vidas prestadas", "slug_title": "vidas-prestadas", "date": "2014-06-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l91gfQU72u44nvtuvxX0ppm6En4.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

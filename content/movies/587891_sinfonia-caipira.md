@@ -1,0 +1,1 @@
+{"tmdb_id": 587891, "title": "Sinfonia Caipira", "original_title": "Sinfonia Caipira", "slug_title": "sinfonia-caipira", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

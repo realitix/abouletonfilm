@@ -1,0 +1,1 @@
+{"tmdb_id": 369501, "title": "Nutuayin mapu", "original_title": "Nutuayin mapu", "slug_title": "nutuayin-mapu", "date": "1971-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Short agitprop film from Chile.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

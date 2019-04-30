@@ -1,0 +1,1 @@
+{"tmdb_id": 372126, "title": "Tomie Ohtake", "original_title": "Tomie Ohtake", "slug_title": "tomie-ohtake", "date": "2015-12-10", "genre": [""], "score": "0.0/10", "synopsis": "A documentary on artist Tomie Ohtake.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

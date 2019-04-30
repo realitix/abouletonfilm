@@ -1,0 +1,1 @@
+{"tmdb_id": 556979, "title": "La fille et le gar\u00e7on", "original_title": "La fille et le gar\u00e7on", "slug_title": "la-fille-et-le-garcon", "date": "1931-03-05", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 128170, "title": "The Hummingbird Kimono", "original_title": "The Hummingbird Kimono", "slug_title": "the-hummingbird-kimono", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "It was a symbol ... of everything", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

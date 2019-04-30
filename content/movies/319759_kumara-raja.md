@@ -1,0 +1,1 @@
+{"tmdb_id": 319759, "title": "Kumara Raja", "original_title": "Kumara Raja", "slug_title": "kumara-raja", "date": "1978-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Mohan Babu, Krishna Ghattamaneni and Jayapradha", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

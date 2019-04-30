@@ -1,0 +1,1 @@
+{"tmdb_id": 467732, "title": "Film Achers", "original_title": "Film Achers", "slug_title": "film-achers", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "An optical printer film about film anxiety, cut to the song from Peter Pan, I Wont Grow Up.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

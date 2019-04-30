@@ -1,0 +1,1 @@
+{"tmdb_id": 489578, "title": "You're an Idol, Hitsuji-chan!", "original_title": "You're an Idol, Hitsuji-chan!", "slug_title": "you-re-an-idol-hitsuji-chan", "date": "2017-11-25", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

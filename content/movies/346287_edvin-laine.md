@@ -1,0 +1,1 @@
+{"tmdb_id": 346287, "title": "Edvin Laine", "original_title": "Edvin Laine", "slug_title": "edvin-laine", "date": "", "genre": [""], "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

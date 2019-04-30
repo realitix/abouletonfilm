@@ -1,0 +1,1 @@
+{"tmdb_id": 199866, "title": "Monstros e Monstrinhos", "original_title": "Monstros e Monstrinhos", "slug_title": "monstros-e-monstrinhos", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aWHug6Sgx1TlVf5bf8IST73M2Z4.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

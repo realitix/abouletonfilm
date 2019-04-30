@@ -1,0 +1,1 @@
+{"tmdb_id": 504798, "title": "Live Art: 14 Rooms", "original_title": "Live Art: 14 Rooms", "slug_title": "live-art-14-rooms", "date": "2014-02-12", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 68236, "title": "Show Boom", "original_title": "Show Boom", "slug_title": "show-boom", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cmKctgl616bZim06PYf8ggyut3n.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

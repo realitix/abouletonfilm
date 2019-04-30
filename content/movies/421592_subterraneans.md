@@ -1,0 +1,1 @@
+{"tmdb_id": 421592, "title": "Subterraneans", "original_title": "Subterraneans", "slug_title": "subterraneans", "date": "1970-09-15", "genre": [""], "score": "0.0/10", "synopsis": "Short film in the 1970 New York Film Festival.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

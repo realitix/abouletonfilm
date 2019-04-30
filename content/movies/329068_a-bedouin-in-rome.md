@@ -1,0 +1,1 @@
+{"tmdb_id": 329068, "title": "A Bedouin in Rome", "original_title": "al-Badawia Fi Roma", "slug_title": "a-bedouin-in-rome", "date": "1965-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Muhammad Selman.", "image": "/img/default-cover.png", "actors": ["Samira Tewfik ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

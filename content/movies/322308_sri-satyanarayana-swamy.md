@@ -1,0 +1,1 @@
+{"tmdb_id": 322308, "title": "Sri Satyanarayana Swamy", "original_title": "Sri Satyanarayana Swamy", "slug_title": "sri-satyanarayana-swamy", "date": "2007-01-01", "genre": [""], "score": "0.0/10", "synopsis": "2007 Telugu Film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

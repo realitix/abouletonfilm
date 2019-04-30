@@ -1,0 +1,1 @@
+{"tmdb_id": 287633, "title": "The Bittersweet Night", "original_title": "The Bittersweet Night", "slug_title": "the-bittersweet-night", "date": "1968-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uakS5nBKrH0ENoPHQ28gMSNCbSq.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

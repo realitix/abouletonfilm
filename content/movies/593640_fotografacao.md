@@ -1,0 +1,1 @@
+{"tmdb_id": 593640, "title": "Fotografa\u00e7\u00e3o", "original_title": "Fotografa\u00e7\u00e3o", "slug_title": "fotografacao", "date": "2019-04-06", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

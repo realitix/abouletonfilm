@@ -1,0 +1,1 @@
+{"tmdb_id": 559254, "title": "La ren\u00e9gate", "original_title": "La ren\u00e9gate", "slug_title": "la-renegate", "date": "1948-04-09", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x5xPxgdsiTeoAxzatKKCboEEUiX.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

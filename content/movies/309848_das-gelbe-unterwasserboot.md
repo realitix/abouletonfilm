@@ -1,0 +1,1 @@
+{"tmdb_id": 309848, "title": "Das gelbe Unterwasserboot", "original_title": "Das gelbe Unterwasserboot", "slug_title": "das-gelbe-unterwasserboot", "date": "1996-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Animated versions of Beatles songs.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

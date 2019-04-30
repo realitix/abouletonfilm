@@ -1,0 +1,1 @@
+{"tmdb_id": 593098, "title": "Colpa del sole", "original_title": "Colpa del sole", "slug_title": "colpa-del-sole", "date": "1951-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Strelsa Brown ()", "Giancarlo Sbragia ()", "Clotilde Scarpitta ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

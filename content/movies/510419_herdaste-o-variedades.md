@@ -1,0 +1,1 @@
+{"tmdb_id": 510419, "title": "Herdaste o Variedades", "original_title": "Herdaste o Variedades", "slug_title": "herdaste-o-variedades", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "An actor inherits an old theater in the center of Lisbon...", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

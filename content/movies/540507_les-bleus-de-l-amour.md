@@ -1,0 +1,1 @@
+{"tmdb_id": 540507, "title": "Les bleus de l'amour", "original_title": "Les bleus de l'amour", "slug_title": "les-bleus-de-l-amour", "date": "1933-01-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tsbAoWfj1PANChtn7xIC3m5xAaj.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

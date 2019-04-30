@@ -1,0 +1,1 @@
+{"tmdb_id": 385669, "title": "The Exquisite Corpse", "original_title": "The Exquisite Corpse", "slug_title": "the-exquisite-corpse", "date": "1992-09-11", "genre": [""], "score": "0.0/10", "synopsis": "omnibus short film collection by 11 Winnipeg filmmakers", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

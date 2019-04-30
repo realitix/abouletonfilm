@@ -1,0 +1,1 @@
+{"tmdb_id": 561353, "title": "Bloody Marys, Song of the South Seas", "original_title": "Bloody Marys, Song of the South Seas", "slug_title": "bloody-marys-song-of-the-south-seas", "date": "2018-03-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

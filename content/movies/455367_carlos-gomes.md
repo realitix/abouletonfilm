@@ -1,0 +1,1 @@
+{"tmdb_id": 455367, "title": "Carlos Gomes", "original_title": "Carlos Gomes", "slug_title": "carlos-gomes", "date": "1942-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Rh80h6zqlMPP6dOzGz3abZs8iL.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

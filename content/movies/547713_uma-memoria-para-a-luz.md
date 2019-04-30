@@ -1,0 +1,1 @@
+{"tmdb_id": 547713, "title": "Uma Mem\u00f3ria para a Luz", "original_title": "Uma Mem\u00f3ria para a Luz", "slug_title": "uma-memoria-para-a-luz", "date": "2018-03-01", "genre": [""], "score": "0.0/10", "synopsis": "A Memory for the Light", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

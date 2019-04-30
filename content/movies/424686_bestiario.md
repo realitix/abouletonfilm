@@ -1,0 +1,1 @@
+{"tmdb_id": 424686, "title": "Bestiario", "original_title": "Bestiario", "slug_title": "bestiario", "date": "1967-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Multiscreen 8mm avantgarde film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

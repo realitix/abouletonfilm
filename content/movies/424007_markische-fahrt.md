@@ -1,0 +1,1 @@
+{"tmdb_id": 424007, "title": "M\u00e4rkische Fahrt", "original_title": "M\u00e4rkische Fahrt", "slug_title": "markische-fahrt", "date": "1942-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "German \"Kulturfilm\" in Agfacolor.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

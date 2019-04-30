@@ -1,0 +1,1 @@
+{"tmdb_id": 584880, "title": "Isabella", "original_title": "Isabella", "slug_title": "isabella", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Life is really tough. And then there's that one week on the road that's just... perfect.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

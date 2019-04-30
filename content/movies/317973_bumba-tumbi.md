@@ -1,0 +1,1 @@
+{"tmdb_id": 317973, "title": "Bumba - Tumbi", "original_title": "Bumba - Tumbi", "slug_title": "bumba-tumbi", "date": "2009-05-20", "genre": ["Familial"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ET6OzermnL2bV0K3BlYhwSSV33.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

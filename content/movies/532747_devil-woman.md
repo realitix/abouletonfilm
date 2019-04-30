@@ -1,0 +1,1 @@
+{"tmdb_id": 532747, "title": "Devil Woman", "original_title": "Devil Woman", "slug_title": "devil-woman", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A forest protester is bitten by a devil and transforms into a monster.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

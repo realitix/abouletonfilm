@@ -1,0 +1,1 @@
+{"tmdb_id": 24689, "title": "The Plane Truth for Golfers", "original_title": "The Plane Truth for Golfers", "slug_title": "the-plane-truth-for-golfers", "date": "2006-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 411707, "title": "El Detektive Bogey", "original_title": "El Detektive Bogey", "slug_title": "el-detektive-bogey", "date": "1995-08-17", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4vvTX8tbtPq5LVXgRNnjxgT4TL1.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

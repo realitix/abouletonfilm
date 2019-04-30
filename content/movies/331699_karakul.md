@@ -1,0 +1,1 @@
+{"tmdb_id": 331699, "title": "Karakul", "original_title": "Karakul", "slug_title": "karakul", "date": "1920-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Turkmeni newsreel made in the 1920s.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

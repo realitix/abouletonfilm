@@ -1,0 +1,1 @@
+{"tmdb_id": 598224, "title": "King's Musketeers", "original_title": "\u041c\u0443\u0448\u043a\u0435\u0442\u0435\u0440\u044b \u0446\u0430\u0440\u044f", "slug_title": "king-s-musketeers", "date": "", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

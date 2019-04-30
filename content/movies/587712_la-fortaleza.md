@@ -1,0 +1,1 @@
+{"tmdb_id": 587712, "title": "La Fortaleza", "original_title": "La Fortaleza", "slug_title": "la-fortaleza", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

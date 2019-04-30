@@ -1,0 +1,1 @@
+{"tmdb_id": 580650, "title": "Gi\u00f9 il sipario", "original_title": "Gi\u00f9 il sipario", "slug_title": "giu-il-sipario", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

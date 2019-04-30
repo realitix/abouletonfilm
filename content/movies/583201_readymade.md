@@ -1,0 +1,1 @@
+{"tmdb_id": 583201, "title": "Readymade", "original_title": "Readymade", "slug_title": "readymade", "date": "", "genre": ["Documentaire"], "score": "3.0/10", "synopsis": "A documentary about Mao impersonators in China.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 268935, "title": "Alphonso Bow", "original_title": "Alphonso Bow", "slug_title": "alphonso-bow", "date": "2010-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Comedy Drama starring  Jeffrey Pierce, Michael Dempsey, Kate Rodger", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

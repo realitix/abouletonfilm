@@ -1,0 +1,1 @@
+{"tmdb_id": 405885, "title": "Heroes of the Tay Son Dynasty", "original_title": "T\u00e2y S\u01a1n H\u00e0o Ki\u1ec7t", "slug_title": "heroes-of-the-tay-son-dynasty", "date": "2010-04-30", "genre": [""], "score": "0.0/10", "synopsis": "No overview found", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

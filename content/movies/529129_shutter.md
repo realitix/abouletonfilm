@@ -1,0 +1,1 @@
+{"tmdb_id": 529129, "title": "Shutter", "original_title": "Shutter", "slug_title": "shutter", "date": "2018-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Shutter is an experimental short film built around a series of literary references.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

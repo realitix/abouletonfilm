@@ -1,0 +1,1 @@
+{"tmdb_id": 249831, "title": "One Song", "original_title": "One Song", "slug_title": "one-song", "date": "2014-01-10", "genre": ["Animation"], "score": "0.0/10", "synopsis": "The Trolls, Princesses, Glooms, and Engineers must join forces to defeat Silence.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349663, "title": "\uc0ac\ub791\ubc1b\ub294 \uc5ec\uc790", "original_title": "\uc0ac\ub791\ubc1b\ub294 \uc5ec\uc790", "slug_title": "sarangbadneun-yeoja", "date": "1994-01-29", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

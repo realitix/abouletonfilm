@@ -1,0 +1,1 @@
+{"tmdb_id": 446018, "title": "The Spider and the Fly", "original_title": "The Spider and the Fly", "slug_title": "the-spider-and-the-fly", "date": "1938-07-04", "genre": [""], "score": "0.0/10", "synopsis": "\"I am the bones of a bad little boy\"", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

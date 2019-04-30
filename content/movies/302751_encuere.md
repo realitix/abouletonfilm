@@ -1,0 +1,1 @@
+{"tmdb_id": 302751, "title": "Encuere", "original_title": "Encuere", "slug_title": "encuere", "date": "2011-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Director Simon Brand presents this documentary on the life in Bolivar, filmed for DIAGEO.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

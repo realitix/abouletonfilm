@@ -1,0 +1,1 @@
+{"tmdb_id": 575034, "title": "Sanibel", "original_title": "Sanibel", "slug_title": "sanibel", "date": "1978-01-01", "genre": [""], "score": "0.0/10", "synopsis": "8mm. experimental film shot by JoAnn Elam in Sanibel, Florida.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

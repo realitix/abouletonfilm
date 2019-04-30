@@ -1,0 +1,1 @@
+{"tmdb_id": 552039, "title": "Brigitte", "original_title": "Brigitte", "slug_title": "brigitte", "date": "2016-01-01", "genre": [""], "score": "0.0/10", "synopsis": "un film de Brieuc Schieb", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/69hIWELHJtqcvyNu1p0Imm6kVmn.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

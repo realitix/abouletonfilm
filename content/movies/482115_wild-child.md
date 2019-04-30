@@ -1,0 +1,1 @@
+{"tmdb_id": 482115, "title": "Wild Child", "original_title": "Wild Child", "slug_title": "wild-child", "date": "1977-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A young boy explores Hong Kong after staying at with his sick Grandmother.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

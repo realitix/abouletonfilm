@@ -1,0 +1,1 @@
+{"tmdb_id": 314409, "title": "Tr\u00f8llini og mafian", "original_title": "Tr\u00f8llini og mafian", "slug_title": "trollini-og-mafian", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "the trolls and the mob", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

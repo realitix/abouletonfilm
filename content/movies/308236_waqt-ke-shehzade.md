@@ -1,0 +1,1 @@
+{"tmdb_id": 308236, "title": "Waqt Ke Shehzade", "original_title": "Waqt Ke Shehzade", "slug_title": "waqt-ke-shehzade", "date": "1982-09-17", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1982", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 368423, "title": "Strange Residues", "original_title": "Strange Residues", "slug_title": "strange-residues", "date": "1981-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Australian Short Film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

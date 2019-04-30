@@ -1,0 +1,1 @@
+{"tmdb_id": 583791, "title": "\u041a\u0430\u044d\u0433\u0445\u0430", "original_title": "\u041a\u0430\u044d\u0433\u0445\u0430", "slug_title": "kaegkha", "date": "2019-03-01", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 556841, "title": "Cennetin D\u00fc\u015f\u00fc\u015f\u00fc", "original_title": "Cennetin D\u00fc\u015f\u00fc\u015f\u00fc", "slug_title": "cennetin-dususu", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

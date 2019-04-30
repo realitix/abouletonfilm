@@ -1,0 +1,1 @@
+{"tmdb_id": 447874, "title": "Die Frau auf dem Schlachtfeld", "original_title": "Die Frau auf dem Schlachtfeld", "slug_title": "die-frau-auf-dem-schlachtfeld", "date": "2006-01-01", "genre": [""], "score": "6.0/10", "synopsis": "The woman in the battlefield.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

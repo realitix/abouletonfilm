@@ -1,0 +1,1 @@
+{"tmdb_id": 426658, "title": "Tabula Rosa", "original_title": "Tabula Rosa", "slug_title": "tabula-rosa", "date": "", "genre": [""], "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

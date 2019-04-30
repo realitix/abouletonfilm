@@ -1,0 +1,1 @@
+{"tmdb_id": 350634, "title": "O Impressionismo e a Moda", "original_title": "O Impressionismo e a Moda", "slug_title": "o-impressionismo-e-a-moda", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

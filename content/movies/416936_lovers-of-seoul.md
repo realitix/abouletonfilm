@@ -1,0 +1,1 @@
+{"tmdb_id": 416936, "title": "Lovers Of Seoul", "original_title": "Lovers Of Seoul", "slug_title": "lovers-of-seoul", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

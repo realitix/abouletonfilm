@@ -1,0 +1,1 @@
+{"tmdb_id": 343598, "title": "El invitado", "original_title": "El invitado", "slug_title": "el-invitado", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A pretty girl invites you to dinner. Anything can happen, except this.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

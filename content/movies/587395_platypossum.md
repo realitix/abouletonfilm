@@ -1,0 +1,1 @@
+{"tmdb_id": 587395, "title": "Platypossum", "original_title": "Platypossum", "slug_title": "platypossum", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A platypus mates with an opossum and wreaks havoc on local humanity.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

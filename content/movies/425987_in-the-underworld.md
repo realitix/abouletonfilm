@@ -1,0 +1,1 @@
+{"tmdb_id": 425987, "title": "In the Underworld", "original_title": "Pazem\u0113", "slug_title": "in-the-underworld", "date": "1963-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A story about children helping the Soviet Army during the war.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

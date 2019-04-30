@@ -1,0 +1,1 @@
+{"tmdb_id": 305361, "title": "For the Empire", "original_title": "For the Empire", "slug_title": "for-the-empire", "date": "1916-04-21", "genre": [""], "score": "0.0/10", "synopsis": "Patriotic appeal for war savings on behalf of the Treasury.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 175458, "title": "Chumming with Chipmunks", "original_title": "Chumming with Chipmunks", "slug_title": "chumming-with-chipmunks", "date": "1921-02-12", "genre": [""], "score": "0.0/10", "synopsis": "A short documentary showing the life of chipmunks.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

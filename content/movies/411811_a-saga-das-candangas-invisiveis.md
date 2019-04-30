@@ -1,0 +1,1 @@
+{"tmdb_id": 411811, "title": "A Saga das Candangas Invis\u00edveis", "original_title": "A Saga das Candangas Invis\u00edveis", "slug_title": "a-saga-das-candangas-invisiveis", "date": "2008-01-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

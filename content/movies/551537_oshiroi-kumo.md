@@ -1,0 +1,1 @@
+{"tmdb_id": 551537, "title": "Oshiroi kumo", "original_title": "Oshiroi kumo", "slug_title": "oshiroi-kumo", "date": "1930-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1930 film", "image": "/img/default-cover.png", "actors": ["Eizabur\u00f4 Matsumoto ()", "Tsuruko Matsueda ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

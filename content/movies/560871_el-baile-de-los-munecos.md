@@ -1,0 +1,1 @@
+{"tmdb_id": 560871, "title": "El baile de los mu\u00f1ecos", "original_title": "El baile de los mu\u00f1ecos", "slug_title": "el-baile-de-los-munecos", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

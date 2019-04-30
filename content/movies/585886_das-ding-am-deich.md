@@ -1,0 +1,1 @@
+{"tmdb_id": 585886, "title": "Das Ding am Deich", "original_title": "Das Ding am Deich", "slug_title": "das-ding-am-deich", "date": "2012-01-18", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Documentary film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

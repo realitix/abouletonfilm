@@ -1,0 +1,1 @@
+{"tmdb_id": 582532, "title": "La culpa la tiene Kafka", "original_title": "La culpa la tiene Kafka", "slug_title": "la-culpa-la-tiene-kafka", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iodIpslrcZlQNSD7N6ov0SHOlSp.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 547042, "title": "Status Symbol", "original_title": "Status Symbol", "slug_title": "status-symbol", "date": "1970-09-07", "genre": [""], "score": "0.0/10", "synopsis": "2 minutes experimental short film by Sebastian C. Schroeder", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

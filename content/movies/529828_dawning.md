@@ -1,0 +1,1 @@
+{"tmdb_id": 529828, "title": "Dawning", "original_title": "Dawning", "slug_title": "dawning", "date": "1987-06-23", "genre": [""], "score": "0.0/10", "synopsis": "Munich Film Festival 1987.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

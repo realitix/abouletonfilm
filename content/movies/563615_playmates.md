@@ -1,0 +1,1 @@
+{"tmdb_id": 563615, "title": "Playmates", "original_title": "Le bal des voyous", "slug_title": "playmates", "date": "1968-07-31", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nYNd2dvJnk2BPpZrpKfQ5nIVEJc.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

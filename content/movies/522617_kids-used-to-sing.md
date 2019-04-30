@@ -1,0 +1,1 @@
+{"tmdb_id": 522617, "title": "Kids Used to Sing", "original_title": "Kids Used to Sing", "slug_title": "kids-used-to-sing", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2DwPI88ScqXfLVwSZIvrPbIX2rz.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

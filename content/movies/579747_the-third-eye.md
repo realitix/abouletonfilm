@@ -1,0 +1,1 @@
+{"tmdb_id": 579747, "title": "The Third Eye", "original_title": "The Third Eye", "slug_title": "the-third-eye", "date": "1999-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Ice/ink on white, then into black and red explosive figures, a finger appears.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

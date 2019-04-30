@@ -1,0 +1,1 @@
+{"tmdb_id": 345207, "title": "Code of the Range", "original_title": "Code of the Range", "slug_title": "code-of-the-range", "date": "1927-05-05", "genre": [""], "score": "0.0/10", "synopsis": "A cowboy pursues a man who seduced his sister.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

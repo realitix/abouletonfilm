@@ -1,0 +1,1 @@
+{"tmdb_id": 590560, "title": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0430", "original_title": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0430", "slug_title": "koroleva", "date": "", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

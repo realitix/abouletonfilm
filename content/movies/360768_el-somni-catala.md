@@ -1,0 +1,1 @@
+{"tmdb_id": 360768, "title": "El somni catal\u00e0", "original_title": "El somni catal\u00e0", "slug_title": "el-somni-catala", "date": "2015-09-18", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Montserrat Carulla (voice)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

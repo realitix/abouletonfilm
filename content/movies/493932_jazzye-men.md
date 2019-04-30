@@ -1,0 +1,1 @@
+{"tmdb_id": 493932, "title": "JAZZ\u723aMEN", "original_title": "JAZZ\u723aMEN", "slug_title": "jazzye-men", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

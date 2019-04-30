@@ -1,0 +1,1 @@
+{"tmdb_id": 97756, "title": "Lady Pascal", "original_title": "Lady Pascal", "slug_title": "lady-pascal", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Lady Pascal", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

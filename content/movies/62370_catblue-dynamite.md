@@ -1,0 +1,1 @@
+{"tmdb_id": 62370, "title": "Catblue: Dynamite", "original_title": "Catblue: Dynamite", "slug_title": "catblue-dynamite", "date": "2006-12-22", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yMxeAyyP8gZlLmJXE1iacaK1CJy.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

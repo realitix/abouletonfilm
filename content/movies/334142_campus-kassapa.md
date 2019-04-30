@@ -1,0 +1,1 @@
+{"tmdb_id": 334142, "title": "Campus Kassapa", "original_title": "Campus Kassapa", "slug_title": "campus-kassapa", "date": "2011-01-25", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Ronnie Ramirez.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

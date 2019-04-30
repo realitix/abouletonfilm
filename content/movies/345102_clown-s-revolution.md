@@ -1,0 +1,1 @@
+{"tmdb_id": 345102, "title": "Clown's Revolution", "original_title": "Clown's Revolution", "slug_title": "clown-s-revolution", "date": "2010-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Abstract animated short about a political leader in China.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

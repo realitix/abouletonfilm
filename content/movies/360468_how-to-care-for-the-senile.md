@@ -1,0 +1,1 @@
+{"tmdb_id": 360468, "title": "How to Care for the Senile", "original_title": "Caihosei rojin no sekai", "slug_title": "how-to-care-for-the-senile", "date": "1986-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

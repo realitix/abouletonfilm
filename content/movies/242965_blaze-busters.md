@@ -1,0 +1,1 @@
+{"tmdb_id": 242965, "title": "Blaze Busters", "original_title": "Blaze Busters", "slug_title": "blaze-busters", "date": "1950-12-30", "genre": [""], "score": "0.0/10", "synopsis": "A documentary about firemen and some of the spectacular blazes they fight.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

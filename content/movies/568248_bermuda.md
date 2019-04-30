@@ -1,0 +1,1 @@
+{"tmdb_id": 568248, "title": "Bermuda", "original_title": "Bermuda", "slug_title": "bermuda", "date": "2018-12-13", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 524411, "title": "sdfsf sfsd", "original_title": "sdfsf sfsd", "slug_title": "sdfsf-sfsd", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "f dsfdsf fsdf", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

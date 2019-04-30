@@ -1,0 +1,1 @@
+{"tmdb_id": 385747, "title": "Adieu bip\u00e8de", "original_title": "Adieu bip\u00e8de", "slug_title": "adieu-bipede", "date": "1987-01-01", "genre": ["Animation"], "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

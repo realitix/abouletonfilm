@@ -1,0 +1,1 @@
+{"tmdb_id": 548687, "title": "Starship Troopers", "original_title": "Starship Troopers", "slug_title": "starship-troopers", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Young military recruits train to fight a war on a bug-infested alien planet.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 282383, "title": "Come Closer", "original_title": "Come Closer", "slug_title": "come-closer", "date": "1952-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Hy Hirsch.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

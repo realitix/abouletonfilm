@@ -1,0 +1,1 @@
+{"tmdb_id": 588134, "title": "Crni Ljubivoje", "original_title": "Crni Ljubivoje", "slug_title": "crni-ljubivoje", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Documentary by Predrag Velinovi\u0107", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

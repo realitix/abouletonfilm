@@ -1,0 +1,1 @@
+{"tmdb_id": 41011, "title": "Budai Cukr\u00e1szda", "original_title": "Budai Cukr\u00e1szda", "slug_title": "budai-cukraszda", "date": "1935-11-30", "genre": [""], "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/525rBcnKSDgAwVghDZhaz5Q4Z93.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 597820, "title": "Mavi Melek", "original_title": "Mavi Melek", "slug_title": "mavi-melek", "date": "1986-04-18", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tPZvG0MAy6au8peXzhVMOhBNKnf.jpg", "actors": ["H\u00fclya Av\u015far ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

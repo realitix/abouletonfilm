@@ -1,0 +1,1 @@
+{"tmdb_id": 420272, "title": "O Clique \u00danico de Assis Horta", "original_title": "O Clique \u00danico de Assis Horta", "slug_title": "o-clique-unico-de-assis-horta", "date": "2015-10-09", "genre": [""], "score": "0.0/10", "synopsis": "no movie ovewview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

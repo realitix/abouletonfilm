@@ -1,0 +1,1 @@
+{"tmdb_id": 363624, "title": "Self Song/Death Song", "original_title": "Self Song/Death Song", "slug_title": "self-song-death-song", "date": "1997-10-22", "genre": [""], "score": "0.0/10", "synopsis": "Another meditation on life and death by Stan Brakhage.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

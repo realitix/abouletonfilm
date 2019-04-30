@@ -1,0 +1,1 @@
+{"tmdb_id": 303656, "title": "Sinjaja Ptiza", "original_title": "Sinjaja Ptiza", "slug_title": "sinjaja-ptiza", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aleksander Kappler ()", "Hugh Whitemore ()", "Alfred Heyse ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 375582, "title": "Contacts", "original_title": "Contacts", "slug_title": "contacts", "date": "", "genre": ["T\u00e9l\u00e9film / Documentaire"], "score": "0.0/10", "synopsis": "Photographer Helmut Newton talks about his work.", "image": "/img/default-cover.png", "actors": ["Helmut Newton ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 300758, "title": "Rowdy Ranganna", "original_title": "Rowdy Ranganna", "slug_title": "rowdy-ranganna", "date": "1968-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring  Balkrishna, Rajkumar and Chandrakala", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

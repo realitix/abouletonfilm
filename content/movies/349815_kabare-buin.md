@@ -1,0 +1,1 @@
+{"tmdb_id": 349815, "title": "\uce74\ubc14\ub808 \ubd80\uc778", "original_title": "\uce74\ubc14\ub808 \ubd80\uc778", "slug_title": "kabare-buin", "date": "1990-12-11", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

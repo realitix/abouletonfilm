@@ -1,0 +1,1 @@
+{"tmdb_id": 242556, "title": "As Sereias", "original_title": "As Sereias", "slug_title": "as-sereias", "date": "2001-02-23", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "It's the war? Is the sky light that falls on them? It's the end of the world?", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

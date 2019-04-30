@@ -1,0 +1,1 @@
+{"tmdb_id": 504300, "title": "Fan Girl", "original_title": "Fan Girl", "slug_title": "fan-girl", "date": "2016-08-01", "genre": [""], "score": "0.0/10", "synopsis": "A group of super fans break into the house of a faded 90s pop star.", "image": "/img/default-cover.png", "actors": ["Steve Oram (Ryan Laughtner)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

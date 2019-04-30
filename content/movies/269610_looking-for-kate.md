@@ -1,0 +1,1 @@
+{"tmdb_id": 269610, "title": "Looking for Kate", "original_title": "Looking for Kate", "slug_title": "looking-for-kate", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

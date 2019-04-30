@@ -1,0 +1,1 @@
+{"tmdb_id": 439113, "title": "Chalk Warfare 3.0", "original_title": "Chalk Warfare 3.0", "slug_title": "chalk-warfare-3-0", "date": "2014-04-17", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

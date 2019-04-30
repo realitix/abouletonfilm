@@ -1,0 +1,1 @@
+{"tmdb_id": 574087, "title": "Semmi komoly", "original_title": "Semmi komoly", "slug_title": "semmi-komoly", "date": "2018-04-05", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Benett Vilm\u00e1nyi (Beni)", "Thur\u00f3czy Szabolcs (Zoli)", "Rita Kerkay (Timi)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

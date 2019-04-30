@@ -1,0 +1,1 @@
+{"tmdb_id": 598035, "title": "Jak ulovit tygra", "original_title": "Jak ulovit tygra", "slug_title": "jak-ulovit-tygra", "date": "1976-01-01", "genre": ["Animation"], "score": "0.0/10", "synopsis": "A short animated film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

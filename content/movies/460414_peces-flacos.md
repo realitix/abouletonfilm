@@ -1,0 +1,1 @@
+{"tmdb_id": 460414, "title": "Peces Flacos", "original_title": "Peces Flacos", "slug_title": "peces-flacos", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A bunch of lazy chileans walk the dirty streets of Santiago.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

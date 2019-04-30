@@ -1,0 +1,1 @@
+{"tmdb_id": 243397, "title": "City Out of Wilderness", "original_title": "City Out of Wilderness", "slug_title": "city-out-of-wilderness", "date": "1974-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Oscar nominated documentary short from 1974", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

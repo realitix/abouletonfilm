@@ -1,0 +1,1 @@
+{"tmdb_id": 549679, "title": "Hull F.C. v Wigan", "original_title": "Hull F.C. v Wigan", "slug_title": "hull-f-c-v-wigan", "date": "1902-10-04", "genre": [""], "score": "0.0/10", "synopsis": "Northern Union game from 1902", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

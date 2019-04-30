@@ -1,0 +1,1 @@
+{"tmdb_id": 468349, "title": "Skin of the City", "original_title": "Skin of the City", "slug_title": "skin-of-the-city", "date": "2016-01-01", "genre": [""], "score": "0.0/10", "synopsis": "a poem on light with accompanying images", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

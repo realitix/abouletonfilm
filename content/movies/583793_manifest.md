@@ -1,0 +1,1 @@
+{"tmdb_id": 583793, "title": "\u041c\u0430\u043d\u0438\u0444\u0435\u0441\u0442", "original_title": "\u041c\u0430\u043d\u0438\u0444\u0435\u0441\u0442", "slug_title": "manifest", "date": "2019-03-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

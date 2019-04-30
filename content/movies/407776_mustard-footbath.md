@@ -1,0 +1,1 @@
+{"tmdb_id": 407776, "title": "Mustard Footbath", "original_title": "Bain de pieds \u00e0 la moutarde", "slug_title": "mustard-footbath", "date": "1902-07-24", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "1902 French short produced by Parnaland.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

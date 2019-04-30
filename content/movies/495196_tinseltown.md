@@ -1,0 +1,1 @@
+{"tmdb_id": 495196, "title": "Tinseltown", "original_title": "Tinseltown", "slug_title": "tinseltown", "date": "2016-08-07", "genre": [""], "score": "0.0/10", "synopsis": "An unemployed young woman living in China finds a new opportunity.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

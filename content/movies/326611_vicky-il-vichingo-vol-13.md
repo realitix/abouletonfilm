@@ -1,0 +1,1 @@
+{"tmdb_id": 326611, "title": "Vicky il vichingo - VOL.13", "original_title": "Vicky il vichingo - VOL.13", "slug_title": "vicky-il-vichingo-vol-13", "date": "1972-10-24", "genre": ["Familial / Animation / Aventure"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

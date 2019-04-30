@@ -1,0 +1,1 @@
+{"tmdb_id": 440595, "title": "Exit: Music", "original_title": "Exit: Music", "slug_title": "exit-music", "date": "2017-02-10", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Five composers have their careers cut short by the rise of the Third Reich.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

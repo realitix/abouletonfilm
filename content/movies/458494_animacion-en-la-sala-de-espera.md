@@ -1,0 +1,1 @@
+{"tmdb_id": 458494, "title": "Animaci\u00f3n en la sala de espera", "original_title": "Animaci\u00f3n en la sala de espera", "slug_title": "animacion-en-la-sala-de-espera", "date": "1981-09-12", "genre": ["Documentaire"], "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

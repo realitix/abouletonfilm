@@ -1,0 +1,1 @@
+{"tmdb_id": 499784, "title": "Golden Globe - Namibia", "original_title": "Golden Globe - Namibia", "slug_title": "golden-globe-namibia", "date": "2009-11-26", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

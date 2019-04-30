@@ -1,0 +1,1 @@
+{"tmdb_id": 559489, "title": "Farmer & Chase", "original_title": "Farmer & Chase", "slug_title": "farmer-chase", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A career thief forms a partnership with his reluctant son.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

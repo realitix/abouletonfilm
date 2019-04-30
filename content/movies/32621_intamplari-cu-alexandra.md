@@ -1,0 +1,1 @@
+{"tmdb_id": 32621, "title": "Intamplari cu Alexandra", "original_title": "Intamplari cu Alexandra", "slug_title": "intamplari-cu-alexandra", "date": "1989-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 355757, "title": "Wrestling", "original_title": "Wrestling", "slug_title": "wrestling", "date": "1892-01-01", "genre": [""], "score": "1.8/10", "synopsis": "A lost film, directed by William K.L. Dickson about two men wrestling.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

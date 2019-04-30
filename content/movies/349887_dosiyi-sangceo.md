@@ -1,0 +1,1 @@
+{"tmdb_id": 349887, "title": "\ub3c4\uc2dc\uc758 \uc0c1\ucc98", "original_title": "\ub3c4\uc2dc\uc758 \uc0c1\ucc98", "slug_title": "dosiyi-sangceo", "date": "1990-06-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

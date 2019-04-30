@@ -1,0 +1,1 @@
+{"tmdb_id": 415683, "title": "I, Popeye", "original_title": "I, Popeye", "slug_title": "i-popeye", "date": "2010-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A film by Takeshi Murata", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tZIkL1y2aikgogGrhxpfw7KILzu.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

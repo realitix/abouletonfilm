@@ -1,0 +1,1 @@
+{"tmdb_id": 20353, "title": "Liquid", "original_title": "Liquid", "slug_title": "liquid", "date": "2001-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

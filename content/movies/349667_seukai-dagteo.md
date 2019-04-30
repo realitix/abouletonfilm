@@ -1,0 +1,1 @@
+{"tmdb_id": 349667, "title": "\uc2a4\uce74\uc774 \ub2e5\ud130", "original_title": "\uc2a4\uce74\uc774 \ub2e5\ud130", "slug_title": "seukai-dagteo", "date": "1997-10-25", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

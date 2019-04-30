@@ -1,0 +1,1 @@
+{"tmdb_id": 450064, "title": "Lin e Katazan", "original_title": "Lin e Katazan", "slug_title": "lin-e-katazan", "date": "1984-04-01", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/97kKGfYVzBW30IqzReZvef78idw.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

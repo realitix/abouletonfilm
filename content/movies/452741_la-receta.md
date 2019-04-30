@@ -1,0 +1,1 @@
+{"tmdb_id": 452741, "title": "La receta", "original_title": "La receta", "slug_title": "la-receta", "date": "2017-03-23", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Miki Esparb\u00e9 ()", "Laia Costa ()", "Oriol Vila ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

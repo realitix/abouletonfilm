@@ -1,0 +1,1 @@
+{"tmdb_id": 307563, "title": "Navaratri", "original_title": "Navaratri", "slug_title": "navaratri", "date": "1955-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No Overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 112818, "title": "Monopol - Pimp p\u00e5 paradis\u00f6n", "original_title": "Monopol - Pimp p\u00e5 paradis\u00f6n", "slug_title": "monopol-pimp-pa-paradison", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

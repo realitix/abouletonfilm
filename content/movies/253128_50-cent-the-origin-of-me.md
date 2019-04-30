@@ -1,0 +1,1 @@
+{"tmdb_id": 253128, "title": "50 Cent: The Origin of Me", "original_title": "50 Cent: The Origin of Me", "slug_title": "50-cent-the-origin-of-me", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Profile of rapper 50 Cent", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 481855, "title": "Son Amazon", "original_title": "Son Amazon", "slug_title": "son-amazon", "date": "2011-10-18", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sadet K\u0131l\u0131n\u00e7 (Sadet)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

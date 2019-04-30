@@ -1,0 +1,1 @@
+{"tmdb_id": 261609, "title": "Il Papa e Fidel", "original_title": "Il Papa e Fidel", "slug_title": "il-papa-e-fidel", "date": "1998-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wzfxkXfsXspjrwOSXsX4eS8kTpE.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

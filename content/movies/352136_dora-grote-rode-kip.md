@@ -1,0 +1,1 @@
+{"tmdb_id": 352136, "title": "Dora - Grote Rode Kip", "original_title": "Dora - Grote Rode Kip", "slug_title": "dora-grote-rode-kip", "date": "2005-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eihfXxD4jhshsnZLiVvgTT2ArO2.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

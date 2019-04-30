@@ -1,0 +1,1 @@
+{"tmdb_id": 301193, "title": "Rani Samyuktha", "original_title": "Rani Samyuktha", "slug_title": "rani-samyuktha", "date": "1962-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Bhanumathi Ramakrishna, Padmin and M.G. Ramachandran", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 289451, "title": "Some Evidence", "original_title": "Vai Toibac Cua de Quoc My", "slug_title": "some-evidence", "date": "1969-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Joris Ivens.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

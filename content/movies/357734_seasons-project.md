@@ -1,0 +1,1 @@
+{"tmdb_id": 357734, "title": "Seasons Project", "original_title": "Seasons Project", "slug_title": "seasons-project", "date": "2005-01-02", "genre": [""], "score": "6.0/10", "synopsis": "Directed by Geoffrey Jones.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

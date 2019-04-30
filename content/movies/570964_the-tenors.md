@@ -1,0 +1,1 @@
+{"tmdb_id": 570964, "title": "The Tenors", "original_title": "Les t\u00e9nors", "slug_title": "the-tenors", "date": "1993-12-26", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aAHOuKpYyqUU7ZsziXG1UhoNQ92.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

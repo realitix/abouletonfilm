@@ -1,0 +1,1 @@
+{"tmdb_id": 550912, "title": "El confesor", "original_title": "El confesor", "slug_title": "el-confesor", "date": "1920-04-01", "genre": ["Drame"], "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xUu37lL0eoLjRw6nfEXsE1KXciy.jpg", "actors": ["Helge Nissen ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

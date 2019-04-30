@@ -1,0 +1,1 @@
+{"tmdb_id": 493553, "title": "\uc544\uc218\ub77c: \uc57c\ucfe0\uc790\uc758 \uae38", "original_title": "\uc544\uc218\ub77c: \uc57c\ucfe0\uc790\uc758 \uae38", "slug_title": "asura-yakujayi-gil", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

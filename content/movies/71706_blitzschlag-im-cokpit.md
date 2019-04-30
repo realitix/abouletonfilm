@@ -1,0 +1,1 @@
+{"tmdb_id": 71706, "title": "Blitzschlag im Cokpit", "original_title": "Blitzschlag im Cokpit", "slug_title": "blitzschlag-im-cokpit", "date": "", "genre": [""], "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

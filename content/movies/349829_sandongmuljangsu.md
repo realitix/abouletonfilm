@@ -1,0 +1,1 @@
+{"tmdb_id": 349829, "title": "\uc0b0\ub3d9\ubb3c\uc7a5\uc218", "original_title": "\uc0b0\ub3d9\ubb3c\uc7a5\uc218", "slug_title": "sandongmuljangsu", "date": "1982-08-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

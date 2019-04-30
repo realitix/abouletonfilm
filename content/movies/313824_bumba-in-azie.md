@@ -1,0 +1,1 @@
+{"tmdb_id": 313824, "title": "Bumba in Azi\u00eb", "original_title": "Bumba in Azi\u00eb", "slug_title": "bumba-in-azie", "date": "2010-10-13", "genre": ["Familial"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rgXbeQku5SClsH7sOWPTTimuG4N.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

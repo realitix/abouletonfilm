@@ -1,0 +1,1 @@
+{"tmdb_id": 373689, "title": "White Lightnin' Road", "original_title": "White Lightnin' Road", "slug_title": "white-lightnin-road", "date": "1967-02-24", "genre": [""], "score": "0.0/10", "synopsis": "Rivalry between two stock-car racers, on the track and off.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

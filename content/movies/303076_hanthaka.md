@@ -1,0 +1,1 @@
+{"tmdb_id": 303076, "title": "Hanthaka", "original_title": "Hanthaka", "slug_title": "hanthaka", "date": "1999-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film with a soundtrack featuring Jyothi &amp; Kushal, Majula Gururaj and more!", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 483531, "title": "Shuo huang shi jie", "original_title": "Shuo huang shi jie", "slug_title": "shuo-huang-shi-jie", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A Chinese drama", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

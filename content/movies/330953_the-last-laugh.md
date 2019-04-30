@@ -1,0 +1,1 @@
+{"tmdb_id": 330953, "title": "The Last Laugh", "original_title": "The Last Laugh", "slug_title": "the-last-laugh", "date": "2007-12-07", "genre": [""], "score": "0.0/10", "synopsis": "Stand up with Dave Attell, Lewis Black, D.L. Hughley", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

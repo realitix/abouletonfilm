@@ -1,0 +1,1 @@
+{"tmdb_id": 508974, "title": "LEGO Friends 2", "original_title": "LEGO Friends 2", "slug_title": "lego-friends-2", "date": "2014-12-05", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bkz2wdzzP9pseM8CqpuwU4B40hc.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

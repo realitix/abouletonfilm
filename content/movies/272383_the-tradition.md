@@ -1,0 +1,1 @@
+{"tmdb_id": 272383, "title": "The Tradition", "original_title": "Laada", "slug_title": "the-tradition", "date": "1991-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Drissa Toure.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x4awxtJkMMpZIIcoUXUpj9qUlBu.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

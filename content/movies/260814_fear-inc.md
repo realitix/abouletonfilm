@@ -1,0 +1,1 @@
+{"tmdb_id": 260814, "title": "Fear, INC", "original_title": "Fear, INC", "slug_title": "fear-inc", "date": "2013-12-30", "genre": [""], "score": "7.0/10", "synopsis": "How scared do you REALLY want to be?", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3o1uzP2ysq1A5YHayDHlMIWjDim.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

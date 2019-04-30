@@ -1,0 +1,1 @@
+{"tmdb_id": 415795, "title": "The Pedlars", "original_title": "\u041a\u043e\u0440\u043e\u0431\u0435\u0439\u043d\u0438\u043a\u0438", "slug_title": "the-pedlars", "date": "1910-01-01", "genre": [""], "score": "0.0/10", "synopsis": "An adaptation of a folk song.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

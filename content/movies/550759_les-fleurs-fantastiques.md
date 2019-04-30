@@ -1,0 +1,1 @@
+{"tmdb_id": 550759, "title": "Les fleurs fantastiques", "original_title": "Les fleurs fantastiques", "slug_title": "les-fleurs-fantastiques", "date": "1907-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Flowers growing in a flowerbed.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

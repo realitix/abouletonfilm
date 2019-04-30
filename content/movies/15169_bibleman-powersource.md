@@ -1,0 +1,1 @@
+{"tmdb_id": 15169, "title": "Bibleman: Powersource", "original_title": "Bibleman: Powersource", "slug_title": "bibleman-powersource", "date": "1996-04-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zirAvoXGPcBEoTvTlJiBlm0AVM.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "G_nZbrNW3Aw"}

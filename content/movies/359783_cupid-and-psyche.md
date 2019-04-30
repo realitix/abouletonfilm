@@ -1,0 +1,1 @@
+{"tmdb_id": 359783, "title": "Cupid and Psyche", "original_title": "Cupid and Psyche", "slug_title": "cupid-and-psyche", "date": "1953-09-14", "genre": [""], "score": "0.0/10", "synopsis": "1953 Danish short", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

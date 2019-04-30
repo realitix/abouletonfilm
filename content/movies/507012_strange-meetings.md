@@ -1,0 +1,1 @@
+{"tmdb_id": 507012, "title": "Strange Meetings", "original_title": "Strange Meetings", "slug_title": "strange-meetings", "date": "2017-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Strange Meetings", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

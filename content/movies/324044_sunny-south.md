@@ -1,0 +1,1 @@
+{"tmdb_id": 324044, "title": "Sunny South", "original_title": "Sunny South", "slug_title": "sunny-south", "date": "1931-04-19", "genre": [""], "score": "0.0/10", "synopsis": "A Walter Lantz/Bill Nolan Oswald the Lucky Rabbit cartoon released April 20, 1931.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

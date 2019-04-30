@@ -1,0 +1,1 @@
+{"tmdb_id": 312961, "title": "Les veus de l'\u00e0nima", "original_title": "Les veus de l'\u00e0nima", "slug_title": "les-veus-de-l-anima", "date": "2014-07-04", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

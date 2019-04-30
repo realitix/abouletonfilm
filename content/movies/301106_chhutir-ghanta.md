@@ -1,0 +1,1 @@
+{"tmdb_id": 301106, "title": "Chhutir Ghanta", "original_title": "Chhutir Ghanta", "slug_title": "chhutir-ghanta", "date": "1973-12-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Soumitra Chatterjee, Aparna Sen and Utpal Dutt", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

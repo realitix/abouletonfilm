@@ -1,0 +1,1 @@
+{"tmdb_id": 279695, "title": "Narcos y Perros", "original_title": "Narcos y Perros", "slug_title": "narcos-y-perros", "date": "2001-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film from Fernando Dur\u00e1n Rojas", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

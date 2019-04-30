@@ -1,0 +1,1 @@
+{"tmdb_id": 568350, "title": "El Pajarito & Marseille", "original_title": "El Pajarito & Marseille", "slug_title": "el-pajarito-marseille", "date": "2018-12-12", "genre": [""], "score": "0.0/10", "synopsis": "un film de J. Preiss", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

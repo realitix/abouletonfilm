@@ -1,0 +1,1 @@
+{"tmdb_id": 561593, "title": "Plastique Boy", "original_title": "Plastique Boy", "slug_title": "plastique-boy", "date": "2009-11-01", "genre": [""], "score": "0.0/10", "synopsis": "Early short film by Jonathan Vinel.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

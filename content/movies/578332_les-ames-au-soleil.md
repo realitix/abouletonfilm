@@ -1,0 +1,1 @@
+{"tmdb_id": 578332, "title": "Les \u00e2mes au soleil", "original_title": "Les \u00e2mes au soleil", "slug_title": "les-ames-au-soleil", "date": "1981-01-02", "genre": [""], "score": "0.0/10", "synopsis": "A film by Safi Faye.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

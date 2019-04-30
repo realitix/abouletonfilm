@@ -1,0 +1,1 @@
+{"tmdb_id": 59546, "title": "The Legend of Diablo", "original_title": "The Legend of Diablo", "slug_title": "the-legend-of-diablo", "date": "2004-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A5rnthA1EemHBvZwvfA5IgsFQEt.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

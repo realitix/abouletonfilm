@@ -1,0 +1,1 @@
+{"tmdb_id": 162651, "title": "The Farmer", "original_title": "The Farmer", "slug_title": "the-farmer", "date": "1931-03-22", "genre": [""], "score": "0.0/10", "synopsis": "In this one, Oswald, his girlfriend Kitty, and Pete are working on a farm.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

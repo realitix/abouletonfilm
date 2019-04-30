@@ -1,0 +1,1 @@
+{"tmdb_id": 539832, "title": "Paprika", "original_title": "Paprika", "slug_title": "paprika", "date": "1933-12-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 557956, "title": "Ecto Petrol Patrol", "original_title": "Ecto Petrol Patrol", "slug_title": "ecto-petrol-patrol", "date": "2018-11-03", "genre": [""], "score": "0.0/10", "synopsis": "A chauffeur drives a court stenographer around.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

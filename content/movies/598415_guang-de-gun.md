@@ -1,0 +1,1 @@
+{"tmdb_id": 598415, "title": "\u5149\u7684\u68cd", "original_title": "\u5149\u7684\u68cd", "slug_title": "guang-de-gun", "date": "", "genre": ["Romance / Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 334150, "title": "Plastic Sex", "original_title": "Plastic Sex", "slug_title": "plastic-sex", "date": "2011-09-01", "genre": [""], "score": "0.0/10", "synopsis": "Blow-out sex romp featuring inflatable dolls and fish.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

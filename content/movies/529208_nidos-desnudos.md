@@ -1,0 +1,1 @@
+{"tmdb_id": 529208, "title": "Nidos desnudos", "original_title": "Nidos desnudos", "slug_title": "nidos-desnudos", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

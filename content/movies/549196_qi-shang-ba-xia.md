@@ -1,0 +1,1 @@
+{"tmdb_id": 549196, "title": "\u4e03\u4e0a\u516b\u4e0b", "original_title": "\u4e03\u4e0a\u516b\u4e0b", "slug_title": "qi-shang-ba-xia", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350399, "title": "\ub0a8\uc790 \uac00\uc815\ubd80", "original_title": "\ub0a8\uc790 \uac00\uc815\ubd80", "slug_title": "namja-gajeongbu", "date": "1980-04-26", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 448108, "title": "J\u00fcri Rumm", "original_title": "J\u00fcri Rumm", "slug_title": "juri-rumm", "date": "1994-05-26", "genre": [""], "score": "6.0/10", "synopsis": "An adventure film about a horse thief J\u00fcri Rumm, set in the 1880s.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

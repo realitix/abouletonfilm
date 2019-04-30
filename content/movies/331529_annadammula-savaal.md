@@ -1,0 +1,1 @@
+{"tmdb_id": 331529, "title": "Annadammula Savaal", "original_title": "Annadammula Savaal", "slug_title": "annadammula-savaal", "date": "1978-03-03", "genre": [""], "score": "0.0/10", "synopsis": "A 1978 Telugu movie.", "image": "/img/default-cover.png", "actors": ["Rajinikanth ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349900, "title": "\uc815\ub9ac\uc758 \uc6a9\ud615\ub9c8\uad50", "original_title": "\uc815\ub9ac\uc758 \uc6a9\ud615\ub9c8\uad50", "slug_title": "jeongriyi-yonghyeongmagyo", "date": "1982-11-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

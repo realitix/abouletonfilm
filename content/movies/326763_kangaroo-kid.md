@@ -1,0 +1,1 @@
+{"tmdb_id": 326763, "title": "Kangaroo Kid", "original_title": "Kangaroo Kid", "slug_title": "kangaroo-kid", "date": "1938-12-23", "genre": [""], "score": "0.0/10", "synopsis": "A Columbia Color Rhapsody released December 23, 1938.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

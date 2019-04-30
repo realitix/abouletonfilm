@@ -1,0 +1,1 @@
+{"tmdb_id": 493049, "title": "Hunter and Dog", "original_title": "Hunter and Dog", "slug_title": "hunter-and-dog", "date": "1915-01-01", "genre": ["Animation"], "score": "0.0/10", "synopsis": "Based on the work of Louis Wain.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

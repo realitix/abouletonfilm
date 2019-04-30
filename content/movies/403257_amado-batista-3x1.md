@@ -1,0 +1,1 @@
+{"tmdb_id": 403257, "title": "Amado Batista - 3x1", "original_title": "Amado Batista - 3x1", "slug_title": "amado-batista-3x1", "date": "2006-06-22", "genre": ["Musique"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aWEgREruIMk968TEzeUAKecgwd6.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

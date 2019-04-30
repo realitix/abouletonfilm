@@ -1,0 +1,1 @@
+{"tmdb_id": 503641, "title": "Ubuzima", "original_title": "Ubuzima", "slug_title": "ubuzima", "date": "", "genre": ["Drame"], "score": "0.0/10", "synopsis": "a Burundian Film", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bDXxnqcwWxDTAZmBW7mBwCJjtoH.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

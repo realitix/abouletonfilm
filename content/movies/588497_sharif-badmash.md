@@ -1,0 +1,1 @@
+{"tmdb_id": 588497, "title": "Sharif Badmash", "original_title": "Sharif Badmash", "slug_title": "sharif-badmash", "date": "1975-07-11", "genre": [""], "score": "0.0/10", "synopsis": "Sharif Badmash cast by Sultan Rahi", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

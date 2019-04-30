@@ -1,0 +1,1 @@
+{"tmdb_id": 449728, "title": "Frun Tillhanda", "original_title": "Frun Tillhanda", "slug_title": "frun-tillhanda", "date": "1939-09-24", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Britta Brunius (Ingrid Eriksson)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

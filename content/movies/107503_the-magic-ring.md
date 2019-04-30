@@ -1,0 +1,1 @@
+{"tmdb_id": 107503, "title": "The Magic Ring", "original_title": "The Magic Ring", "slug_title": "the-magic-ring", "date": "1976-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Shen huan", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tw5ALS4zx6SW4djGgXo288joaGd.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

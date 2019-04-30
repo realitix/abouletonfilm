@@ -1,0 +1,1 @@
+{"tmdb_id": 353237, "title": "Kukum Bhagya", "original_title": "Kukum Bhagya", "slug_title": "kukum-bhagya", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Family show", "image": "/img/default-cover.png", "actors": ["Shriti Jha (praghya mehra)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

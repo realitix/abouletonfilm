@@ -1,0 +1,1 @@
+{"tmdb_id": 523328, "title": "Ac\u0131 Lokma", "original_title": "Ac\u0131 Lokma", "slug_title": "aci-lokma", "date": "1986-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/isq6KZ9SmcJa131dIPh7eupPXuf.jpg", "actors": ["Emrah ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

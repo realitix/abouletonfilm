@@ -1,0 +1,1 @@
+{"tmdb_id": 367244, "title": "Benoni & Rosa", "original_title": "Benoni & Rosa", "slug_title": "benoni-rosa", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Norwegian TV Drama-serial, based on Knut Hamsun's novels \"Benoni\" and \"Rosa\"", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

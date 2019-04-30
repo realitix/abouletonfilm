@@ -1,0 +1,1 @@
+{"tmdb_id": 572492, "title": "Wings Over Vietnam", "original_title": "Wings Over Vietnam", "slug_title": "wings-over-vietnam", "date": "1993-04-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

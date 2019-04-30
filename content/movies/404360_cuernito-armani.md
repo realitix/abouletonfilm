@@ -1,0 +1,1 @@
+{"tmdb_id": 404360, "title": "Cuernito Armani", "original_title": "Cuernito Armani", "slug_title": "cuernito-armani", "date": "2016-03-03", "genre": [""], "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lt1bKInlCCkk7THESjF6BGygTOe.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

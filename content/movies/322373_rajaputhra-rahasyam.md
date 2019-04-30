@@ -1,0 +1,1 @@
+{"tmdb_id": 322373, "title": "Rajaputhra Rahasyam", "original_title": "Rajaputhra Rahasyam", "slug_title": "rajaputhra-rahasyam", "date": "1978-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1978 Telugu Film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 424930, "title": "X chiama Y", "original_title": "X chiama Y", "slug_title": "x-chiama-y", "date": "1967-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Diary film about the life of a young couple.", "image": "/img/default-cover.png", "actors": ["Mario Masini ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

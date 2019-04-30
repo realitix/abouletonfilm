@@ -1,0 +1,1 @@
+{"tmdb_id": 541451, "title": "Lagerstra\u00dfe Auschwitz", "original_title": "Lagerstra\u00dfe Auschwitz", "slug_title": "lagerstrasse-auschwitz", "date": "1979-04-22", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Documentary by Ebbo Demant.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

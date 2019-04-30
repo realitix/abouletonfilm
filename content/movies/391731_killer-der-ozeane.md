@@ -1,0 +1,1 @@
+{"tmdb_id": 391731, "title": "Killer der Ozeane", "original_title": "Killer der Ozeane", "slug_title": "killer-der-ozeane", "date": "2012-04-07", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5fSiOIf05PtLwJN7oLbNJaL9QaM.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

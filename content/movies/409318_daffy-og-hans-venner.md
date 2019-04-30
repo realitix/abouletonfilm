@@ -1,0 +1,1 @@
+{"tmdb_id": 409318, "title": "Daffy og Hans Venner", "original_title": "Daffy og Hans Venner", "slug_title": "daffy-og-hans-venner", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xlQjaeIWPrLFbbhv1kuMQ3vLojN.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

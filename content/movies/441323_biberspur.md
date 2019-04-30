@@ -1,0 +1,1 @@
+{"tmdb_id": 441323, "title": "Biberspur", "original_title": "Biberspur", "slug_title": "biberspur", "date": "1984-11-18", "genre": ["Familial"], "score": "0.0/10", "synopsis": "Film by Walter Beck.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/38wuCnxM3od5JVHUptkhodWReud.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

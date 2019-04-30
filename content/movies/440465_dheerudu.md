@@ -1,0 +1,1 @@
+{"tmdb_id": 440465, "title": "Dheerudu", "original_title": "Dheerudu", "slug_title": "dheerudu", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "2014  Telugu  Movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

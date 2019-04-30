@@ -1,0 +1,1 @@
+{"tmdb_id": 332097, "title": "Ceramics", "original_title": "Ceramics", "slug_title": "ceramics", "date": "1964-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Manouchehr Tayyab.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/emhvOEdhfdm4n1vim0yrwYy1BMs.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

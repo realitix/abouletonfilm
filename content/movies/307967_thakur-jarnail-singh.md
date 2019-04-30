@@ -1,0 +1,1 @@
+{"tmdb_id": 307967, "title": "Thakur Jarnail Singh", "original_title": "Thakur Jarnail Singh", "slug_title": "thakur-jarnail-singh", "date": "1966-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Dara Singh, Sheikh Mukhtar and Helen", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

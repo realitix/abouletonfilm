@@ -1,0 +1,1 @@
+{"tmdb_id": 472681, "title": "Escola de cinema", "original_title": "Escola de cinema", "slug_title": "escola-de-cinema", "date": "2017-04-09", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bU81CJata6QTPq3sNexYHmztlC5.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

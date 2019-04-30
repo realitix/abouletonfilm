@@ -1,0 +1,1 @@
+{"tmdb_id": 31669, "title": "Pintea", "original_title": "Pintea", "slug_title": "pintea", "date": "1976-01-01", "genre": ["Action / Histoire"], "score": "0.0/10", "synopsis": "No overview found.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1u5MPjPScj4C1MXSoVYSR7orx7V.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

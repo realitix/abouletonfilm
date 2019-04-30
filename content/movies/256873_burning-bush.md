@@ -1,0 +1,1 @@
+{"tmdb_id": 256873, "title": "Burning Bush", "original_title": "Burning Bush", "slug_title": "burning-bush", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Leaves change colors - but not in the way they do in nature.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

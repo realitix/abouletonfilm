@@ -1,0 +1,1 @@
+{"tmdb_id": 372179, "title": "Krakonos a strasidlo", "original_title": "Krakonos a strasidlo", "slug_title": "krakonos-a-strasidlo", "date": "1981-07-17", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

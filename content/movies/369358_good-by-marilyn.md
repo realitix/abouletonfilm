@@ -1,0 +1,1 @@
+{"tmdb_id": 369358, "title": "Good-by Marilyn", "original_title": "Good-by Marilyn", "slug_title": "good-by-marilyn", "date": "1971-01-01", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iaijYYM6aLzI5Bp4MGBf0vF8W9w.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

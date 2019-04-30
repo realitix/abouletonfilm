@@ -1,0 +1,1 @@
+{"tmdb_id": 406286, "title": "Cyclops", "original_title": "Cyclope", "slug_title": "cyclops", "date": "1989-01-01", "genre": ["Com\u00e9die / Horreur / Thriller"], "score": "0.0/10", "synopsis": "The strange transformation of a surveillance camera.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "X_UdNjTlM3U"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 382853, "title": "Small Fish", "original_title": "Small Fish", "slug_title": "small-fish", "date": "2016-02-15", "genre": [""], "score": "0.0/10", "synopsis": "In Rancho Cucamonga, two brothers compete against their rivals, the Prussian Brothers.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

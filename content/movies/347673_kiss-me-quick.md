@@ -1,0 +1,1 @@
+{"tmdb_id": 347673, "title": "Kiss Me Quick", "original_title": "Kiss Me Quick", "slug_title": "kiss-me-quick", "date": "1920-05-05", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Clyde Cook ()", "Albert T. Gillespie ()", "Blanche Payson ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

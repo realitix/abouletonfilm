@@ -1,0 +1,1 @@
+{"tmdb_id": 547014, "title": "DTS Demo Disc Vol. 22", "original_title": "2018 DTS Demo Disc Vol.22", "slug_title": "dts-demo-disc-vol-22", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ddX88KUGOnfF7bI27XajjthlayO.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

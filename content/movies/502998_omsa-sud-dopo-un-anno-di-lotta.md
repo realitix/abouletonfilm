@@ -1,0 +1,1 @@
+{"tmdb_id": 502998, "title": "Omsa sud, dopo un anno di lotta", "original_title": "Omsa sud, dopo un anno di lotta", "slug_title": "omsa-sud-dopo-un-anno-di-lotta", "date": "1974-02-04", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

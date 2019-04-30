@@ -1,0 +1,1 @@
+{"tmdb_id": 530036, "title": "Nieder mit den Deutschen", "original_title": "Nieder mit den Deutschen", "slug_title": "nieder-mit-den-deutschen", "date": "1984-06-26", "genre": [""], "score": "0.0/10", "synopsis": "Munich Film Festival 1984.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 124094, "title": "The Moneytree", "original_title": "The Moneytree", "slug_title": "the-moneytree", "date": "1992-04-24", "genre": [""], "score": "0.0/10", "synopsis": "The trials and tribulations of a marijuana grower in Marin County, California.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 525960, "title": "Saturday", "original_title": "Saturday", "slug_title": "saturday", "date": "", "genre": [""], "score": "6.0/10", "synopsis": "The hard day and night of a lone man's weekend.", "image": "/img/default-cover.png", "actors": ["Leopoldo Caggiano ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

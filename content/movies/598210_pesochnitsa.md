@@ -1,0 +1,1 @@
+{"tmdb_id": 598210, "title": "\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430", "original_title": "\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430", "slug_title": "pesochnitsa", "date": "", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

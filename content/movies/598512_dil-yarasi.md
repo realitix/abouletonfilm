@@ -1,0 +1,1 @@
+{"tmdb_id": 598512, "title": "Dil Yaras\u0131", "original_title": "Dil Yaras\u0131", "slug_title": "dil-yarasi", "date": "1984-04-16", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2lJxe5YvSm14cxowiYyRtEz8orx.jpg", "actors": ["Orhan Gencebay ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

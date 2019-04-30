@@ -1,0 +1,1 @@
+{"tmdb_id": 334505, "title": "The Teddy Boys", "original_title": "al-Zazuwwat", "slug_title": "the-teddy-boys", "date": "1992-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Mohamed Ali El Okby.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

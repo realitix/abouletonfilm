@@ -1,0 +1,1 @@
+{"tmdb_id": 552783, "title": "Friends", "original_title": "Friends", "slug_title": "friends", "date": "1972-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A short film about a roller-coaster ride of a friendship between two imaginative young girls.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

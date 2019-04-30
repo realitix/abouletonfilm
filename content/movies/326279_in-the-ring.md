@@ -1,0 +1,1 @@
+{"tmdb_id": 326279, "title": "In the Ring", "original_title": "In the Ring", "slug_title": "in-the-ring", "date": "2006-12-05", "genre": [""], "score": "0.0/10", "synopsis": "An extensive look at the making of Rocky (1976).", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

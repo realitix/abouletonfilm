@@ -1,0 +1,1 @@
+{"tmdb_id": 243378, "title": "Life Times Nine", "original_title": "Life Times Nine", "slug_title": "life-times-nine", "date": "1973-10-01", "genre": [""], "score": "0.0/10", "synopsis": "Oscar nominated short film from 1973", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

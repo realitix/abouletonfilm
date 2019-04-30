@@ -1,0 +1,1 @@
+{"tmdb_id": 326342, "title": "Bes\u00f6ket", "original_title": "Bes\u00f6ket", "slug_title": "besoket", "date": "1967-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A black and white world, without intermediary grays.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

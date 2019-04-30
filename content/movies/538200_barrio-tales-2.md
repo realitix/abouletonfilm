@@ -1,0 +1,1 @@
+{"tmdb_id": 538200, "title": "Barrio Tales 2", "original_title": "Barrio Tales 2", "slug_title": "barrio-tales-2", "date": "2016-10-05", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pGxGPqjgZhCg6wgIbrLq0SjVciW.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

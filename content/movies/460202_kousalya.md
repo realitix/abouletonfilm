@@ -1,0 +1,1 @@
+{"tmdb_id": 460202, "title": "Kousalya", "original_title": "Kousalya", "slug_title": "kousalya", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "2016 Telugu Movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

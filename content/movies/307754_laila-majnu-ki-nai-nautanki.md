@@ -1,0 +1,1 @@
+{"tmdb_id": 307754, "title": "Laila Majnu Ki Nai Nautanki", "original_title": "Laila Majnu Ki Nai Nautanki", "slug_title": "laila-majnu-ki-nai-nautanki", "date": "1982-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1982", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

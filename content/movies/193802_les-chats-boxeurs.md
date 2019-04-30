@@ -1,0 +1,1 @@
+{"tmdb_id": 193802, "title": "Les chats boxeurs", "original_title": "Les chats boxeurs", "slug_title": "les-chats-boxeurs", "date": "1898-01-01", "genre": [""], "score": "6.5/10", "synopsis": "No Overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

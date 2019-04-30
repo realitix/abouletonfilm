@@ -1,0 +1,1 @@
+{"tmdb_id": 322271, "title": "Pichchi Pulliah", "original_title": "Pichchi Pulliah", "slug_title": "pichchi-pulliah", "date": "1953-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1953 Indian Film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

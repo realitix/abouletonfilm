@@ -1,0 +1,1 @@
+{"tmdb_id": 377907, "title": "Flucht aus der Sonntagsschule", "original_title": "Flucht aus der Sonntagsschule", "slug_title": "flucht-aus-der-sonntagsschule", "date": "2013-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A girl flees from school.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 303906, "title": "Little Busters!", "original_title": "Little Busters!", "slug_title": "little-busters", "date": "", "genre": [""], "score": "7.0/10", "synopsis": "Anime film about a group of friends including a kid whose parents were killed", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

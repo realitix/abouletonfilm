@@ -1,0 +1,1 @@
+{"tmdb_id": 478532, "title": "The Rossys", "original_title": "Les Rossy", "slug_title": "the-rossys", "date": "2002-09-12", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Short documentary about Quebecois store owners.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 331180, "title": "Ser un ser humano", "original_title": "Ser un ser humano", "slug_title": "ser-un-ser-humano", "date": "2011-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary from Cl\u00e1udia Alves", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

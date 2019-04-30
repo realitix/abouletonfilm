@@ -1,0 +1,1 @@
+{"tmdb_id": 567216, "title": "Untitled The Krushauer's Class Sequel", "original_title": "Untitled The Krushauer's Class Sequel", "slug_title": "untitled-the-krushauer-s-class-sequel", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

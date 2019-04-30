@@ -1,0 +1,1 @@
+{"tmdb_id": 481258, "title": "Un Cine en Concreto", "original_title": "Un Cine en Concreto", "slug_title": "un-cine-en-concreto", "date": "2017-10-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6VqB0gnzQtPQx41ML7kObg0NnQ9.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

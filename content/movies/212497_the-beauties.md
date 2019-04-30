@@ -1,0 +1,1 @@
+{"tmdb_id": 212497, "title": "The Beauties", "original_title": "The Beauties", "slug_title": "the-beauties", "date": "1930-06-28", "genre": [""], "score": "0.0/10", "synopsis": "Musical comedy about three zany characters who plot to steal a painting.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

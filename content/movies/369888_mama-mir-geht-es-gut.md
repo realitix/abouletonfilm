@@ -1,0 +1,1 @@
+{"tmdb_id": 369888, "title": "Mama, mir geht es gut", "original_title": "Mama, mir geht es gut", "slug_title": "mama-mir-geht-es-gut", "date": "2007-04-03", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

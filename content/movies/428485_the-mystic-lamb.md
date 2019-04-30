@@ -1,0 +1,1 @@
+{"tmdb_id": 428485, "title": "The Mystic Lamb", "original_title": "L'agneau mystique", "slug_title": "the-mystic-lamb", "date": "1939-12-01", "genre": [""], "score": "0.0/10", "synopsis": "1939 Belgian short documentary by Andre Cauvin", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

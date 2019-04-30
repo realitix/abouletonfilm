@@ -1,0 +1,1 @@
+{"tmdb_id": 391158, "title": "The Fight Of There Lives", "original_title": "The Fight Of There Lives", "slug_title": "the-fight-of-there-lives", "date": "2011-12-05", "genre": [""], "score": "0.0/10", "synopsis": "The Fight Of There Lives (2011)", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

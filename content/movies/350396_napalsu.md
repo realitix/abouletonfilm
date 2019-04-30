@@ -1,0 +1,1 @@
+{"tmdb_id": 350396, "title": "\ub098\ud314\uc218", "original_title": "\ub098\ud314\uc218", "slug_title": "napalsu", "date": "1979-11-09", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

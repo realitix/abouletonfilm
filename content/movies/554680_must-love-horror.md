@@ -1,0 +1,1 @@
+{"tmdb_id": 554680, "title": "Must Love Horror", "original_title": "Must Love Horror", "slug_title": "must-love-horror", "date": "2018-10-22", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ht92TLpeaHAKinbEFHEBXdh0H8W.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

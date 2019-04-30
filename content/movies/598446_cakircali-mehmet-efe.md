@@ -1,0 +1,1 @@
+{"tmdb_id": 598446, "title": "\u00c7ak\u0131rcal\u0131 Mehmet Efe", "original_title": "\u00c7ak\u0131rcal\u0131 Mehmet Efe", "slug_title": "cakircali-mehmet-efe", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

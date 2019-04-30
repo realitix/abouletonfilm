@@ -1,0 +1,1 @@
+{"tmdb_id": 179130, "title": "Mind Fuck", "original_title": "Mind Fuck", "slug_title": "mind-fuck", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Wife is poisoned and returns from the grave to kill her assassins with mind fuck.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

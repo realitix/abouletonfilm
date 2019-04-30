@@ -1,0 +1,1 @@
+{"tmdb_id": 324619, "title": "7 Deadly Sins", "original_title": "7 Deadly Sins", "slug_title": "7-deadly-sins", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Dante dies and must hunt down the seven deadly sins to earn his life back.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

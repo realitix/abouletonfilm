@@ -1,0 +1,1 @@
+{"tmdb_id": 304733, "title": "Kadavul", "original_title": "Kadavul", "slug_title": "kadavul", "date": "1997-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No Overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

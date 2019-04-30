@@ -1,0 +1,1 @@
+{"tmdb_id": 288388, "title": "Man to Man", "original_title": "Man to Man", "slug_title": "man-to-man", "date": "1992-08-26", "genre": [""], "score": "0.0/10", "synopsis": "A woman pretends to be her dead husband in Nazi Germany in order to survive.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

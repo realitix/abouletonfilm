@@ -1,0 +1,1 @@
+{"tmdb_id": 416318, "title": "\ub458\uc774 \ud569\uccd0 IQ 50", "original_title": "\ub458\uc774 \ud569\uccd0 IQ 50", "slug_title": "duli-habcyeo-iq-50", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

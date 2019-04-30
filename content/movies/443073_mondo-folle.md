@@ -1,0 +1,1 @@
+{"tmdb_id": 443073, "title": "Mondo folle", "original_title": "Mondo folle", "slug_title": "mondo-folle", "date": "", "genre": ["Crime / Drame / Thriller"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fabio Del Greco (Andrea Casadei)", "Chiara Pavoni (Chiara)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

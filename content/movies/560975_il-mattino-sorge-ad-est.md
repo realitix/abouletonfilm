@@ -1,0 +1,1 @@
+{"tmdb_id": 560975, "title": "Il mattino sorge ad est", "original_title": "Il mattino sorge ad est", "slug_title": "il-mattino-sorge-ad-est", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

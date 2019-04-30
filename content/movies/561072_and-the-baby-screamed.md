@@ -1,0 +1,1 @@
+{"tmdb_id": 561072, "title": "And the Baby Screamed", "original_title": "And the Baby Screamed", "slug_title": "and-the-baby-screamed", "date": "", "genre": ["Fantastique / Horreur"], "score": "0.0/10", "synopsis": "A father struggles to put his baby to sleep.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

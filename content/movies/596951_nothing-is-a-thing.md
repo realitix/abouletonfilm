@@ -1,0 +1,1 @@
+{"tmdb_id": 596951, "title": "nothing is a thing", "original_title": "nothing is a thing", "slug_title": "nothing-is-a-thing", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Kat and Ben strive to cultivate normalcy on their last night together.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

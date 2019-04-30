@@ -1,0 +1,1 @@
+{"tmdb_id": 447788, "title": "Searching for Balance", "original_title": "Hled\u00e1n\u00ed rovnov\u00e1hy", "slug_title": "searching-for-balance", "date": "1973-03-19", "genre": [""], "score": "0.0/10", "synopsis": "1973 Czech experimental short by Petr Skala", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

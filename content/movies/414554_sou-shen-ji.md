@@ -1,0 +1,1 @@
+{"tmdb_id": 414554, "title": "\u641c\u795e\u8bb0", "original_title": "\u641c\u795e\u8bb0", "slug_title": "sou-shen-ji", "date": "2014-10-24", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c7ZmROTWl9WA0qASHzHDyCeLkw3.jpg", "actors": ["Yui Hatano ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

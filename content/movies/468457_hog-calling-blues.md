@@ -1,0 +1,1 @@
+{"tmdb_id": 468457, "title": "Hog Calling Blues", "original_title": "Hog Calling Blues", "slug_title": "hog-calling-blues", "date": "1969-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Two radicals joyfully dismember a dead pig.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

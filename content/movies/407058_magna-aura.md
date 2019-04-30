@@ -1,0 +1,1 @@
+{"tmdb_id": 407058, "title": "Magna Aura", "original_title": "Magna Aura", "slug_title": "magna-aura", "date": "2009-09-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Horst Kotterba ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

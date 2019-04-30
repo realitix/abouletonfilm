@@ -1,0 +1,1 @@
+{"tmdb_id": 302878, "title": "Appayya", "original_title": "Appayya", "slug_title": "appayya", "date": "2012-09-13", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Srinagar Kitty, Bhama and Indrakumar", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

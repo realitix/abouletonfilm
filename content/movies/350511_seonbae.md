@@ -1,0 +1,1 @@
+{"tmdb_id": 350511, "title": "\uc120\ubc30", "original_title": "\uc120\ubc30", "slug_title": "seonbae", "date": "1979-03-15", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

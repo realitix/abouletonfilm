@@ -1,0 +1,1 @@
+{"tmdb_id": 323139, "title": "The Scary Folklore: Ura no Sho", "original_title": "The Scary Folklore: Ura no Sho", "slug_title": "the-scary-folklore-ura-no-sho", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "Cursed song", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

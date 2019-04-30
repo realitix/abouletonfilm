@@ -1,0 +1,1 @@
+{"tmdb_id": 368236, "title": "Hard Copy", "original_title": "Hard Copy", "slug_title": "hard-copy", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "American TV-series", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

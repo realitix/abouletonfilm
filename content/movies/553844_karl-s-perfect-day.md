@@ -1,0 +1,1 @@
+{"tmdb_id": 553844, "title": "Karl's Perfect Day", "original_title": "Karl's Perfect Day", "slug_title": "karl-s-perfect-day", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A day in the life of Swedish poet Karl Holmqvist.", "image": "/img/default-cover.png", "actors": ["Karl Holmqvist ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 213285, "title": "Ein Boxkampf mit John Bull", "original_title": "Ein Boxkampf mit John Bull", "slug_title": "ein-boxkampf-mit-john-bull", "date": "1918-08-09", "genre": [""], "score": "6.0/10", "synopsis": "A German propaganda animation.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

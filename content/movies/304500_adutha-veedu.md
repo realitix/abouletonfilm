@@ -1,0 +1,1 @@
+{"tmdb_id": 304500, "title": "Adutha Veedu", "original_title": "Adutha Veedu", "slug_title": "adutha-veedu", "date": "1986-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1986 Tamil Indian Film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 598530, "title": "Yarabbim", "original_title": "Yarabbim", "slug_title": "yarabbim", "date": "1980-04-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/otaENWUND5RjDoLJ8HN88JR9Mal.jpg", "actors": ["Orhan Gencebay ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

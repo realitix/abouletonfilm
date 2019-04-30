@@ -1,0 +1,1 @@
+{"tmdb_id": 559748, "title": "Nervosa", "original_title": "Nervosa", "slug_title": "nervosa", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

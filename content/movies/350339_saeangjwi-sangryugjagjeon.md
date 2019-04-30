@@ -1,0 +1,1 @@
+{"tmdb_id": 350339, "title": "\uc0c8\uc559\uc950 \uc0c1\ub959\uc791\uc804", "original_title": "\uc0c8\uc559\uc950 \uc0c1\ub959\uc791\uc804", "slug_title": "saeangjwi-sangryugjagjeon", "date": "1989-07-29", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

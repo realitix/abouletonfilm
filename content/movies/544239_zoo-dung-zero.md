@@ -1,0 +1,1 @@
+{"tmdb_id": 544239, "title": "Zoo Dung Zero", "original_title": "Zoo Dung Zero", "slug_title": "zoo-dung-zero", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "plot unknown", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

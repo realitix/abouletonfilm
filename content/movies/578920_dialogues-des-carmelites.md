@@ -1,0 +1,1 @@
+{"tmdb_id": 578920, "title": "Dialogues des Carm\u00e9lites", "original_title": "Dialogues des Carm\u00e9lites", "slug_title": "dialogues-des-carmelites", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Opera in three acts and twelve scenes", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

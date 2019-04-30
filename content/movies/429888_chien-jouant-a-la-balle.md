@@ -1,0 +1,1 @@
+{"tmdb_id": 429888, "title": "Chien jouant \u00e0 la balle", "original_title": "Chien jouant \u00e0 la balle", "slug_title": "chien-jouant-a-la-balle", "date": "1905-12-12", "genre": [""], "score": "0.0/10", "synopsis": "A man and a dog play with a ball.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

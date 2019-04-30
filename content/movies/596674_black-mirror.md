@@ -1,0 +1,1 @@
+{"tmdb_id": 596674, "title": "Black Mirror", "original_title": "Black Mirror", "slug_title": "black-mirror", "date": "2008-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A kaleidoscopic video essay exploring the state of contemporary Thailand.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

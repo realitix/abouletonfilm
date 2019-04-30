@@ -1,0 +1,1 @@
+{"tmdb_id": 549586, "title": "The Waitress", "original_title": "The Waitress", "slug_title": "the-waitress", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

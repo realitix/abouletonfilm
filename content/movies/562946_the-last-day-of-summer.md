@@ -1,0 +1,1 @@
+{"tmdb_id": 562946, "title": "The Last Day of Summer", "original_title": "\u6691\u5047\u6700\u5f8c\u4e00\u5929", "slug_title": "the-last-day-of-summer", "date": "2018-04-28", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

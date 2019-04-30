@@ -1,0 +1,1 @@
+{"tmdb_id": 300279, "title": "Hurra f\u00fcr Frau E.", "original_title": "Hurra f\u00fcr Frau E.", "slug_title": "hurra-fur-frau-e", "date": "1967-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about a single mother.", "image": "/img/default-cover.png", "actors": ["Eva Ekberg (herself)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

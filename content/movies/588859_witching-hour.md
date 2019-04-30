@@ -1,0 +1,1 @@
+{"tmdb_id": 588859, "title": "Witching Hour", "original_title": "Noidan merkki", "slug_title": "witching-hour", "date": "2014-01-01", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "Aino tells Salla a ghost story. Salla wants to know, if the story is true.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

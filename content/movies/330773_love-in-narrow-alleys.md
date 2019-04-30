@@ -1,0 +1,1 @@
+{"tmdb_id": 330773, "title": "Love in Narrow Alleys", "original_title": "Hub Fi al Aziqa al-Dayiqa", "slug_title": "love-in-narrow-alleys", "date": "1986-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Mohamed Jindi.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 406177, "title": "Illis n Lwazir 2", "original_title": "Illis n Lwazir 2", "slug_title": "illis-n-lwazir-2", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "Ayouz Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fE8YiDk6LWudcxSwqkZwPJxLeTW.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

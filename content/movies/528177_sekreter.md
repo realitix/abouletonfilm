@@ -1,0 +1,1 @@
+{"tmdb_id": 528177, "title": "Sekreter", "original_title": "Sekreter", "slug_title": "sekreter", "date": "1985-02-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iqq4zv8LkK3yjpgT64sydMU7Qt1.jpg", "actors": ["H\u00fclya Av\u015far ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

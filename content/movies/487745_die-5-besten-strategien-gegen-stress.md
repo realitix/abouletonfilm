@@ -1,0 +1,1 @@
+{"tmdb_id": 487745, "title": "Die 5 besten Strategien gegen Stress", "original_title": "Die 5 besten Strategien gegen Stress", "slug_title": "die-5-besten-strategien-gegen-stress", "date": "2011-08-16", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

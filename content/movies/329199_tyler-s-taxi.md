@@ -1,0 +1,1 @@
+{"tmdb_id": 329199, "title": "Tyler's Taxi", "original_title": "Tyler's Taxi", "slug_title": "tyler-s-taxi", "date": "2015-01-28", "genre": [""], "score": "0.0/10", "synopsis": "An angry taxi driver has a confrontation with a passenger.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

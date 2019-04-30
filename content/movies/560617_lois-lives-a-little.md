@@ -1,0 +1,1 @@
+{"tmdb_id": 560617, "title": "Lois Lives a Little", "original_title": "Lois Lives a Little", "slug_title": "lois-lives-a-little", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Adrienne Shelly's 1997 short film", "image": "/img/default-cover.png", "actors": ["Alix Elias (Lois)", "Judy Gold ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

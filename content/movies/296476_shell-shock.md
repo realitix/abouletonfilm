@@ -1,0 +1,1 @@
+{"tmdb_id": 296476, "title": "Shell Shock", "original_title": "Shell Shock", "slug_title": "shell-shock", "date": "2009-02-12", "genre": [""], "score": "0.0/10", "synopsis": "A British soldier returns from war confused and traumatized.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 275676, "title": "La modella", "original_title": "La modella", "slug_title": "la-modella", "date": "1916-11-11", "genre": [""], "score": "0.0/10", "synopsis": "The Model is a Italian film directed by Ugo Falena.", "image": "/img/default-cover.png", "actors": ["Stacia Napierkowska ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

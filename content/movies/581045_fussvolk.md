@@ -1,0 +1,1 @@
+{"tmdb_id": 581045, "title": "Fu\u00dfvolk", "original_title": "Fu\u00dfvolk", "slug_title": "fussvolk", "date": "1994-03-11", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

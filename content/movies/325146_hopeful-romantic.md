@@ -1,0 +1,1 @@
+{"tmdb_id": 325146, "title": "Hopeful Romantic", "original_title": "Hopeful Romantic", "slug_title": "hopeful-romantic", "date": "2009-01-01", "genre": [""], "score": "0.0/10", "synopsis": "One man's emotional journey through love, heartbreak, and healing.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

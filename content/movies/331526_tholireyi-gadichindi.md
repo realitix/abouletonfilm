@@ -1,0 +1,1 @@
+{"tmdb_id": 331526, "title": "Tholireyi Gadichindi", "original_title": "Tholireyi Gadichindi", "slug_title": "tholireyi-gadichindi", "date": "1977-11-17", "genre": [""], "score": "0.0/10", "synopsis": "A 1977 Telugu movie.", "image": "/img/default-cover.png", "actors": ["Rajinikanth ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

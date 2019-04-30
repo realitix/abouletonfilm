@@ -1,0 +1,1 @@
+{"tmdb_id": 428404, "title": "Antes da Encanteria", "original_title": "Antes da Encanteria", "slug_title": "antes-da-encanteria", "date": "2016-11-24", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nUmfKPeOhpvWIFbRFLrCA6DfinW.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

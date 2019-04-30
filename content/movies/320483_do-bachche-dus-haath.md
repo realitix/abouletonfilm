@@ -1,0 +1,1 @@
+{"tmdb_id": 320483, "title": "Do Bachche Dus Haath", "original_title": "Do Bachche Dus Haath", "slug_title": "do-bachche-dus-haath", "date": "1972-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1972.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

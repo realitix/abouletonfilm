@@ -1,0 +1,1 @@
+{"tmdb_id": 353514, "title": "Jota Quest - Planeta Atl\u00e2ntida", "original_title": "Jota Quest - Planeta Atl\u00e2ntida", "slug_title": "jota-quest-planeta-atlantida", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

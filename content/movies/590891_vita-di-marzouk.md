@@ -1,0 +1,1 @@
+{"tmdb_id": 590891, "title": "Vita di Marzouk", "original_title": "Vita di Marzouk", "slug_title": "vita-di-marzouk", "date": "2017-11-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4WcE1vL2icR5P2v8WTnnnZaH1A6.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

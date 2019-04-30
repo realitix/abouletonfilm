@@ -1,0 +1,1 @@
+{"tmdb_id": 588593, "title": "The Blizzard", "original_title": "Zadymka", "slug_title": "the-blizzard", "date": "1976-01-01", "genre": ["Animation"], "score": "0.0/10", "synopsis": "Adventures of a small pooch who went out on a snowy day.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

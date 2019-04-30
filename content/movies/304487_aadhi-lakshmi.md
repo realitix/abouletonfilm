@@ -1,0 +1,1 @@
+{"tmdb_id": 304487, "title": "Aadhi Lakshmi", "original_title": "Aadhi Lakshmi", "slug_title": "aadhi-lakshmi", "date": "2006-12-08", "genre": [""], "score": "0.0/10", "synopsis": "No Overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 481438, "title": "Seize the Time", "original_title": "Afferra il tempo", "slug_title": "seize-the-time", "date": "1970-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about the Black Panther movement.", "image": "/img/default-cover.png", "actors": ["Norman Jacob ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350351, "title": "\ubd88\uc5ec\uc6b0", "original_title": "\ubd88\uc5ec\uc6b0", "slug_title": "bulyeou", "date": "1989-09-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

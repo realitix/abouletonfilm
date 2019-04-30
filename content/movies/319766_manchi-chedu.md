@@ -1,0 +1,1 @@
+{"tmdb_id": 319766, "title": "Manchi Chedu", "original_title": "Manchi Chedu", "slug_title": "manchi-chedu", "date": "1963-11-07", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Taraka Rama Rao Nandamuri and Saroja Devi B.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349897, "title": "\uc790\uc720\ucc98\ub140", "original_title": "\uc790\uc720\ucc98\ub140", "slug_title": "jayuceonyeo", "date": "1982-10-29", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 385728, "title": "Yan Ki Made in Hongkong", "original_title": "Yan Ki Made in Hongkong", "slug_title": "yan-ki-made-in-hongkong", "date": "1980-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about the working poor in Hongkong.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

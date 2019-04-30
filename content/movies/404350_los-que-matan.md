@@ -1,0 +1,1 @@
+{"tmdb_id": 404350, "title": "Los que matan", "original_title": "Los que matan", "slug_title": "los-que-matan", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5n4Q0uneZG6B5KW6YF3ThrKqeyU.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

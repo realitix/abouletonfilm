@@ -1,0 +1,1 @@
+{"tmdb_id": 552771, "title": "As We Like It", "original_title": "As We Like It", "slug_title": "as-we-like-it", "date": "1952-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A look at beer and those blessed souls who labor to produce it.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

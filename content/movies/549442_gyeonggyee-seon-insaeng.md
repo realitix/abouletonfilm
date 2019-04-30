@@ -1,0 +1,1 @@
+{"tmdb_id": 549442, "title": "\uacbd\uacc4\uc5d0 \uc120 \uc778\uc0dd", "original_title": "\uacbd\uacc4\uc5d0 \uc120 \uc778\uc0dd", "slug_title": "gyeonggyee-seon-insaeng", "date": "2009-03-30", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

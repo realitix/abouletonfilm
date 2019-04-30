@@ -1,0 +1,1 @@
+{"tmdb_id": 433355, "title": "wavelength", "original_title": "wavelength", "slug_title": "wavelength", "date": "2016-11-10", "genre": [""], "score": "0.0/10", "synopsis": "A found footage remake of Michael Snow's Wavelength", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

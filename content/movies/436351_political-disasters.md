@@ -1,0 +1,1 @@
+{"tmdb_id": 436351, "title": "Political Disasters", "original_title": "Political Disasters", "slug_title": "political-disasters", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Two families struggle as the new millennium takes off.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

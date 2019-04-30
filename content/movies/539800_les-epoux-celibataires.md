@@ -1,0 +1,1 @@
+{"tmdb_id": 539800, "title": "Les \u00e9poux c\u00e9libataires", "original_title": "Les \u00e9poux c\u00e9libataires", "slug_title": "les-epoux-celibataires", "date": "1935-07-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

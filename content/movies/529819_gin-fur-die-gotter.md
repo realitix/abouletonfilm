@@ -1,0 +1,1 @@
+{"tmdb_id": 529819, "title": "Gin f\u00fcr die G\u00f6tter", "original_title": "Gin f\u00fcr die G\u00f6tter", "slug_title": "gin-fur-die-gotter", "date": "1988-06-25", "genre": [""], "score": "0.0/10", "synopsis": "Documentary film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

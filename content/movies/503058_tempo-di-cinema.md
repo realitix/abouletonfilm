@@ -1,0 +1,1 @@
+{"tmdb_id": 503058, "title": "Tempo di cinema", "original_title": "Tempo di cinema", "slug_title": "tempo-di-cinema", "date": "1970-02-04", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

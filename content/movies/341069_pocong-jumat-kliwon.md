@@ -1,0 +1,1 @@
+{"tmdb_id": 341069, "title": "Pocong jumat kliwon", "original_title": "Pocong jumat kliwon", "slug_title": "pocong-jumat-kliwon", "date": "2010-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Horror -  -  Arumy Bachsin, Sazha Carissa, Dana Cole", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

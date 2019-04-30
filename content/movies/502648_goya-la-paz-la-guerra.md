@@ -1,0 +1,1 @@
+{"tmdb_id": 502648, "title": "Goya La Paz la guerra", "original_title": "Goya La Paz la guerra", "slug_title": "goya-la-paz-la-guerra", "date": "2009-04-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

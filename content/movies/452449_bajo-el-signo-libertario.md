@@ -1,0 +1,1 @@
+{"tmdb_id": 452449, "title": "Bajo el signo libertario", "original_title": "Bajo el signo libertario", "slug_title": "bajo-el-signo-libertario", "date": "", "genre": ["Documentaire"], "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 415402, "title": "The Diligent Batman", "original_title": "Userdnyy denschik", "slug_title": "the-diligent-batman", "date": "1908-01-01", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "A comedic short about a clumsy valet.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

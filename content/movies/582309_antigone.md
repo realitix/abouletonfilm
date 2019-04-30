@@ -1,0 +1,1 @@
+{"tmdb_id": 582309, "title": "Antigone", "original_title": "Antigone", "slug_title": "antigone", "date": "2019-12-31", "genre": ["Drame"], "score": "0.0/10", "synopsis": "Free adaptation written and directed by Sophie Deraspe.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

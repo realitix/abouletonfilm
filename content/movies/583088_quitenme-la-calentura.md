@@ -1,0 +1,1 @@
+{"tmdb_id": 583088, "title": "Qu\u00edtenme la calentura", "original_title": "Qu\u00edtenme la calentura", "slug_title": "quitenme-la-calentura", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

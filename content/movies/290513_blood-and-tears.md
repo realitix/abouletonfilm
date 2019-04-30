@@ -1,0 +1,1 @@
+{"tmdb_id": 290513, "title": "Blood and Tears", "original_title": "Blood and Tears", "slug_title": "blood-and-tears", "date": "2006-05-10", "genre": [""], "score": "0.0/10", "synopsis": "A look at the Arab-Israeli conflict that is seemingly without end.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

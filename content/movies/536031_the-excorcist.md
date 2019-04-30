@@ -1,0 +1,1 @@
+{"tmdb_id": 536031, "title": "the excorcist", "original_title": "the excorcist", "slug_title": "the-excorcist", "date": "", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "Devil takes over girl", "image": "/img/default-cover.png", "actors": ["Lee morey (street bum)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

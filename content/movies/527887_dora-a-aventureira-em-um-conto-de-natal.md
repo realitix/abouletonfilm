@@ -1,0 +1,1 @@
+{"tmdb_id": 527887, "title": "Dora A Aventureira Em Um Conto de Natal", "original_title": "Dora A Aventureira Em Um Conto de Natal", "slug_title": "dora-a-aventureira-em-um-conto-de-natal", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

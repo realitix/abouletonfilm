@@ -1,0 +1,1 @@
+{"tmdb_id": 389031, "title": "Clareou", "original_title": "Clareou", "slug_title": "clareou", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

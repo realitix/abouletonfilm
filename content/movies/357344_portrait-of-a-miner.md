@@ -1,0 +1,1 @@
+{"tmdb_id": 357344, "title": "Portrait of a Miner", "original_title": "Portrait of a Miner", "slug_title": "portrait-of-a-miner", "date": "1966-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Part of BFI's \"National Coal Board Collection\".", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

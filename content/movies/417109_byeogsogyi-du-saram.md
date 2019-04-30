@@ -1,0 +1,1 @@
+{"tmdb_id": 417109, "title": "\ubcbd\uc18d\uc758 \ub450 \uc0ac\ub78c", "original_title": "\ubcbd\uc18d\uc758 \ub450 \uc0ac\ub78c", "slug_title": "byeogsogyi-du-saram", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

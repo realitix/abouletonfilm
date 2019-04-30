@@ -1,0 +1,1 @@
+{"tmdb_id": 451250, "title": "Dead Birds", "original_title": "Dead Birds", "slug_title": "dead-birds", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "After a tragedy occurs, a boy sees his small desert town in a new perspective.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

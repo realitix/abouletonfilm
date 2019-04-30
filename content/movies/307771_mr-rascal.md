@@ -1,0 +1,1 @@
+{"tmdb_id": 307771, "title": "Mr. Rascal", "original_title": "Mr. Rascal", "slug_title": "mr-rascal", "date": "2011-09-02", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 2011", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

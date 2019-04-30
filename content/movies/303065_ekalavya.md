@@ -1,0 +1,1 @@
+{"tmdb_id": 303065, "title": "Ekalavya", "original_title": "Ekalavya", "slug_title": "ekalavya", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Sarath Babu, Krishna Ghattamaneni and Gummadi", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

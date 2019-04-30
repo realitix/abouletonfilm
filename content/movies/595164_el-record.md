@@ -1,0 +1,1 @@
+{"tmdb_id": 595164, "title": "El r\u00e9cord", "original_title": "El r\u00e9cord", "slug_title": "el-record", "date": "2019-04-09", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h2fm6W0oI4qIsN9P5fJLoDvEM95.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

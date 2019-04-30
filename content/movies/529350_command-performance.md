@@ -1,0 +1,1 @@
+{"tmdb_id": 529350, "title": "Command Performance", "original_title": "Command Performance", "slug_title": "command-performance", "date": "1942-06-11", "genre": [""], "score": "0.0/10", "synopsis": "How shellac records were produced and manufactured.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350422, "title": "\ub2ec\ub824\ub77c \ub9cc\uc11d\uc544", "original_title": "\ub2ec\ub824\ub77c \ub9cc\uc11d\uc544", "slug_title": "dalryeora-manseoga", "date": "1980-01-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

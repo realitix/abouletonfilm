@@ -1,0 +1,1 @@
+{"tmdb_id": 431739, "title": "Prosopographia", "original_title": "Prosopographia", "slug_title": "prosopographia", "date": "1976-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Prosopographia, 1976. 16mm film, color, sound; 10 minutes (unfinished).", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

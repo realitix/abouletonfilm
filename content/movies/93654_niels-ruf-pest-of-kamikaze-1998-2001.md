@@ -1,0 +1,1 @@
+{"tmdb_id": 93654, "title": "Niels Ruf: Pest Of Kamikaze 1998 - 2001", "original_title": "Niels Ruf: Pest Of Kamikaze 1998 - 2001", "slug_title": "niels-ruf-pest-of-kamikaze-1998-2001", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

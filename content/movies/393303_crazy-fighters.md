@@ -1,0 +1,1 @@
+{"tmdb_id": 393303, "title": "Crazy Fighters", "original_title": "Crazy Fighters", "slug_title": "crazy-fighters", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Crazy Fighters Local Movie Trinidad &amp; Tobago FreeTime Production", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

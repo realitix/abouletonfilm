@@ -1,0 +1,1 @@
+{"tmdb_id": 591227, "title": "Encantado", "original_title": "Encantado", "slug_title": "encantado", "date": "2018-09-29", "genre": [""], "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xPf77tWlfcT9hMfYdWHirfhtfCb.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

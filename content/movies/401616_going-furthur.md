@@ -1,0 +1,1 @@
+{"tmdb_id": 401616, "title": "Going Furthur", "original_title": "Going Furthur", "slug_title": "going-furthur", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Its been 50 years since the iconic Magic Trip. How much Furthur have we come?", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

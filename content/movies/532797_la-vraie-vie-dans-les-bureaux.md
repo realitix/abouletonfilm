@@ -1,0 +1,1 @@
+{"tmdb_id": 532797, "title": "La Vraie Vie (dans les bureaux)", "original_title": "La Vraie Vie (dans les bureaux)", "slug_title": "la-vraie-vie-dans-les-bureaux", "date": "1993-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

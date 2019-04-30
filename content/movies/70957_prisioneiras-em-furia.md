@@ -1,0 +1,1 @@
+{"tmdb_id": 70957, "title": "Prisioneiras em F\u00faria", "original_title": "Prisioneiras em F\u00faria", "slug_title": "prisioneiras-em-furia", "date": "1983-11-11", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

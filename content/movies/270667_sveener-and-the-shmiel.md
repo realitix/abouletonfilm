@@ -1,0 +1,1 @@
+{"tmdb_id": 270667, "title": "Sveener and the Shmiel", "original_title": "Sveener and the Shmiel", "slug_title": "sveener-and-the-shmiel", "date": "2009-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Comedy -  Dave Pressler, Aaron Sharp, Demitra Tsioulos", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

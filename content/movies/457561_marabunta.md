@@ -1,0 +1,1 @@
+{"tmdb_id": 457561, "title": "Marabunta", "original_title": "Marabunta", "slug_title": "marabunta", "date": "1967-10-30", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 503543, "title": "Solitudine", "original_title": "Solitudine", "slug_title": "solitudine", "date": "1966-02-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

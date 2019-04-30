@@ -1,0 +1,1 @@
+{"tmdb_id": 547712, "title": "Sess\u00e3o Especial", "original_title": "Sess\u00e3o Especial", "slug_title": "sessao-especial", "date": "2018-07-01", "genre": [""], "score": "0.0/10", "synopsis": "Special Session", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

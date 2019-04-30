@@ -1,0 +1,1 @@
+{"tmdb_id": 343616, "title": "Domingo", "original_title": "Domingo", "slug_title": "domingo", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A father and a son share a lunch in which nothing and everything happens.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

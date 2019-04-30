@@ -1,0 +1,1 @@
+{"tmdb_id": 390171, "title": "Full Bloom", "original_title": "Full Bloom", "slug_title": "full-bloom", "date": "2008-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about a boxer who can't box.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

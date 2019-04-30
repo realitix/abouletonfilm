@@ -1,0 +1,1 @@
+{"tmdb_id": 236162, "title": "String Bean Jack", "original_title": "String Bean Jack", "slug_title": "string-bean-jack", "date": "1938-08-25", "genre": [""], "score": "0.0/10", "synopsis": "A variation on the \"Jack and the Beanstalk\" story.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

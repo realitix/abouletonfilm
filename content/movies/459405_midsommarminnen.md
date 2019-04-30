@@ -1,0 +1,1 @@
+{"tmdb_id": 459405, "title": "Midsommarminnen", "original_title": "Midsommarminnen", "slug_title": "midsommarminnen", "date": "1942-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A 1942 short film.", "image": "/img/default-cover.png", "actors": ["Nils Jerring (Narrator (voice))"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

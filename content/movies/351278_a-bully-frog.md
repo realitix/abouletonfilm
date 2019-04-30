@@ -1,0 +1,1 @@
+{"tmdb_id": 351278, "title": "A Bully Frog", "original_title": "A Bully Frog", "slug_title": "a-bully-frog", "date": "1937-09-17", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon released 18 September 1937.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

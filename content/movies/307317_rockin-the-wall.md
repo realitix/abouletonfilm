@@ -1,0 +1,1 @@
+{"tmdb_id": 307317, "title": "Rockin' the Wall", "original_title": "Rockin' the Wall", "slug_title": "rockin-the-wall", "date": "2010-09-01", "genre": [""], "score": "0.0/10", "synopsis": "Rock bands discuss the role of music in bringing down the Berlin Wall.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

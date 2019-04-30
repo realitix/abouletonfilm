@@ -1,0 +1,1 @@
+{"tmdb_id": 588911, "title": "Czasy przesz\u0142y", "original_title": "Czasy przesz\u0142y", "slug_title": "czasy-przeszly", "date": "1998-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s0F30AR5DiSNd2DxMgekuLBrwN9.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

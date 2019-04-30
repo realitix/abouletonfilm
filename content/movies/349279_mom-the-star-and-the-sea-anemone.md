@@ -1,0 +1,1 @@
+{"tmdb_id": 349279, "title": "Mom, the Star, and the Sea Anemone", "original_title": "\ub9d0\ubbf8\uc798", "slug_title": "mom-the-star-and-the-sea-anemone", "date": "1995-03-09", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ahn Sung-ki ()", "Lee Young-ha ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

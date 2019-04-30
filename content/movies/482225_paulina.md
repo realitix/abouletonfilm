@@ -1,0 +1,1 @@
+{"tmdb_id": 482225, "title": "Paulina", "original_title": "Paulina", "slug_title": "paulina", "date": "1998-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about the life of Paulina, a middle-aged maid from Mexico living in the US.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

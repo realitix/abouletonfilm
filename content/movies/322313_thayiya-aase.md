@@ -1,0 +1,1 @@
+{"tmdb_id": 322313, "title": "Thayiya Aase", "original_title": "Thayiya Aase", "slug_title": "thayiya-aase", "date": "1988-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1988 Indian Kannada Film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

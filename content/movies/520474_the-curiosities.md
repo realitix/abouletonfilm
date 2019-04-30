@@ -1,0 +1,1 @@
+{"tmdb_id": 520474, "title": "The Curiosities", "original_title": "The Curiosities", "slug_title": "the-curiosities", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Sue Healey.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

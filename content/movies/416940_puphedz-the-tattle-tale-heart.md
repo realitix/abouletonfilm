@@ -1,0 +1,1 @@
+{"tmdb_id": 416940, "title": "Puphedz: The Tattle-Tale Heart", "original_title": "Puphedz: The Tattle-Tale Heart", "slug_title": "puphedz-the-tattle-tale-heart", "date": "", "genre": [""], "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

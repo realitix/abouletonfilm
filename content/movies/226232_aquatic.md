@@ -1,0 +1,1 @@
+{"tmdb_id": 226232, "title": "Aquatic", "original_title": "Suisei", "slug_title": "aquatic", "date": "1987-06-01", "genre": [""], "score": "0.0/10", "synopsis": "The first short by Koji Yamamura", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4JRrolapDEvnx2ko2KA1vvMzW5n.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

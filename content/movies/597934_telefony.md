@@ -1,0 +1,1 @@
+{"tmdb_id": 597934, "title": "\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u044b", "original_title": "\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u044b", "slug_title": "telefony", "date": "", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

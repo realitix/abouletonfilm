@@ -1,0 +1,1 @@
+{"tmdb_id": 270658, "title": "Raising Wolves", "original_title": "Raising Wolves", "slug_title": "raising-wolves", "date": "2012-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Action -  Joe Lenig, Kristin Rodriguez, Nelson Irizarry", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

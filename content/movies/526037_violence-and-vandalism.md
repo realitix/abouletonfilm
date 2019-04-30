@@ -1,0 +1,1 @@
+{"tmdb_id": 526037, "title": "Violence and Vandalism", "original_title": "Violence and Vandalism", "slug_title": "violence-and-vandalism", "date": "1972-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Violence and vandalism are bad m'kay?", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 558842, "title": "Vingt-quatre heures de perm'", "original_title": "Vingt-quatre heures de perm'", "slug_title": "vingt-quatre-heures-de-perm", "date": "1945-01-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 557556, "title": "Purgatoric", "original_title": "Purgatoric", "slug_title": "purgatoric", "date": "2018-10-29", "genre": [""], "score": "0.0/10", "synopsis": "An experimental art film about death, sadness, uncertainty, and ultimately, hope.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

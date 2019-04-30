@@ -1,0 +1,1 @@
+{"tmdb_id": 348728, "title": "Hi-Fi Cadets", "original_title": "Hi-Fi Cadets", "slug_title": "hi-fi-cadets", "date": "1989-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A short animation film by Lewis Klahr.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

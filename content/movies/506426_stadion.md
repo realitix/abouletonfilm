@@ -1,0 +1,1 @@
+{"tmdb_id": 506426, "title": "Stadion", "original_title": "Stadion", "slug_title": "stadion", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lLGYYLCsRo4kwrLByz7CbgasNfO.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

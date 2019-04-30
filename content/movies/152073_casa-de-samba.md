@@ -1,0 +1,1 @@
+{"tmdb_id": 152073, "title": "Casa de Samba", "original_title": "Casa de Samba", "slug_title": "casa-de-samba", "date": "2016-02-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5uZsuLvBEiYhPOCeaNilAzam8Ky.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

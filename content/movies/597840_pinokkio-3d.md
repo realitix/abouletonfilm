@@ -1,0 +1,1 @@
+{"tmdb_id": 597840, "title": "\u041f\u0438\u043d\u043e\u043a\u043a\u0438\u043e 3D", "original_title": "\u041f\u0438\u043d\u043e\u043a\u043a\u0438\u043e 3D", "slug_title": "pinokkio-3d", "date": "", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

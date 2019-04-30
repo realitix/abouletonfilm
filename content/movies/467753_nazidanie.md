@@ -1,0 +1,1 @@
+{"tmdb_id": 467753, "title": "Nazidanie", "original_title": "Nazidanie", "slug_title": "nazidanie", "date": "2017-08-24", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8cHVcF9Ing3wMWqUOUXUTEIBLXk.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

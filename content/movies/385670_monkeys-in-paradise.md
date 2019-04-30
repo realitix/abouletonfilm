@@ -1,0 +1,1 @@
+{"tmdb_id": 385670, "title": "Monkeys in Paradise", "original_title": "K\u00f4raku zaru", "slug_title": "monkeys-in-paradise", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "this movie cannot be synopsized, it doesn't make any sense.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 387575, "title": "Los guaruras", "original_title": "Los guaruras", "slug_title": "los-guaruras", "date": "1982-03-14", "genre": ["Thriller / Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jorge Vargas ()", "Patricia Rivera ()", "Roberto Jord\u00e1n ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

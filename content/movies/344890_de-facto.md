@@ -1,0 +1,1 @@
+{"tmdb_id": 344890, "title": "De Facto", "original_title": "De Fakto", "slug_title": "de-facto", "date": "1973-06-26", "genre": ["Com\u00e9die / Animation"], "score": "7.2/10", "synopsis": "A building collapses and the authorities have to find the causer.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

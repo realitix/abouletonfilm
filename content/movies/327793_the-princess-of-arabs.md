@@ -1,0 +1,1 @@
+{"tmdb_id": 327793, "title": "The Princess of Arabs", "original_title": "Amirat el Arab", "slug_title": "the-princess-of-arabs", "date": "1963-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Niazi Mostafa.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

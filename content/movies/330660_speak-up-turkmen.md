@@ -1,0 +1,1 @@
+{"tmdb_id": 330660, "title": "Speak Up Turkmen", "original_title": "Harf Bezan Torkaman", "slug_title": "speak-up-turkmen", "date": "1979-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Reza Allamehzadeh.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

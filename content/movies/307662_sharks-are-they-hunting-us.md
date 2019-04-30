@@ -1,0 +1,1 @@
+{"tmdb_id": 307662, "title": "Sharks: Are They Hunting Us?", "original_title": "Sharks: Are They Hunting Us?", "slug_title": "sharks-are-they-hunting-us", "date": "2006-08-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dave Salmoni ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

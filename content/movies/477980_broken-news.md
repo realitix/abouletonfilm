@@ -1,0 +1,1 @@
+{"tmdb_id": 477980, "title": "Broken News", "original_title": "Broken News", "slug_title": "broken-news", "date": "2012-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Broken News is an intimate attempt at reporting, mediating and being mediated.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

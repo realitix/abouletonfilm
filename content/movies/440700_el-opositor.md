@@ -1,0 +1,1 @@
+{"tmdb_id": 440700, "title": "El opositor", "original_title": "El opositor", "slug_title": "el-opositor", "date": "2009-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/joQQjckF6TYYwWQP13IZLyJGahZ.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 589762, "title": "\u0414\u0435\u0432\u044f\u0442\u0430\u0435\u0432", "original_title": "\u0414\u0435\u0432\u044f\u0442\u0430\u0435\u0432", "slug_title": "deviataev", "date": "", "genre": ["Drame / Histoire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 375598, "title": "La Pareja Perfecta", "original_title": "La Pareja Perfecta", "slug_title": "la-pareja-perfecta", "date": "", "genre": ["Romance / Com\u00e9die"], "score": "0.0/10", "synopsis": "New filme by Dami\u00e1n Szifr\u00f3n.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

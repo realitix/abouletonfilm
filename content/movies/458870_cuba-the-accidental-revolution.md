@@ -1,0 +1,1 @@
+{"tmdb_id": 458870, "title": "Cuba: The Accidental Revolution", "original_title": "Cuba: The Accidental Revolution", "slug_title": "cuba-the-accidental-revolution", "date": "", "genre": [""], "score": "5.0/10", "synopsis": "Documentary", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

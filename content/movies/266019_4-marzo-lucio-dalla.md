@@ -1,0 +1,1 @@
+{"tmdb_id": 266019, "title": "4 marzo Lucio Dalla", "original_title": "4 marzo Lucio Dalla", "slug_title": "4-marzo-lucio-dalla", "date": "2013-03-04", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d8qiTCejoR1oXw1MCskpgYD63WY.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

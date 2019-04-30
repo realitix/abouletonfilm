@@ -1,0 +1,1 @@
+{"tmdb_id": 349825, "title": "\ube68\uac04 \uc575\ub450", "original_title": "\ube68\uac04 \uc575\ub450", "slug_title": "bbalgan-aengdu", "date": "1982-11-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

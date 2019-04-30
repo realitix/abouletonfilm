@@ -1,0 +1,1 @@
+{"tmdb_id": 346787, "title": "Crossroads", "original_title": "Crossroads", "slug_title": "crossroads", "date": "2015-06-22", "genre": ["Drame / Thriller / Action"], "score": "0.0/10", "synopsis": "A man finds himself standing at a crossroads on a fateful day.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

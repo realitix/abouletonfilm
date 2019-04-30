@@ -1,0 +1,1 @@
+{"tmdb_id": 300272, "title": "Am Ende der Krankheit", "original_title": "Am Ende der Krankheit", "slug_title": "am-ende-der-krankheit", "date": "1967-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Men playing a card game and stripping.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

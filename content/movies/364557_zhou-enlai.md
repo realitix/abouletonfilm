@@ -1,0 +1,1 @@
+{"tmdb_id": 364557, "title": "Zhou Enlai", "original_title": "Zhou Enlai", "slug_title": "zhou-enlai", "date": "1992-01-09", "genre": [""], "score": "9.0/10", "synopsis": "Winner of the Hundred Flowers Award for Best Film in 1992", "image": "/img/default-cover.png", "actors": ["Tiecheng Wang (Zhou Enlai)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 480320, "title": "\ubd88\uaebc\uc9c4 \ucc3d", "original_title": "\ubd88\uaebc\uc9c4 \ucc3d", "slug_title": "bulggeojin-cang", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

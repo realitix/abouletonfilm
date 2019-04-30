@@ -1,0 +1,1 @@
+{"tmdb_id": 593380, "title": "Jane Lee Hooker: Live at Bridgeside Live", "original_title": "Jane Lee Hooker: Live at Bridgeside Live", "slug_title": "jane-lee-hooker-live-at-bridgeside-live", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

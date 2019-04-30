@@ -1,0 +1,1 @@
+{"tmdb_id": 525261, "title": "Miss Butterfly", "original_title": "Miss Butterfly", "slug_title": "miss-butterfly", "date": "1925-05-20", "genre": [""], "score": "0.0/10", "synopsis": "Vintage erotic film of the oriental flavor.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 44230, "title": "Mr. Cortisone, Happy Days", "original_title": "Yamav Ha'alizim Shel Mar Cortisone", "slug_title": "mr-cortisone-happy-days", "date": "2004-01-01", "genre": [""], "score": "0.0/10", "synopsis": " ", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

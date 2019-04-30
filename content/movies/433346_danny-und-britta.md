@@ -1,0 +1,1 @@
+{"tmdb_id": 433346, "title": "Danny und Britta", "original_title": "Danny und Britta", "slug_title": "danny-und-britta", "date": "1997-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pippi S\u00f6llner (Britta)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

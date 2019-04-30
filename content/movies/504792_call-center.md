@@ -1,0 +1,1 @@
+{"tmdb_id": 504792, "title": "Call Center", "original_title": "\u0627\u0644\u0633\u0646\u062a\u0631\u0627\u0644", "slug_title": "call-center", "date": "2006-02-12", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Mohammed Hammad", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

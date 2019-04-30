@@ -1,0 +1,1 @@
+{"tmdb_id": 343044, "title": "Mishpahat Simhon", "original_title": "Mishpahat Simhon", "slug_title": "mishpahat-simhon", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A tale of a family in Israel in the 60's", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

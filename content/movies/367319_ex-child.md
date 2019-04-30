@@ -1,0 +1,1 @@
+{"tmdb_id": 367319, "title": "Ex-Child", "original_title": "Ex-Child", "slug_title": "ex-child", "date": "1994-01-01", "genre": [""], "score": "5.0/10", "synopsis": "Animated film about father and son.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

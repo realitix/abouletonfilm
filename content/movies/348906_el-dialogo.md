@@ -1,0 +1,1 @@
+{"tmdb_id": 348906, "title": "El Di\u00e1logo", "original_title": "El Di\u00e1logo", "slug_title": "el-dialogo", "date": "2014-04-10", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/enRRVWSjSfJ2EgO86HDM2lkZV2j.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

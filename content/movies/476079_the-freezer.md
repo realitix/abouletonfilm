@@ -1,0 +1,1 @@
+{"tmdb_id": 476079, "title": "The Freezer", "original_title": "The Freezer", "slug_title": "the-freezer", "date": "2003-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Drama, Short | 2003 (New Zealand)", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

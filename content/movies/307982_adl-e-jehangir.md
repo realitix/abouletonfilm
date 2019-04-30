@@ -1,0 +1,1 @@
+{"tmdb_id": 307982, "title": "Adl-e-Jehangir", "original_title": "Adl-e-Jehangir", "slug_title": "adl-e-jehangir", "date": "1934-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Motion picture starring Pushpa, directed by K Sardar", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 304730, "title": "Kalicharan", "original_title": "Kalicharan", "slug_title": "kalicharan", "date": "1998-08-01", "genre": [""], "score": "0.0/10", "synopsis": "No Overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

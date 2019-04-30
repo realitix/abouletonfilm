@@ -1,0 +1,1 @@
+{"tmdb_id": 460470, "title": "Mina de Ouro", "original_title": "Mina de Ouro", "slug_title": "mina-de-ouro", "date": "2017-06-05", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

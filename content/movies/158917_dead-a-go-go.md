@@ -1,0 +1,1 @@
+{"tmdb_id": 158917, "title": "Dead A Go! Go!", "original_title": "Deddo a goo! goo!", "slug_title": "dead-a-go-go", "date": "1999-01-30", "genre": [""], "score": "0.0/10", "synopsis": "Educational mockumentary about 3 sucides", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

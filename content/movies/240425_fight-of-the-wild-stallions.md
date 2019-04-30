@@ -1,0 +1,1 @@
+{"tmdb_id": 240425, "title": "Fight of the Wild Stallions", "original_title": "Fight of the Wild Stallions", "slug_title": "fight-of-the-wild-stallions", "date": "1947-12-24", "genre": [""], "score": "0.0/10", "synopsis": "1947 Oscar nominated short film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

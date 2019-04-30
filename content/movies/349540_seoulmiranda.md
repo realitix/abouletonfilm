@@ -1,0 +1,1 @@
+{"tmdb_id": 349540, "title": "\uc11c\uc6b8\ubbf8\ub780\ub2e4", "original_title": "\uc11c\uc6b8\ubbf8\ub780\ub2e4", "slug_title": "seoulmiranda", "date": "1995-10-27", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

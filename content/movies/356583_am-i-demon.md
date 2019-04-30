@@ -1,0 +1,1 @@
+{"tmdb_id": 356583, "title": "Am I Demon", "original_title": "Am I Demon", "slug_title": "am-i-demon", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A man living in a trailer in the middle of the forest summons a demon.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

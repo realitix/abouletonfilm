@@ -1,0 +1,1 @@
+{"tmdb_id": 331630, "title": "Battle of Sanandaj", "original_title": "Jang-e Sanandaj", "slug_title": "battle-of-sanandaj", "date": "1980-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary made by the Kurdish resistance movement.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

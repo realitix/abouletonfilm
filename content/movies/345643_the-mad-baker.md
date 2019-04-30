@@ -1,0 +1,1 @@
+{"tmdb_id": 345643, "title": "The Mad Baker", "original_title": "The Mad Baker", "slug_title": "the-mad-baker", "date": "1974-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A Frankenstein Monster made of chocolate cake terrorizes the countryside.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

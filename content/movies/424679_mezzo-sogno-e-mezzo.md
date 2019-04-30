@@ -1,0 +1,1 @@
+{"tmdb_id": 424679, "title": "Mezzo sogno e mezzo", "original_title": "Mezzo sogno e mezzo", "slug_title": "mezzo-sogno-e-mezzo", "date": "1965-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Animated film about a weird creature travelling.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

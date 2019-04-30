@@ -1,0 +1,1 @@
+{"tmdb_id": 526447, "title": "Domingos Bugreiro", "original_title": "Domingos Bugreiro", "slug_title": "domingos-bugreiro", "date": "2018-01-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pBfpzh8bPUGuTTTGZJDwMe57AIv.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

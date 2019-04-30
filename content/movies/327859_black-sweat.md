@@ -1,0 +1,1 @@
+{"tmdb_id": 327859, "title": "Black Sweat", "original_title": "Sueur noire", "slug_title": "black-sweat", "date": "1971-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Sid Ali Mazif.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

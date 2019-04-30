@@ -1,0 +1,1 @@
+{"tmdb_id": 345215, "title": "The Cowboy Cop", "original_title": "The Cowboy Cop", "slug_title": "the-cowboy-cop", "date": "1926-07-10", "genre": [""], "score": "0.0/10", "synopsis": "A cowboy joins the Low Angeles mounted police unit.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

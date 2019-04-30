@@ -1,0 +1,1 @@
+{"tmdb_id": 238459, "title": "Kinderen van Ghana", "original_title": "Kinderen van Ghana", "slug_title": "kinderen-van-ghana", "date": "1988-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

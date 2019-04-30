@@ -1,0 +1,1 @@
+{"tmdb_id": 544113, "title": "Jugendliche", "original_title": "Jugendliche", "slug_title": "jugendliche", "date": "1971-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

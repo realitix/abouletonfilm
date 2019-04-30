@@ -1,0 +1,1 @@
+{"tmdb_id": 556285, "title": "Le ch\u00e2teau de la mort lente", "original_title": "Le ch\u00e2teau de la mort lente", "slug_title": "le-chateau-de-la-mort-lente", "date": "1930-05-26", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

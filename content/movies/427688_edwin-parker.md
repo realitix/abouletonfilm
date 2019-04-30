@@ -1,0 +1,1 @@
+{"tmdb_id": 427688, "title": "Edwin Parker", "original_title": "Edwin Parker", "slug_title": "edwin-parker", "date": "2011-06-29", "genre": [""], "score": "0.0/10", "synopsis": "A film by Tacita Dean", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ztfz2ROaQWiMd4XqZwzo6tVmSRL.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

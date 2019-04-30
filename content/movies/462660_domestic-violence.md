@@ -1,0 +1,1 @@
+{"tmdb_id": 462660, "title": "Domestic Violence", "original_title": "Domestic Violence", "slug_title": "domestic-violence", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Multiple vignettes spotlighting modern-day domestic violence.", "image": "/img/default-cover.png", "actors": ["RZA (Self)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 309114, "title": "Chatpati", "original_title": "Chatpati", "slug_title": "chatpati", "date": "1983-01-07", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1983", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

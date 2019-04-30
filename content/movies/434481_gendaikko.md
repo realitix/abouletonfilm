@@ -1,0 +1,1 @@
+{"tmdb_id": 434481, "title": "Gendaikko", "original_title": "Gendaikko", "slug_title": "gendaikko", "date": "1963-02-02", "genre": [""], "score": "0.0/10", "synopsis": "After their father dies, his children try to get by on a house boat.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

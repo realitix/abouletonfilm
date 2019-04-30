@@ -1,0 +1,1 @@
+{"tmdb_id": 547782, "title": "The Presence", "original_title": "The Presence", "slug_title": "the-presence", "date": "1972-01-01", "genre": [""], "score": "0.0/10", "synopsis": "This is the rachety Japanese wood-block style - a short \"spook movie.\"", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

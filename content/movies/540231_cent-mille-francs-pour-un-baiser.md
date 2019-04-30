@@ -1,0 +1,1 @@
+{"tmdb_id": 540231, "title": "Cent mille francs pour un baiser", "original_title": "Cent mille francs pour un baiser", "slug_title": "cent-mille-francs-pour-un-baiser", "date": "1933-07-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

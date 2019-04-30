@@ -1,0 +1,1 @@
+{"tmdb_id": 417581, "title": "Redemption Song: Canto di Redenzione", "original_title": "Redemption Song: Canto di Redenzione", "slug_title": "redemption-song-canto-di-redenzione", "date": "2015-12-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

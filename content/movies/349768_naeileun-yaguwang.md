@@ -1,0 +1,1 @@
+{"tmdb_id": 349768, "title": "\ub0b4\uc77c\uc740 \uc57c\uad6c\uc655", "original_title": "\ub0b4\uc77c\uc740 \uc57c\uad6c\uc655", "slug_title": "naeileun-yaguwang", "date": "1982-12-12", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

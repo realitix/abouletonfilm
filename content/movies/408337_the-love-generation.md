@@ -1,0 +1,1 @@
+{"tmdb_id": 408337, "title": "The Love Generation", "original_title": "The Love Generation", "slug_title": "the-love-generation", "date": "1967-12-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amin Q. Chaudhri (Presenter)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

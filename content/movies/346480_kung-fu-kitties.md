@@ -1,0 +1,1 @@
+{"tmdb_id": 346480, "title": "Kung-Fu Kitties", "original_title": "Kung-Fu Kitties", "slug_title": "kung-fu-kitties", "date": "2004-01-20", "genre": [""], "score": "0.0/10", "synopsis": "Ferocious flying felines fight furiously over a mishap at the litterbox.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

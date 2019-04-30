@@ -1,0 +1,1 @@
+{"tmdb_id": 457959, "title": "People & Builings", "original_title": "People & Builings", "slug_title": "people-builings", "date": "2014-02-02", "genre": [""], "score": "0.0/10", "synopsis": "A man discovers stuff in the city.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

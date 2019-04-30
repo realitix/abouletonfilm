@@ -1,0 +1,1 @@
+{"tmdb_id": 338951, "title": "Untitled Bruce Almighty Sequel", "original_title": "Untitled Bruce Almighty Sequel", "slug_title": "untitled-bruce-almighty-sequel", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Plot unknown.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

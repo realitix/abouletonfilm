@@ -1,0 +1,1 @@
+{"tmdb_id": 480265, "title": "A Story About Five Friends", "original_title": "A Story About Five Friends", "slug_title": "a-story-about-five-friends", "date": "", "genre": ["Com\u00e9die / Romance"], "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

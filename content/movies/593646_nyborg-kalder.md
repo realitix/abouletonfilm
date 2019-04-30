@@ -1,0 +1,1 @@
+{"tmdb_id": 593646, "title": "Nyborg kalder", "original_title": "Nyborg kalder", "slug_title": "nyborg-kalder", "date": "1944-06-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Documentary short on Nyborg, Denmark.", "image": "/img/default-cover.png", "actors": ["Svend Methling (Speaker)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

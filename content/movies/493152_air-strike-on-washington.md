@@ -1,0 +1,1 @@
+{"tmdb_id": 493152, "title": "Air Strike on Washington", "original_title": "El bombardeo de Washington", "slug_title": "air-strike-on-washington", "date": "1972-12-17", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

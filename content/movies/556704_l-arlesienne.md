@@ -1,0 +1,1 @@
+{"tmdb_id": 556704, "title": "L'Arl\u00e9sienne", "original_title": "L'Arl\u00e9sienne", "slug_title": "l-arlesienne", "date": "1930-09-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

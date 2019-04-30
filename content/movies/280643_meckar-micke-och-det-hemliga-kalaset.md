@@ -1,0 +1,1 @@
+{"tmdb_id": 280643, "title": "Meckar Micke och det Hemliga Kalaset", "original_title": "Meckar Micke och det Hemliga Kalaset", "slug_title": "meckar-micke-och-det-hemliga-kalaset", "date": "2001-07-07", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

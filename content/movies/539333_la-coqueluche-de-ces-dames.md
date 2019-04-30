@@ -1,0 +1,1 @@
+{"tmdb_id": 539333, "title": "La coqueluche de ces dames", "original_title": "La coqueluche de ces dames", "slug_title": "la-coqueluche-de-ces-dames", "date": "1936-06-05", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

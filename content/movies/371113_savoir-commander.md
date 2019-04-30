@@ -1,0 +1,1 @@
+{"tmdb_id": 371113, "title": "Savoir commander", "original_title": "Savoir commander", "slug_title": "savoir-commander", "date": "1951-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Learning to command.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

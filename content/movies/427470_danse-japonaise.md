@@ -1,0 +1,1 @@
+{"tmdb_id": 427470, "title": "Danse japonaise", "original_title": "Danse japonaise", "slug_title": "danse-japonaise", "date": "1903-11-24", "genre": [""], "score": "0.0/10", "synopsis": "Two Japanese ladies dance while one plays a traditional instrument.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

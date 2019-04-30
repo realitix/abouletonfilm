@@ -1,0 +1,1 @@
+{"tmdb_id": 523661, "title": "Basket Case", "original_title": "Basket Case", "slug_title": "basket-case", "date": "1978-01-01", "genre": [""], "score": "0.0/10", "synopsis": "The Wizard of Oz meets Carrie on the streets of San Francisco.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

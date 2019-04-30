@@ -1,0 +1,1 @@
+{"tmdb_id": 504328, "title": "Life's Story", "original_title": "Life's Story", "slug_title": "life-s-story", "date": "2004-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aD76YGAjdHH1admrnOdewWOllTm.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

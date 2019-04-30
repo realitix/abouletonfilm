@@ -1,0 +1,1 @@
+{"tmdb_id": 597617, "title": "INEVITABLE SUBLIME CHAOS", "original_title": "INEVITABLE SUBLIME CHAOS", "slug_title": "inevitable-sublime-chaos", "date": "2018-06-26", "genre": [""], "score": "0.0/10", "synopsis": "Inevitable sublime chaos..............", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

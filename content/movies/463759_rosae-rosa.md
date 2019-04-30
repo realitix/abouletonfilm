@@ -1,0 +1,1 @@
+{"tmdb_id": 463759, "title": "Rosae Rosa", "original_title": "Rosae Rosa", "slug_title": "rosae-rosa", "date": "1968-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "A hungry homeless man begs for money to a young woman in her family garden.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

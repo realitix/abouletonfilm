@@ -1,0 +1,1 @@
+{"tmdb_id": 148460, "title": "Dem\u00f4nios da Garoa", "original_title": "Dem\u00f4nios da Garoa", "slug_title": "demonios-da-garoa", "date": "2016-02-14", "genre": [""], "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9RyAfvG7nVnb4WjF2bPFlILgrbP.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

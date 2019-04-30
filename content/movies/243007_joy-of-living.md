@@ -1,0 +1,1 @@
+{"tmdb_id": 243007, "title": "Joy of Living", "original_title": "Joy of Living", "slug_title": "joy-of-living", "date": "1952-10-01", "genre": [""], "score": "0.0/10", "synopsis": "Oscar nominated short film from 1952 directed by Jean Oser", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

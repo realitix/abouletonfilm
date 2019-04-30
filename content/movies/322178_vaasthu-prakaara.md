@@ -1,0 +1,1 @@
+{"tmdb_id": 322178, "title": "Vaasthu Prakaara", "original_title": "Vaasthu Prakaara", "slug_title": "vaasthu-prakaara", "date": "2015-05-01", "genre": [""], "score": "2.0/10", "synopsis": "Bollywood 2015", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

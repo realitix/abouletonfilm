@@ -1,0 +1,1 @@
+{"tmdb_id": 327779, "title": "Aliya and Issam", "original_title": "'Aliya Wa 'Issam", "slug_title": "aliya-and-issam", "date": "1948-01-02", "genre": [""], "score": "0.0/10", "synopsis": "One of the first Iraqi films.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

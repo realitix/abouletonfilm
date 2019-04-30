@@ -1,0 +1,1 @@
+{"tmdb_id": 413703, "title": "Paper Dreams", "original_title": "Paper Dreams", "slug_title": "paper-dreams", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "An unapologetic look at the all male magazine industry from 1955 to 1973.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 304114, "title": "Mome Ki Gudiya", "original_title": "Mome Ki Gudiya", "slug_title": "mome-ki-gudiya", "date": "1972-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Ratan Chopra, Tanuja and Prem Nath", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

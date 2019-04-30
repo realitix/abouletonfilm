@@ -1,0 +1,1 @@
+{"tmdb_id": 558987, "title": "Ceux du rivage", "original_title": "Ceux du rivage", "slug_title": "ceux-du-rivage", "date": "1943-10-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xqY6I1Dc2RUDkTV7gdGGaegGaag.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

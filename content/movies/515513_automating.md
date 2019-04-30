@@ -1,0 +1,1 @@
+{"tmdb_id": 515513, "title": "Automating", "original_title": "Automating", "slug_title": "automating", "date": "1988-03-31", "genre": [""], "score": "0.0/10", "synopsis": "A study in human form.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

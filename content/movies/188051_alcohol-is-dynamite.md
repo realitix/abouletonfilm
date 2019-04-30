@@ -1,0 +1,1 @@
+{"tmdb_id": 188051, "title": "Alcohol Is Dynamite", "original_title": "Alcohol Is Dynamite", "slug_title": "alcohol-is-dynamite", "date": "1967-01-01", "genre": [""], "score": "2.5/10", "synopsis": "No Overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

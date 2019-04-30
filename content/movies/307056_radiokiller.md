@@ -1,0 +1,1 @@
+{"tmdb_id": 307056, "title": "Radiokiller", "original_title": "Radiokiller", "slug_title": "radiokiller", "date": "1980-05-04", "genre": [""], "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r5p61T9wQc6sMCgoc3duF2jyoyU.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

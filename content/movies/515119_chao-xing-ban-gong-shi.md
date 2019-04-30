@@ -1,0 +1,1 @@
+{"tmdb_id": 515119, "title": "\u6f6e\u6027\u529e\u516c\u5ba4", "original_title": "\u6f6e\u6027\u529e\u516c\u5ba4", "slug_title": "chao-xing-ban-gong-shi", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

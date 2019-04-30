@@ -1,0 +1,1 @@
+{"tmdb_id": 345881, "title": "Tut S\u00f6z\u00fcn\u00fc", "original_title": "Tut S\u00f6z\u00fcn\u00fc", "slug_title": "tut-sozunu", "date": "2015-01-02", "genre": [""], "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n1M7tKgJQdYFsFMvYxJL0NTxuwe.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

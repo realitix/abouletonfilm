@@ -1,0 +1,1 @@
+{"tmdb_id": 284496, "title": "In the Ruins of Baalbek", "original_title": "Bayn Hayakel Baalbek", "slug_title": "in-the-ruins-of-baalbek", "date": "1936-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Karim Bustany and Julio de Lucci.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

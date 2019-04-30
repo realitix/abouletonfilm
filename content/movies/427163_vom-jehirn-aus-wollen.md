@@ -1,0 +1,1 @@
+{"tmdb_id": 427163, "title": "Vom Jehirn aus wollen", "original_title": "Vom Jehirn aus wollen", "slug_title": "vom-jehirn-aus-wollen", "date": "1991-02-02", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about \"Berlin's hardest Karate teacher\"", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

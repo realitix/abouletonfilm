@@ -1,0 +1,1 @@
+{"tmdb_id": 331681, "title": "Kamal: The Tracker", "original_title": "Kamal - Gashash", "slug_title": "kamal-the-tracker", "date": "1986-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Ido Sela.", "image": "/img/default-cover.png", "actors": ["Kamal El-Heib ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

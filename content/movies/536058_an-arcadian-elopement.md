@@ -1,0 +1,1 @@
+{"tmdb_id": 536058, "title": "An Arcadian Elopement", "original_title": "An Arcadian Elopement", "slug_title": "an-arcadian-elopement", "date": "1907-09-16", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "A marriage, a fight, a chase and a honeymoon", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

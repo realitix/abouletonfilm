@@ -1,0 +1,1 @@
+{"tmdb_id": 320901, "title": "Masanada Hoovu", "original_title": "Masanada Hoovu", "slug_title": "masanada-hoovu", "date": "2014-01-01", "genre": [""], "score": "7.0/10", "synopsis": "Film directed by S.R. Puttana Kanagal", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

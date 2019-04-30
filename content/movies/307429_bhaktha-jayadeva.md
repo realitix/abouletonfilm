@@ -1,0 +1,1 @@
+{"tmdb_id": 307429, "title": "Bhaktha Jayadeva", "original_title": "Bhaktha Jayadeva", "slug_title": "bhaktha-jayadeva", "date": "1961-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1961", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

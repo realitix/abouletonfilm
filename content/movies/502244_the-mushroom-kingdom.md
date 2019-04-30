@@ -1,0 +1,1 @@
+{"tmdb_id": 502244, "title": "The Mushroom Kingdom", "original_title": "The Mushroom Kingdom", "slug_title": "the-mushroom-kingdom", "date": "2011-03-14", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "A plumber tries to win back his girlfriend.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350171, "title": "\uc5ec\uac10\ud48d\uc6b4", "original_title": "\uc5ec\uac10\ud48d\uc6b4", "slug_title": "yeogampungun", "date": "1989-09-28", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

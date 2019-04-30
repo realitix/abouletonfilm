@@ -1,0 +1,1 @@
+{"tmdb_id": 386020, "title": "Um Homem S\u00e9rio", "original_title": "Um Homem S\u00e9rio", "slug_title": "um-homem-serio", "date": "1996-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ary Fran\u00e7a (Hil\u00e1rio Pestana)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

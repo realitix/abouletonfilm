@@ -1,0 +1,1 @@
+{"tmdb_id": 284556, "title": "Child's Play", "original_title": "Jeux d'enfants", "slug_title": "child-s-play", "date": "1913-01-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

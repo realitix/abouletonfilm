@@ -1,0 +1,1 @@
+{"tmdb_id": 303017, "title": "Ragging", "original_title": "Ragging", "slug_title": "ragging", "date": "1973-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Classic film from N.N. Pisharady", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

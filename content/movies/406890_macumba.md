@@ -1,0 +1,1 @@
+{"tmdb_id": 406890, "title": "Macumba", "original_title": "Macumba", "slug_title": "macumba", "date": "1982-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Abstract detective story.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

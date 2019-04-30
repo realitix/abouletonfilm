@@ -1,0 +1,1 @@
+{"tmdb_id": 317248, "title": "Kooky Cucumbers", "original_title": "Kooky Cucumbers", "slug_title": "kooky-cucumbers", "date": "1971-11-11", "genre": [""], "score": "0.0/10", "synopsis": "The adventures of Possible Possum and his swamp-bound friends.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

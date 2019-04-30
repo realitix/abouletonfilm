@@ -1,0 +1,1 @@
+{"tmdb_id": 597187, "title": "The Secret Lives of Cheerleaders", "original_title": "The Secret Lives of Cheerleaders", "slug_title": "the-secret-lives-of-cheerleaders", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Also Known As School Spirit", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

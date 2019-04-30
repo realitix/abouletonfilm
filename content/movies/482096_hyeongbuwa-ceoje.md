@@ -1,0 +1,1 @@
+{"tmdb_id": 482096, "title": "\ud615\ubd80\uc640 \ucc98\uc81c", "original_title": "\ud615\ubd80\uc640 \ucc98\uc81c", "slug_title": "hyeongbuwa-ceoje", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

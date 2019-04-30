@@ -1,0 +1,1 @@
+{"tmdb_id": 539963, "title": "\u041c\u0430\u043c\u043e\u0447\u043a\u0438", "original_title": "\u041c\u0430\u043c\u043e\u0447\u043a\u0438", "slug_title": "mamochki", "date": "2001-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

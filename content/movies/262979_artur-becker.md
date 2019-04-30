@@ -1,0 +1,1 @@
+{"tmdb_id": 262979, "title": "Artur Becker", "original_title": "Artur Becker", "slug_title": "artur-becker", "date": "1971-04-03", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j9imrwkfR38D9TAewcJ2HjTQoFJ.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

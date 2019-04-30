@@ -1,0 +1,1 @@
+{"tmdb_id": 532122, "title": "Kad bremzes netur", "original_title": "Kad bremzes netur", "slug_title": "kad-bremzes-netur", "date": "1984-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hjzh6N7MROGDjneBuIwWoc4JaHX.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

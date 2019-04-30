@@ -1,0 +1,1 @@
+{"tmdb_id": 118755, "title": "Team Squirt", "original_title": "Team Squirt", "slug_title": "team-squirt", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Team Squirt", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/feSYr6gYaNWwT1R4iETjFNw4vsb.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

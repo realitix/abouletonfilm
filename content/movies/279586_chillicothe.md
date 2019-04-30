@@ -1,0 +1,1 @@
+{"tmdb_id": 279586, "title": "Chillicothe", "original_title": "Chillicothe", "slug_title": "chillicothe", "date": "1999-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A narrative about six friends in college.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

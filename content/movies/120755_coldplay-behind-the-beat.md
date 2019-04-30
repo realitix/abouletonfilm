@@ -1,0 +1,1 @@
+{"tmdb_id": 120755, "title": "Coldplay: Behind the Beat", "original_title": "Coldplay: Behind the Beat", "slug_title": "coldplay-behind-the-beat", "date": "2002-01-01", "genre": ["Musique / Documentaire"], "score": "0.0/10", "synopsis": ".", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

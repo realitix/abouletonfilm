@@ -1,0 +1,1 @@
+{"tmdb_id": 331177, "title": "Manny's Obituary", "original_title": "Manny's Obituary", "slug_title": "manny-s-obituary", "date": "2014-04-24", "genre": [""], "score": "0.0/10", "synopsis": "Film from Andre Wacemberg", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

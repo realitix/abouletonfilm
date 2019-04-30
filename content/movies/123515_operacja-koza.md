@@ -1,0 +1,1 @@
+{"tmdb_id": 123515, "title": "Operacja Koza", "original_title": "Operacja Koza", "slug_title": "operacja-koza", "date": "2000-03-31", "genre": [""], "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jHY0NmfSx9BMx1d5BpjvBsPiCCX.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

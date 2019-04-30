@@ -1,0 +1,1 @@
+{"tmdb_id": 503214, "title": "Autoritratto", "original_title": "Autoritratto", "slug_title": "autoritratto", "date": "1958-02-05", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

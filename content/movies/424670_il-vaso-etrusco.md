@@ -1,0 +1,1 @@
+{"tmdb_id": 424670, "title": "Il vaso etrusco", "original_title": "Il vaso etrusco", "slug_title": "il-vaso-etrusco", "date": "1967-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Performance based experimental film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 364541, "title": "Live in Peace", "original_title": "An ju", "slug_title": "live-in-peace", "date": "1997-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Winner of the Golden Rooster for Best Film in 1998", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

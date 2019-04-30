@@ -1,0 +1,1 @@
+{"tmdb_id": 447178, "title": "K\u00e9rem a k\u00f6vetkez\u0151t 3.", "original_title": "K\u00e9rem a k\u00f6vetkez\u0151t 3.", "slug_title": "kerem-a-kovetkezot-3", "date": "1980-03-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

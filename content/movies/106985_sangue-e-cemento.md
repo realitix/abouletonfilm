@@ -1,0 +1,1 @@
+{"tmdb_id": 106985, "title": "Sangue e cemento", "original_title": "Sangue e cemento", "slug_title": "sangue-e-cemento", "date": "2010-04-02", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tiazvLKwB83Zdi5hcCeuVv6uc4h.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

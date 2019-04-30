@@ -1,0 +1,1 @@
+{"tmdb_id": 453234, "title": "Leben und Werk", "original_title": "Leben und Werk", "slug_title": "leben-und-werk", "date": "1990-02-02", "genre": [""], "score": "0.0/10", "synopsis": "A man and his book habits.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

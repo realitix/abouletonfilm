@@ -1,0 +1,1 @@
+{"tmdb_id": 495616, "title": "Othello", "original_title": "Othello", "slug_title": "othello", "date": "1958-10-08", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Pasetti (Othello)", "Nora Minor (Emilia)", "Hans Baur (Herzog von Venedig)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

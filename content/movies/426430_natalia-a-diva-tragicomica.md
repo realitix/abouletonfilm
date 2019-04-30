@@ -1,0 +1,1 @@
+{"tmdb_id": 426430, "title": "Nat\u00e1lia, a Diva Tr\u00e1gic\u00f3mica", "original_title": "Nat\u00e1lia, a Diva Tr\u00e1gic\u00f3mica", "slug_title": "natalia-a-diva-tragicomica", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

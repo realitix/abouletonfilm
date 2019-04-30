@@ -1,0 +1,1 @@
+{"tmdb_id": 392592, "title": "El Ghorba", "original_title": "El Ghorba", "slug_title": "el-ghorba", "date": "1971-04-11", "genre": [""], "score": "0.0/10", "synopsis": "A documentary about algerian immigration in France", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

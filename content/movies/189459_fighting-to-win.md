@@ -1,0 +1,1 @@
+{"tmdb_id": 189459, "title": "Fighting to Win", "original_title": "Fighting to Win", "slug_title": "fighting-to-win", "date": "1926-11-21", "genre": [""], "score": "0.0/10", "synopsis": "Series #1, Episode #2 of The Collegians.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

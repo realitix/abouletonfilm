@@ -1,0 +1,1 @@
+{"tmdb_id": 322607, "title": "FRANCIAORSZ\u00c1G 2006", "original_title": "FRANCIAORSZ\u00c1G 2006", "slug_title": "franciaorszag-2006", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uerqYCKHa3BI98MLlgbUVRG4wH0.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 368216, "title": "Uptown Comedy Express", "original_title": "Uptown Comedy Express", "slug_title": "uptown-comedy-express", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "TV Special with a variety of comedians", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

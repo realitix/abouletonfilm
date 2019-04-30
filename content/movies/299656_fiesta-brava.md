@@ -1,0 +1,1 @@
+{"tmdb_id": 299656, "title": "Fiesta Brava", "original_title": "Fiesta Brava", "slug_title": "fiesta-brava", "date": "2011-01-01", "genre": [""], "score": "0.0/10", "synopsis": "The bull fights are over. Now the bulls invite you to the world's biggest party.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

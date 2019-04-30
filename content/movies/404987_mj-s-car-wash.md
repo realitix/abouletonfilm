@@ -1,0 +1,1 @@
+{"tmdb_id": 404987, "title": "MJ's Car Wash", "original_title": "MJ's Car Wash", "slug_title": "mj-s-car-wash", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Antics with the local car wash.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

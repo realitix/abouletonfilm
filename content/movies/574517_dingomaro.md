@@ -1,0 +1,1 @@
+{"tmdb_id": 574517, "title": "Dingomaro", "original_title": "Dingomaro", "slug_title": "dingomaro", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "A profile of  Afro-Iranian musician Hamid Said, aka Dingomaro", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 367865, "title": "Ku Klux Korea", "original_title": "Ku Klux Korea", "slug_title": "ku-klux-korea", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A white mail clerk can't tell any of his ethnic coworkers apart.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

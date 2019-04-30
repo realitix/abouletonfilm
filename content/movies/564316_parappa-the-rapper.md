@@ -1,0 +1,1 @@
+{"tmdb_id": 564316, "title": "PaRappa The Rapper", "original_title": "PaRappa The Rapper", "slug_title": "parappa-the-rapper", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "he gotz to believe", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

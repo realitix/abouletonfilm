@@ -1,0 +1,1 @@
+{"tmdb_id": 444369, "title": "The Pugilist", "original_title": "The Pugilist", "slug_title": "the-pugilist", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A boxer in training", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

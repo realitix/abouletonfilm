@@ -1,0 +1,1 @@
+{"tmdb_id": 598268, "title": "\u041a\u0438\u0442\u043e\u0431\u043e\u0439", "original_title": "\u041a\u0438\u0442\u043e\u0431\u043e\u0439", "slug_title": "kitoboi", "date": "", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 529841, "title": "Herschel und die Musik der Sterne", "original_title": "Herschel und die Musik der Sterne", "slug_title": "herschel-und-die-musik-der-sterne", "date": "1986-12-25", "genre": [""], "score": "0.0/10", "synopsis": "Film by Percy Adlon.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

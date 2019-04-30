@@ -1,0 +1,1 @@
+{"tmdb_id": 573871, "title": "La Turbulence Rodin", "original_title": "La Turbulence Rodin", "slug_title": "la-turbulence-rodin", "date": "", "genre": ["Documentaire"], "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

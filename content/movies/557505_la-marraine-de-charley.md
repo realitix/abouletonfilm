@@ -1,0 +1,1 @@
+{"tmdb_id": 557505, "title": "La marraine de Charley", "original_title": "La marraine de Charley", "slug_title": "la-marraine-de-charley", "date": "1936-01-17", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

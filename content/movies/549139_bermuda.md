@@ -1,0 +1,1 @@
+{"tmdb_id": 549139, "title": "Bermuda", "original_title": "Bermuda", "slug_title": "bermuda", "date": "1998-10-01", "genre": [""], "score": "0.0/10", "synopsis": "Bermuda is a film about love", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yeGBbNhaMbtEnGTaJuu6jXu2JDY.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

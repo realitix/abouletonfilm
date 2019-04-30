@@ -1,0 +1,1 @@
+{"tmdb_id": 331837, "title": "The Strife of a People", "original_title": "Kifah Sha'b", "slug_title": "the-strife-of-a-people", "date": "1974-01-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 571819, "title": "Clarissa", "original_title": "Clarissa", "slug_title": "clarissa", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A virtuous young woman is oppressed by her ambitious family and a rake who's becomes obsessed with her.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

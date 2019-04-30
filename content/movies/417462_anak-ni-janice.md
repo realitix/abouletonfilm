@@ -1,0 +1,1 @@
+{"tmdb_id": 417462, "title": "Anak ni Janice", "original_title": "Anak ni Janice", "slug_title": "anak-ni-janice", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "No overview available.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/22QWJHJNqYChZHUzRoI7qz3A20g.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

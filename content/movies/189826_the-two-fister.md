@@ -1,0 +1,1 @@
+{"tmdb_id": 189826, "title": "The Two Fister", "original_title": "The Two Fister", "slug_title": "the-two-fister", "date": "1927-01-07", "genre": [""], "score": "0.0/10", "synopsis": "Fast action in the Northwest Mounted Police.", "image": "/img/default-cover.png", "actors": ["Edmund Cobb (Officer Field)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 504804, "title": "Low cost airlines", "original_title": "Low cost airlines", "slug_title": "low-cost-airlines", "date": "2013-07-15", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6xFiamH5vTa84AsZidtxs0XOCVR.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

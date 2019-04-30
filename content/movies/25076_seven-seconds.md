@@ -1,0 +1,1 @@
+{"tmdb_id": 25076, "title": "Seven Seconds", "original_title": "Seven Seconds", "slug_title": "seven-seconds", "date": "1999-06-21", "genre": ["Aventure / Action / Thriller"], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

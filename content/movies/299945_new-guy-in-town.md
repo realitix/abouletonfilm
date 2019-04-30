@@ -1,0 +1,1 @@
+{"tmdb_id": 299945, "title": "New Guy in Town", "original_title": "New Guy in Town", "slug_title": "new-guy-in-town", "date": "2012-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A man finds himself in the clutches of a strange new town.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

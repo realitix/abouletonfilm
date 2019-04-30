@@ -1,0 +1,1 @@
+{"tmdb_id": 314180, "title": "Kings Up", "original_title": "Kings Up", "slug_title": "kings-up", "date": "1934-03-12", "genre": [""], "score": "0.0/10", "synopsis": "Oswald wants to be a knight. He then seeks the queen to grant him his wish.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

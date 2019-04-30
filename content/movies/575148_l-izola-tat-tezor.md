@@ -1,0 +1,1 @@
+{"tmdb_id": 575148, "title": "L Izola tat Tezor", "original_title": "L Izola tat Tezor", "slug_title": "l-izola-tat-tezor", "date": "2012-12-30", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3uOJ1PsixCZrfJzS09tJbHGnDUA.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

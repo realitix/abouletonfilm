@@ -1,0 +1,1 @@
+{"tmdb_id": 565324, "title": "Le pensionnat et ses intimit\u00e9s", "original_title": "Le pensionnat et ses intimit\u00e9s", "slug_title": "le-pensionnat-et-ses-intimites", "date": "1975-12-03", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

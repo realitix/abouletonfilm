@@ -1,0 +1,1 @@
+{"tmdb_id": 269252, "title": "Generation HipHop", "original_title": "Generation HipHop", "slug_title": "generation-hiphop", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

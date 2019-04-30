@@ -1,0 +1,1 @@
+{"tmdb_id": 562299, "title": "La Virgen de Agosto", "original_title": "La Virgen de Agosto", "slug_title": "la-virgen-de-agosto", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Itsaso Arana ()", "Vito Sanz ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 506880, "title": "Garimpeiros Do Voto", "original_title": "Garimpeiros Do Voto", "slug_title": "garimpeiros-do-voto", "date": "2018-11-22", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j52Mxb3i8LlpFH4sjWnMCGexcim.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

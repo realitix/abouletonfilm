@@ -1,0 +1,1 @@
+{"tmdb_id": 504662, "title": "O dia em que as cartas pararam", "original_title": "O dia em que as cartas pararam", "slug_title": "o-dia-em-que-as-cartas-pararam", "date": "2017-05-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ana Bustorff (Aurora)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

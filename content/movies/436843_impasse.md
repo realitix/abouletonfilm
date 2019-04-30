@@ -1,0 +1,1 @@
+{"tmdb_id": 436843, "title": "Impasse", "original_title": "Impasse", "slug_title": "impasse", "date": "2017-01-21", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about prostitution in Switzerland.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

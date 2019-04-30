@@ -1,0 +1,1 @@
+{"tmdb_id": 526282, "title": "The Blue Mammy", "original_title": "Sininen imett\u00e4j\u00e4", "slug_title": "the-blue-mammy", "date": "1985-09-13", "genre": [""], "score": "0.0/10", "synopsis": "1985 Finnish film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

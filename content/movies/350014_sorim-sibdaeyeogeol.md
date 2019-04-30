@@ -1,0 +1,1 @@
+{"tmdb_id": 350014, "title": "\uc18c\ub9bc \uc2ed\ub300\uc5ec\uac78", "original_title": "\uc18c\ub9bc \uc2ed\ub300\uc5ec\uac78", "slug_title": "sorim-sibdaeyeogeol", "date": "1982-01-25", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

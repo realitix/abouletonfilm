@@ -1,0 +1,1 @@
+{"tmdb_id": 308522, "title": "Am Rand der St\u00e4dte", "original_title": "Am Rand der St\u00e4dte", "slug_title": "am-rand-der-stadte", "date": "2006-02-16", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about turkish expats returning to Turkey.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

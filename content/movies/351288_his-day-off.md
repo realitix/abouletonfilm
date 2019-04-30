@@ -1,0 +1,1 @@
+{"tmdb_id": 351288, "title": "His Day Off", "original_title": "His Day Off", "slug_title": "his-day-off", "date": "1938-02-04", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon released 4 February 1938.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

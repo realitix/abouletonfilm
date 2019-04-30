@@ -1,0 +1,1 @@
+{"tmdb_id": 350319, "title": "\ub2e8\ub2e8\ud55c \ub188", "original_title": "\ub2e8\ub2e8\ud55c \ub188", "slug_title": "dandanhan-nom", "date": "1989-11-11", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

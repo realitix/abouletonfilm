@@ -1,0 +1,1 @@
+{"tmdb_id": 234678, "title": "Banana Binge", "original_title": "Banana Binge", "slug_title": "banana-binge", "date": "1961-11-09", "genre": [""], "score": "0.0/10", "synopsis": "Sidney has a banana habit.", "image": "/img/default-cover.png", "actors": ["Lionel G. Wilson (Sidney / Stanley the Lion)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

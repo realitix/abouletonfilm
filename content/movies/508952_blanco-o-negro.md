@@ -1,0 +1,1 @@
+{"tmdb_id": 508952, "title": "blanco o negro", "original_title": "blanco o negro", "slug_title": "blanco-o-negro", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

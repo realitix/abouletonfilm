@@ -1,0 +1,1 @@
+{"tmdb_id": 545755, "title": "Joao Carreiro e Daniel", "original_title": "Joao Carreiro e Daniel", "slug_title": "joao-carreiro-e-daniel", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e6B5Fk5au9vw8Nu2vy7kV6vzyy2.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

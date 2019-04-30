@@ -1,0 +1,1 @@
+{"tmdb_id": 137176, "title": "Peor que Buitres", "original_title": "Peor que Buitres", "slug_title": "peor-que-buitres", "date": "2003-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carlos Zampeiro ()", "Miguel \u00c1ngel Rodr\u00edguez ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

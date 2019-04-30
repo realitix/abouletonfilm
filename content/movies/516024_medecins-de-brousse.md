@@ -1,0 +1,1 @@
+{"tmdb_id": 516024, "title": "M\u00e9decins de Brousse", "original_title": "M\u00e9decins de Brousse", "slug_title": "medecins-de-brousse", "date": "2012-01-03", "genre": ["Documentaire"], "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

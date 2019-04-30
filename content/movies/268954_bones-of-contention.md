@@ -1,0 +1,1 @@
+{"tmdb_id": 268954, "title": "Bones of Contention", "original_title": "Bones of Contention", "slug_title": "bones-of-contention", "date": "1994-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary by Simcha Jacobovici, Elliott Halpern", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

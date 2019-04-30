@@ -1,0 +1,1 @@
+{"tmdb_id": 390981, "title": "Vocations", "original_title": "Pasaukimai", "slug_title": "vocations", "date": "2005-07-14", "genre": [""], "score": "0.0/10", "synopsis": "A film about the first sin, which took place in the child's mind.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

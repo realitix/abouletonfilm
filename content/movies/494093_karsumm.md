@@ -1,0 +1,1 @@
+{"tmdb_id": 494093, "title": "Karsumm", "original_title": "Karsumm", "slug_title": "karsumm", "date": "1982-03-22", "genre": [""], "score": "0.0/10", "synopsis": "Animation in jungle.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

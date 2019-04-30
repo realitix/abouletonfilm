@@ -1,0 +1,1 @@
+{"tmdb_id": 597163, "title": "Ciudad ausente", "original_title": "Ciudad ausente", "slug_title": "ciudad-ausente", "date": "2015-06-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e3zsV6XFy6zQi7TS4bYGwfnXF2h.jpg", "actors": ["Mario Poggi ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 587188, "title": "Cenerentola", "original_title": "Cenerentola", "slug_title": "cenerentola", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "1949 movie version of the Rossini opera", "image": "/img/default-cover.png", "actors": ["Fedora Barbieri (Cenerentola (singing voice))"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

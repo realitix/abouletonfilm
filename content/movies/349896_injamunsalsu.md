@@ -1,0 +1,1 @@
+{"tmdb_id": 349896, "title": "\uc778\uc790\ubb38\uc0b4\uc218", "original_title": "\uc778\uc790\ubb38\uc0b4\uc218", "slug_title": "injamunsalsu", "date": "1982-08-14", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

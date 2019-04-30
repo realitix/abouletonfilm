@@ -1,0 +1,1 @@
+{"tmdb_id": 442753, "title": "Sheherezade", "original_title": "Sheherezade", "slug_title": "sheherezade", "date": "1941-02-20", "genre": [""], "score": "0.0/10", "synopsis": "Dave Schooler and His 21 Swinghearts playing \"Sheherezade\".", "image": "/img/default-cover.png", "actors": ["Dave Schooler ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

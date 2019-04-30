@@ -1,0 +1,1 @@
+{"tmdb_id": 136103, "title": "Canta Gitano", "original_title": "Canta Gitano", "slug_title": "canta-gitano", "date": "1982-01-01", "genre": [""], "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

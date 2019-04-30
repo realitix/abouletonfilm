@@ -1,0 +1,1 @@
+{"tmdb_id": 535551, "title": "YangYang", "original_title": "\uc591\uc591", "slug_title": "yangyang", "date": "2017-10-29", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Im Ha-ryong (sang-tae)", "Kwon Oh-joong (joong-tae)", "Ki Tae-young (ha-tae)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

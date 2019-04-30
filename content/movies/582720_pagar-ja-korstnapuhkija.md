@@ -1,0 +1,1 @@
+{"tmdb_id": 582720, "title": "Pagar ja korstnap\u00fchkija", "original_title": "Pagar ja korstnap\u00fchkija", "slug_title": "pagar-ja-korstnapuhkija", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

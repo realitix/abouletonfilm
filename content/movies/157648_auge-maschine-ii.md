@@ -1,0 +1,1 @@
+{"tmdb_id": 157648, "title": "Auge/Maschine II", "original_title": "Auge/Maschine II", "slug_title": "auge-maschine-ii", "date": "2002-01-01", "genre": [""], "score": "0.0/10", "synopsis": "film by farocki", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qYs2tWXyiyFnPV7k98Mu5HZ7nur.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

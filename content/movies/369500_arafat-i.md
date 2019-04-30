@@ -1,0 +1,1 @@
+{"tmdb_id": 369500, "title": "Arafat & I", "original_title": "Arafat & I", "slug_title": "arafat-i", "date": "2008-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Short comedy about a Palestinian in love.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

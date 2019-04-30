@@ -1,0 +1,1 @@
+{"tmdb_id": 191932, "title": "Per il babbo", "original_title": "Per il babbo", "slug_title": "per-il-babbo", "date": "1913-05-07", "genre": [""], "score": "6.3/10", "synopsis": "One of the earliest surviving films of Italian director Umberto Paradisi.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

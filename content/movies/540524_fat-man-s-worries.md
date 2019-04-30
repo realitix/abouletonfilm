@@ -1,0 +1,1 @@
+{"tmdb_id": 540524, "title": "Fat Man's Worries", "original_title": "Le Martyre de l'ob\u00e8se", "slug_title": "fat-man-s-worries", "date": "1933-03-24", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

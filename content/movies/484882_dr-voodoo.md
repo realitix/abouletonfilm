@@ -1,0 +1,1 @@
+{"tmdb_id": 484882, "title": "Dr. Voodoo", "original_title": "Dr. Voodoo", "slug_title": "dr-voodoo", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Confederate zombie movie.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

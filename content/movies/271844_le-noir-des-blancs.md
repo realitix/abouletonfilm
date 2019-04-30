@@ -1,0 +1,1 @@
+{"tmdb_id": 271844, "title": "Le Noir des Blancs", "original_title": "Le Noir des Blancs", "slug_title": "le-noir-des-blancs", "date": "1995-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Youssef El Ftouh", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

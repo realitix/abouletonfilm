@@ -1,0 +1,1 @@
+{"tmdb_id": 445294, "title": "Manfred L\u00fctz: Irre!", "original_title": "Manfred L\u00fctz: Irre!", "slug_title": "manfred-lutz-irre", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2UThoBRIru6zvrn2SNnpwAXJt31.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

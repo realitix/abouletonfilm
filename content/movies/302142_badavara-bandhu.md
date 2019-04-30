@@ -1,0 +1,1 @@
+{"tmdb_id": 302142, "title": "Badavara Bandhu", "original_title": "Badavara Bandhu", "slug_title": "badavara-bandhu", "date": "1976-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1976", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

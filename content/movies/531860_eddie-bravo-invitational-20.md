@@ -1,0 +1,1 @@
+{"tmdb_id": 531860, "title": "Eddie Bravo Invitational 20", "original_title": "Eddie Bravo Invitational 20", "slug_title": "eddie-bravo-invitational-20", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Eddie Bravo Invitational 20", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

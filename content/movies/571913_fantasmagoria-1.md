@@ -1,0 +1,1 @@
+{"tmdb_id": 571913, "title": "Fantasmagoria #1", "original_title": "Fantasmagoria #1", "slug_title": "fantasmagoria-1", "date": "1938-01-01", "genre": [""], "score": "0.0/10", "synopsis": "The first film in the Fantasmagoria series.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

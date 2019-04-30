@@ -1,0 +1,1 @@
+{"tmdb_id": 350149, "title": "\ud314\ub300\ucde8\uad8c", "original_title": "\ud314\ub300\ucde8\uad8c", "slug_title": "paldaecwigweon", "date": "1981-11-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

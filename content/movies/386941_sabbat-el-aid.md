@@ -1,0 +1,1 @@
+{"tmdb_id": 386941, "title": "Sabbat el aid", "original_title": "Sabbat el aid", "slug_title": "sabbat-el-aid", "date": "2012-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Short about a kid who wants new shoes.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 433505, "title": "Flashback", "original_title": "Flashback", "slug_title": "flashback", "date": "", "genre": ["Drame / Com\u00e9die"], "score": "0.0/10", "synopsis": "Two friends travel back in time to see if the 80s are just like in the movies.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

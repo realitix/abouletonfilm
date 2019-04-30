@@ -1,0 +1,1 @@
+{"tmdb_id": 42278, "title": "Tara Motilor", "original_title": "Tara Motilor", "slug_title": "tara-motilor", "date": "1938-01-01", "genre": ["Documentaire"], "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mihail Sadoveanu (Narrator)"], "comments": [], "recommandations_id": [], "youtube_key": "zXRtL-rFKwA"}

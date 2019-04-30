@@ -1,0 +1,1 @@
+{"tmdb_id": 476771, "title": "Rebirth", "original_title": "Rebirth", "slug_title": "rebirth", "date": "2016-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "An actor loses his wife and daughter and comes to terms with his loss.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

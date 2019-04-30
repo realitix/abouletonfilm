@@ -1,0 +1,1 @@
+{"tmdb_id": 268967, "title": "Darkroom", "original_title": "Darkroom", "slug_title": "darkroom", "date": "2009-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Horror starring David Stevens, Andrea Lockhart, Matagisla Agavale, Darren Dalton", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

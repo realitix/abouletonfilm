@@ -1,0 +1,1 @@
+{"tmdb_id": 405725, "title": "Infight", "original_title": "Infight", "slug_title": "infight", "date": "1994-11-20", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Film by Karmakar.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 389914, "title": "Das zweite Schraube-Fragment", "original_title": "Das zweite Schraube-Fragment", "slug_title": "das-zweite-schraube-fragment", "date": "1986-03-26", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Walter Andreas Christen", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 291739, "title": "Cockfight", "original_title": "Cockfight", "slug_title": "cockfight", "date": "2002-06-01", "genre": [""], "score": "4.0/10", "synopsis": "A state proposes a law banning cock fights.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

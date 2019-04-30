@@ -1,0 +1,1 @@
+{"tmdb_id": 470483, "title": "La escuela de la se\u00f1orita Olga", "original_title": "La escuela de la se\u00f1orita Olga", "slug_title": "la-escuela-de-la-senorita-olga", "date": "1991-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

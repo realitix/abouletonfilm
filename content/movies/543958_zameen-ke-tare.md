@@ -1,0 +1,1 @@
+{"tmdb_id": 543958, "title": "Zameen Ke Tare", "original_title": "Zameen Ke Tare", "slug_title": "zameen-ke-tare", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A rich child and a poor one are both unhappy and search for God in the Himalayas.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 182456, "title": "O Atirador", "original_title": "O Atirador", "slug_title": "o-atirador", "date": "2013-03-28", "genre": [""], "score": "0.0/10", "synopsis": "A man, a woman and a car.", "image": "/img/default-cover.png", "actors": ["Rui Pelej\u00e3o (Ele)", "Sabrina Marques (Ela)"], "comments": [], "recommandations_id": [], "youtube_key": "syv8388XV1Q"}

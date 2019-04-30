@@ -1,0 +1,1 @@
+{"tmdb_id": 598443, "title": "Arkada\u015fl\u0131k \u00d6ld\u00fc m\u00fc", "original_title": "Arkada\u015fl\u0131k \u00d6ld\u00fc m\u00fc", "slug_title": "arkadaslik-oldu-mu", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

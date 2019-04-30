@@ -1,0 +1,1 @@
+{"tmdb_id": 262762, "title": "Operation Cuckoo", "original_title": "Operation Cuckoo", "slug_title": "operation-cuckoo", "date": "2002-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

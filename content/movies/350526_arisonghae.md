@@ -1,0 +1,1 @@
+{"tmdb_id": 350526, "title": "\uc544\ub9ac\uc1a1\ud574", "original_title": "\uc544\ub9ac\uc1a1\ud574", "slug_title": "arisonghae", "date": "1979-10-27", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

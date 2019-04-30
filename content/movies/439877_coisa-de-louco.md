@@ -1,0 +1,1 @@
+{"tmdb_id": 439877, "title": "Coisa de Louco", "original_title": "Coisa de Louco", "slug_title": "coisa-de-louco", "date": "2017-02-05", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nilton Bicudo ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

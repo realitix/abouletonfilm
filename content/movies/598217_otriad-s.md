@@ -1,0 +1,1 @@
+{"tmdb_id": 598217, "title": "\u041e\u0442\u0440\u044f\u0434 \u0421", "original_title": "\u041e\u0442\u0440\u044f\u0434 \u0421", "slug_title": "otriad-s", "date": "", "genre": ["Drame / Histoire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

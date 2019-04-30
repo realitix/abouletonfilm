@@ -1,0 +1,1 @@
+{"tmdb_id": 393726, "title": "Darum oder Was erwartest Du", "original_title": "Darum oder Was erwartest Du", "slug_title": "darum-oder-was-erwartest-du", "date": "1980-04-20", "genre": [""], "score": "0.0/10", "synopsis": "1980 German super 8 short work", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

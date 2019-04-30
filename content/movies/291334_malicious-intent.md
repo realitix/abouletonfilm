@@ -1,0 +1,1 @@
+{"tmdb_id": 291334, "title": "Malicious Intent", "original_title": "Malicious Intent", "slug_title": "malicious-intent", "date": "2000-04-01", "genre": [""], "score": "0.0/10", "synopsis": "In order to receive $3 million, a man must avenge his father's death.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349363, "title": "\ubc31\uc218\uc2a4\ud1a0\ub9ac", "original_title": "\ubc31\uc218\uc2a4\ud1a0\ub9ac", "slug_title": "baegsuseutori", "date": "1997-06-14", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 302282, "title": "Swamiji", "original_title": "Swamiji", "slug_title": "swamiji", "date": "1949-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1949 film starring Ajitprakash, Manoranjan Bhattacharya and Bharati Devi", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 303837, "title": "Confortorio", "original_title": "Confortorio", "slug_title": "confortorio", "date": "1992-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bh6AjQ49vCOZKteCrr4XxOthC9G.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

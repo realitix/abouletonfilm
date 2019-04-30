@@ -1,0 +1,1 @@
+{"tmdb_id": 283139, "title": "\u8207\u7af9\u5171\u821e", "original_title": "\u8207\u7af9\u5171\u821e", "slug_title": "yu-zhu-gong-wu", "date": "2012-03-25", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "2012\uff0fHD\uff0fColor\uff0f19min\uff0f", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "3FQbwCG0ptk"}

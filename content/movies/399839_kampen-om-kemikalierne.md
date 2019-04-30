@@ -1,0 +1,1 @@
+{"tmdb_id": 399839, "title": "Kampen om kemikalierne", "original_title": "Kampen om kemikalierne", "slug_title": "kampen-om-kemikalierne", "date": "2008-04-22", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 48774, "title": "Mes Parents un Jour d'\u00c9t\u00e9", "original_title": "Mes Parents un Jour d'\u00c9t\u00e9", "slug_title": "mes-parents-un-jour-d-ete", "date": "1990-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

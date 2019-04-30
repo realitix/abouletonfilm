@@ -1,0 +1,1 @@
+{"tmdb_id": 305866, "title": "Upaasna", "original_title": "Upaasna", "slug_title": "upaasna", "date": "1971-03-15", "genre": [""], "score": "6.0/10", "synopsis": "Two brothers battle against each other in court when their lady love Shalu is accused of murder.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 548733, "title": "Magic: The Gathering", "original_title": "Magic: The Gathering", "slug_title": "magic-the-gathering", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Feature film based on the card game, \"Magic, The Gathering\".", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

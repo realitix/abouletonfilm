@@ -1,0 +1,1 @@
+{"tmdb_id": 526550, "title": "Love More Hong Kong", "original_title": "\u5348\u5f8c\u516c\u5712@\u4f60\u9084\u53ef\u611b\u9ebc", "slug_title": "love-more-hong-kong", "date": "2011-04-21", "genre": [""], "score": "0.0/10", "synopsis": "Love More Hong Kong", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 381194, "title": "The Room", "original_title": "The Room", "slug_title": "the-room", "date": "1967-12-31", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qDprthiWkvK9WKZGLlDZZM6JCiC.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

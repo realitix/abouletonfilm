@@ -1,0 +1,1 @@
+{"tmdb_id": 307831, "title": "Ek Din Ka Sultan", "original_title": "Ek Din Ka Sultan", "slug_title": "ek-din-ka-sultan", "date": "1945-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Sohrab Modi", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 463812, "title": "Scampolo", "original_title": "Scampolo", "slug_title": "scampolo", "date": "1928-02-02", "genre": [""], "score": "0.0/10", "synopsis": "A homeless girl is taken in by an engineer. They fall in love.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

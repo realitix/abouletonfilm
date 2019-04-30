@@ -1,0 +1,1 @@
+{"tmdb_id": 577964, "title": "Allergies", "original_title": "Allergies", "slug_title": "allergies", "date": "2018-03-25", "genre": [""], "score": "0.0/10", "synopsis": "Catt breaks out in a rash and thinks she might have become allergic to her long-term partner.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 536437, "title": "Hypnotic", "original_title": "Hypnotic", "slug_title": "hypnotic", "date": "", "genre": ["Crime / Thriller / Science-Fiction"], "score": "0.0/10", "synopsis": "Plot unknown. Described as a cop thriller with sci-fi elements.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 539473, "title": "Roi de Camargue", "original_title": "Roi de Camargue", "slug_title": "roi-de-camargue", "date": "1935-01-24", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/apOzsjllPD7bf3y11wfmm58vxYR.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

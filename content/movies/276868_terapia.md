@@ -1,0 +1,1 @@
+{"tmdb_id": 276868, "title": "Terapia", "original_title": "Terapia", "slug_title": "terapia", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charo L\u00f3pez ()", "Alfonso Bassave ()", "Andr\u00e9s Pizarro ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

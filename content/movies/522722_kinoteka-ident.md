@@ -1,0 +1,1 @@
+{"tmdb_id": 522722, "title": "Kinoteka Ident", "original_title": "Kinoteka Ident", "slug_title": "kinoteka-ident", "date": "2008-01-01", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

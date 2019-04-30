@@ -1,0 +1,1 @@
+{"tmdb_id": 383622, "title": "Copy Scream", "original_title": "Copy Scream", "slug_title": "copy-scream", "date": "2005-02-19", "genre": [""], "score": "0.0/10", "synopsis": "2005 Spanish experimental short", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

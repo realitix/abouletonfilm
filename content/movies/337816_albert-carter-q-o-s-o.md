@@ -1,0 +1,1 @@
+{"tmdb_id": 337816, "title": "Albert Carter Q.O.S.O.", "original_title": "Albert Carter Q.O.S.O.", "slug_title": "albert-carter-q-o-s-o", "date": "1968-01-01", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "A road sweeper saves the Queen's corgi.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350193, "title": "\uc7a6\uc740 \ubc29\uc544", "original_title": "\uc7a6\uc740 \ubc29\uc544", "slug_title": "jajeun-banga", "date": "1989-03-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

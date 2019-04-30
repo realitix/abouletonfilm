@@ -1,0 +1,1 @@
+{"tmdb_id": 473457, "title": "Brasiconosc\u00f3pio", "original_title": "Brasiconosc\u00f3pio", "slug_title": "brasiconoscopio", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

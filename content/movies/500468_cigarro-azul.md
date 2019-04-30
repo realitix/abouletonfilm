@@ -1,0 +1,1 @@
+{"tmdb_id": 500468, "title": "Cigarro Azul", "original_title": "Cigarro Azul", "slug_title": "cigarro-azul", "date": "2017-07-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

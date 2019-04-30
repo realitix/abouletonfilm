@@ -1,0 +1,1 @@
+{"tmdb_id": 564617, "title": "Master of photography", "original_title": "Master of photography", "slug_title": "master-of-photography", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A competition of photography.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 433191, "title": "Sommarekvation", "original_title": "Sommarekvation", "slug_title": "sommarekvation", "date": "1963-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A film by Eric M. Nilsson.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

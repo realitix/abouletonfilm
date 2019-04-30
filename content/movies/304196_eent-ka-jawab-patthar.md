@@ -1,0 +1,1 @@
+{"tmdb_id": 304196, "title": "Eent Ka Jawab Patthar", "original_title": "Eent Ka Jawab Patthar", "slug_title": "eent-ka-jawab-patthar", "date": "1982-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No Overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

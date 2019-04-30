@@ -1,0 +1,1 @@
+{"tmdb_id": 303086, "title": "Hrudaya Kallaru", "original_title": "Hrudaya Kallaru", "slug_title": "hrudaya-kallaru", "date": "1996-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film featuring the music of S.P. Balasubrahmanyam", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 583758, "title": "\u0410\u0440\u0442\u0438\u043c\u0438\u0437\u0438\u044f", "original_title": "\u0410\u0440\u0442\u0438\u043c\u0438\u0437\u0438\u044f", "slug_title": "artimiziia", "date": "2019-03-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 317004, "title": "Europe Doesn't Answer", "original_title": "Eur\u00f3pa nem v\u00e1laszol", "slug_title": "europe-doesn-t-answer", "date": "1941-01-10", "genre": [""], "score": "0.0/10", "synopsis": "Venice Film Festival 1941", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349530, "title": "\ubd88\ub95c\uc758 \ubc14\ub2e4", "original_title": "\ubd88\ub95c\uc758 \ubc14\ub2e4", "slug_title": "bulryunyi-bada", "date": "1996-01-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

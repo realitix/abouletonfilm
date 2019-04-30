@@ -1,0 +1,1 @@
+{"tmdb_id": 145680, "title": "Morena Clara", "original_title": "Morena Clara", "slug_title": "morena-clara", "date": "1936-04-11", "genre": [""], "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iUS4utYf7Pbx2czzgWP10BDw1Eo.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

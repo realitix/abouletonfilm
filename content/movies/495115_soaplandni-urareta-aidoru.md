@@ -1,0 +1,1 @@
+{"tmdb_id": 495115, "title": "Soaplandni urareta aidoru", "original_title": "Soaplandni urareta aidoru", "slug_title": "soaplandni-urareta-aidoru", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 434981, "title": "Married a Year", "original_title": "Married a Year", "slug_title": "married-a-year", "date": "1916-11-24", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edward Sedgwick (The Husband)", "Betty Schade (The Wife)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

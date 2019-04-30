@@ -1,0 +1,1 @@
+{"tmdb_id": 347268, "title": "Kid Fears", "original_title": "Kid Fears", "slug_title": "kid-fears", "date": "2002-01-17", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Ty McGee.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

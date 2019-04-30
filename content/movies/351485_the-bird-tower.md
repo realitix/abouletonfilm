@@ -1,0 +1,1 @@
+{"tmdb_id": 351485, "title": "The Bird Tower", "original_title": "The Bird Tower", "slug_title": "the-bird-tower", "date": "1941-11-28", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon released 28 November 1941.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

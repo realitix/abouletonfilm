@@ -1,0 +1,1 @@
+{"tmdb_id": 528913, "title": "Best Lovers", "original_title": "Best Lovers", "slug_title": "best-lovers", "date": "2018-06-08", "genre": ["Drame / Romance"], "score": "0.0/10", "synopsis": "coming soon", "image": "/img/default-cover.png", "actors": ["Sri Karan ()", "Amrutha ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

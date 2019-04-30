@@ -1,0 +1,1 @@
+{"tmdb_id": 424682, "title": "Solitudine", "original_title": "Solitudine", "slug_title": "solitudine", "date": "1966-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Short film about a man walking through the city.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

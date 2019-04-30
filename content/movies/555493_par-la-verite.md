@@ -1,0 +1,1 @@
+{"tmdb_id": 555493, "title": "Par la v\u00e9rit\u00e9", "original_title": "Par la v\u00e9rit\u00e9", "slug_title": "par-la-verite", "date": "1917-12-07", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 593617, "title": "Le Barome\u0301tre", "original_title": "Le Barome\u0301tre", "slug_title": "le-barometre", "date": "2004-04-08", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

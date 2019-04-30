@@ -1,0 +1,1 @@
+{"tmdb_id": 253144, "title": "Doing Their Bit", "original_title": "Doing Their Bit", "slug_title": "doing-their-bit", "date": "1942-10-29", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "Nancy and Sluggo do their bit for the USO.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

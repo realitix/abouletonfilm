@@ -1,0 +1,1 @@
+{"tmdb_id": 429027, "title": "Static Odyssey", "original_title": "Static Odyssey", "slug_title": "static-odyssey", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A transcendent journey through the eyes of a boy.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

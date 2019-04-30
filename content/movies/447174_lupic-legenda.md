@@ -1,0 +1,1 @@
+{"tmdb_id": 447174, "title": "Lupi\u010d Legenda", "original_title": "Lupi\u010d Legenda", "slug_title": "lupic-legenda", "date": "1973-03-09", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yDv4543z9b8sBEW9M6ZonB7K2Tg.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 372184, "title": "Krakonos a skola", "original_title": "Krakonos a skola", "slug_title": "krakonos-a-skola", "date": "1984-07-13", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

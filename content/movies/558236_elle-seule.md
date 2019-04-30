@@ -1,0 +1,1 @@
+{"tmdb_id": 558236, "title": "Elle, seule", "original_title": "Elle, seule", "slug_title": "elle-seule", "date": "2011-01-01", "genre": [""], "score": "0.0/10", "synopsis": "\"La Chamade\" remont\u00e9 par Alain Cavalier", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

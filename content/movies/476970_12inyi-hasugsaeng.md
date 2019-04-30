@@ -1,0 +1,1 @@
+{"tmdb_id": 476970, "title": "12\uc778\uc758 \ud558\uc219\uc0dd", "original_title": "12\uc778\uc758 \ud558\uc219\uc0dd", "slug_title": "12inyi-hasugsaeng", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

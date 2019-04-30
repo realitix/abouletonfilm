@@ -1,0 +1,1 @@
+{"tmdb_id": 363902, "title": "Wielka Maj\u00f3wka", "original_title": "Wielka Maj\u00f3wka", "slug_title": "wielka-majowka", "date": "1981-10-23", "genre": ["Com\u00e9die / Musique"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

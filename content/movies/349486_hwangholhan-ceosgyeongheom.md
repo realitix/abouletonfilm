@@ -1,0 +1,1 @@
+{"tmdb_id": 349486, "title": "\ud669\ud640\ud55c \uccab\uacbd\ud5d8", "original_title": "\ud669\ud640\ud55c \uccab\uacbd\ud5d8", "slug_title": "hwangholhan-ceosgyeongheom", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 552402, "title": "The Lush Life", "original_title": "The Lush Life", "slug_title": "the-lush-life", "date": "2000-10-03", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ocbmATyYaf8a8Qt95JtSZvCydMY.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

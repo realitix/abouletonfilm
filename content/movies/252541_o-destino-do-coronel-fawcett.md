@@ -1,0 +1,1 @@
+{"tmdb_id": 252541, "title": "O Destino do Coronel Fawcett", "original_title": "O Destino do Coronel Fawcett", "slug_title": "o-destino-do-coronel-fawcett", "date": "1960-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 472379, "title": "Diario ruso", "original_title": "Diario ruso", "slug_title": "diario-ruso", "date": "2011-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

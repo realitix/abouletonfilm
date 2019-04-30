@@ -1,0 +1,1 @@
+{"tmdb_id": 338272, "title": "Vila Boa de Goyaz", "original_title": "Vila Boa de Goyaz", "slug_title": "vila-boa-de-goyaz", "date": "1974-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arnaldo Jabor (Narrador)", "Cora Coralina (Ela mesma)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

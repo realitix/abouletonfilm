@@ -1,0 +1,1 @@
+{"tmdb_id": 488455, "title": "Diablo in Madrid", "original_title": "Diablo in Madrid", "slug_title": "diablo-in-madrid", "date": "2017-10-30", "genre": [""], "score": "0.0/10", "synopsis": "First film of LaBruce's anthology for CockyBoys.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

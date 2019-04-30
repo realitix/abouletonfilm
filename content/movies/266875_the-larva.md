@@ -1,0 +1,1 @@
+{"tmdb_id": 266875, "title": "The Larva", "original_title": "\ubc8c\ub808", "slug_title": "the-larva", "date": "", "genre": ["Drame"], "score": "0.0/10", "synopsis": "The story is about a girl who becomes a successful singer after a series of troubles", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

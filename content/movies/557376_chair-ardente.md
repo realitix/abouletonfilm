@@ -1,0 +1,1 @@
+{"tmdb_id": 557376, "title": "Chair ardente", "original_title": "Chair ardente", "slug_title": "chair-ardente", "date": "1932-09-30", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

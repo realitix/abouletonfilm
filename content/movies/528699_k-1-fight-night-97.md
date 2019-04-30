@@ -1,0 +1,1 @@
+{"tmdb_id": 528699, "title": "K-1 Fight Night '97", "original_title": "K-1 Fight Night '97", "slug_title": "k-1-fight-night-97", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "K-1 Fight Night '97", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

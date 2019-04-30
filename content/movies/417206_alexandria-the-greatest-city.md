@@ -1,0 +1,1 @@
+{"tmdb_id": 417206, "title": "Alexandria: The Greatest City", "original_title": "Alexandria: The Greatest City", "slug_title": "alexandria-the-greatest-city", "date": "2010-06-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

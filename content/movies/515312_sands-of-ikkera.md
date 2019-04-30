@@ -1,0 +1,1 @@
+{"tmdb_id": 515312, "title": "Sands of Ikkera", "original_title": "Sands of Ikkera", "slug_title": "sands-of-ikkera", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A tale of adventure in a land struggling to recover from an ancient cataclysm.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

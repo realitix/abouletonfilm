@@ -1,0 +1,1 @@
+{"tmdb_id": 350355, "title": "\ube68\uac04 \uc0c9\uae54\uc758 \uc5ec\uc790", "original_title": "\ube68\uac04 \uc0c9\uae54\uc758 \uc5ec\uc790", "slug_title": "bbalgan-saegggalyi-yeoja", "date": "1989-03-17", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

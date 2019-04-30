@@ -1,0 +1,1 @@
+{"tmdb_id": 300750, "title": "Madhya Rater Tara", "original_title": "Madhya Rater Tara", "slug_title": "madhya-rater-tara", "date": "1961-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Indian film staring Supriya Choudhury, Kishore Kumar and Nirmal Kumar", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

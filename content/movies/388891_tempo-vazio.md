@@ -1,0 +1,1 @@
+{"tmdb_id": 388891, "title": "Tempo Vazio", "original_title": "Tempo Vazio", "slug_title": "tempo-vazio", "date": "1982-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

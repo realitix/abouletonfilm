@@ -1,0 +1,1 @@
+{"tmdb_id": 307896, "title": "Eradu Nakshatragalu", "original_title": "Eradu Nakshatragalu", "slug_title": "eradu-nakshatragalu", "date": "1983-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1983", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

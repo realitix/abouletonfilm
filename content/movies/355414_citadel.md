@@ -1,0 +1,1 @@
+{"tmdb_id": 355414, "title": "Citadel", "original_title": "Citadel", "slug_title": "citadel", "date": "2006-07-03", "genre": [""], "score": "0.0/10", "synopsis": "A documentary about a journey to Beirut", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r38QuT44ksQQMNdEkrC673OVWHr.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

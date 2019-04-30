@@ -1,0 +1,1 @@
+{"tmdb_id": 470467, "title": "La natura delle cose", "original_title": "La natura delle cose", "slug_title": "la-natura-delle-cose", "date": "2016-08-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2LOH0AtMUn8vlWMfE0Davhf4uxt.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

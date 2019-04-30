@@ -1,0 +1,1 @@
+{"tmdb_id": 455844, "title": "Liberaci\u00f3n Parte 2 - La Ruptura", "original_title": "Liberaci\u00f3n Parte 2 - La Ruptura", "slug_title": "liberacion-parte-2-la-ruptura", "date": "1969-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

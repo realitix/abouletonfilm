@@ -1,0 +1,1 @@
+{"tmdb_id": 406184, "title": "Bouchaib Abaamrane 2", "original_title": "Bouchaib Abaamrane 2", "slug_title": "bouchaib-abaamrane-2", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Disco Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nG1D2fMLbBQCxIAx88xmBgPGGvM.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 120761, "title": "Red Hot Chili Peppers: Phenomenon", "original_title": "Red Hot Chili Peppers: Phenomenon", "slug_title": "red-hot-chili-peppers-phenomenon", "date": "2008-01-01", "genre": ["Musique / Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

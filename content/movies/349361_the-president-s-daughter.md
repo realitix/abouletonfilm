@@ -1,0 +1,1 @@
+{"tmdb_id": 349361, "title": "The President's Daughter", "original_title": "\ub300\ud1b5\ub839\uc758 \ub538", "slug_title": "the-president-s-daughter", "date": "1994-04-30", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lee Jung-sung (Chang-shik)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

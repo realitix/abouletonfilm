@@ -1,0 +1,1 @@
+{"tmdb_id": 380312, "title": "Microondas", "original_title": "Microondas", "slug_title": "microondas", "date": "2015-01-01", "genre": [""], "score": "0.0/10", "synopsis": "\"Microwaves\" is Juan Cavestany's new radio drama.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

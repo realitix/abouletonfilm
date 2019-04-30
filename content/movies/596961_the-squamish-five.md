@@ -1,0 +1,1 @@
+{"tmdb_id": 596961, "title": "The Squamish Five", "original_title": "The Squamish Five", "slug_title": "the-squamish-five", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Docudrama about Urban guerillas.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

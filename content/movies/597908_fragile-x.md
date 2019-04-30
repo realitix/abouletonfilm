@@ -1,0 +1,1 @@
+{"tmdb_id": 597908, "title": "Fragile X", "original_title": "Fragile X", "slug_title": "fragile-x", "date": "2020-02-14", "genre": [""], "score": "0.0/10", "synopsis": "A cop discovers a young woman who disappeared while being a part of a robbery gone wrong.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "whoUQ1eRTRw"}

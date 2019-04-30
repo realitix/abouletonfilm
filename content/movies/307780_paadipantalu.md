@@ -1,0 +1,1 @@
+{"tmdb_id": 307780, "title": "Paadipantalu", "original_title": "Paadipantalu", "slug_title": "paadipantalu", "date": "1976-01-14", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1976", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

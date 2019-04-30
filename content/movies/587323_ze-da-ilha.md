@@ -1,0 +1,1 @@
+{"tmdb_id": 587323, "title": "Z\u00e9 da Ilha", "original_title": "Z\u00e9 da Ilha", "slug_title": "ze-da-ilha", "date": "2013-06-11", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pRuHsXC3eTRHugFQNesKslhUqLx.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

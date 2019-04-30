@@ -1,0 +1,1 @@
+{"tmdb_id": 395178, "title": "Fan Fever", "original_title": "Fan Fever", "slug_title": "fan-fever", "date": "1958-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

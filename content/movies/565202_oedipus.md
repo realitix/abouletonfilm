@@ -1,0 +1,1 @@
+{"tmdb_id": 565202, "title": "Oedipus", "original_title": "Oedipus", "slug_title": "oedipus", "date": "1953-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Short film by Robert Vickrey.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 546562, "title": "She works hard", "original_title": "She works hard", "slug_title": "she-works-hard", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

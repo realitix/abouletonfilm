@@ -1,0 +1,1 @@
+{"tmdb_id": 557584, "title": "A.M. & P.M. YOGA", "original_title": "A.M. & P.M. YOGA", "slug_title": "a-m-p-m-yoga", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "GAIAM\r Mind - Body - Health", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

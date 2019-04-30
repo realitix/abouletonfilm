@@ -1,0 +1,1 @@
+{"tmdb_id": 432710, "title": "Head Hunter", "original_title": "Head Hunter", "slug_title": "head-hunter", "date": "", "genre": [""], "score": "5.0/10", "synopsis": "A night security guard finds himself trapped in a warehouse with an escaped serial killer.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

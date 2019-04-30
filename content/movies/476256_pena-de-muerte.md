@@ -1,0 +1,1 @@
+{"tmdb_id": 476256, "title": "\u00bfPena de muerte?", "original_title": "\u00bfPena de muerte?", "slug_title": "pena-de-muerte", "date": "1961-01-01", "genre": ["Crime"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4y7pTTA80OYSgHkdp2J9oZKIOEY.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

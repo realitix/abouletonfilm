@@ -1,0 +1,1 @@
+{"tmdb_id": 263613, "title": "Plou I Fa Sol", "original_title": "Plou I Fa Sol", "slug_title": "plou-i-fa-sol", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

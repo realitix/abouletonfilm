@@ -1,0 +1,1 @@
+{"tmdb_id": 382250, "title": "Tokyo Baisu", "original_title": "Tokyo Baisu", "slug_title": "tokyo-baisu", "date": "1988-02-12", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j7cXRE4LcSF5vKTcNnFrQ2ICZ2u.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

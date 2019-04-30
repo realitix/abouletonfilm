@@ -1,0 +1,1 @@
+{"tmdb_id": 373734, "title": "NZZ Format - Der innere Schweinehund", "original_title": "NZZ Format - Der innere Schweinehund", "slug_title": "nzz-format-der-innere-schweinehund", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

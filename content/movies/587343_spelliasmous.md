@@ -1,0 +1,1 @@
+{"tmdb_id": 587343, "title": "Spelliasmous", "original_title": "Spelliasmous", "slug_title": "spelliasmous", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "The universal language of wizards bridges cultures in this imaginative doc.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

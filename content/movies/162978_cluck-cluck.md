@@ -1,0 +1,1 @@
+{"tmdb_id": 162978, "title": "Cluck Cluck", "original_title": "Gack Gack", "slug_title": "cluck-cluck", "date": "2003-06-27", "genre": [""], "score": "7.0/10", "synopsis": "Chickens suffer through their work.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

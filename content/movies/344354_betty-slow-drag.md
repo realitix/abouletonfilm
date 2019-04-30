@@ -1,0 +1,1 @@
+{"tmdb_id": 344354, "title": "Betty Slow Drag", "original_title": "Betty Slow Drag", "slug_title": "betty-slow-drag", "date": "1953-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Jazz-musical about a two lovers.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

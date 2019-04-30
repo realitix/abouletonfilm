@@ -1,0 +1,1 @@
+{"tmdb_id": 367835, "title": "King Sverre", "original_title": "Kong Sverre", "slug_title": "king-sverre", "date": "", "genre": ["Drame / Histoire"], "score": "7.0/10", "synopsis": "A historical play in three parts.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

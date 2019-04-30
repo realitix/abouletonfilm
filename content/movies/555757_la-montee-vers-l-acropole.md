@@ -1,0 +1,1 @@
+{"tmdb_id": 555757, "title": "La mont\u00e9e vers l'Acropole", "original_title": "La mont\u00e9e vers l'Acropole", "slug_title": "la-montee-vers-l-acropole", "date": "1920-10-22", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

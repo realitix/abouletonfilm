@@ -1,0 +1,1 @@
+{"tmdb_id": 347279, "title": "Dummy Drunk", "original_title": "Dummy Drunk", "slug_title": "dummy-drunk", "date": "2004-08-31", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Sin Silva.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

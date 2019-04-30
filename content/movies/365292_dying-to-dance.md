@@ -1,0 +1,1 @@
+{"tmdb_id": 365292, "title": "Dying to Dance", "original_title": "Dying to Dance", "slug_title": "dying-to-dance", "date": "2001-03-07", "genre": [""], "score": "0.0/10", "synopsis": "A young man must teach a woman to dance - at any cost.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

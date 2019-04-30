@@ -1,0 +1,1 @@
+{"tmdb_id": 455369, "title": "O Escravo", "original_title": "O Escravo", "slug_title": "o-escravo", "date": "1944-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n4SAALVpdpNsXq2WpUegZUI1WdE.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

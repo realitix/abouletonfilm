@@ -1,0 +1,1 @@
+{"tmdb_id": 350173, "title": "\uc804\uc124\ucca0\uc778 \ud0a4\uba54\ub791", "original_title": "\uc804\uc124\ucca0\uc778 \ud0a4\uba54\ub791", "slug_title": "jeonseolceolin-kimerang", "date": "1990-01-08", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 189184, "title": "The Queen's Flower", "original_title": "Floarea reginei", "slug_title": "the-queen-s-flower", "date": "1946-09-01", "genre": ["Fantastique"], "score": "0.0/10", "synopsis": "Shown in Cannes 1946.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

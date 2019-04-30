@@ -1,0 +1,1 @@
+{"tmdb_id": 533391, "title": "Visconti", "original_title": "Visconti", "slug_title": "visconti", "date": "2003-04-19", "genre": [""], "score": "0.0/10", "synopsis": "Documentary portrait of one of Italy's finest directors, Luchino Visconti.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

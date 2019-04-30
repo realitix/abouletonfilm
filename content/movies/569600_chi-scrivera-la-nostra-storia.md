@@ -1,0 +1,1 @@
+{"tmdb_id": 569600, "title": "Chi scriver\u00e0 la nostra storia", "original_title": "Chi scriver\u00e0 la nostra storia", "slug_title": "chi-scrivera-la-nostra-storia", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 557427, "title": "La cure sentimentale", "original_title": "La cure sentimentale", "slug_title": "la-cure-sentimentale", "date": "1934-05-04", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

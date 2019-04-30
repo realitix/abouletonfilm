@@ -1,0 +1,1 @@
+{"tmdb_id": 462598, "title": "Conoscere una scuola", "original_title": "Conoscere una scuola", "slug_title": "conoscere-una-scuola", "date": "1967-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Italian documentary short film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

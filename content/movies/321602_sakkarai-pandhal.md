@@ -1,0 +1,1 @@
+{"tmdb_id": 321602, "title": "Sakkarai Pandhal", "original_title": "Sakkarai Pandhal", "slug_title": "sakkarai-pandhal", "date": "1988-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Indian film from the late 1980s.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

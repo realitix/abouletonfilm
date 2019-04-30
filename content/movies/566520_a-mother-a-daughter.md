@@ -1,0 +1,1 @@
+{"tmdb_id": 566520, "title": "A Mother, a Daughter", "original_title": "Anna", "slug_title": "a-mother-a-daughter", "date": "1981-08-12", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4GT7bYewNjIQ6mBsQFVGcSnJZ34.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

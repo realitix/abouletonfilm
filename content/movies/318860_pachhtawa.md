@@ -1,0 +1,1 @@
+{"tmdb_id": 318860, "title": "Pachhtawa", "original_title": "Pachhtawa", "slug_title": "pachhtawa", "date": "1986-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Ravi Kaushal, Sujit Kumar and Sunita", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

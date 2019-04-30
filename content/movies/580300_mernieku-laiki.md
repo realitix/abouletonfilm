@@ -1,0 +1,1 @@
+{"tmdb_id": 580300, "title": "M\u0113rnieku Laiki", "original_title": "M\u0113rnieku Laiki", "slug_title": "mernieku-laiki", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A movie adaptation of the famous Latvian novel of the same title.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

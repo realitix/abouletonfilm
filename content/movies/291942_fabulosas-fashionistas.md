@@ -1,0 +1,1 @@
+{"tmdb_id": 291942, "title": "Fabulosas Fashionistas", "original_title": "Fabulosas Fashionistas", "slug_title": "fabulosas-fashionistas", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 347922, "title": "Os Her\u00f3is da Cidade das Cores", "original_title": "Os Her\u00f3is da Cidade das Cores", "slug_title": "os-herois-da-cidade-das-cores", "date": "", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

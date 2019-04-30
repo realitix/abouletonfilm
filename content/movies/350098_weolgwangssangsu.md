@@ -1,0 +1,1 @@
+{"tmdb_id": 350098, "title": "\uc6d4\uad11\uc30d\uc218", "original_title": "\uc6d4\uad11\uc30d\uc218", "slug_title": "weolgwangssangsu", "date": "1981-10-16", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

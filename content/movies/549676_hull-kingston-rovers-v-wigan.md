@@ -1,0 +1,1 @@
+{"tmdb_id": 549676, "title": "Hull Kingston Rovers v Wigan", "original_title": "Hull Kingston Rovers v Wigan", "slug_title": "hull-kingston-rovers-v-wigan", "date": "1902-10-25", "genre": [""], "score": "0.0/10", "synopsis": "Northern Union game from 25 Oct 1902", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

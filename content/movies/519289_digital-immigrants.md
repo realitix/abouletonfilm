@@ -1,0 +1,1 @@
+{"tmdb_id": 519289, "title": "Digital Immigrants", "original_title": "Digital Immigrants", "slug_title": "digital-immigrants", "date": "2016-08-12", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3G86hPflorli5aPVBZwQR8SMNmw.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

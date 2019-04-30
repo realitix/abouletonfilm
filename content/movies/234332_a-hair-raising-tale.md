@@ -1,0 +1,1 @@
+{"tmdb_id": 234332, "title": "A Hair-Raising Tale", "original_title": "A Hair-Raising Tale", "slug_title": "a-hair-raising-tale", "date": "1965-01-08", "genre": [""], "score": "0.0/10", "synopsis": "A friend of a mad scientist stops in for a visit.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

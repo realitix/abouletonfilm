@@ -1,0 +1,1 @@
+{"tmdb_id": 393706, "title": "Underground USA", "original_title": "Underground USA", "slug_title": "underground-usa", "date": "1980-04-20", "genre": [""], "score": "0.0/10", "synopsis": "1980 German super 8 short work", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

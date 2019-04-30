@@ -1,0 +1,1 @@
+{"tmdb_id": 518917, "title": "L'ultimo campionato", "original_title": "L'ultimo campionato", "slug_title": "l-ultimo-campionato", "date": "2007-01-01", "genre": [""], "score": "0.0/10", "synopsis": "The last game of water polo.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

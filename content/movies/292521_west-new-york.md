@@ -1,0 +1,1 @@
+{"tmdb_id": 292521, "title": "West New York", "original_title": "West New York", "slug_title": "west-new-york", "date": "1996-01-01", "genre": [""], "score": "6.0/10", "synopsis": "An ex-cop finds himself on the outs with both sides of the law in this drama.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

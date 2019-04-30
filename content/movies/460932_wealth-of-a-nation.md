@@ -1,0 +1,1 @@
+{"tmdb_id": 460932, "title": "Wealth of a Nation", "original_title": "Wealth of a Nation", "slug_title": "wealth-of-a-nation", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "This film explores freedom of speech in the United States of America", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

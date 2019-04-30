@@ -1,0 +1,1 @@
+{"tmdb_id": 284267, "title": "History of a Soldier", "original_title": "History of a Soldier", "slug_title": "history-of-a-soldier", "date": "1989-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Zulfikar Musakov.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

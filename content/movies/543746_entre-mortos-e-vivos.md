@@ -1,0 +1,1 @@
+{"tmdb_id": 543746, "title": "Entre Mortos e Vivos", "original_title": "Entre Mortos e Vivos", "slug_title": "entre-mortos-e-vivos", "date": "2017-10-16", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/buFygRmKCjOTuorRwtF22rHftvJ.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

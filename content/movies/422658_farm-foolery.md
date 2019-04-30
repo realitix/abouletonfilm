@@ -1,0 +1,1 @@
+{"tmdb_id": 422658, "title": "Farm Foolery", "original_title": "Farm Foolery", "slug_title": "farm-foolery", "date": "1930-09-13", "genre": [""], "score": "0.0/10", "synopsis": "The farm animals sing, dance and flirt in this Van Beuren cartoon.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

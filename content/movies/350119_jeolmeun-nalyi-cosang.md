@@ -1,0 +1,1 @@
+{"tmdb_id": 350119, "title": "\uc80a\uc740 \ub0a0\uc758 \ucd08\uc0c1", "original_title": "\uc80a\uc740 \ub0a0\uc758 \ucd08\uc0c1", "slug_title": "jeolmeun-nalyi-cosang", "date": "1991-03-16", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

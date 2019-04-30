@@ -1,0 +1,1 @@
+{"tmdb_id": 231227, "title": "Starz Inside: Comics on Screen", "original_title": "Starz Inside: Comics on Screen", "slug_title": "starz-inside-comics-on-screen", "date": "2009-09-16", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

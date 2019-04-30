@@ -1,0 +1,1 @@
+{"tmdb_id": 449089, "title": "The Hares", "original_title": "Las Liebres", "slug_title": "the-hares", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A boy is faced with a difficult decision when his father insists on taking him hunting", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

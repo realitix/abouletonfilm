@@ -1,0 +1,1 @@
+{"tmdb_id": 350424, "title": "\ub2f9\uc0b0\ube44\uad8c", "original_title": "\ub2f9\uc0b0\ube44\uad8c", "slug_title": "dangsanbigweon", "date": "1979-03-03", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

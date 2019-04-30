@@ -1,0 +1,1 @@
+{"tmdb_id": 285478, "title": "L'arcidiavolo", "original_title": "L'arcidiavolo", "slug_title": "l-arcidiavolo", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "The Piazzi Conspiracy in a comedy directed by Toni Franguelli.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

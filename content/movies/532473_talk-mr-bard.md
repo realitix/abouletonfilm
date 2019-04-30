@@ -1,0 +1,1 @@
+{"tmdb_id": 532473, "title": "Talk Mr Bard", "original_title": "Talk Mr Bard", "slug_title": "talk-mr-bard", "date": "1961-06-27", "genre": [""], "score": "0.0/10", "synopsis": "Directed by John Latham.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wcluXUVST3ioUs2s3a0avQy4tEp.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

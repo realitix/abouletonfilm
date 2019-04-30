@@ -1,0 +1,1 @@
+{"tmdb_id": 330785, "title": "The Arab Dream", "original_title": "Al-Hulm al-'Arabi", "slug_title": "the-arab-dream", "date": "1998-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Short directed by Mai Masri.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

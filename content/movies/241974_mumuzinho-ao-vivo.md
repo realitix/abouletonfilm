@@ -1,0 +1,1 @@
+{"tmdb_id": 241974, "title": "Mumuzinho ao Vivo", "original_title": "Mumuzinho ao Vivo", "slug_title": "mumuzinho-ao-vivo", "date": "2013-12-09", "genre": [""], "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s3qNhOTwioPV9IfCUX0wn2pyH9c.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

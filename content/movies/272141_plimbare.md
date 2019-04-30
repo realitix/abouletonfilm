@@ -1,0 +1,1 @@
+{"tmdb_id": 272141, "title": "Plimbare", "original_title": "Plimbare", "slug_title": "plimbare", "date": "2014-05-30", "genre": [""], "score": "0.0/10", "synopsis": "An old solitary woman feels the urge to go outside and feel again.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

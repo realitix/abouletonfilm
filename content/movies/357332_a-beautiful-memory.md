@@ -1,0 +1,1 @@
+{"tmdb_id": 357332, "title": "A Beautiful Memory", "original_title": "A Beautiful Memory", "slug_title": "a-beautiful-memory", "date": "1976-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Part of BFI's \"National Coal Board Collection\".", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

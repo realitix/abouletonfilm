@@ -1,0 +1,1 @@
+{"tmdb_id": 356969, "title": "Steel Goes to Sea", "original_title": "Steel Goes to Sea", "slug_title": "steel-goes-to-sea", "date": "1941-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by John E. Lewis.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

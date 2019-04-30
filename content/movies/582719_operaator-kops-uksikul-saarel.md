@@ -1,0 +1,1 @@
+{"tmdb_id": 582719, "title": "Operaator K\u00f5ps \u00fcksikul saarel", "original_title": "Operaator K\u00f5ps \u00fcksikul saarel", "slug_title": "operaator-kops-uksikul-saarel", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 598445, "title": "Ba\u011fdat H\u0131rs\u0131z\u0131", "original_title": "Ba\u011fdat H\u0131rs\u0131z\u0131", "slug_title": "bagdat-hirsizi", "date": "1969-04-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 294987, "title": "Up Against the 8 Ball", "original_title": "Up Against the 8 Ball", "slug_title": "up-against-the-8-ball", "date": "2005-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Iva La' Shawn, Tawny Dahl, Jay Cooper", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

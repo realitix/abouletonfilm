@@ -1,0 +1,1 @@
+{"tmdb_id": 549824, "title": "7 days of darkness dark", "original_title": "7 days of darkness dark", "slug_title": "7-days-of-darkness-dark", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Horror movies English", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

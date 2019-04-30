@@ -1,0 +1,1 @@
+{"tmdb_id": 456207, "title": "Dennis Jakob Unplugged", "original_title": "Dennis Jakob Unplugged", "slug_title": "dennis-jakob-unplugged", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Short film featuring musings on film art with Dennis Jakob", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

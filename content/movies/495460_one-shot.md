@@ -1,0 +1,1 @@
+{"tmdb_id": 495460, "title": "One Shot", "original_title": "One Shot", "slug_title": "one-shot", "date": "2013-06-09", "genre": [""], "score": "0.0/10", "synopsis": "A hunter attempts to track down and kill a werewolf, with only a single silver bullet.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

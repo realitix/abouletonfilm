@@ -1,0 +1,1 @@
+{"tmdb_id": 598557, "title": "La Vie selon Stan", "original_title": "La Vie selon Stan", "slug_title": "la-vie-selon-stan", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Documentary about Stan Lee and his influence on American society", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

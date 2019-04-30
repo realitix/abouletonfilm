@@ -1,0 +1,1 @@
+{"tmdb_id": 386412, "title": "Literature", "original_title": "Literature", "slug_title": "literature", "date": "2009-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A man reading on the street.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xIKGfqeBQJEOgGtUj0ppcQAtOzE.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

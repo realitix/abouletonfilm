@@ -1,0 +1,1 @@
+{"tmdb_id": 537420, "title": "El vividor cero", "original_title": "El vividor cero", "slug_title": "el-vividor-cero", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

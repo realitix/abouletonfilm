@@ -1,0 +1,1 @@
+{"tmdb_id": 442890, "title": "Spur der B\u00e4ren", "original_title": "Spur der B\u00e4ren", "slug_title": "spur-der-baren", "date": "2010-02-13", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

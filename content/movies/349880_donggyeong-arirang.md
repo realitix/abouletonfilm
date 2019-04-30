@@ -1,0 +1,1 @@
+{"tmdb_id": 349880, "title": "\ub3d9\uacbd \uc544\ub9ac\ub791", "original_title": "\ub3d9\uacbd \uc544\ub9ac\ub791", "slug_title": "donggyeong-arirang", "date": "1990-09-08", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

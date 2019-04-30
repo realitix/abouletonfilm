@@ -1,0 +1,1 @@
+{"tmdb_id": 470581, "title": "Oro y Polvo", "original_title": "Oro y Polvo", "slug_title": "oro-y-polvo", "date": "2016-04-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ugmcFAJA9KIkq2sNlH1eqLqoA8B.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

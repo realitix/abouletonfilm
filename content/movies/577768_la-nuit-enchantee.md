@@ -1,0 +1,1 @@
+{"tmdb_id": 577768, "title": "La nuit enchant\u00e9e", "original_title": "La nuit enchant\u00e9e", "slug_title": "la-nuit-enchantee", "date": "1943-01-25", "genre": ["Animation"], "score": "0.0/10", "synopsis": "Animated adventures in Africa.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

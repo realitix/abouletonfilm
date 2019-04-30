@@ -1,0 +1,1 @@
+{"tmdb_id": 307445, "title": "Stuck on Broke", "original_title": "Stuck on Broke", "slug_title": "stuck-on-broke", "date": "2010-08-24", "genre": [""], "score": "5.0/10", "synopsis": "Drama about life in the ghetto.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

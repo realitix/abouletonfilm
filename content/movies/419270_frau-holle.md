@@ -1,0 +1,1 @@
+{"tmdb_id": 419270, "title": "Frau Holle", "original_title": "Frau Holle", "slug_title": "frau-holle", "date": "1977-01-01", "genre": ["Familial"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lotte Brackebusch (Frau Holle)", "Gerda-Maria J\u00fcrgens (Mutter)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

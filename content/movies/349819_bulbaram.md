@@ -1,0 +1,1 @@
+{"tmdb_id": 349819, "title": "\ubd88\ubc14\ub78c", "original_title": "\ubd88\ubc14\ub78c", "slug_title": "bulbaram", "date": "1983-02-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

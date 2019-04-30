@@ -1,0 +1,1 @@
+{"tmdb_id": 289688, "title": "Cantajuego 10", "original_title": "Cantajuego 10", "slug_title": "cantajuego-10", "date": "2014-06-12", "genre": [""], "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fPIhOEkl4fTD2V5Y5U4F3gbJ30r.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

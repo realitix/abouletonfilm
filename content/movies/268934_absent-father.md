@@ -1,0 +1,1 @@
+{"tmdb_id": 268934, "title": "Absent Father", "original_title": "Absent Father", "slug_title": "absent-father", "date": "2008-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Drama starring  Jessica Kadish, JP Quicquaro, Debbie Friedlander", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

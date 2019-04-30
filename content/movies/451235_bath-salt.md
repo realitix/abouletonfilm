@@ -1,0 +1,1 @@
+{"tmdb_id": 451235, "title": "Bath Salt", "original_title": "Bath Salt", "slug_title": "bath-salt", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A teenage cancer survivor learns her friend from the hospital has died.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

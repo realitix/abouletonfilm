@@ -1,0 +1,1 @@
+{"tmdb_id": 597640, "title": "Y\u0131lan Soyu", "original_title": "Y\u0131lan Soyu", "slug_title": "yilan-soyu", "date": "1969-04-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bblp2qdofpfRKCobpCtLqrr6U8U.jpg", "actors": ["Ayhan I\u015fik ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

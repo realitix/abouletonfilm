@@ -1,0 +1,1 @@
+{"tmdb_id": 369568, "title": "\u68ee\u3068\u6e56\u306e\u307e\u3064\u308a", "original_title": "\u68ee\u3068\u6e56\u306e\u307e\u3064\u308a", "slug_title": "sen-tohu-nomaturi", "date": "1958-11-26", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

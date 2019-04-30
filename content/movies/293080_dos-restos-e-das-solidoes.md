@@ -1,0 +1,1 @@
+{"tmdb_id": 293080, "title": "Dos Restos e Das Solid\u00f5es", "original_title": "Dos Restos e Das Solid\u00f5es", "slug_title": "dos-restos-e-das-solidoes", "date": "2006-06-05", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

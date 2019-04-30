@@ -1,0 +1,1 @@
+{"tmdb_id": 598537, "title": "Absurda", "original_title": "Absurda", "slug_title": "absurda", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A journey into absurdity. Originally premiered at Cannes Film Festival.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

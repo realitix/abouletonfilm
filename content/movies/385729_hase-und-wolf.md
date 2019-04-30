@@ -1,0 +1,1 @@
+{"tmdb_id": 385729, "title": "Hase und Wolf", "original_title": "Hase und Wolf", "slug_title": "hase-und-wolf", "date": "1969-12-01", "genre": ["Animation"], "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/frVWKoPOsGoXoeB01lnPAHhPCb6.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

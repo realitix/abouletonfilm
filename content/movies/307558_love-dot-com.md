@@ -1,0 +1,1 @@
+{"tmdb_id": 307558, "title": "Love Dot Com", "original_title": "Love Dot Com", "slug_title": "love-dot-com", "date": "2009-09-21", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Sabyasachi Misra, Megha Ghosh and Pupinder Singh", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

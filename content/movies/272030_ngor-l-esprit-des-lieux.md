@@ -1,0 +1,1 @@
+{"tmdb_id": 272030, "title": "Ngor, l'esprit des lieux", "original_title": "Ngor, l'esprit des lieux", "slug_title": "ngor-l-esprit-des-lieux", "date": "1991-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Documentary directed by Samba F\u00e9lix Ndiaye.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

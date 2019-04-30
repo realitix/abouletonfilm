@@ -1,0 +1,1 @@
+{"tmdb_id": 288168, "title": "The time and patience", "original_title": "L'instant et la patience", "slug_title": "the-time-and-patience", "date": "1994-01-01", "genre": [""], "score": "0.0/10", "synopsis": "The daily life of a group of women in an old age home.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

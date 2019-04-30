@@ -1,0 +1,1 @@
+{"tmdb_id": 345639, "title": "Rendezvous", "original_title": "Rendezvous", "slug_title": "rendezvous", "date": "1973-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Montage of clips from various horror films set to Frank Sinatra's Strangers in the Night", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

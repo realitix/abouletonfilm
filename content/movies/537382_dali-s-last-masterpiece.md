@@ -1,0 +1,1 @@
+{"tmdb_id": 537382, "title": "Dali's Last Masterpiece", "original_title": "Dali's Last Masterpiece", "slug_title": "dali-s-last-masterpiece", "date": "", "genre": ["Documentaire / Histoire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Salvador Dal\u00ed ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

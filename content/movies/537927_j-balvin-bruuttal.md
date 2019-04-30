@@ -1,0 +1,1 @@
+{"tmdb_id": 537927, "title": "J. Balvin Bruuttal", "original_title": "J. Balvin Bruuttal", "slug_title": "j-balvin-bruuttal", "date": "2017-01-01", "genre": ["Musique"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jUEvwR4iG7WG2S9UwJKeGkYrjzo.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

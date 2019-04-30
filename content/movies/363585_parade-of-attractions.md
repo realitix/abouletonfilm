@@ -1,0 +1,1 @@
+{"tmdb_id": 363585, "title": "Parade of Attractions", "original_title": "Parade of Attractions", "slug_title": "parade-of-attractions", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Russian 3-D short film from  1970.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 96573, "title": "Vida Vs", "original_title": "Vida Vs", "slug_title": "vida-vs", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Vida", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

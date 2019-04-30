@@ -1,0 +1,1 @@
+{"tmdb_id": 454529, "title": "Tenma no Torayan", "original_title": "Tenma no Torayan", "slug_title": "tenma-no-torayan", "date": "1971-01-01", "genre": ["Animation"], "score": "0.0/10", "synopsis": "A short puppet animation. Winner of the Oofuji Noburou Award.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

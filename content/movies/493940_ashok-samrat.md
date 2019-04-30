@@ -1,0 +1,1 @@
+{"tmdb_id": 493940, "title": "Ashok Samrat", "original_title": "Ashok Samrat", "slug_title": "ashok-samrat", "date": "2013-06-11", "genre": [""], "score": "0.0/10", "synopsis": "not available", "image": "/img/default-cover.png", "actors": ["Arindam Roy (Ashok / Samrat)", "Emili Choudhury (Shweta Padma)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

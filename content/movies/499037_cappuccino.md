@@ -1,0 +1,1 @@
+{"tmdb_id": 499037, "title": "Cappuccino", "original_title": "Cappuccino", "slug_title": "cappuccino", "date": "2015-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A looped video, part of the City of Ys sculptural installation series by Camille Henrot.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

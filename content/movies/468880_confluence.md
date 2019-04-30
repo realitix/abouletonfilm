@@ -1,0 +1,1 @@
+{"tmdb_id": 468880, "title": "Confluence", "original_title": "Confluence", "slug_title": "confluence", "date": "2015-03-07", "genre": ["Science-Fiction / Drame"], "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cpFemfDctLJPZmYQ80ltBHL2QNz.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

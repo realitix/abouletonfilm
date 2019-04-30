@@ -1,0 +1,1 @@
+{"tmdb_id": 598008, "title": "\u041f\u0441\u043e\u0433\u043b\u0430\u0432\u0446\u044b", "original_title": "\u041f\u0441\u043e\u0433\u043b\u0430\u0432\u0446\u044b", "slug_title": "psoglavtsy", "date": "", "genre": ["Thriller"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

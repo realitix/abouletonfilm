@@ -1,0 +1,1 @@
+{"tmdb_id": 302294, "title": "Kudumbam", "original_title": "Kudumbam", "slug_title": "kudumbam", "date": "1967-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1967 film starring  Adoor Bhasi and Prem Nazir", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

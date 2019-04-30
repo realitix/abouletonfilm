@@ -1,0 +1,1 @@
+{"tmdb_id": 450888, "title": "\u00cdndios no Poder", "original_title": "\u00cdndios no Poder", "slug_title": "indios-no-poder", "date": "2017-06-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/anuhvGMl3hK01S0gWXZ6xHgAPRp.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

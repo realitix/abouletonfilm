@@ -1,0 +1,1 @@
+{"tmdb_id": 349699, "title": "2\uc6d4 30\uc77c\uc0dd", "original_title": "2\uc6d4 30\uc77c\uc0dd", "slug_title": "2weol-30ilsaeng", "date": "1983-08-27", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 516478, "title": "Cidade L\u00edquida", "original_title": "Cidade L\u00edquida", "slug_title": "cidade-liquida", "date": "2015-07-16", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ywwRhOVHPzYsKACPVLIaAKIJt2I.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

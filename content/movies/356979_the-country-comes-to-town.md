@@ -1,0 +1,1 @@
+{"tmdb_id": 356979, "title": "The Country Comes to Town", "original_title": "The Country Comes to Town", "slug_title": "the-country-comes-to-town", "date": "1931-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Basil Wright.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

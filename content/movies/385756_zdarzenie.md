@@ -1,0 +1,1 @@
+{"tmdb_id": 385756, "title": "Zdarzenie", "original_title": "Zdarzenie", "slug_title": "zdarzenie", "date": "1988-06-01", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9IUKj9sC0qNvJ3zMUrGcYGx4AbA.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

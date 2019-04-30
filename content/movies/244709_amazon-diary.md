@@ -1,0 +1,1 @@
+{"tmdb_id": 244709, "title": "Amazon Diary", "original_title": "Amazon Diary", "slug_title": "amazon-diary", "date": "1989-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Oscar nominated short film from 1989", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

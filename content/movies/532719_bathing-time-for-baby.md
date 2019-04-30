@@ -1,0 +1,1 @@
+{"tmdb_id": 532719, "title": "Bathing Time For Baby", "original_title": "Bathing Time For Baby", "slug_title": "bathing-time-for-baby", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Non-theatrical industrial short\r produced for Johnson & Johnson", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

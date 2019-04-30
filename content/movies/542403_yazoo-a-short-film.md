@@ -1,0 +1,1 @@
+{"tmdb_id": 542403, "title": "Yazoo: A Short Film", "original_title": "Yazoo: A Short Film", "slug_title": "yazoo-a-short-film", "date": "2008-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A look back at the genius that was Yazoo.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

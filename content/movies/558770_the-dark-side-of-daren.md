@@ -1,0 +1,1 @@
+{"tmdb_id": 558770, "title": "The Dark Side of Daren", "original_title": "The Dark Side of Daren", "slug_title": "the-dark-side-of-daren", "date": "2001-02-13", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Documentary film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

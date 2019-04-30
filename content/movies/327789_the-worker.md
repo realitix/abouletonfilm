@@ -1,0 +1,1 @@
+{"tmdb_id": 327789, "title": "The Worker", "original_title": "al Amil", "slug_title": "the-worker", "date": "1943-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Ahmad Kamil Mursi.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

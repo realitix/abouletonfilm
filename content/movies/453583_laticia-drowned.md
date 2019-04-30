@@ -1,0 +1,1 @@
+{"tmdb_id": 453583, "title": "Laticia Drowned", "original_title": "Laticia Drowned", "slug_title": "laticia-drowned", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Laticia drowned on a school trip.. Accidents do happen.... don't they?", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 597495, "title": "The Long Goodbye", "original_title": "\u544a\u5225", "slug_title": "the-long-goodbye", "date": "2017-04-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5zm4nFdAx3G2YADXnJNGU0LZMWl.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

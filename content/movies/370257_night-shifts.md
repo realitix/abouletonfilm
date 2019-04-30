@@ -1,0 +1,1 @@
+{"tmdb_id": 370257, "title": "Night Shifts", "original_title": "Nachtschichten", "slug_title": "night-shifts", "date": "2010-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t4KT199myZ1yNw0mhWppEmPArYi.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

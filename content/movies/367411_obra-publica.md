@@ -1,0 +1,1 @@
+{"tmdb_id": 367411, "title": "Obra P\u00fablica", "original_title": "Obra P\u00fablica", "slug_title": "obra-publica", "date": "2015-11-09", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350255, "title": "\ud37c\ud399\ud2b8 \ube14\ub8e8", "original_title": "\ud37c\ud399\ud2b8 \ube14\ub8e8", "slug_title": "peopegteu-beulru", "date": "2004-05-26", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 565035, "title": "Zombie Universe 2", "original_title": "Zombie Universe 2", "slug_title": "zombie-universe-2", "date": "2012-10-26", "genre": [""], "score": "0.0/10", "synopsis": "Mason & Forrest are back. And this time, it's personal.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

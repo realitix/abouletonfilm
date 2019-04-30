@@ -1,0 +1,1 @@
+{"tmdb_id": 334420, "title": "The Seamen's Strike", "original_title": "Ya Brachen - Mered Hayama'im", "slug_title": "the-seamen-s-strike", "date": "1981-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Judd Ne'eman.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

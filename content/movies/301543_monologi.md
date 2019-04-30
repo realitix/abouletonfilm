@@ -1,0 +1,1 @@
+{"tmdb_id": 301543, "title": "Monologi", "original_title": "Monologi", "slug_title": "monologi", "date": "2013-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A self-centered man reveals his narcissism during lunch.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

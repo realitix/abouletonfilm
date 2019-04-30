@@ -1,0 +1,1 @@
+{"tmdb_id": 383593, "title": "Espectro Siete", "original_title": "Espectro Siete", "slug_title": "espectro-siete", "date": "1970-02-19", "genre": [""], "score": "0.0/10", "synopsis": "short Spanish experimental film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

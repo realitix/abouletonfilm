@@ -1,0 +1,1 @@
+{"tmdb_id": 328146, "title": "Sderot, Last Exit", "original_title": "Sderot, Last Exit", "slug_title": "sderot-last-exit", "date": "2012-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film from Osvalde Lewat", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

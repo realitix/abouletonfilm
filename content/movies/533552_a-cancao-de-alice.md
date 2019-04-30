@@ -1,0 +1,1 @@
+{"tmdb_id": 533552, "title": "A can\u00e7\u00e3o de Alice", "original_title": "A can\u00e7\u00e3o de Alice", "slug_title": "a-cancao-de-alice", "date": "2018-08-23", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

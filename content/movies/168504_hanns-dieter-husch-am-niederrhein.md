@@ -1,0 +1,1 @@
+{"tmdb_id": 168504, "title": "Hanns Dieter H\u00fcsch - Am Niederrhein", "original_title": "Hanns Dieter H\u00fcsch - Am Niederrhein", "slug_title": "hanns-dieter-husch-am-niederrhein", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

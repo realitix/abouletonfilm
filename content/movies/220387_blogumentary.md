@@ -1,0 +1,1 @@
+{"tmdb_id": 220387, "title": "Blogumentary", "original_title": "Blogumentary", "slug_title": "blogumentary", "date": "2004-11-05", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Documentary about bloggers and their blogs.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 284350, "title": "Rio Doce/CDU", "original_title": "Rio Doce/CDU", "slug_title": "rio-doce-cdu", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

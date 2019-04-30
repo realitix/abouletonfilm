@@ -1,0 +1,1 @@
+{"tmdb_id": 530045, "title": "TV-Piraten - Sender Freies Bilk", "original_title": "TV-Piraten - Sender Freies Bilk", "slug_title": "tv-piraten-sender-freies-bilk", "date": "1982-05-16", "genre": [""], "score": "0.0/10", "synopsis": "Film by R\u00fcdiger Daniel.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

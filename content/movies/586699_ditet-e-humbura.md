@@ -1,0 +1,1 @@
+{"tmdb_id": 586699, "title": "Ditet e Humbura", "original_title": "Ditet e Humbura", "slug_title": "ditet-e-humbura", "date": "2010-12-18", "genre": [""], "score": "0.0/10", "synopsis": "Short film about an older man that's out and talking to people.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

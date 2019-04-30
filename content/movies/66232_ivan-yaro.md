@@ -1,0 +1,1 @@
+{"tmdb_id": 66232, "title": "Ivan Yaro", "original_title": "\u0b87\u0bb5\u0ba9\u0bcd \u0baf\u0bbe\u0bb0\u0bcb", "slug_title": "ivan-yaro", "date": "2011-11-30", "genre": ["Action"], "score": "0.0/10", "synopsis": "Overview Coming Soon...", "image": "/img/default-cover.png", "actors": ["Bharath Niwas ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

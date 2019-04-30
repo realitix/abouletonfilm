@@ -1,0 +1,1 @@
+{"tmdb_id": 563691, "title": "Picuruta: A Lenda do Gato", "original_title": "Picuruta: A Lenda do Gato", "slug_title": "picuruta-a-lenda-do-gato", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

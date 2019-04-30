@@ -1,0 +1,1 @@
+{"tmdb_id": 499347, "title": "Duk\u00e1tov\u00e1 sk\u00e1la", "original_title": "Duk\u00e1tov\u00e1 sk\u00e1la", "slug_title": "dukatova-skala", "date": "2018-01-25", "genre": ["Familial"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

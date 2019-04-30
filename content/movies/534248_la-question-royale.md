@@ -1,0 +1,1 @@
+{"tmdb_id": 534248, "title": "La question royale", "original_title": "La question royale", "slug_title": "la-question-royale", "date": "1976-01-22", "genre": [""], "score": "0.0/10", "synopsis": "(no summary right now)", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

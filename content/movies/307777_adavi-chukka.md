@@ -1,0 +1,1 @@
+{"tmdb_id": 307777, "title": "Adavi Chukka", "original_title": "Adavi Chukka", "slug_title": "adavi-chukka", "date": "2000-07-05", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Vijayshanti, Charan Raj and Giribabu", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

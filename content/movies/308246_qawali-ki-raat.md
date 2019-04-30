@@ -1,0 +1,1 @@
+{"tmdb_id": 308246, "title": "Qawali Ki Raat", "original_title": "Qawali Ki Raat", "slug_title": "qawali-ki-raat", "date": "1984-12-31", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Mumtaz, Kanwaljit Singh, Aruna Irani", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 555490, "title": "Beaut\u00e9 fatale", "original_title": "Beaut\u00e9 fatale", "slug_title": "beaute-fatale", "date": "1916-10-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

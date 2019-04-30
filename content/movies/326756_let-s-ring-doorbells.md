@@ -1,0 +1,1 @@
+{"tmdb_id": 326756, "title": "Let's Ring Doorbells", "original_title": "Let's Ring Doorbells", "slug_title": "let-s-ring-doorbells", "date": "1935-11-07", "genre": [""], "score": "0.0/10", "synopsis": "A Columbia Scrappy cartoon released November 7, 1935.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 571357, "title": "L'\u00e9ducatrice", "original_title": "L'\u00e9ducatrice", "slug_title": "l-educatrice", "date": "1996-04-03", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eivGTNtHGn0ouWj1CbYbAj4MwYL.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

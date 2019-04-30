@@ -1,0 +1,1 @@
+{"tmdb_id": 370408, "title": "Die Pf\u00fctze", "original_title": "Die Pf\u00fctze", "slug_title": "die-pfutze", "date": "1961-10-11", "genre": ["Drame"], "score": "0.0/10", "synopsis": "A short directed by Herbert Mayer-Franck.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

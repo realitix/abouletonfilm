@@ -1,0 +1,1 @@
+{"tmdb_id": 43247, "title": "Hannoversche Filmsch\u00e4tze - Die 80er Jahre", "original_title": "Hannoversche Filmsch\u00e4tze - Die 80er Jahre", "slug_title": "hannoversche-filmschatze-die-80er-jahre", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

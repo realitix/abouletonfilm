@@ -1,0 +1,1 @@
+{"tmdb_id": 466797, "title": "M\u00e9dico de Monstro", "original_title": "M\u00e9dico de Monstro", "slug_title": "medico-de-monstro", "date": "2017-07-16", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jZ40zBfqIU6kQZv8v0rx4w2VTev.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

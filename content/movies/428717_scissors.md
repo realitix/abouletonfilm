@@ -1,0 +1,1 @@
+{"tmdb_id": 428717, "title": "Scissors", "original_title": "Scissors", "slug_title": "scissors", "date": "1966-01-01", "genre": ["Animation"], "score": "0.0/10", "synopsis": "The imaginary life cycle of a pair of scissors, from birth to reproduction.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

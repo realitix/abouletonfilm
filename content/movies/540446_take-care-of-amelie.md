@@ -1,0 +1,1 @@
+{"tmdb_id": 540446, "title": "Take Care of Amelie", "original_title": "Occupe-toi d'Am\u00e9lie", "slug_title": "take-care-of-amelie", "date": "1932-12-07", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

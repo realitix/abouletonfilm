@@ -1,0 +1,1 @@
+{"tmdb_id": 304668, "title": "Casanova", "original_title": "Casanova", "slug_title": "casanova", "date": "2012-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film with a soundtrack featuring Gopi Sundar, Alphons and Gowri.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

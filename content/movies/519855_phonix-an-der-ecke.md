@@ -1,0 +1,1 @@
+{"tmdb_id": 519855, "title": "Ph\u00f6nix an der Ecke", "original_title": "Ph\u00f6nix an der Ecke", "slug_title": "phonix-an-der-ecke", "date": "1982-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pinkas Braun ()", "Hanno P\u00f6schl ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

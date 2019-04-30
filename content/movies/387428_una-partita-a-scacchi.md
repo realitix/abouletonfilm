@@ -1,0 +1,1 @@
+{"tmdb_id": 387428, "title": "Una partita a scacchi", "original_title": "Una partita a scacchi", "slug_title": "una-partita-a-scacchi", "date": "1912-04-12", "genre": [""], "score": "0.0/10", "synopsis": "Italian short drama directed by Luigi Maggi.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

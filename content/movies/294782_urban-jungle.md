@@ -1,0 +1,1 @@
+{"tmdb_id": 294782, "title": "Urban Jungle", "original_title": "Urban Jungle", "slug_title": "urban-jungle", "date": "1999-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Seidy Lopez, Frank John Hughes", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

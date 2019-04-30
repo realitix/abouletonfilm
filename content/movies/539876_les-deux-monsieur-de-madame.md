@@ -1,0 +1,1 @@
+{"tmdb_id": 539876, "title": "Les deux 'Monsieur' de Madame", "original_title": "Les deux 'Monsieur' de Madame", "slug_title": "les-deux-monsieur-de-madame", "date": "1933-04-14", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 390595, "title": "O Bar do Pantera", "original_title": "O Bar do Pantera", "slug_title": "o-bar-do-pantera", "date": "2012-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "A bar A bar A bar A bar A bar A bar A bar A bar A bar A bar", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

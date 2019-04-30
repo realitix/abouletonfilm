@@ -1,0 +1,1 @@
+{"tmdb_id": 269832, "title": "Akintunde: The Whole Truth", "original_title": "Akintunde: The Whole Truth", "slug_title": "akintunde-the-whole-truth", "date": "2012-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Stand up comedy special: Akintunde", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 457244, "title": "Siedliszcze", "original_title": "Siedliszcze", "slug_title": "siedliszcze", "date": "1960-04-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about a rural physician in the town of the title.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

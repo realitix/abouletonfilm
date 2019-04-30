@@ -1,0 +1,1 @@
+{"tmdb_id": 321832, "title": "La femme du lutteur", "original_title": "La femme du lutteur", "slug_title": "la-femme-du-lutteur", "date": "1906-12-22", "genre": [""], "score": "4.7/10", "synopsis": "Story of a poor wife who worries about her husband.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

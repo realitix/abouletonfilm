@@ -1,0 +1,1 @@
+{"tmdb_id": 483284, "title": "Amargo Mar", "original_title": "Amargo Mar", "slug_title": "amargo-mar", "date": "1984-10-24", "genre": ["Histoire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9r5ptOZJZGNZHeAoddhuGQSxlYl.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

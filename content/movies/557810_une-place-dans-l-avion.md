@@ -1,0 +1,1 @@
+{"tmdb_id": 557810, "title": "Une Place dans L'avion", "original_title": "Une Place dans L'avion", "slug_title": "une-place-dans-l-avion", "date": "2018-11-04", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

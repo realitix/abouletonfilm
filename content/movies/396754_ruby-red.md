@@ -1,0 +1,1 @@
+{"tmdb_id": 396754, "title": "Ruby Red", "original_title": "Ruby Red", "slug_title": "ruby-red", "date": "1975-01-01", "genre": [""], "score": "1.0/10", "synopsis": "Document of an amateur country-western talent search in Iowa City.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

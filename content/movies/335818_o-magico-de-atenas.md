@@ -1,0 +1,1 @@
+{"tmdb_id": 335818, "title": "O m\u00e1gico de Atenas", "original_title": "O m\u00e1gico de Atenas", "slug_title": "o-magico-de-atenas", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

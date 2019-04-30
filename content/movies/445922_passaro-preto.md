@@ -1,0 +1,1 @@
+{"tmdb_id": 445922, "title": "P\u00e1ssaro preto", "original_title": "P\u00e1ssaro preto", "slug_title": "passaro-preto", "date": "2016-11-06", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jtPpt1XWPjW3KqwBge4fBGws2MO.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

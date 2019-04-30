@@ -1,0 +1,1 @@
+{"tmdb_id": 434462, "title": "Summer Storm", "original_title": "Natsu no arashi", "slug_title": "summer-storm", "date": "1956-02-02", "genre": [""], "score": "0.0/10", "synopsis": "A woman falls in love with her sister's fiancee.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

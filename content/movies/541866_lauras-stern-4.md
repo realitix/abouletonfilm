@@ -1,0 +1,1 @@
+{"tmdb_id": 541866, "title": "Lauras Stern 4", "original_title": "Lauras Stern 4", "slug_title": "lauras-stern-4", "date": "2008-09-26", "genre": ["Familial"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dSDduUETW4zcD1riBU2eyPQ4znG.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 439939, "title": "King Of Snakes", "original_title": "King Of Snakes", "slug_title": "king-of-snakes", "date": "1932-11-24", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "King Of Snakes", "image": "/img/default-cover.png", "actors": ["Robert Brown (Dialogue)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

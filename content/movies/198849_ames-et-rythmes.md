@@ -1,0 +1,1 @@
+{"tmdb_id": 198849, "title": "\u00c2mes et rythmes", "original_title": "\u00c2mes et rythmes", "slug_title": "ames-et-rythmes", "date": "1962-05-14", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Abdelaziz Ramdani", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

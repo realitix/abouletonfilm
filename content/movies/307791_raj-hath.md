@@ -1,0 +1,1 @@
+{"tmdb_id": 307791, "title": "Raj Hath", "original_title": "Raj Hath", "slug_title": "raj-hath", "date": "1956-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A stubborn emperor plans to wage war against another who had humiliated him and his daughter.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

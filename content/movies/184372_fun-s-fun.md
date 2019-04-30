@@ -1,0 +1,1 @@
+{"tmdb_id": 184372, "title": "Fun's Fun", "original_title": "Fun's Fun", "slug_title": "fun-s-fun", "date": "1925-06-06", "genre": [""], "score": "0.0/10", "synopsis": "Dog and kid comedy. With Cliff Bowes and Virginia Vance.", "image": "/img/default-cover.png", "actors": ["Cliff Bowes ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

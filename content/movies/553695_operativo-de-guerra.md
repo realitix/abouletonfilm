@@ -1,0 +1,1 @@
+{"tmdb_id": 553695, "title": "Operativo de Guerra", "original_title": "Operativo de Guerra", "slug_title": "operativo-de-guerra", "date": "2013-03-01", "genre": [""], "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gIBH6FCDpWwmibwrFBF77uQs1b4.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

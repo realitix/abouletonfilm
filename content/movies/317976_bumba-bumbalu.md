@@ -1,0 +1,1 @@
+{"tmdb_id": 317976, "title": "Bumba - Bumbalu", "original_title": "Bumba - Bumbalu", "slug_title": "bumba-bumbalu", "date": "2006-04-27", "genre": ["Familial"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5hFqaHA7CQkyzOjNkEUwFEO3WxM.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

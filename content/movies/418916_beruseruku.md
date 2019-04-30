@@ -1,0 +1,1 @@
+{"tmdb_id": 418916, "title": "Beruseruku", "original_title": "Beruseruku", "slug_title": "beruseruku", "date": "2017-02-18", "genre": [""], "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1V8hbOh5Rbc7T2izctnbsLu4ODX.jpg", "actors": [], "comments": [], "recommandations_id": [427094, 312966, 212161, 185526], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 451576, "title": "N\u014dhime: Wife of a Samurai", "original_title": "\u6fc3\u59eb", "slug_title": "nohime-wife-of-a-samurai", "date": "2012-03-17", "genre": [""], "score": "0.0/10", "synopsis": "The mysterious life of Princess Nouhime.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 548673, "title": "Metal Men", "original_title": "Metal Men", "slug_title": "metal-men", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Based on a DC Comics hero created by Robert Kanigher and Ross Andru in 1962", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

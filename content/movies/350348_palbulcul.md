@@ -1,0 +1,1 @@
+{"tmdb_id": 350348, "title": "\ud314\ubd88\ucd9c", "original_title": "\ud314\ubd88\ucd9c", "slug_title": "palbulcul", "date": "1980-10-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

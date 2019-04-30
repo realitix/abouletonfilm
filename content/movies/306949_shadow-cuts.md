@@ -1,0 +1,1 @@
+{"tmdb_id": 306949, "title": "Shadow Cuts", "original_title": "Shadow Cuts", "slug_title": "shadow-cuts", "date": "2010-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Mickey Mouse laughs.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

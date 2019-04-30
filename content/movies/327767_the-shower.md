@@ -1,0 +1,1 @@
+{"tmdb_id": 327767, "title": "The Shower", "original_title": "La douche", "slug_title": "the-shower", "date": "2004-07-01", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "A horror short directed by Michel Kammoun.", "image": "/img/default-cover.png", "actors": ["Raymond Hosni (Man)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

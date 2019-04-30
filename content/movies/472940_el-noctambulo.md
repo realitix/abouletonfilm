@@ -1,0 +1,1 @@
+{"tmdb_id": 472940, "title": "El noct\u00e1mbulo", "original_title": "El noct\u00e1mbulo", "slug_title": "el-noctambulo", "date": "2006-08-11", "genre": [""], "score": "0.0/10", "synopsis": "Comic book movie from Uruguay.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

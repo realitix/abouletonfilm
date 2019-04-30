@@ -1,0 +1,1 @@
+{"tmdb_id": 578214, "title": "Dining Cars", "original_title": "Dining Cars", "slug_title": "dining-cars", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A tribute to the interiors of dining cars, designed in the 1960's and 70's.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

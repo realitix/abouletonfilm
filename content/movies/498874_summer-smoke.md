@@ -1,0 +1,1 @@
+{"tmdb_id": 498874, "title": "Summer Smoke", "original_title": "\u590f\u65e5\u70df\u706b", "slug_title": "summer-smoke", "date": "2019-02-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

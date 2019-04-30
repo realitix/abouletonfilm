@@ -1,0 +1,1 @@
+{"tmdb_id": 576047, "title": "Irrintzi", "original_title": "Irrintzi", "slug_title": "irrintzi", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Loyarte's first short-film denounces the spanish repression in the Basque Country", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

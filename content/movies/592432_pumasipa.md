@@ -1,0 +1,1 @@
+{"tmdb_id": 592432, "title": "\u041f\u0443\u043c\u0430\u0441\u0438\u043f\u0430", "original_title": "\u041f\u0443\u043c\u0430\u0441\u0438\u043f\u0430", "slug_title": "pumasipa", "date": "2010-06-01", "genre": [""], "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 571914, "title": "Fantasmagoria #2", "original_title": "Fantasmagoria #2", "slug_title": "fantasmagoria-2", "date": "1939-01-01", "genre": [""], "score": "0.0/10", "synopsis": "The second film in the Fantasmagoria series.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

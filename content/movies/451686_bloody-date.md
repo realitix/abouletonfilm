@@ -1,0 +1,1 @@
+{"tmdb_id": 451686, "title": "Bloody Date", "original_title": "Bloody Date", "slug_title": "bloody-date", "date": "2006-05-29", "genre": ["Horreur / Animation"], "score": "6.5/10", "synopsis": "Your first date becomes your worst nightmare...", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

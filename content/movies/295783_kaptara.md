@@ -1,0 +1,1 @@
+{"tmdb_id": 295783, "title": "Kaptara", "original_title": "Kaptara", "slug_title": "kaptara", "date": "2013-01-01", "genre": [""], "score": "0.0/10", "synopsis": "The epic myth of the Minotaur brought to life through computer animation.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

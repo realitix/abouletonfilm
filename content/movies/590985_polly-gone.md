@@ -1,0 +1,1 @@
+{"tmdb_id": 590985, "title": "Polly Gone", "original_title": "Polly Gone", "slug_title": "polly-gone", "date": "1988-10-01", "genre": [""], "score": "0.0/10", "synopsis": "A day in the life of a robot.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a55obpSWvIqrWx5Ph4sPrh71X5r.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

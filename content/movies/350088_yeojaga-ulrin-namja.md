@@ -1,0 +1,1 @@
+{"tmdb_id": 350088, "title": "\uc5ec\uc790\uac00 \uc6b8\ub9b0 \ub0a8\uc790", "original_title": "\uc5ec\uc790\uac00 \uc6b8\ub9b0 \ub0a8\uc790", "slug_title": "yeojaga-ulrin-namja", "date": "1981-08-28", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

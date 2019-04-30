@@ -1,0 +1,1 @@
+{"tmdb_id": 541861, "title": "Esito ser\u00eda", "original_title": "Esito ser\u00eda", "slug_title": "esito-seria", "date": "2004-01-02", "genre": [""], "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rR5neYeCbuaAC8vqyzVrQeXmvgm.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

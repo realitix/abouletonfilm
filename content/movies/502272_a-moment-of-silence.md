@@ -1,0 +1,1 @@
+{"tmdb_id": 502272, "title": "A Moment of Silence", "original_title": "Chwila ciszy", "slug_title": "a-moment-of-silence", "date": "1965-04-01", "genre": [""], "score": "0.0/10", "synopsis": "The meeting of two young people on the streets at night.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

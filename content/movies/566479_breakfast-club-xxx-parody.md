@@ -1,0 +1,1 @@
+{"tmdb_id": 566479, "title": "Breakfast club - xxx parody", "original_title": "Breakfast club - xxx parody", "slug_title": "breakfast-club-xxx-parody", "date": "2010-01-26", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

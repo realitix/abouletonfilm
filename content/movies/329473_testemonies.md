@@ -1,0 +1,1 @@
+{"tmdb_id": 329473, "title": "Testemonies", "original_title": "Eduyot", "slug_title": "testemonies", "date": "1993-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Ido Sela.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

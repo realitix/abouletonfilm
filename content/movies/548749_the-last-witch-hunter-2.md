@@ -1,0 +1,1 @@
+{"tmdb_id": 548749, "title": "The Last Witch Hunter 2", "original_title": "The Last Witch Hunter 2", "slug_title": "the-last-witch-hunter-2", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Plot unknown. A follow-up to 'The Last Witch Hunter'.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 530988, "title": "Apparition", "original_title": "\u9b45\u5f71", "slug_title": "apparition", "date": "2017-04-15", "genre": [""], "score": "0.0/10", "synopsis": "Guy de Maupassant's short story \"Apparition\" in contemporary Taoyuan (Taiwan).", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 237429, "title": "Abyssinia", "original_title": "Abyssinia", "slug_title": "abyssinia", "date": "1935-07-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "A travelogue of the world's last medieval state, produced by a Swiss expedition.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

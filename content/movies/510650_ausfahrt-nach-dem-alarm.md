@@ -1,0 +1,1 @@
+{"tmdb_id": 510650, "title": "Ausfahrt nach dem Alarm", "original_title": "Ausfahrt nach dem Alarm", "slug_title": "ausfahrt-nach-dem-alarm", "date": "1896-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Fire brigade response to an alarm in Berlin.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

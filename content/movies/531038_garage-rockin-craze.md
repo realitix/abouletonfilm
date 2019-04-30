@@ -1,0 +1,1 @@
+{"tmdb_id": 531038, "title": "Garage Rockin' Craze", "original_title": "Garage Rockin' Craze", "slug_title": "garage-rockin-craze", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

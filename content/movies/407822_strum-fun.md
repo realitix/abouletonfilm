@@ -1,0 +1,1 @@
+{"tmdb_id": 407822, "title": "Strum Fun", "original_title": "Strum Fun", "slug_title": "strum-fun", "date": "1943-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Eddie Peabody charms three women with music.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

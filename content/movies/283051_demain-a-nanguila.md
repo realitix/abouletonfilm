@@ -1,0 +1,1 @@
+{"tmdb_id": 283051, "title": "Demain \u00e0 Nanguila", "original_title": "Demain \u00e0 Nanguila", "slug_title": "demain-a-nanguila", "date": "1960-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Joris Ivens.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

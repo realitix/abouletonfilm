@@ -1,0 +1,1 @@
+{"tmdb_id": 518481, "title": "Seis y medio", "original_title": "Seis y medio", "slug_title": "seis-y-medio", "date": "", "genre": ["Romance / Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cristina Rojas ()", "Homero Rodriguez ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

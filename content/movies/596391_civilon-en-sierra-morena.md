@@ -1,0 +1,1 @@
+{"tmdb_id": 596391, "title": "Civil\u00f3n en Sierra Morena", "original_title": "Civil\u00f3n en Sierra Morena", "slug_title": "civilon-en-sierra-morena", "date": "1942-04-20", "genre": ["Animation / Com\u00e9die"], "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 428253, "title": "Solos en la ciudad", "original_title": "Solos en la ciudad", "slug_title": "solos-en-la-ciudad", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uOVJTvdr5qvCSYPxwI2EoqaISzq.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

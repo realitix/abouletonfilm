@@ -1,0 +1,1 @@
+{"tmdb_id": 576590, "title": "Die Gehirne", "original_title": "Die Gehirne", "slug_title": "die-gehirne", "date": "1983-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A short black and white film made by Claus L\u00f6ser about his band, Die Gehirne.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 358446, "title": "Maschinekampf FX/LS", "original_title": "Maschinekampf FX/LS", "slug_title": "maschinekampf-fx-ls", "date": "1992-09-06", "genre": [""], "score": "0.0/10", "synopsis": "1992 short by Schatzl, shot on video", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349482, "title": "\ud558\uc580 \ub178\uc744", "original_title": "\ud558\uc580 \ub178\uc744", "slug_title": "hayan-noeul", "date": "1996-10-26", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

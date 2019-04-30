@@ -1,0 +1,1 @@
+{"tmdb_id": 234658, "title": "Br\u00fccke zur Sonne", "original_title": "Br\u00fccke zur Sonne", "slug_title": "brucke-zur-sonne", "date": "1961-11-09", "genre": [""], "score": "6.0/10", "synopsis": "A short film from Hans J\u00fcrgen Pohland.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

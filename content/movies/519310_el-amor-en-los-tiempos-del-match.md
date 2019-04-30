@@ -1,0 +1,1 @@
+{"tmdb_id": 519310, "title": "El Amor en los Tiempos del Match", "original_title": "El Amor en los Tiempos del Match", "slug_title": "el-amor-en-los-tiempos-del-match", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

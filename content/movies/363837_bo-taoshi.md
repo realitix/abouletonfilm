@@ -1,0 +1,1 @@
+{"tmdb_id": 363837, "title": "Bo taoshi", "original_title": "Bo taoshi", "slug_title": "bo-taoshi", "date": "2003-03-20", "genre": [""], "score": "0.0/10", "synopsis": "A story of a group of high school boys who play the Japanese game \"Bo taoshi\"", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

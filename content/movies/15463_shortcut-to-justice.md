@@ -1,0 +1,1 @@
+{"tmdb_id": 15463, "title": "Shortcut to Justice", "original_title": "Shortcut to Justice", "slug_title": "shortcut-to-justice", "date": "2008-09-02", "genre": [""], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

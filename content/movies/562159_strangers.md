@@ -1,0 +1,1 @@
+{"tmdb_id": 562159, "title": "Strangers", "original_title": "Strangers", "slug_title": "strangers", "date": "1990-08-11", "genre": [""], "score": "0.0/10", "synopsis": "Two brothers are reunited under terrifying circumstances.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

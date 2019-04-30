@@ -1,0 +1,1 @@
+{"tmdb_id": 387152, "title": "Where Is the Black Beast", "original_title": "Where Is the Black Beast", "slug_title": "where-is-the-black-beast", "date": "2010-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Experimental film based on a poem.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

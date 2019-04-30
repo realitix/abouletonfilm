@@ -1,0 +1,1 @@
+{"tmdb_id": 477963, "title": "Seven Boats", "original_title": "Seven Boats", "slug_title": "seven-boats", "date": "2014-09-01", "genre": [""], "score": "0.0/10", "synopsis": "A man is in the ocean fighting for his life. He is surrounded by seven boats.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

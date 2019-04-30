@@ -1,0 +1,1 @@
+{"tmdb_id": 72318, "title": "Metallica", "original_title": "Metallica", "slug_title": "metallica", "date": "1998-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "No movie overview available.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

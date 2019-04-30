@@ -1,0 +1,1 @@
+{"tmdb_id": 452307, "title": "Puheenvuoro", "original_title": "Puheenvuoro", "slug_title": "puheenvuoro", "date": "2017-01-01", "genre": ["Documentaire"], "score": "6.0/10", "synopsis": "On 7 November 2016, the Tampere City Council convenes to discuss the tram.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

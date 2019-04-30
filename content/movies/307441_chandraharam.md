@@ -1,0 +1,1 @@
+{"tmdb_id": 307441, "title": "Chandraharam", "original_title": "Chandraharam", "slug_title": "chandraharam", "date": "1954-01-06", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1954", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

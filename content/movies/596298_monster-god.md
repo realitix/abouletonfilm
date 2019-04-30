@@ -1,0 +1,1 @@
+{"tmdb_id": 596298, "title": "Monster God", "original_title": "Monstruo Dios", "slug_title": "monster-god", "date": "2019-05-25", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uqQiG5ezx0Tx1dbtrjQepfqEOBK.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

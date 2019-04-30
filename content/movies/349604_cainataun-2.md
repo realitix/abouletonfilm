@@ -1,0 +1,1 @@
+{"tmdb_id": 349604, "title": "\ucc28\uc774\ub098\ud0c0\uc6b4 2", "original_title": "\ucc28\uc774\ub098\ud0c0\uc6b4 2", "slug_title": "cainataun-2", "date": "1993-05-08", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

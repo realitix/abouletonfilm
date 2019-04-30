@@ -1,0 +1,1 @@
+{"tmdb_id": 585903, "title": "Fordlandia", "original_title": "Fordlandia", "slug_title": "fordlandia", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Powerful American automaker Henry Ford attempts to build a factory in the Brazilian rain forest.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

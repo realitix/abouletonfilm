@@ -1,0 +1,1 @@
+{"tmdb_id": 569531, "title": "Fur of the Field", "original_title": "Fur of the Field", "slug_title": "fur-of-the-field", "date": "1975-01-01", "genre": [""], "score": "0.0/10", "synopsis": "The windy adventures of a dog in a sea of grass beneath blue skies.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

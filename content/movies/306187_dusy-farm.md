@@ -1,0 +1,1 @@
+{"tmdb_id": 306187, "title": "Dusy Farm", "original_title": "Dusy Farm", "slug_title": "dusy-farm", "date": "1963-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A lovely family movie for all the family, Sarah visits the farm and meets all the animals.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

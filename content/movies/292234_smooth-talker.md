@@ -1,0 +1,1 @@
+{"tmdb_id": 292234, "title": "Smooth Talker", "original_title": "Smooth Talker", "slug_title": "smooth-talker", "date": "1990-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Burt Ward, Joe Guzaldo, Peter Crombie, Stuart Whitman", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

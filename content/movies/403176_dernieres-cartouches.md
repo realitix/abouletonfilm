@@ -1,0 +1,1 @@
+{"tmdb_id": 403176, "title": "Derni\u00e8res cartouches", "original_title": "Derni\u00e8res cartouches", "slug_title": "dernieres-cartouches", "date": "1930-06-22", "genre": [""], "score": "0.0/10", "synopsis": "1930 French silent stag film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

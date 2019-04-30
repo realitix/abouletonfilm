@@ -1,0 +1,1 @@
+{"tmdb_id": 182296, "title": "With the Gypsy Girls", "original_title": "La tiganci", "slug_title": "with-the-gypsy-girls", "date": "2012-10-31", "genre": [""], "score": "0.0/10", "synopsis": "The road to death", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "oNoPpg7n7Vc"}

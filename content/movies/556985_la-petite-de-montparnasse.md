@@ -1,0 +1,1 @@
+{"tmdb_id": 556985, "title": "La petite de Montparnasse", "original_title": "La petite de Montparnasse", "slug_title": "la-petite-de-montparnasse", "date": "1932-10-26", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

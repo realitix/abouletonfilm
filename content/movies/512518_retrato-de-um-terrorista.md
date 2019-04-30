@@ -1,0 +1,1 @@
+{"tmdb_id": 512518, "title": "Retrato de Um Terrorista", "original_title": "Retrato de Um Terrorista", "slug_title": "retrato-de-um-terrorista", "date": "1985-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

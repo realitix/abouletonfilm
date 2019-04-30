@@ -1,0 +1,1 @@
+{"tmdb_id": 597903, "title": "\u0427\u0443\u043f\u0430\u043a\u0430\u0431\u0440\u0430", "original_title": "\u0427\u0443\u043f\u0430\u043a\u0430\u0431\u0440\u0430", "slug_title": "chupakabra", "date": "", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

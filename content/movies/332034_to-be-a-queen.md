@@ -1,0 +1,1 @@
+{"tmdb_id": 332034, "title": "To be a Queen", "original_title": "Lihyot Malka", "slug_title": "to-be-a-queen", "date": "1977-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Gideon Ganani.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

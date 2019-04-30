@@ -1,0 +1,1 @@
+{"tmdb_id": 549889, "title": "Bokura no shunkan", "original_title": "Bokura no shunkan", "slug_title": "bokura-no-shunkan", "date": "1985-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1985 film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

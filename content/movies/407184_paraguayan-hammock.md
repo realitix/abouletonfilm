@@ -1,0 +1,1 @@
+{"tmdb_id": 407184, "title": "Paraguayan Hammock", "original_title": "Hamaca paraguaya", "slug_title": "paraguayan-hammock", "date": "2000-07-19", "genre": [""], "score": "0.0/10", "synopsis": "A short film with ties to Encina's later film with the same name.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 338140, "title": "Nag Devta", "original_title": "Nag Devta", "slug_title": "nag-devta", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "1991 Bollywood snake movie", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lyuJEq2rJ3g14o6x5kMtNfSc2wW.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 401505, "title": "Das Wrack der Toten", "original_title": "Das Wrack der Toten", "slug_title": "das-wrack-der-toten", "date": "1974-07-27", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Hass (himself)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

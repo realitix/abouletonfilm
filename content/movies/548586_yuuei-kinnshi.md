@@ -1,0 +1,1 @@
+{"tmdb_id": 548586, "title": "Yuuei kinnshi", "original_title": "Yuuei kinnshi", "slug_title": "yuuei-kinnshi", "date": "1989-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1989 film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

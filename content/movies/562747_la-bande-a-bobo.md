@@ -1,0 +1,1 @@
+{"tmdb_id": 562747, "title": "La bande \u00e0 Bobo", "original_title": "La bande \u00e0 Bobo", "slug_title": "la-bande-a-bobo", "date": "1963-12-11", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

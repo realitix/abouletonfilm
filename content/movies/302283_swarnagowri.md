@@ -1,0 +1,1 @@
+{"tmdb_id": 302283, "title": "Swarnagowri", "original_title": "Swarnagowri", "slug_title": "swarnagowri", "date": "1962-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1962 film from India", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

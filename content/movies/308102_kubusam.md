@@ -1,0 +1,1 @@
+{"tmdb_id": 308102, "title": "Kubusam", "original_title": "Kubusam", "slug_title": "kubusam", "date": "2013-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Telugu film from director L. Srinadh.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

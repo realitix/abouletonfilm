@@ -1,0 +1,1 @@
+{"tmdb_id": 294554, "title": "The Passage", "original_title": "The Passage", "slug_title": "the-passage", "date": "2003-06-26", "genre": [""], "score": "0.0/10", "synopsis": "An ex-con gets a shot at vengeance when he joins a dangerous robbery plot.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 589745, "title": "Diary of a Dancer", "original_title": "Diary of a Dancer", "slug_title": "diary-of-a-dancer", "date": "2019-05-04", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

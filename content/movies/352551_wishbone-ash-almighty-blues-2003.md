@@ -1,0 +1,1 @@
+{"tmdb_id": 352551, "title": "Wishbone Ash Almighty Blues 2003", "original_title": "Wishbone Ash Almighty Blues 2003", "slug_title": "wishbone-ash-almighty-blues-2003", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Recorded 2003", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

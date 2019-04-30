@@ -1,0 +1,1 @@
+{"tmdb_id": 434528, "title": "In'yoku kaika! Miwaku no love house", "original_title": "In'yoku kaika! Miwaku no love house", "slug_title": "in-yoku-kaika-miwaku-no-love-house", "date": "2016-03-11", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

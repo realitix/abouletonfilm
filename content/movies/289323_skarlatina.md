@@ -1,0 +1,1 @@
+{"tmdb_id": 289323, "title": "Skarlatina", "original_title": "Skarlatina", "slug_title": "skarlatina", "date": "1924-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Fridrikh Ermler.", "image": "/img/default-cover.png", "actors": ["Eduard Ioganson ()", "Gleb Bushtuyev ()", "Yakov Gudkin ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

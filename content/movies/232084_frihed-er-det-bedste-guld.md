@@ -1,0 +1,1 @@
+{"tmdb_id": 232084, "title": "Frihed er det bedste guld", "original_title": "Frihed er det bedste guld", "slug_title": "frihed-er-det-bedste-guld", "date": "1993-09-30", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

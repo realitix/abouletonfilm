@@ -1,0 +1,1 @@
+{"tmdb_id": 358664, "title": "Journey to the Sea", "original_title": "Journey to the Sea", "slug_title": "journey-to-the-sea", "date": "1952-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Part of BFI collection \"The Art of Travel.\"", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

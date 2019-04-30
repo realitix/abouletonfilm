@@ -1,0 +1,1 @@
+{"tmdb_id": 145298, "title": "Palace Hotell", "original_title": "Palace Hotell", "slug_title": "palace-hotell", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2nUa8QtYxfP6BA2XIuT9STidgdP.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

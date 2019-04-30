@@ -1,0 +1,1 @@
+{"tmdb_id": 350400, "title": "\ub0b4\uac00 \ubc84\ub9b0 \ub0a8\uc790", "original_title": "\ub0b4\uac00 \ubc84\ub9b0 \ub0a8\uc790", "slug_title": "naega-beorin-namja", "date": "1979-05-03", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

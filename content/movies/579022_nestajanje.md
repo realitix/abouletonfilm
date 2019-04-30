@@ -1,0 +1,1 @@
+{"tmdb_id": 579022, "title": "Nestajanje", "original_title": "Nestajanje", "slug_title": "nestajanje", "date": "2018-06-13", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/awNzUk4vNc2n7K8amtMNAMSA0vV.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

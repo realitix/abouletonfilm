@@ -1,0 +1,1 @@
+{"tmdb_id": 545062, "title": "Das Beste aus Extrem 2", "original_title": "Das Beste aus Extrem 2", "slug_title": "das-beste-aus-extrem-2", "date": "2010-04-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

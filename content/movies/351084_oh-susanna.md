@@ -1,0 +1,1 @@
+{"tmdb_id": 351084, "title": "Oh! Susanna", "original_title": "Oh! Susanna", "slug_title": "oh-susanna", "date": "1933-04-01", "genre": [""], "score": "9.0/10", "synopsis": "A Terrytoons cartoon released 2 April 1933.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

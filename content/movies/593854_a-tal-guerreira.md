@@ -1,0 +1,1 @@
+{"tmdb_id": 593854, "title": "A Tal Guerreira", "original_title": "A Tal Guerreira", "slug_title": "a-tal-guerreira", "date": "2008-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 481534, "title": "\u5831\u5fa9\u3078\u306e\u9053", "original_title": "\u5831\u5fa9\u3078\u306e\u9053", "slug_title": "bao-fu-henodao", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

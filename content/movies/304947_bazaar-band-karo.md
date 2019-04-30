@@ -1,0 +1,1 @@
+{"tmdb_id": 304947, "title": "Bazaar Band Karo", "original_title": "Bazaar Band Karo", "slug_title": "bazaar-band-karo", "date": "1974-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1974", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

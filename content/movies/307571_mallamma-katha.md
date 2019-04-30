@@ -1,0 +1,1 @@
+{"tmdb_id": 307571, "title": "Mallamma Katha", "original_title": "Mallamma Katha", "slug_title": "mallamma-katha", "date": "1973-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Gummadi, Sharada and Sridevi", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

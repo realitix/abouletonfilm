@@ -1,0 +1,1 @@
+{"tmdb_id": 562933, "title": "Kin's Hair", "original_title": "\u4e00\u6bdb\u6240\u6709", "slug_title": "kin-s-hair", "date": "2018-11-10", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

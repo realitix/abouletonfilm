@@ -1,0 +1,1 @@
+{"tmdb_id": 349836, "title": "\ud64d\ub450\uae68", "original_title": "\ud64d\ub450\uae68", "slug_title": "hongduggae", "date": "1990-10-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 347519, "title": "Low Cost Flocks", "original_title": "Low Cost Flocks", "slug_title": "low-cost-flocks", "date": "2014-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

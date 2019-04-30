@@ -1,0 +1,1 @@
+{"tmdb_id": 560432, "title": "Faces of America", "original_title": "Faces of America", "slug_title": "faces-of-america", "date": "1965-05-05", "genre": [""], "score": "0.0/10", "synopsis": "An impressionistic portrait of America's diversity", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 495113, "title": "\ubd88\ub95c\uc758 \uc2dc\ub300 \uac10\ub3c5\ud310", "original_title": "\ubd88\ub95c\uc758 \uc2dc\ub300 \uac10\ub3c5\ud310", "slug_title": "bulryunyi-sidae-gamdogpan", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 459356, "title": "Bad Termz", "original_title": "Bad Termz", "slug_title": "bad-termz", "date": "2013-12-21", "genre": [""], "score": "0.0/10", "synopsis": "Linda Scobie and Shalo P", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

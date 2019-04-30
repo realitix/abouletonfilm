@@ -1,0 +1,1 @@
+{"tmdb_id": 337683, "title": "Living on the Edge", "original_title": "Living on the Edge", "slug_title": "living-on-the-edge", "date": "1987-09-10", "genre": [""], "score": "0.0/10", "synopsis": "Documentary by Michael Grigsby", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

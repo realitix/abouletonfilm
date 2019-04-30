@@ -1,0 +1,1 @@
+{"tmdb_id": 196768, "title": "Working with Walt", "original_title": "Working with Walt", "slug_title": "working-with-walt", "date": "2006-12-18", "genre": [""], "score": "0.0/10", "synopsis": "A short featurette about Walt Disney.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

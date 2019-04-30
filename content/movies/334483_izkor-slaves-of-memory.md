@@ -1,0 +1,1 @@
+{"tmdb_id": 334483, "title": "Izkor: Slaves of Memory", "original_title": "Izkor: Slaves of Memory", "slug_title": "izkor-slaves-of-memory", "date": "1991-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Eyal Sivan.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 387420, "title": "I suoceri", "original_title": "I suoceri", "slug_title": "i-suoceri", "date": "1912-03-12", "genre": [""], "score": "0.0/10", "synopsis": "A Italian short comedy from the Societ\u00e0 Italiana Cines company.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 334511, "title": "Memories of an Engineer", "original_title": "Zikrayat Muhandis", "slug_title": "memories-of-an-engineer", "date": "1961-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Egyptian film shot by Salah al-Tuhami.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

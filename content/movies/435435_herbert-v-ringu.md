@@ -1,0 +1,1 @@
+{"tmdb_id": 435435, "title": "Herbert v ringu", "original_title": "Herbert v ringu", "slug_title": "herbert-v-ringu", "date": "2009-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ji\u0159\u00ed Havelka ()", "Jan Dolansk\u00fd ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

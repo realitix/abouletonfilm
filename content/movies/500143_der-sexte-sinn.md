@@ -1,0 +1,1 @@
+{"tmdb_id": 500143, "title": "Der sexte Sinn", "original_title": "Der sexte Sinn", "slug_title": "der-sexte-sinn", "date": "1987-12-05", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barbara Morawiecz ()", "Jutta Kl\u00f6ppel ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

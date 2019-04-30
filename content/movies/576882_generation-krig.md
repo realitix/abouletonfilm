@@ -1,0 +1,1 @@
+{"tmdb_id": 576882, "title": "Generation krig", "original_title": "Generation krig", "slug_title": "generation-krig", "date": "2010-08-30", "genre": [""], "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ljk1T5moCbIquegKm1IDN9KwZXT.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

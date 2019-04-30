@@ -1,0 +1,1 @@
+{"tmdb_id": 584746, "title": "El primer d\u00eda", "original_title": "El primer d\u00eda", "slug_title": "el-primer-dia", "date": "1961-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "Student film about a couple in a train station", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

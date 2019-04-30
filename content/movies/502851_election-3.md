@@ -1,0 +1,1 @@
+{"tmdb_id": 502851, "title": "Election 3", "original_title": "\u9ed1\u793e\u4f1a3", "slug_title": "election-3", "date": "", "genre": ["Crime / Drame"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zLK2wPaPRKjh8lVuGROKO3uvaca.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

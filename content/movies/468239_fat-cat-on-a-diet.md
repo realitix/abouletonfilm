@@ -1,0 +1,1 @@
+{"tmdb_id": 468239, "title": "Fat Cat on a Diet", "original_title": "Fat Cat on a Diet", "slug_title": "fat-cat-on-a-diet", "date": "2000-04-07", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

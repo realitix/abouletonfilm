@@ -1,0 +1,1 @@
+{"tmdb_id": 496157, "title": "Embara\u00e7o", "original_title": "Embara\u00e7o", "slug_title": "embaraco", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A film by Fernando Rick", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

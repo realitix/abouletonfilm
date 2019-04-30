@@ -1,0 +1,1 @@
+{"tmdb_id": 376467, "title": "A Pool Plunge", "original_title": "A Pool Plunge", "slug_title": "a-pool-plunge", "date": "1923-04-01", "genre": [""], "score": "0.0/10", "synopsis": "A drawing jumps off the page of a news paper to interfere into a pool game", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

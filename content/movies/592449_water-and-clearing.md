@@ -1,0 +1,1 @@
+{"tmdb_id": 592449, "title": "Water and Clearing", "original_title": "Water and Clearing", "slug_title": "water-and-clearing", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

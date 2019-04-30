@@ -1,0 +1,1 @@
+{"tmdb_id": 441451, "title": "Massacre At Rocky Ridge", "original_title": "Massacre At Rocky Ridge", "slug_title": "massacre-at-rocky-ridge", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Indie slasher film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

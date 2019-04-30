@@ -1,0 +1,1 @@
+{"tmdb_id": 274120, "title": "La m\u00fasica nunca se detuvo", "original_title": "La m\u00fasica nunca se detuvo", "slug_title": "la-musica-nunca-se-detuvo", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

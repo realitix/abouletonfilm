@@ -1,0 +1,1 @@
+{"tmdb_id": 81488, "title": "Mamonas pra Sempre", "original_title": "Mamonas pra Sempre", "slug_title": "mamonas-pra-sempre", "date": "2009-06-17", "genre": [""], "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6wE4WHnFyBzy0Vo45YlH3nj3kiL.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

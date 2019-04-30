@@ -1,0 +1,1 @@
+{"tmdb_id": 454645, "title": "Happy & Dead", "original_title": "Happy & Dead", "slug_title": "happy-dead", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A teen werewolf drama", "image": "/img/default-cover.png", "actors": ["Jon Sewell ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 329277, "title": "Eradicating Illiteracy", "original_title": "Contre l'analphab\u00e9tisme", "slug_title": "eradicating-illiteracy", "date": "1965-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Isaac Zepel Yeshurun.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

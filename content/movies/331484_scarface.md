@@ -1,0 +1,1 @@
+{"tmdb_id": 331484, "title": "Scarface", "original_title": "Scarface", "slug_title": "scarface", "date": "2021-12-31", "genre": [""], "score": "0.0/10", "synopsis": "Un remake du film de Brian de Palma r\u00e9alis\u00e9 en 1983.", "image": "/img/default-cover.png", "actors": ["Diego Luna (Tony Montana)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

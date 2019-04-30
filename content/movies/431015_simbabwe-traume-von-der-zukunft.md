@@ -1,0 +1,1 @@
+{"tmdb_id": 431015, "title": "Simbabwe - Tr\u00e4ume von der Zukunft", "original_title": "Simbabwe - Tr\u00e4ume von der Zukunft", "slug_title": "simbabwe-traume-von-der-zukunft", "date": "1990-04-18", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

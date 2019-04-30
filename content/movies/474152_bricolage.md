@@ -1,0 +1,1 @@
+{"tmdb_id": 474152, "title": "Bricolage", "original_title": "Bricolage", "slug_title": "bricolage", "date": "1984-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2JrsqpjVfP4UYVGLld06C2gmNxa.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

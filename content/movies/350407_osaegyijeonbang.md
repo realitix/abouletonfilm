@@ -1,0 +1,1 @@
+{"tmdb_id": 350407, "title": "\uc624\uc0c9\uc758\uc804\ubc29", "original_title": "\uc624\uc0c9\uc758\uc804\ubc29", "slug_title": "osaegyijeonbang", "date": "1989-11-18", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 304509, "title": "Poovukkul Boogambam", "original_title": "Poovukkul Boogambam", "slug_title": "poovukkul-boogambam", "date": "1988-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Saroja Devi B. and Thiagarajan", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

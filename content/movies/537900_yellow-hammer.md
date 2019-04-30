@@ -1,0 +1,1 @@
+{"tmdb_id": 537900, "title": "Yellow Hammer", "original_title": "Yellow Hammer", "slug_title": "yellow-hammer", "date": "1973-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Shot on Super 8mm in color and silent.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

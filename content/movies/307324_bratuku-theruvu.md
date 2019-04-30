@@ -1,0 +1,1 @@
+{"tmdb_id": 307324, "title": "Bratuku Theruvu", "original_title": "Bratuku Theruvu", "slug_title": "bratuku-theruvu", "date": "1953-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywoood 1953", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

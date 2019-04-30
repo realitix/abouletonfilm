@@ -1,0 +1,1 @@
+{"tmdb_id": 384526, "title": "Untitled Wolf Man Film", "original_title": "Untitled Wolf Man Film", "slug_title": "untitled-wolf-man-film", "date": "", "genre": ["Action / Aventure"], "score": "6.0/10", "synopsis": "No plot details have been announced.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

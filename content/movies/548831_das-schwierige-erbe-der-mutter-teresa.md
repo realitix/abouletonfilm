@@ -1,0 +1,1 @@
+{"tmdb_id": 548831, "title": "Das schwierige Erbe der Mutter Teresa", "original_title": "Das schwierige Erbe der Mutter Teresa", "slug_title": "das-schwierige-erbe-der-mutter-teresa", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

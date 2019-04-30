@@ -1,0 +1,1 @@
+{"tmdb_id": 350644, "title": "Guia Culin\u00e1rio de Londres", "original_title": "Guia Culin\u00e1rio de Londres", "slug_title": "guia-culinario-de-londres", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

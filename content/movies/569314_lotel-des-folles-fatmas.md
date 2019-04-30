@@ -1,0 +1,1 @@
+{"tmdb_id": 569314, "title": "Lotel des folles Fatmas", "original_title": "Lotel des folles Fatmas", "slug_title": "lotel-des-folles-fatmas", "date": "1976-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Un court m\u00e9trage de Martial Raysse", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

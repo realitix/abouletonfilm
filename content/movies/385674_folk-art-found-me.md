@@ -1,0 +1,1 @@
+{"tmdb_id": 385674, "title": "Folk Art Found Me", "original_title": "Folk Art Found Me", "slug_title": "folk-art-found-me", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Documentary portraits of folk artists and their weird charming art", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

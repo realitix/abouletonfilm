@@ -1,0 +1,1 @@
+{"tmdb_id": 349890, "title": "\uc678\ud314\uc774 \uc5ec\uc2e0\uc6a9", "original_title": "\uc678\ud314\uc774 \uc5ec\uc2e0\uc6a9", "slug_title": "oepali-yeosinyong", "date": "1982-12-11", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

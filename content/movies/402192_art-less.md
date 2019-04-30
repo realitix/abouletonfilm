@@ -1,0 +1,1 @@
+{"tmdb_id": 402192, "title": "Art Less", "original_title": "Art Less", "slug_title": "art-less", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A group of teenagers who want to be unique and famous, but don't always have the drive to get there.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

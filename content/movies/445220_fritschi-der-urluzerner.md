@@ -1,0 +1,1 @@
+{"tmdb_id": 445220, "title": "Fritschi - Der Urluzerner", "original_title": "Fritschi - Der Urluzerner", "slug_title": "fritschi-der-urluzerner", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ogpNPs75AStbcykEmQXYNftC5uM.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

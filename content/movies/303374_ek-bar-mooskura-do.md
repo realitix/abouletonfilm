@@ -1,0 +1,1 @@
+{"tmdb_id": 303374, "title": "Ek Bar Mooskura Do", "original_title": "Ek Bar Mooskura Do", "slug_title": "ek-bar-mooskura-do", "date": "1972-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1972 Bollywood drama from director Ram Mukherjee.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

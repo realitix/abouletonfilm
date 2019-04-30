@@ -1,0 +1,1 @@
+{"tmdb_id": 543131, "title": "Mahumud Works In the Industry", "original_title": "Mahumud Works In the Industry", "slug_title": "mahumud-works-in-the-industry", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Nadav Lapid\u2019s first short film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

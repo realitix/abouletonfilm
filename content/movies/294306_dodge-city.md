@@ -1,0 +1,1 @@
+{"tmdb_id": 294306, "title": "Dodge City", "original_title": "Dodge City", "slug_title": "dodge-city", "date": "2008-09-24", "genre": [""], "score": "0.0/10", "synopsis": "After his daughter is shot and killed, a gang member sets out for vengeance.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

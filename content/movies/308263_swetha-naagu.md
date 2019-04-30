@@ -1,0 +1,1 @@
+{"tmdb_id": 308263, "title": "Swetha Naagu", "original_title": "Swetha Naagu", "slug_title": "swetha-naagu", "date": "2004-02-20", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Abbas, Sarath Babu, Brahmanandam", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

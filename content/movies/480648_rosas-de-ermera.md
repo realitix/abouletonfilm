@@ -1,0 +1,1 @@
+{"tmdb_id": 480648, "title": "Rosas de Ermera", "original_title": "Rosas de Ermera", "slug_title": "rosas-de-ermera", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about the family of portuguese author and singer Jos\u00e9 Afonso.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 367489, "title": "The funny world of lucy, volume 1", "original_title": "The funny world of lucy, volume 1", "slug_title": "the-funny-world-of-lucy-volume-1", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Do you remember the Lucy Show?", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

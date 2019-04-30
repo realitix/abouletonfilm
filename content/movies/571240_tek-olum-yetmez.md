@@ -1,0 +1,1 @@
+{"tmdb_id": 571240, "title": "Tek \u00d6l\u00fcm Yetmez", "original_title": "Tek \u00d6l\u00fcm Yetmez", "slug_title": "tek-olum-yetmez", "date": "2012-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

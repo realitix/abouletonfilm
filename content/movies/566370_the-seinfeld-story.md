@@ -1,0 +1,1 @@
+{"tmdb_id": 566370, "title": "The Seinfeld Story", "original_title": "The Seinfeld Story", "slug_title": "the-seinfeld-story", "date": "2004-11-25", "genre": ["Documentaire / Com\u00e9die"], "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

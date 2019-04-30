@@ -1,0 +1,1 @@
+{"tmdb_id": 339836, "title": "Alpha Squad Seven", "original_title": "Alpha Squad Seven", "slug_title": "alpha-squad-seven", "date": "", "genre": ["Science-Fiction / Com\u00e9die / Action"], "score": "0.0/10", "synopsis": "Plot unknown.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

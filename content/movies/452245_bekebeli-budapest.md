@@ -1,0 +1,1 @@
+{"tmdb_id": 452245, "title": "B\u00e9kebeli Budapest", "original_title": "B\u00e9kebeli Budapest", "slug_title": "bekebeli-budapest", "date": "2016-08-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

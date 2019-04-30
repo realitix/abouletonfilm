@@ -1,0 +1,1 @@
+{"tmdb_id": 497320, "title": "Dictionary api", "original_title": "Dictionary api", "slug_title": "dictionary-api", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "show all the movie in native platform", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

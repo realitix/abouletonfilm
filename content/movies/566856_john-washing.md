@@ -1,0 +1,1 @@
+{"tmdb_id": 566856, "title": "John Washing", "original_title": "John Washing", "slug_title": "john-washing", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Poet and artist John Giorno washes dishes in the buff.", "image": "/img/default-cover.png", "actors": ["John Giorno (Himself)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

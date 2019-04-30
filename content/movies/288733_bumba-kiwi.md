@@ -1,0 +1,1 @@
+{"tmdb_id": 288733, "title": "Bumba - Kiwi", "original_title": "Bumba - Kiwi", "slug_title": "bumba-kiwi", "date": "2007-05-02", "genre": ["Familial"], "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pUOJRBHz6UjVBdfR2FGcl7kpfHo.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

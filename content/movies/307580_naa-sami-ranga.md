@@ -1,0 +1,1 @@
+{"tmdb_id": 307580, "title": "Naa Sami Ranga", "original_title": "Naa Sami Ranga", "slug_title": "naa-sami-ranga", "date": "2014-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Vidatha Films presents this musical from director Subramanyam Pacha.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

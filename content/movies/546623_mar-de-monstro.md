@@ -1,0 +1,1 @@
+{"tmdb_id": 546623, "title": "Mar de Monstro", "original_title": "Mar de Monstro", "slug_title": "mar-de-monstro", "date": "2018-09-20", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lYdpfqx1vNrtah8kEv8F4BKPdTm.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

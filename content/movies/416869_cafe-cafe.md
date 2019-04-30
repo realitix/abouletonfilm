@@ -1,0 +1,1 @@
+{"tmdb_id": 416869, "title": "CAFe CAFe", "original_title": "CAFe CAFe", "slug_title": "cafe-cafe", "date": "2013-10-03", "genre": ["Com\u00e9die"], "score": "8.0/10", "synopsis": "Comedy set in Montreal", "image": "/img/default-cover.png", "actors": ["Gordon Skilling (Danny)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

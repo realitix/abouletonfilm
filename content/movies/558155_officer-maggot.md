@@ -1,0 +1,1 @@
+{"tmdb_id": 558155, "title": "\"Officer Maggot\"", "original_title": "\"Officer Maggot\"", "slug_title": "officer-maggot", "date": "2013-10-14", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "a short film about a cop.", "image": "/img/default-cover.png", "actors": ["Sam Hyde (Officer Maggot)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

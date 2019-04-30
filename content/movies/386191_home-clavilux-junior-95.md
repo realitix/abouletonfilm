@@ -1,0 +1,1 @@
+{"tmdb_id": 386191, "title": "Home Clavilux 'Junior' #95", "original_title": "Home Clavilux 'Junior' #95", "slug_title": "home-clavilux-junior-95", "date": "1930-03-07", "genre": [""], "score": "0.0/10", "synopsis": "light animation by Thomas Wilfred", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

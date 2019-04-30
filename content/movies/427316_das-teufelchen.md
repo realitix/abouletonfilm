@@ -1,0 +1,1 @@
+{"tmdb_id": 427316, "title": "Das Teufelchen", "original_title": "Das Teufelchen", "slug_title": "das-teufelchen", "date": "1917-02-02", "genre": [""], "score": "0.0/10", "synopsis": "A woman marries the wrong man and tries to get out of the marriage.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

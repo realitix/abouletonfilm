@@ -1,0 +1,1 @@
+{"tmdb_id": 131152, "title": "Pope John Paul II.", "original_title": "Papst Johannes Paul II.", "slug_title": "pope-john-paul-ii", "date": "2004-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vf2cp7A0wYoXQtSS0OLEiBN6SPf.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

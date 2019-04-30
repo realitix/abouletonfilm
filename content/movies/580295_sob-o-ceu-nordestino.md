@@ -1,0 +1,1 @@
+{"tmdb_id": 580295, "title": "Sob o C\u00e9u Nordestino", "original_title": "Sob o C\u00e9u Nordestino", "slug_title": "sob-o-ceu-nordestino", "date": "1929-05-10", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

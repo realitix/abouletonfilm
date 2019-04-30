@@ -1,0 +1,1 @@
+{"tmdb_id": 481471, "title": "Parque Pesadelo", "original_title": "Parque Pesadelo", "slug_title": "parque-pesadelo", "date": "2015-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8w1zL2JgzepRxaaOndT8g9owWTq.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

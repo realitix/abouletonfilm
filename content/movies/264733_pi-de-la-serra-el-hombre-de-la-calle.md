@@ -1,0 +1,1 @@
+{"tmdb_id": 264733, "title": "Pi de la Serra, el hombre de la calle", "original_title": "Pi de la Serra, el hombre de la calle", "slug_title": "pi-de-la-serra-el-hombre-de-la-calle", "date": "2014-04-17", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

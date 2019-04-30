@@ -1,0 +1,1 @@
+{"tmdb_id": 241192, "title": "Knights of Ge\u00f3rgian Chants", "original_title": "Knights of Ge\u00f3rgian Chants", "slug_title": "knights-of-georgian-chants", "date": "2010-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

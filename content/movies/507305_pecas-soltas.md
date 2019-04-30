@@ -1,0 +1,1 @@
+{"tmdb_id": 507305, "title": "Pe\u00e7as Soltas", "original_title": "Pe\u00e7as Soltas", "slug_title": "pecas-soltas", "date": "1996-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["M\u00e1rio Redondo ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

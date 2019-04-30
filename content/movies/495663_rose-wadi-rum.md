@@ -1,0 +1,1 @@
+{"tmdb_id": 495663, "title": "Rose Wadi Rum", "original_title": "Rose Wadi Rum", "slug_title": "rose-wadi-rum", "date": "2012-09-26", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 337825, "title": "Avenging Fangs", "original_title": "Avenging Fangs", "slug_title": "avenging-fangs", "date": "1927-06-04", "genre": [""], "score": "0.0/10", "synopsis": "A dog and his dead master's brother track down murderers.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

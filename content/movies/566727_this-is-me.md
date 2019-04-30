@@ -1,0 +1,1 @@
+{"tmdb_id": 566727, "title": "This Is Me", "original_title": "This Is Me", "slug_title": "this-is-me", "date": "2014-09-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Balinda shares her story of how medical marijuana has changed her life.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

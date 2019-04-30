@@ -1,0 +1,1 @@
+{"tmdb_id": 331702, "title": "A Beauty in Mourning", "original_title": "Karalisulu", "slug_title": "a-beauty-in-mourning", "date": "1982-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Yermek Shinarbayev.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

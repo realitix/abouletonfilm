@@ -1,0 +1,1 @@
+{"tmdb_id": 328718, "title": "Senza Lucio", "original_title": "Senza Lucio", "slug_title": "senza-lucio", "date": "2015-03-04", "genre": ["Histoire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mqI4HnPkqvle9316QZaE8wNoAzH.jpg", "actors": ["Lucio Dalla (Lucio)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

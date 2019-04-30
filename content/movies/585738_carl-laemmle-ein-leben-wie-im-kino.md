@@ -1,0 +1,1 @@
+{"tmdb_id": 585738, "title": "Carl Laemmle - Ein Leben wie im Kino", "original_title": "Carl Laemmle - Ein Leben wie im Kino", "slug_title": "carl-laemmle-ein-leben-wie-im-kino", "date": "2018-03-15", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

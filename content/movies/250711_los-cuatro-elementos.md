@@ -1,0 +1,1 @@
+{"tmdb_id": 250711, "title": "Los cuatro elementos", "original_title": "Los cuatro elementos", "slug_title": "los-cuatro-elementos", "date": "2014-01-10", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

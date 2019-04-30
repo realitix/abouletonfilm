@@ -1,0 +1,1 @@
+{"tmdb_id": 367482, "title": "Svart Sn\u00f8", "original_title": "Svart Sn\u00f8", "slug_title": "svart-sno", "date": "2014-11-11", "genre": [""], "score": "0.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kenny Wang (Steinar Harding)", "Stian Svendsen (Oskar)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

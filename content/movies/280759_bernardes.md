@@ -1,0 +1,1 @@
+{"tmdb_id": 280759, "title": "Bernardes", "original_title": "Bernardes", "slug_title": "bernardes", "date": "2014-06-26", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jKCYU9X9FzhLgxxuAnZGNu0LG8n.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

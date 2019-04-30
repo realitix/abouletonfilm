@@ -1,0 +1,1 @@
+{"tmdb_id": 350434, "title": "\ud68c\uc0c9\ub3c4\uc2dc 2", "original_title": "\ud68c\uc0c9\ub3c4\uc2dc 2", "slug_title": "hoesaegdosi-2", "date": "1990-03-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

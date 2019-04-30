@@ -1,0 +1,1 @@
+{"tmdb_id": 349700, "title": "\ub9c8\ub2f9\uc1e0\uc640 \uc5b8\ub144\uc774", "original_title": "\ub9c8\ub2f9\uc1e0\uc640 \uc5b8\ub144\uc774", "slug_title": "madangsoewa-eonnyeoni", "date": "1994-02-09", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 413874, "title": "#Era dos Gigantes", "original_title": "#Era dos Gigantes", "slug_title": "era-dos-gigantes", "date": "2016-09-25", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

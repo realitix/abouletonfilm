@@ -1,0 +1,1 @@
+{"tmdb_id": 68903, "title": "Betn\u00e9r P\u00e5 China: Livets Ord", "original_title": "Betn\u00e9r P\u00e5 China: Livets Ord", "slug_title": "betner-pa-china-livets-ord", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

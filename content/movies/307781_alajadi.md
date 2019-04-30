@@ -1,0 +1,1 @@
+{"tmdb_id": 307781, "title": "Alajadi", "original_title": "Alajadi", "slug_title": "alajadi", "date": "1990-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film directed by Bharadwaja Thammareddy", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

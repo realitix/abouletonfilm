@@ -1,0 +1,1 @@
+{"tmdb_id": 365702, "title": ".spurnahme", "original_title": ".spurnahme", "slug_title": "spurnahme", "date": "2008-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Essay film about architecture in Berlin.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

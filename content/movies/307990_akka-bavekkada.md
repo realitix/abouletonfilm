@@ -1,0 +1,1 @@
+{"tmdb_id": 307990, "title": "Akka Bavekkada", "original_title": "Akka Bavekkada", "slug_title": "akka-bavekkada", "date": "2001-04-12", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Brahmanandam and Raasi", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

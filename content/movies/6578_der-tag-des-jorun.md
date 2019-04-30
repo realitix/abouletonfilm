@@ -1,0 +1,1 @@
+{"tmdb_id": 6578, "title": "Der Tag des Jorun", "original_title": "Der Tag des Jorun", "slug_title": "der-tag-des-jorun", "date": "1997-11-17", "genre": ["Science-Fiction"], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": ["Markus K\u00f6ller (Joe)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

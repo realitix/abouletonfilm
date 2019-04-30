@@ -1,0 +1,1 @@
+{"tmdb_id": 327646, "title": "Miss Friman's War", "original_title": "Fr\u00f6ken Frimans krig", "slug_title": "miss-friman-s-war", "date": "2014-05-07", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l9PPYATecCYbwGnQSm1dx3H3giu.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

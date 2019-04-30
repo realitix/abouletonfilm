@@ -1,0 +1,1 @@
+{"tmdb_id": 522222, "title": "Cine S. Jos\u00e9", "original_title": "Cine S. Jos\u00e9", "slug_title": "cine-s-jose", "date": "2018-05-23", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5gZOoPdy1aemLlB5vzIjXmVcYVr.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

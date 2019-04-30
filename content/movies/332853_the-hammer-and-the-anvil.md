@@ -1,0 +1,1 @@
+{"tmdb_id": 332853, "title": "The Hammer and the Anvil", "original_title": "Le marteau et l'enclume", "slug_title": "the-hammer-and-the-anvil", "date": "1990-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Hakim Noury.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

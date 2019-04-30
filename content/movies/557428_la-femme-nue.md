@@ -1,0 +1,1 @@
+{"tmdb_id": 557428, "title": "La femme nue", "original_title": "La femme nue", "slug_title": "la-femme-nue", "date": "1932-10-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

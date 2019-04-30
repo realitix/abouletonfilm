@@ -1,0 +1,1 @@
+{"tmdb_id": 409683, "title": "Bazmande", "original_title": "Bazmande", "slug_title": "bazmande", "date": "1995-01-01", "genre": [""], "score": "8.0/10", "synopsis": "Feature film.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jXFTEyfgNdufLj60Kmq71gszRY.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

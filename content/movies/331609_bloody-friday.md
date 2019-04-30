@@ -1,0 +1,1 @@
+{"tmdb_id": 331609, "title": "Bloody Friday", "original_title": "Jom'eh-ye Khunin", "slug_title": "bloody-friday", "date": "1979-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Rafigh Pooya and Marcia Goodman.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

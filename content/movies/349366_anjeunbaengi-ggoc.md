@@ -1,0 +1,1 @@
+{"tmdb_id": 349366, "title": "\uc549\uc740\ubc45\uc774 \uaf43", "original_title": "\uc549\uc740\ubc45\uc774 \uaf43", "slug_title": "anjeunbaengi-ggoc", "date": "1997-10-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

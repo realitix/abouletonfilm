@@ -1,0 +1,1 @@
+{"tmdb_id": 327862, "title": "The Cloth Peddler", "original_title": "Arshin mal-alan", "slug_title": "the-cloth-peddler", "date": "1914-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Boris Svetlov.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

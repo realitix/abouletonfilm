@@ -1,0 +1,1 @@
+{"tmdb_id": 352121, "title": "Time is a Spider", "original_title": "Time is a Spider", "slug_title": "time-is-a-spider", "date": "1997-03-03", "genre": ["Drame / T\u00e9l\u00e9film"], "score": "0.0/10", "synopsis": "Margaret remembers her childhood and marriage.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

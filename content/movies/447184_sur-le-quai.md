@@ -1,0 +1,1 @@
+{"tmdb_id": 447184, "title": "Sur le quai", "original_title": "Sur le quai", "slug_title": "sur-le-quai", "date": "2016-04-18", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marie Depuss\u00e9 (Marie Depuss\u00e9)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

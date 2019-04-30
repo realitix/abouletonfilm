@@ -1,0 +1,1 @@
+{"tmdb_id": 586985, "title": "Cradle of the Gods", "original_title": "Cradle of the Gods", "slug_title": "cradle-of-the-gods", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

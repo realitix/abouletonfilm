@@ -1,0 +1,1 @@
+{"tmdb_id": 571949, "title": "La vierge de Bagdad", "original_title": "La vierge de Bagdad", "slug_title": "la-vierge-de-bagdad", "date": "1973-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Un film de J. C. Pigozzi", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

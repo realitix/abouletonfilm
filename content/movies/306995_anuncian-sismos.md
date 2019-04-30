@@ -1,0 +1,1 @@
+{"tmdb_id": 306995, "title": "Anuncian sismos", "original_title": "Anuncian sismos", "slug_title": "anuncian-sismos", "date": "2014-11-25", "genre": [""], "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rLkRN88kZTvRYlF0w2BVBqcl0Ib.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

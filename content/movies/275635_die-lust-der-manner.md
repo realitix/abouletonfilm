@@ -1,0 +1,1 @@
+{"tmdb_id": 275635, "title": "Die Lust der M\u00e4nner", "original_title": "Die Lust der M\u00e4nner", "slug_title": "die-lust-der-manner", "date": "2012-07-08", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

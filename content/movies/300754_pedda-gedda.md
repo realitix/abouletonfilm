@@ -1,0 +1,1 @@
+{"tmdb_id": 300754, "title": "Pedda Gedda", "original_title": "Pedda Gedda", "slug_title": "pedda-gedda", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Arathi and Vishnuvardhan", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 451107, "title": "The Slap Boxer", "original_title": "The Slap Boxer", "slug_title": "the-slap-boxer", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A man is haunted after being beaten by a girl in his own slap boxing game", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

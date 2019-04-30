@@ -1,0 +1,1 @@
+{"tmdb_id": 135701, "title": "The World of Z", "original_title": "The World of Z", "slug_title": "the-world-of-z", "date": "2011-10-22", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

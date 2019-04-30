@@ -1,0 +1,1 @@
+{"tmdb_id": 424907, "title": "Antonio Ligabue, pittore", "original_title": "Antonio Ligabue, pittore", "slug_title": "antonio-ligabue-pittore", "date": "1965-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about an artist.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 593395, "title": "Diabolik", "original_title": "Diabolik", "slug_title": "diabolik", "date": "", "genre": ["Crime / Action"], "score": "0.0/10", "synopsis": "A new movie about Diabolik, the character created by Angela and Luciana Giussani.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

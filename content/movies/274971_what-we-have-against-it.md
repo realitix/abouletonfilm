@@ -1,0 +1,1 @@
+{"tmdb_id": 274971, "title": "What we Have Against It", "original_title": "What we Have Against It", "slug_title": "what-we-have-against-it", "date": "1976-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Sabine Eckhard.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

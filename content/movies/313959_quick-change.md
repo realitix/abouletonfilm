@@ -1,0 +1,1 @@
+{"tmdb_id": 313959, "title": "Quick Change", "original_title": "Quick Change", "slug_title": "quick-change", "date": "1920-06-26", "genre": [""], "score": "2.0/10", "synopsis": "A silent-era \"Jerry on the Job\" cartoon by Walter Lantz.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

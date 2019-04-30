@@ -1,0 +1,1 @@
+{"tmdb_id": 525086, "title": "La Violencia Normal", "original_title": "La Violencia Normal", "slug_title": "la-violencia-normal", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

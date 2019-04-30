@@ -1,0 +1,1 @@
+{"tmdb_id": 333893, "title": "The Countryside Doctor", "original_title": "Tabib Fi-l-Aryaf", "slug_title": "the-countryside-doctor", "date": "1975-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Khairy Beshara.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

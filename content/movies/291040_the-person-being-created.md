@@ -1,0 +1,1 @@
+{"tmdb_id": 291040, "title": "The Person Being Created", "original_title": "Tvorimiy chelovek", "slug_title": "the-person-being-created", "date": "1920-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Russian experimental film released around 1920.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

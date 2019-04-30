@@ -1,0 +1,1 @@
+{"tmdb_id": 435438, "title": "Anti-Dialectic", "original_title": "Anti-Dialectic", "slug_title": "anti-dialectic", "date": "2001-01-16", "genre": [""], "score": "0.0/10", "synopsis": "A intellectually, aesthetically and politically challenging short film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

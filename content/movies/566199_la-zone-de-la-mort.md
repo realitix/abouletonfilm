@@ -1,0 +1,1 @@
+{"tmdb_id": 566199, "title": "La zone de la mort", "original_title": "La zone de la mort", "slug_title": "la-zone-de-la-mort", "date": "1917-10-12", "genre": [""], "score": "0.0/10", "synopsis": "Film by Abel Gance.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

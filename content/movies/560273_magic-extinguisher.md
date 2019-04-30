@@ -1,0 +1,1 @@
+{"tmdb_id": 560273, "title": "Magic Extinguisher", "original_title": "Magic Extinguisher", "slug_title": "magic-extinguisher", "date": "1901-11-08", "genre": [""], "score": "0.0/10", "synopsis": "A conjurer vanishes animals then vanishes himself.", "image": "/img/default-cover.png", "actors": ["Sam Dalton ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

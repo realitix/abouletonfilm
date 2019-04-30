@@ -1,0 +1,1 @@
+{"tmdb_id": 304560, "title": "Shatranj", "original_title": "Shatranj", "slug_title": "shatranj", "date": "1956-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Ashok Kumar, Meena Kumari and Nanda", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 577758, "title": "Java Jive", "original_title": "Java Jive", "slug_title": "java-jive", "date": "1943-01-25", "genre": ["Musique"], "score": "0.0/10", "synopsis": "Al Donahue and friends sing us a song.", "image": "/img/default-cover.png", "actors": ["Al Donahue ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

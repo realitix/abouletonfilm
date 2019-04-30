@@ -1,0 +1,1 @@
+{"tmdb_id": 553642, "title": "La Ultima Sombra", "original_title": "La Ultima Sombra", "slug_title": "la-ultima-sombra", "date": "2011-01-01", "genre": [""], "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/do1ws5pzn2nXGD5pClgRSyFNvsu.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

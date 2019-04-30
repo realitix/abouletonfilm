@@ -1,0 +1,1 @@
+{"tmdb_id": 562519, "title": "La fille du torrent", "original_title": "La fille du torrent", "slug_title": "la-fille-du-torrent", "date": "1962-03-14", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eYj4VmzbWkU4v5xa6hizHjI8K5D.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 568558, "title": "Water Ring Karma 2", "original_title": "Karuma 2", "slug_title": "water-ring-karma-2", "date": "1980-05-05", "genre": [""], "score": "0.0/10", "synopsis": "Abstract forms animated in drawings.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

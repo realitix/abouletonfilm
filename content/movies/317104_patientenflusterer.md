@@ -1,0 +1,1 @@
+{"tmdb_id": 317104, "title": "Patientenfl\u00fcsterer", "original_title": "Patientenfl\u00fcsterer", "slug_title": "patientenflusterer", "date": "2012-04-13", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ronny Tekal ()", "Norbert Peter ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

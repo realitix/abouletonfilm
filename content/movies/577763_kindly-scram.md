@@ -1,0 +1,1 @@
+{"tmdb_id": 577763, "title": "Kindly Scram", "original_title": "Kindly Scram", "slug_title": "kindly-scram", "date": "1943-03-05", "genre": ["Animation"], "score": "0.0/10", "synopsis": "A bill poster encounters a mean bull.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

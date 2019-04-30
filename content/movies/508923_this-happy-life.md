@@ -1,1 +1,0 @@
-{"tmdb_id": 508923, "title": "This Happy Life", "original_title": "This Happy Life", "slug_title": "this-happy-life", "date": "2003-04-12", "genre": [""], "score": "0.0/10", "synopsis": "A film by Chinese documentary director Yue Jiang.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

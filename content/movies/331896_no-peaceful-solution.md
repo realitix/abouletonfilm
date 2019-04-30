@@ -1,0 +1,1 @@
+{"tmdb_id": 331896, "title": "No Peaceful Solution", "original_title": "La Li-l-Hall al-Silmi", "slug_title": "no-peaceful-solution", "date": "1968-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Mustafa Abu Ali.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

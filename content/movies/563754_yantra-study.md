@@ -1,0 +1,1 @@
+{"tmdb_id": 563754, "title": "Yantra Study", "original_title": "Yantra Study", "slug_title": "yantra-study", "date": "1949-12-01", "genre": [""], "score": "0.0/10", "synopsis": "Film by Elwood Decker.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

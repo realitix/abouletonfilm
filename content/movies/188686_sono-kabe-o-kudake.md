@@ -1,0 +1,1 @@
+{"tmdb_id": 188686, "title": "Sono kabe o kudake", "original_title": "Sono kabe o kudake", "slug_title": "sono-kabe-o-kudake", "date": "1959-06-23", "genre": [""], "score": "0.0/10", "synopsis": "A man is wrongfully accused of murder.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 347926, "title": "Vox populi", "original_title": "Vox populi", "slug_title": "vox-populi", "date": "", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Virg\u00ednia Lane ()", "Pedro Br\u00edcio ()", "Mait\u00ea Proen\u00e7a ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

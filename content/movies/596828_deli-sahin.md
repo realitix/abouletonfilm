@@ -1,0 +1,1 @@
+{"tmdb_id": 596828, "title": "Deli \u015eahin", "original_title": "Deli \u015eahin", "slug_title": "deli-sahin", "date": "1976-04-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wF1Ck9uFxKPORwyGeL54870nj6u.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

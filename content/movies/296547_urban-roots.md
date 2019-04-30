@@ -1,0 +1,1 @@
+{"tmdb_id": 296547, "title": "Urban Roots", "original_title": "Urban Roots", "slug_title": "urban-roots", "date": "2011-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary on the urban farming phenomenon in Detroit.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

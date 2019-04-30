@@ -1,0 +1,1 @@
+{"tmdb_id": 560077, "title": "Cronos y t\u00e1natos", "original_title": "Cronos y t\u00e1natos", "slug_title": "cronos-y-tanatos", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 307457, "title": "Dooriyaan", "original_title": "Dooriyaan", "slug_title": "dooriyaan", "date": "1979-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A story of an ambitious working couple's marital discord and the impact on their child.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

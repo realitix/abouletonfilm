@@ -1,0 +1,1 @@
+{"tmdb_id": 402172, "title": "Groovin' With Ken", "original_title": "Groovin' With Ken", "slug_title": "groovin-with-ken", "date": "2010-06-14", "genre": [""], "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

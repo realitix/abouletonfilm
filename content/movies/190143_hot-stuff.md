@@ -1,0 +1,1 @@
+{"tmdb_id": 190143, "title": "Hot Stuff", "original_title": "Hot Stuff", "slug_title": "hot-stuff", "date": "1912-03-21", "genre": [""], "score": "0.0/10", "synopsis": "No Overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

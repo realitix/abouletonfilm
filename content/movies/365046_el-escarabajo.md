@@ -1,0 +1,1 @@
+{"tmdb_id": 365046, "title": "El escarabajo", "original_title": "El escarabajo", "slug_title": "el-escarabajo", "date": "1983-07-13", "genre": [""], "score": "0.0/10", "synopsis": "Historia de un ciclista en Colombia", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

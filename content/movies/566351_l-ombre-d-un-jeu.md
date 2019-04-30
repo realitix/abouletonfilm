@@ -1,0 +1,1 @@
+{"tmdb_id": 566351, "title": "L'ombre d'un jeu", "original_title": "L'ombre d'un jeu", "slug_title": "l-ombre-d-un-jeu", "date": "1980-11-05", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

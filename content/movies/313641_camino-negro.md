@@ -1,0 +1,1 @@
+{"tmdb_id": 313641, "title": "Camino Negro", "original_title": "Camino Negro", "slug_title": "camino-negro", "date": "2013-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Screened in competition at Alternative Film/Video Belgrade Festival 2014.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

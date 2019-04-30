@@ -1,0 +1,1 @@
+{"tmdb_id": 419417, "title": "\u30e9\u30c3\u30d1\u30fc\u6155\u60c5", "original_title": "\u30e9\u30c3\u30d1\u30fc\u6155\u60c5", "slug_title": "ratupamu-qing", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Love Song For Rapper", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

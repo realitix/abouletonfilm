@@ -1,0 +1,1 @@
+{"tmdb_id": 534261, "title": "Coup de vice", "original_title": "Coup de vice", "slug_title": "coup-de-vice", "date": "1996-11-13", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xGqb2KjomZU7CStuG8k9Nhodt8D.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

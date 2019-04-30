@@ -1,0 +1,1 @@
+{"tmdb_id": 304214, "title": "Dr. Vidya", "original_title": "Dr. Vidya", "slug_title": "dr-vidya", "date": "1962-11-18", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Prem Chopra, Helen and Nasir Hussain", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

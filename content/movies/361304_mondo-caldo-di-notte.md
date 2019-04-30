@@ -1,0 +1,1 @@
+{"tmdb_id": 361304, "title": "Mondo caldo di notte", "original_title": "Mondo caldo di notte", "slug_title": "mondo-caldo-di-notte", "date": "1962-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Italian mondo documentary", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

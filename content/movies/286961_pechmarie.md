@@ -1,0 +1,1 @@
+{"tmdb_id": 286961, "title": "Pechmarie", "original_title": "Pechmarie", "slug_title": "pechmarie", "date": "1934-09-11", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jenny Jugo (Marie)", "Friedrich Benfer (Peter)", "Gerhard Bienert (Kagel)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

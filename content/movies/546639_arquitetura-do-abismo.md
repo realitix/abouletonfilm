@@ -1,0 +1,1 @@
+{"tmdb_id": 546639, "title": "Arquitetura do Abismo", "original_title": "Arquitetura do Abismo", "slug_title": "arquitetura-do-abismo", "date": "2018-09-27", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/re9XaJHDk29ix5Z2cyXJMV6rkVh.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

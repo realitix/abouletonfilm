@@ -1,0 +1,1 @@
+{"tmdb_id": 322945, "title": "Our Magazine No. 2", "original_title": "Our Magazine No. 2", "slug_title": "our-magazine-no-2", "date": "1952-01-01", "genre": ["Familial"], "score": "0.0/10", "synopsis": "Our Magazine No. 2", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

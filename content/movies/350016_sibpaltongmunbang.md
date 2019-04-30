@@ -1,0 +1,1 @@
+{"tmdb_id": 350016, "title": "\uc2ed\ud314\ud1b5\ubb38\ubc29", "original_title": "\uc2ed\ud314\ud1b5\ubb38\ubc29", "slug_title": "sibpaltongmunbang", "date": "1981-04-04", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

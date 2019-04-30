@@ -1,0 +1,1 @@
+{"tmdb_id": 350897, "title": "\uccad\ucd98\uc758 \ub36b", "original_title": "\uccad\ucd98\uc758 \ub36b", "slug_title": "ceongcunyi-deoc", "date": "1979-08-18", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

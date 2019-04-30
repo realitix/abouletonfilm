@@ -1,0 +1,1 @@
+{"tmdb_id": 394753, "title": "Le pont de singe", "original_title": "Le pont de singe", "slug_title": "le-pont-de-singe", "date": "1976-04-26", "genre": [""], "score": "0.0/10", "synopsis": "Cannes Film Festival 1976", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

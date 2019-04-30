@@ -1,0 +1,1 @@
+{"tmdb_id": 531858, "title": "Eddie Bravo Invitational 19", "original_title": "Eddie Bravo Invitational 19", "slug_title": "eddie-bravo-invitational-19", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Eddie Bravo Invitational 19", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

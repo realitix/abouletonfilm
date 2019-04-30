@@ -1,0 +1,1 @@
+{"tmdb_id": 215365, "title": "The Double", "original_title": "The Double", "slug_title": "the-double", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A man begins a journey beyond the imagination to discover what is truly important in his life.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

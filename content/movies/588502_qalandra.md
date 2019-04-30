@@ -1,0 +1,1 @@
+{"tmdb_id": 588502, "title": "Qalandra", "original_title": "Qalandra", "slug_title": "qalandra", "date": "1995-05-26", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

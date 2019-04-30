@@ -1,0 +1,1 @@
+{"tmdb_id": 553010, "title": "WNUF Halloween Sequel", "original_title": "WNUF Halloween Sequel", "slug_title": "wnuf-halloween-sequel", "date": "", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "A 1990's set sequel to WNUF Halloween Special from 2013.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "lFAqh3N8fus"}

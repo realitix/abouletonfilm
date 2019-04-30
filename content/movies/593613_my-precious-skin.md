@@ -1,0 +1,1 @@
+{"tmdb_id": 593613, "title": "My Precious Skin", "original_title": "My Precious Skin", "slug_title": "my-precious-skin", "date": "2013-04-03", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

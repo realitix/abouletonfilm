@@ -1,0 +1,1 @@
+{"tmdb_id": 475295, "title": "Amor de Palha\u00e7o", "original_title": "Amor de Palha\u00e7o", "slug_title": "amor-de-palhaco", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

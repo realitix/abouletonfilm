@@ -1,0 +1,1 @@
+{"tmdb_id": 321844, "title": "Franca, la prima", "original_title": "Franca, la prima", "slug_title": "franca-la-prima", "date": "2011-10-31", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Sabina Guzzanti", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

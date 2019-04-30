@@ -1,0 +1,1 @@
+{"tmdb_id": 269012, "title": "Kidnapped Souls", "original_title": "Kidnapped Souls", "slug_title": "kidnapped-souls", "date": "2012-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Horror - Jose Yenque, Noel Gugliemi, Neil Brown Jr.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

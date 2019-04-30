@@ -1,0 +1,1 @@
+{"tmdb_id": 536821, "title": "Os Camaradas", "original_title": "Os Camaradas", "slug_title": "os-camaradas", "date": "1997-08-01", "genre": ["Myst\u00e8re"], "score": "0.0/10", "synopsis": "A Kafka-esque satire about food, identity, and bureaucracy.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

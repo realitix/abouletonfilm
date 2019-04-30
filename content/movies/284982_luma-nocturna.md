@@ -1,0 +1,1 @@
+{"tmdb_id": 284982, "title": "Luma nocturna", "original_title": "Luma nocturna", "slug_title": "luma-nocturna", "date": "1974-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Dennis Pies.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

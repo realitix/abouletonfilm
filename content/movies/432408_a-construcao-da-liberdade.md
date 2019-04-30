@@ -1,0 +1,1 @@
+{"tmdb_id": 432408, "title": "A Constru\u00e7\u00e3o da Liberdade", "original_title": "A Constru\u00e7\u00e3o da Liberdade", "slug_title": "a-construcao-da-liberdade", "date": "1985-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mario Covas ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

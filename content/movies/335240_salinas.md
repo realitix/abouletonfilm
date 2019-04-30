@@ -1,0 +1,1 @@
+{"tmdb_id": 335240, "title": "Salinas", "original_title": "Salinas", "slug_title": "salinas", "date": "1960-06-30", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Documentary short by Raimond Ruehl about the hard work of salt production.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

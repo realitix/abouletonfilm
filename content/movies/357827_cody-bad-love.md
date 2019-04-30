@@ -1,0 +1,1 @@
+{"tmdb_id": 357827, "title": "Cody: Bad Love", "original_title": "Cody: Bad Love", "slug_title": "cody-bad-love", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Another part of the Cody Story", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

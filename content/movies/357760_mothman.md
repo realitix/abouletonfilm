@@ -1,0 +1,1 @@
+{"tmdb_id": 357760, "title": "Mothman", "original_title": "Mothman", "slug_title": "mothman", "date": "1969-01-02", "genre": [""], "score": "10.0/10", "synopsis": "Directed by Jeff Keen.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yRlSi6LUeLsItujWPOlGqQsjSOu.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

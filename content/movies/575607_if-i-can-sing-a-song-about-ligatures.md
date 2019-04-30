@@ -1,0 +1,1 @@
+{"tmdb_id": 575607, "title": "(If I Can Sing a Song About) Ligatures", "original_title": "(If I Can Sing a Song About) Ligatures", "slug_title": "if-i-can-sing-a-song-about-ligatures", "date": "2011-05-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

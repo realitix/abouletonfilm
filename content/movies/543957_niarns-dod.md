@@ -1,0 +1,1 @@
+{"tmdb_id": 543957, "title": "Niarns D\u00f8d", "original_title": "Niarns D\u00f8d", "slug_title": "niarns-dod", "date": "2018-08-23", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Niels Roos ()", "Christian Sundsdal ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

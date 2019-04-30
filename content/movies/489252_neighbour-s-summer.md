@@ -1,0 +1,1 @@
+{"tmdb_id": 489252, "title": "Neighbour's Summer", "original_title": "Neighbour's Summer", "slug_title": "neighbour-s-summer", "date": "2010-02-02", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about outdoor life in Poland", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 566985, "title": "Silence is Golden", "original_title": "Silence is Golden", "slug_title": "silence-is-golden", "date": "2006-04-03", "genre": [""], "score": "6.0/10", "synopsis": "Mad guy next door.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

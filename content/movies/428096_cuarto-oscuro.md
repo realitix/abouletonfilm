@@ -1,0 +1,1 @@
+{"tmdb_id": 428096, "title": "Cuarto oscuro", "original_title": "Cuarto oscuro", "slug_title": "cuarto-oscuro", "date": "2006-01-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5MUCyCaZsEtj0TbirLkp4LsdFu2.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

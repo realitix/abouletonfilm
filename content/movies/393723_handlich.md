@@ -1,0 +1,1 @@
+{"tmdb_id": 393723, "title": "Handlich", "original_title": "Handlich", "slug_title": "handlich", "date": "1980-04-20", "genre": [""], "score": "0.0/10", "synopsis": "1984 German super 8 short work", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

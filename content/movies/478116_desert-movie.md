@@ -1,0 +1,1 @@
+{"tmdb_id": 478116, "title": "Desert Movie", "original_title": "Desert Movie", "slug_title": "desert-movie", "date": "2007-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Modern-day ramblers tumble through the desert and into trouble.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

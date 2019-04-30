@@ -1,0 +1,1 @@
+{"tmdb_id": 245652, "title": "La balsa de piedra", "original_title": "La balsa de piedra", "slug_title": "la-balsa-de-piedra", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fCow2rvkWyYPXMLN1UkO0Ov6REr.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

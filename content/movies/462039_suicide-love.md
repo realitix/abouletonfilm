@@ -1,0 +1,1 @@
+{"tmdb_id": 462039, "title": "Suicide Love", "original_title": "Suicide Love", "slug_title": "suicide-love", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Japanes romantic crime-drama dealing with suicide epidemics", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

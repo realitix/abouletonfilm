@@ -1,0 +1,1 @@
+{"tmdb_id": 377780, "title": "Rough on Rents", "original_title": "Rough on Rents", "slug_title": "rough-on-rents", "date": "1942-01-01", "genre": [""], "score": "10.0/10", "synopsis": "Comedy Short", "image": "/img/default-cover.png", "actors": ["Edgar Kennedy (Edgar Kennedy)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

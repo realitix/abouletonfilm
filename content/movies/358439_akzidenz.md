@@ -1,0 +1,1 @@
+{"tmdb_id": 358439, "title": "Akzidenz", "original_title": "Akzidenz", "slug_title": "akzidenz", "date": "1991-09-06", "genre": [""], "score": "0.0/10", "synopsis": "Explores the nature of the accident", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

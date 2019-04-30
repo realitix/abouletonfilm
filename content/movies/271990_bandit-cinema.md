@@ -1,0 +1,1 @@
+{"tmdb_id": 271990, "title": "Bandit cin\u00e9ma", "original_title": "Bandit cin\u00e9ma", "slug_title": "bandit-cinema", "date": "1994-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Bouna Medoune Seye.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

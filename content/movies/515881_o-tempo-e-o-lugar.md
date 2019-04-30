@@ -1,0 +1,1 @@
+{"tmdb_id": 515881, "title": "O Tempo e o Lugar", "original_title": "O Tempo e o Lugar", "slug_title": "o-tempo-e-o-lugar", "date": "2008-03-28", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fdXYNTBynJTuB7UH4aI3JaG1E6u.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

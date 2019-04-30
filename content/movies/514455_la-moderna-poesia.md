@@ -1,0 +1,1 @@
+{"tmdb_id": 514455, "title": "La moderna poes\u00eda", "original_title": "La moderna poes\u00eda", "slug_title": "la-moderna-poesia", "date": "2000-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Diary Film by Birgit Hein in Cuba.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

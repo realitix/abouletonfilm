@@ -1,0 +1,1 @@
+{"tmdb_id": 598448, "title": "K\u0131skan\u0131r\u0131m Seni", "original_title": "K\u0131skan\u0131r\u0131m Seni", "slug_title": "kiskanirim-seni", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

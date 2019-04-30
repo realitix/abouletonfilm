@@ -1,0 +1,1 @@
+{"tmdb_id": 501471, "title": "Gathering Dust", "original_title": "Gathering Dust", "slug_title": "gathering-dust", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A lonely middle-aged man attempts to re-connect with the world around him.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

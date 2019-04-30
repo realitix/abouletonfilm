@@ -1,0 +1,1 @@
+{"tmdb_id": 330685, "title": "Jujitsu Day", "original_title": "Il Giorno Del Jujitsu", "slug_title": "jujitsu-day", "date": "2009-01-01", "genre": [""], "score": "8.0/10", "synopsis": "A priest fights the Devil for his right to say mass.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

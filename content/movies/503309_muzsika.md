@@ -1,0 +1,1 @@
+{"tmdb_id": 503309, "title": "Muzsika", "original_title": "Muzsika", "slug_title": "muzsika", "date": "1984-02-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

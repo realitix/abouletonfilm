@@ -1,0 +1,1 @@
+{"tmdb_id": 292829, "title": "Aunque me cueste la vida", "original_title": "Aunque me cueste la vida", "slug_title": "aunque-me-cueste-la-vida", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 509576, "title": "The Polonium plot", "original_title": "The Polonium plot", "slug_title": "the-polonium-plot", "date": "2016-01-21", "genre": ["Documentaire"], "score": "10.0/10", "synopsis": "A look at the Alexander Litvinenko affair", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "Ha_A5_5EMDI"}

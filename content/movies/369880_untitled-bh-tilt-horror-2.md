@@ -1,0 +1,1 @@
+{"tmdb_id": 369880, "title": "Untitled BH Tilt Horror #2", "original_title": "Untitled BH Tilt Horror #2", "slug_title": "untitled-bh-tilt-horror-2", "date": "2016-09-30", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "The plot is unknown at this time.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

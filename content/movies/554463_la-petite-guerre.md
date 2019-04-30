@@ -1,0 +1,1 @@
+{"tmdb_id": 554463, "title": "La Petite Guerre", "original_title": "La Petite Guerre", "slug_title": "la-petite-guerre", "date": "1996-01-01", "genre": [""], "score": "0.0/10", "synopsis": "un film de Pierre Merejkowsky", "image": "/img/default-cover.png", "actors": ["Pierre Merejkowsky ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

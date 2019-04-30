@@ -1,0 +1,1 @@
+{"tmdb_id": 458349, "title": "Men in Suits", "original_title": "Men in Suits", "slug_title": "men-in-suits", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Adventures of a Low Budget Hollywood Film Director at war with his Movie funding failures.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

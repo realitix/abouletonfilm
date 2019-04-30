@@ -1,0 +1,1 @@
+{"tmdb_id": 377806, "title": "Marin Blue", "original_title": "Marin Blue", "slug_title": "marin-blue", "date": "2008-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Indie film about two outsiders.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

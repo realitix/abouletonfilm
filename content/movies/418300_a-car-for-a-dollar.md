@@ -1,0 +1,1 @@
+{"tmdb_id": 418300, "title": "A Car for a Dollar", "original_title": "A Car for a Dollar", "slug_title": "a-car-for-a-dollar", "date": "2005-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

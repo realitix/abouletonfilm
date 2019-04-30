@@ -1,0 +1,1 @@
+{"tmdb_id": 276404, "title": "Chop Chop Dushi", "original_title": "Chop Chop Dushi", "slug_title": "chop-chop-dushi", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A film from the Short Movies, Big Stories Competition in Curacao", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

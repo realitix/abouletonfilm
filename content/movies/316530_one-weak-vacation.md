@@ -1,0 +1,1 @@
+{"tmdb_id": 316530, "title": "One Weak Vacation", "original_title": "One Weak Vacation", "slug_title": "one-weak-vacation", "date": "1963-03-09", "genre": [""], "score": "0.0/10", "synopsis": "A Famous Studios cartoon.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

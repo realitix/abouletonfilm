@@ -1,0 +1,1 @@
+{"tmdb_id": 351411, "title": "Admissions", "original_title": "Admissions", "slug_title": "admissions", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A short movie about an Israeli couple and a Palestinian man in the Admissions Room to heaven", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

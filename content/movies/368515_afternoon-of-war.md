@@ -1,0 +1,1 @@
+{"tmdb_id": 368515, "title": "Afternoon of War", "original_title": "Afternoon of War", "slug_title": "afternoon-of-war", "date": "1980-03-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

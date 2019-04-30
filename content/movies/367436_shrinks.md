@@ -1,0 +1,1 @@
+{"tmdb_id": 367436, "title": "Shrinks", "original_title": "Shrinks", "slug_title": "shrinks", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Drama. Mini-series", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

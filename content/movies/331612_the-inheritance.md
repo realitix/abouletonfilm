@@ -1,0 +1,1 @@
+{"tmdb_id": 331612, "title": "The Inheritance", "original_title": "L'h\u00e9ritage", "slug_title": "the-inheritance", "date": "1972-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Mohamed Bouamari.", "image": "/img/default-cover.png", "actors": ["Fatima Bouamair ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

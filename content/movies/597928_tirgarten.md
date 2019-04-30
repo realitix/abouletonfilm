@@ -1,0 +1,1 @@
+{"tmdb_id": 597928, "title": "\u0422\u0438\u0440\u0433\u0430\u0440\u0442\u0435\u043d", "original_title": "\u0422\u0438\u0440\u0433\u0430\u0440\u0442\u0435\u043d", "slug_title": "tirgarten", "date": "", "genre": ["Thriller"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

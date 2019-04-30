@@ -1,0 +1,1 @@
+{"tmdb_id": 297076, "title": "A Suicide", "original_title": "A Suicide", "slug_title": "a-suicide", "date": "1978-01-01", "genre": [""], "score": "5.0/10", "synopsis": "A man commits suicide by electrocution in front of his camera.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

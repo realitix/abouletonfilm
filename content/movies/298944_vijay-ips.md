@@ -1,0 +1,1 @@
+{"tmdb_id": 298944, "title": "Vijay IPS", "original_title": "Vijay IPS", "slug_title": "vijay-ips", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Vijay IPS Telugu movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

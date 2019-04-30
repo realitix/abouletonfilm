@@ -1,0 +1,1 @@
+{"tmdb_id": 563294, "title": "Closure", "original_title": "Closure", "slug_title": "closure", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "\u201cHaunted by his past, a Vietnam veteran battles with PTSD as he seeks to find closure...\u201d", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

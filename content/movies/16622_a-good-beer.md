@@ -1,0 +1,1 @@
+{"tmdb_id": 16622, "title": "A Good Beer", "original_title": "Un bon bock", "slug_title": "a-good-beer", "date": "1892-10-28", "genre": ["Animation"], "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

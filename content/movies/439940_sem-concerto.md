@@ -1,0 +1,1 @@
+{"tmdb_id": 439940, "title": "Sem Concerto", "original_title": "Sem Concerto", "slug_title": "sem-concerto", "date": "2017-02-05", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcelo Lujan ()", "Pablo Nordio ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 467962, "title": "Portrait of a City", "original_title": "Portrait of a City", "slug_title": "portrait-of-a-city", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "A documentary portrait of Calcutta", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

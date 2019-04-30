@@ -1,0 +1,1 @@
+{"tmdb_id": 549446, "title": "Night Shift", "original_title": "Night Shift", "slug_title": "night-shift", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

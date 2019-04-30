@@ -1,0 +1,1 @@
+{"tmdb_id": 313777, "title": "Lucretia", "original_title": "Lucretia", "slug_title": "lucretia", "date": "1986-12-26", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6bG8SLbpYp1ciX33VdQ6iANFAlq.jpg", "actors": ["Damir Andrei ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

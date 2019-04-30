@@ -1,0 +1,1 @@
+{"tmdb_id": 320908, "title": "Dokt\u00f3r Murek", "original_title": "Dokt\u00f3r Murek", "slug_title": "doktor-murek", "date": "1939-04-08", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2r85tyz7ryjNXukRQLplxa6nrF6.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

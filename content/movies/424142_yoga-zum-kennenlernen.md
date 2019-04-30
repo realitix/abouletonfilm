@@ -1,0 +1,1 @@
+{"tmdb_id": 424142, "title": "Yoga zum Kennenlernen", "original_title": "Yoga zum Kennenlernen", "slug_title": "yoga-zum-kennenlernen", "date": "2013-01-25", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pix0tQRJNJbpHQUVWmzNEF98Xyn.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

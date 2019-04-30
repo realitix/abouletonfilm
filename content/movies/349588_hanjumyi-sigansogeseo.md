@@ -1,0 +1,1 @@
+{"tmdb_id": 349588, "title": "\ud55c\uc90c\uc758 \uc2dc\uac04\uc18d\uc5d0\uc11c", "original_title": "\ud55c\uc90c\uc758 \uc2dc\uac04\uc18d\uc5d0\uc11c", "slug_title": "hanjumyi-sigansogeseo", "date": "1994-05-14", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

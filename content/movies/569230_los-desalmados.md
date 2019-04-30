@@ -1,0 +1,1 @@
+{"tmdb_id": 569230, "title": "Los Desalmados", "original_title": "Los Desalmados", "slug_title": "los-desalmados", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

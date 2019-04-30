@@ -1,0 +1,1 @@
+{"tmdb_id": 478879, "title": "The Tale of a Hot Dog", "original_title": "The Tale of a Hot Dog", "slug_title": "the-tale-of-a-hot-dog", "date": "1910-08-24", "genre": [""], "score": "0.0/10", "synopsis": "The story of Honus, an itinerant vendor of frankfurters.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

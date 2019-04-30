@@ -1,0 +1,1 @@
+{"tmdb_id": 279062, "title": "Before the Morning Sun Shines", "original_title": "Asahi sasu mae", "slug_title": "before-the-morning-sun-shines", "date": "1921-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Eizo Tanaka.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

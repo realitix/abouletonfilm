@@ -1,0 +1,1 @@
+{"tmdb_id": 349318, "title": "\ud574\ubcd1\ubb35\uc2dc\ub85d", "original_title": "\ud574\ubcd1\ubb35\uc2dc\ub85d", "slug_title": "haebyeongmugsirog", "date": "1995-06-17", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

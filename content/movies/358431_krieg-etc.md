@@ -1,0 +1,1 @@
+{"tmdb_id": 358431, "title": "Krieg etc.", "original_title": "Krieg etc.", "slug_title": "krieg-etc", "date": "1983-09-06", "genre": [""], "score": "0.0/10", "synopsis": "Schatzl's schizophrenic animation of planes and falling paratroopers", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

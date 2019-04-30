@@ -1,0 +1,1 @@
+{"tmdb_id": 334215, "title": "The Wedding", "original_title": "al-'Urs", "slug_title": "the-wedding", "date": "1978-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Fahdel Jaibi and Fadhel Jaziri.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

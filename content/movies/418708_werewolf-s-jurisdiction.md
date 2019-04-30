@@ -1,0 +1,1 @@
+{"tmdb_id": 418708, "title": "Werewolf's Jurisdiction", "original_title": "Oboroten v pogonakh", "slug_title": "werewolf-s-jurisdiction", "date": "2013-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Werewolf Cop Movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

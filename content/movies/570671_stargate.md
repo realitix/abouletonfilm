@@ -1,0 +1,1 @@
+{"tmdb_id": 570671, "title": "Stargate", "original_title": "Stargate", "slug_title": "stargate", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "An archaeologist and a group of marines discover a portal to another world.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

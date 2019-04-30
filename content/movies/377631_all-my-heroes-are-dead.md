@@ -1,0 +1,1 @@
+{"tmdb_id": 377631, "title": "All My Heroes Are Dead", "original_title": "All My Heroes Are Dead", "slug_title": "all-my-heroes-are-dead", "date": "", "genre": ["Thriller"], "score": "0.0/10", "synopsis": "Plot details unknown.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

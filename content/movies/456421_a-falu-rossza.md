@@ -1,0 +1,1 @@
+{"tmdb_id": 456421, "title": "A falu rossza", "original_title": "A falu rossza", "slug_title": "a-falu-rossza", "date": "1938-01-12", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dajka Margit ()", "Art\u00far Somlay ()", "Zs\u00f3ka \u00d6lvedy ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

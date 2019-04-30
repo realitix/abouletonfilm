@@ -1,0 +1,1 @@
+{"tmdb_id": 350250, "title": "\ud68c\ucd98\ub140", "original_title": "\ud68c\ucd98\ub140", "slug_title": "hoecunnyeo", "date": "1989-08-08", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

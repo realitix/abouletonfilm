@@ -1,0 +1,1 @@
+{"tmdb_id": 320107, "title": "Captain Barry", "original_title": "Captain Barry", "slug_title": "captain-barry", "date": "1979-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1984", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

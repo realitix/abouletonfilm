@@ -1,0 +1,1 @@
+{"tmdb_id": 250850, "title": "Trader - A Documentary", "original_title": "Trader - A Documentary", "slug_title": "trader-a-documentary", "date": "1987-01-31", "genre": [""], "score": "0.0/10", "synopsis": "A documentary about Paul Tudor Jones.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

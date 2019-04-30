@@ -1,0 +1,1 @@
+{"tmdb_id": 556034, "title": "La camioneta gris", "original_title": "La camioneta gris", "slug_title": "la-camioneta-gris", "date": "1990-03-15", "genre": [""], "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9G4tgOssOfIurbS2Cz8D0RqFNpS.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351138, "title": "Peg Leg Pete, the Pirate", "original_title": "Peg Leg Pete, the Pirate", "slug_title": "peg-leg-pete-the-pirate", "date": "1935-02-21", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon released 21 February 1935.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

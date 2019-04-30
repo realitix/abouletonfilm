@@ -1,0 +1,1 @@
+{"tmdb_id": 349904, "title": "\uc885\ub85c\ubd80\ub974\uc2a4", "original_title": "\uc885\ub85c\ubd80\ub974\uc2a4", "slug_title": "jongrobureuseu", "date": "1982-07-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

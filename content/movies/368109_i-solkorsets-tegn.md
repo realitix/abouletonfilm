@@ -1,0 +1,1 @@
+{"tmdb_id": 368109, "title": "I Solkorsets tegn", "original_title": "I Solkorsets tegn", "slug_title": "i-solkorsets-tegn", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Norwegian Documentary History Series about the nazi era in Norway.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

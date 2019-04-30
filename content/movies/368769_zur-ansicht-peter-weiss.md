@@ -1,0 +1,1 @@
+{"tmdb_id": 368769, "title": "Zur Ansicht: Peter Weiss", "original_title": "Zur Ansicht: Peter Weiss", "slug_title": "zur-ansicht-peter-weiss", "date": "1979-10-18", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Interview film with Peter Weiss", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 371038, "title": "Los encargados", "original_title": "Los encargados", "slug_title": "los-encargados", "date": "2012-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Portraits of Franco are carried through Spain.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

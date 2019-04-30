@@ -1,0 +1,1 @@
+{"tmdb_id": 205447, "title": "The Cuckoo", "original_title": "Hototogisu", "slug_title": "the-cuckoo", "date": "1922-03-09", "genre": [""], "score": "0.0/10", "synopsis": "Coming soon.", "image": "/img/default-cover.png", "actors": ["Yukichi Iwata ()", "Sumiko Kurishima ()", "Yoshie Nakagawa ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

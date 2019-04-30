@@ -1,0 +1,1 @@
+{"tmdb_id": 338707, "title": "10 Wochen Sommer", "original_title": "10 Wochen Sommer", "slug_title": "10-wochen-sommer", "date": "2014-10-07", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

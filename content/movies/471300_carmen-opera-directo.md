@@ -1,0 +1,1 @@
+{"tmdb_id": 471300, "title": "CARMEN - OPERA DIRECTO", "original_title": "CARMEN - OPERA DIRECTO", "slug_title": "carmen-opera-directo", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jtHhVlikRunsMw9GxWjK61uObPn.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 436662, "title": "Kr\u00e1l komik\u016f", "original_title": "Kr\u00e1l komik\u016f", "slug_title": "kral-komiku", "date": "1963-01-22", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2dUm1jkKq83tsniZBd1E63lF5og.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

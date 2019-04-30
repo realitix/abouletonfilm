@@ -1,0 +1,1 @@
+{"tmdb_id": 528341, "title": "Fuck the Devil", "original_title": "Fuck the Devil", "slug_title": "fuck-the-devil", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Amateur German Evil Dead ripoff", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p6nTzojK595Ccojxl9rG6U3jb5i.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

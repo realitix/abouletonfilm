@@ -1,0 +1,1 @@
+{"tmdb_id": 592670, "title": "A Bomb With No Name On It", "original_title": "A Bomb With No Name On It", "slug_title": "a-bomb-with-no-name-on-it", "date": "1976-01-01", "genre": ["Thriller"], "score": "0.0/10", "synopsis": "An early short film by Bernard Rose.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

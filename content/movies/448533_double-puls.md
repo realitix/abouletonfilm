@@ -1,0 +1,1 @@
+{"tmdb_id": 448533, "title": "Double Puls", "original_title": "Dvoj\u00ed puls", "slug_title": "double-puls", "date": "1984-03-23", "genre": [""], "score": "0.0/10", "synopsis": "1984 Czech experimental short by Petr Skala", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

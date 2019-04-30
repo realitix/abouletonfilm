@@ -1,0 +1,1 @@
+{"tmdb_id": 493358, "title": "Litfiba Pirata Tour", "original_title": "Litfiba Pirata Tour", "slug_title": "litfiba-pirata-tour", "date": "1990-07-30", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mnxHmI2tGxB7fewWVVUTJEEqCs2.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

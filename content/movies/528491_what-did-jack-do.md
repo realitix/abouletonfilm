@@ -1,0 +1,1 @@
+{"tmdb_id": 528491, "title": "What Did Jack Do?", "original_title": "What Did Jack Do?", "slug_title": "what-did-jack-do", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "David Lynch interrogates a monkey.", "image": "/img/default-cover.png", "actors": ["David Lynch ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

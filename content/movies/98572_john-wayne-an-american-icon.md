@@ -1,0 +1,1 @@
+{"tmdb_id": 98572, "title": "John Wayne: An American Icon", "original_title": "John Wayne: An American Icon", "slug_title": "john-wayne-an-american-icon", "date": "2012-04-03", "genre": ["Histoire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "IN7I6lR2R-s"}

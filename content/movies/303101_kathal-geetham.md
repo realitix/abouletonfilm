@@ -1,0 +1,1 @@
+{"tmdb_id": 303101, "title": "Kathal Geetham", "original_title": "Kathal Geetham", "slug_title": "kathal-geetham", "date": "1988-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film with a soundtrack featuring Chitra and S.P. Balasubrahmanyam.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

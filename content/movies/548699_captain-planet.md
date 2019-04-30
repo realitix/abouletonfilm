@@ -1,0 +1,1 @@
+{"tmdb_id": 548699, "title": "Captain Planet", "original_title": "Captain Planet", "slug_title": "captain-planet", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A story centered around an environmentally friendly superhero.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

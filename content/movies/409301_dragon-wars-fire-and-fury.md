@@ -1,0 +1,1 @@
+{"tmdb_id": 409301, "title": "Dragon Wars: Fire and Fury", "original_title": "Dragon Wars: Fire and Fury", "slug_title": "dragon-wars-fire-and-fury", "date": "2014-02-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Thornton (Narrator)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

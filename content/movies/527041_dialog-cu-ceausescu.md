@@ -1,0 +1,1 @@
+{"tmdb_id": 527041, "title": "Dialog cu Ceau\u015fescu", "original_title": "Dialog cu Ceau\u015fescu", "slug_title": "dialog-cu-ceausescu", "date": "1978-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A film directed by Ion Grigorescu.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

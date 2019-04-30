@@ -1,0 +1,1 @@
+{"tmdb_id": 323346, "title": "Eu Estou Aqui", "original_title": "Eu Estou Aqui", "slug_title": "eu-estou-aqui", "date": "2014-08-10", "genre": ["Drame"], "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xA7rcaHAH0bGvbm3FiMntCo4C.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

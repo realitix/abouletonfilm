@@ -1,0 +1,1 @@
+{"tmdb_id": 36020, "title": "Hidden Bible Knowledge", "original_title": "Hidden Bible Knowledge", "slug_title": "hidden-bible-knowledge", "date": "2009-11-16", "genre": [""], "score": "0.0/10", "synopsis": "Hidden Bible Knowledge,written and narrated by Al Fry", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

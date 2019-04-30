@@ -1,0 +1,1 @@
+{"tmdb_id": 555262, "title": "Duble Fass", "original_title": "Duble Fass", "slug_title": "duble-fass", "date": "2017-11-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zmeBDBYSYiSD8jdeEOIdFwLvoVM.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

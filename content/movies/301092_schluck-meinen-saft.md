@@ -1,0 +1,1 @@
+{"tmdb_id": 301092, "title": "Schluck meinen Saft", "original_title": "Schluck meinen Saft", "slug_title": "schluck-meinen-saft", "date": "2004-01-11", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4fQxLxaHQAf8f6wsR5lDIzu2iXr.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

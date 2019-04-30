@@ -1,0 +1,1 @@
+{"tmdb_id": 549328, "title": "Hongqi qu", "original_title": "Hongqi qu", "slug_title": "hongqi-qu", "date": "1970-01-02", "genre": [""], "score": "0.0/10", "synopsis": "A chinese documentary.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

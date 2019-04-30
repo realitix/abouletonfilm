@@ -1,0 +1,1 @@
+{"tmdb_id": 307958, "title": "Sravanamasam", "original_title": "Sravanamasam", "slug_title": "sravanamasam", "date": "2005-02-26", "genre": [""], "score": "0.0/10", "synopsis": "Film starring  Ali, Babu Mohan and Giri Babu", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

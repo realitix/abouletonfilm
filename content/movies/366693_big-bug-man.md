@@ -1,0 +1,1 @@
+{"tmdb_id": 366693, "title": "Big Bug Man", "original_title": "Big Bug Man", "slug_title": "big-bug-man", "date": "", "genre": ["Animation"], "score": "7.5/10", "synopsis": "Candy company worker Howard Kind gains special abilities after being bitten by insects.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

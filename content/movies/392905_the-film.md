@@ -1,0 +1,1 @@
+{"tmdb_id": 392905, "title": "The Film", "original_title": "The Film", "slug_title": "the-film", "date": "1966-04-15", "genre": [""], "score": "0.0/10", "synopsis": "1966 Australian experimental film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

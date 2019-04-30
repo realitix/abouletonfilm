@@ -1,0 +1,1 @@
+{"tmdb_id": 402308, "title": "B\u00ear\u00eetan", "original_title": "B\u00ear\u00eetan", "slug_title": "beritan", "date": "2006-09-01", "genre": [""], "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b1MZvRz9YDnDRpmOMg4aScpdcwQ.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

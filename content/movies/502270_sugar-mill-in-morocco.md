@@ -1,0 +1,1 @@
+{"tmdb_id": 502270, "title": "Sugar Mill in Morocco", "original_title": "Sugar Mill in Morocco", "slug_title": "sugar-mill-in-morocco", "date": "1964-04-01", "genre": [""], "score": "0.0/10", "synopsis": "Sugar mill in Morocco.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

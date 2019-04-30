@@ -1,0 +1,1 @@
+{"tmdb_id": 470271, "title": "Vinuravema", "original_title": "Vinuravema", "slug_title": "vinuravema", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Vinuravema is Telugu movie directed by S S Dhakar and starring Srihari, Manoj Nandam, and Srisha.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

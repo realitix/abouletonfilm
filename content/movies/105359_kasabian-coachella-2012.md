@@ -1,0 +1,1 @@
+{"tmdb_id": 105359, "title": "Kasabian: Coachella 2012", "original_title": "Kasabian: Coachella 2012", "slug_title": "kasabian-coachella-2012", "date": "", "genre": ["Musique"], "score": "0.0/10", "synopsis": "Full HD Webcast of Kasabian live at Coachella 2012", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

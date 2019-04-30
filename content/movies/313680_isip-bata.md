@@ -1,0 +1,1 @@
+{"tmdb_id": 313680, "title": "Isip-Bata", "original_title": "Isip-Bata", "slug_title": "isip-bata", "date": "2014-12-17", "genre": [""], "score": "0.0/10", "synopsis": "child minded", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gUM0liP8Nz2AazmHB80kUbXaodt.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

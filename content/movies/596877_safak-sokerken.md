@@ -1,0 +1,1 @@
+{"tmdb_id": 596877, "title": "\u015eafak S\u00f6kerken", "original_title": "\u015eafak S\u00f6kerken", "slug_title": "safak-sokerken", "date": "1988-04-23", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/foowWDObLnoLyspp6gaVsGwZbTG.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

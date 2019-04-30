@@ -1,0 +1,1 @@
+{"tmdb_id": 385263, "title": "The Room of Laughter", "original_title": "Komhata Cmexa", "slug_title": "the-room-of-laughter", "date": "1991-01-01", "genre": [""], "score": "7.5/10", "synopsis": "directed by Nina Shorina", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

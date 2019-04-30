@@ -1,0 +1,1 @@
+{"tmdb_id": 292876, "title": "Dying Time", "original_title": "Dying Time", "slug_title": "dying-time", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Horror film where a man returns to the town he was born in and things aren't what they seem.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

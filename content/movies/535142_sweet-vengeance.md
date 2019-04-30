@@ -1,0 +1,1 @@
+{"tmdb_id": 535142, "title": "Sweet Vengeance", "original_title": "Sweet Vengeance", "slug_title": "sweet-vengeance", "date": "2019-12-31", "genre": ["Crime / Thriller"], "score": "0.0/10", "synopsis": "Inspired by two true stories of murder.", "image": "/img/default-cover.png", "actors": ["Wagner Moura ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

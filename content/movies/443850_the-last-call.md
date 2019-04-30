@@ -1,0 +1,1 @@
+{"tmdb_id": 443850, "title": "The Last Call", "original_title": "\u6700\u540e\u901a\u8bdd", "slug_title": "the-last-call", "date": "2017-01-19", "genre": ["Myst\u00e8re"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x13LnitXd0CmjkqI1zCZccGjGa9.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 465479, "title": "White Rose", "original_title": "Feh\u00e9r r\u00f3zsa", "slug_title": "white-rose", "date": "1919-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "A drama based on the novel by M\u00f3r J\u00f3kai.", "image": "/img/default-cover.png", "actors": ["Mar\u00eda Corda ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

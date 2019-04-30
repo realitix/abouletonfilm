@@ -1,0 +1,1 @@
+{"tmdb_id": 505534, "title": "Agnieszka", "original_title": "Agnieszka", "slug_title": "agnieszka", "date": "1981-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Student short film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

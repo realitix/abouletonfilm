@@ -1,0 +1,1 @@
+{"tmdb_id": 253887, "title": "Super Pingu", "original_title": "Super Pingu", "slug_title": "super-pingu", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "See what icy antics Pingu and his friends get up to in this hilarious twelve episode collection!", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

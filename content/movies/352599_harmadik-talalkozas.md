@@ -1,0 +1,1 @@
+{"tmdb_id": 352599, "title": "Harmadik tal\u00e1lkoz\u00e1s", "original_title": "Harmadik tal\u00e1lkoz\u00e1s", "slug_title": "harmadik-talalkozas", "date": "2005-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

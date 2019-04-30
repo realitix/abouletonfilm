@@ -1,0 +1,1 @@
+{"tmdb_id": 409040, "title": "Emelka-Palast", "original_title": "Emelka-Palast", "slug_title": "emelka-palast", "date": "1987-02-21", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "No overview.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

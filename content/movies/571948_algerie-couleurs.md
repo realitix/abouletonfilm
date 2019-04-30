@@ -1,0 +1,1 @@
+{"tmdb_id": 571948, "title": "Alg\u00e9rie couleurs", "original_title": "Alg\u00e9rie couleurs", "slug_title": "algerie-couleurs", "date": "1972-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Un court film de Djouhra Abouda et Alain Bonnamy", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

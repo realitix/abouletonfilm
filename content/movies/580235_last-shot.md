@@ -1,0 +1,1 @@
+{"tmdb_id": 580235, "title": "Last Shot", "original_title": "Last Shot", "slug_title": "last-shot", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Just discovering the joys of photography, a girl ends up breaking her camera by accident\u2026", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

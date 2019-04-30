@@ -1,0 +1,1 @@
+{"tmdb_id": 475719, "title": "En bulle i ugnen", "original_title": "En bulle i ugnen", "slug_title": "en-bulle-i-ugnen", "date": "2005-02-02", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kO1k3do8QiQTabdih4eCJcprTYI.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

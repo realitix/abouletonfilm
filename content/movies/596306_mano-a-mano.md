@@ -1,0 +1,1 @@
+{"tmdb_id": 596306, "title": "Mano a Mano", "original_title": "Mano a Mano", "slug_title": "mano-a-mano", "date": "2019-05-25", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AfW7VmM6UUDttIBJBmc9srXc0p0.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

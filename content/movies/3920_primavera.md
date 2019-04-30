@@ -1,0 +1,1 @@
+{"tmdb_id": 3920, "title": "Primavera", "original_title": "Primavera", "slug_title": "primavera", "date": "1990-05-02", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Magdalena Mirek (Magda)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

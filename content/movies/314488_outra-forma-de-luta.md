@@ -1,0 +1,1 @@
+{"tmdb_id": 314488, "title": "Outra Forma de Luta", "original_title": "Outra Forma de Luta", "slug_title": "outra-forma-de-luta", "date": "2014-04-26", "genre": [""], "score": "0.0/10", "synopsis": "Film by Joa\u0303o Pinto Nogueira.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

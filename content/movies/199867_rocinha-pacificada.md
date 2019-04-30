@@ -1,0 +1,1 @@
+{"tmdb_id": 199867, "title": "Rocinha Pacificada", "original_title": "Rocinha Pacificada", "slug_title": "rocinha-pacificada", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fHVRDLoEpxg09TGroFwRsNFdc2T.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

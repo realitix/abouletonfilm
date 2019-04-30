@@ -1,0 +1,1 @@
+{"tmdb_id": 176295, "title": "The Trader Keeps Moving", "original_title": "The Trader Keeps Moving", "slug_title": "the-trader-keeps-moving", "date": "1924-04-19", "genre": [""], "score": "0.0/10", "synopsis": "A wilderness series by Robert C. Bruce.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

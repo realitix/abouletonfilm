@@ -1,0 +1,1 @@
+{"tmdb_id": 532441, "title": "Hemingway: A Portrait", "original_title": "Hemingway: A Portrait", "slug_title": "hemingway-a-portrait", "date": "1999-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Hemingway: A Portrait", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

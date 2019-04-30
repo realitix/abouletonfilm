@@ -1,0 +1,1 @@
+{"tmdb_id": 587657, "title": "Der Trip", "original_title": "Der Trip", "slug_title": "der-trip", "date": "1986-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Short film by SCHMELZDAHIN", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bPBDj7ykV6rcBaUgnOVkSBrRctX.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

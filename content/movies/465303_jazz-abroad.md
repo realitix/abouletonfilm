@@ -1,0 +1,1 @@
+{"tmdb_id": 465303, "title": "Jazz Abroad", "original_title": "Jazz Abroad", "slug_title": "jazz-abroad", "date": "2017-07-17", "genre": [""], "score": "0.0/10", "synopsis": "Three female Japanese musicians learn Jazz music in a new world.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

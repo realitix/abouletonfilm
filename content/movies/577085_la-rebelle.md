@@ -1,0 +1,1 @@
+{"tmdb_id": 577085, "title": "La rebelle", "original_title": "La rebelle", "slug_title": "la-rebelle", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wt2RZmqJMYonmi5aq1kXpnzJadv.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

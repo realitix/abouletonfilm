@@ -1,0 +1,1 @@
+{"tmdb_id": 553415, "title": "Firefly", "original_title": "Firefly", "slug_title": "firefly", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "minimum 10 characters", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z1zIYYEFUeumM9xSsVhIjSFKAWB.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

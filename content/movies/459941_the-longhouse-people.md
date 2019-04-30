@@ -1,0 +1,1 @@
+{"tmdb_id": 459941, "title": "The Longhouse People", "original_title": "The Longhouse People", "slug_title": "the-longhouse-people", "date": "1951-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A look at first nations longhouse traditions.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 319117, "title": "Zone Moment", "original_title": "Zone Moment", "slug_title": "zone-moment", "date": "1956-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Shots of city and country life come together to form an impressionistic whole.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

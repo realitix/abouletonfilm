@@ -1,0 +1,1 @@
+{"tmdb_id": 429018, "title": "Ednita: es para ti", "original_title": "Ednita: es para ti", "slug_title": "ednita-es-para-ti", "date": "1978-02-02", "genre": ["Musique"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ednita Nazario (Herself)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

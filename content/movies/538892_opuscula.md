@@ -1,0 +1,1 @@
+{"tmdb_id": 538892, "title": "Opuscula", "original_title": "Opuscula", "slug_title": "opuscula", "date": "1952-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Short by Franz Sch\u00f6mbs.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1SEuRJkfX7o8Rt1ZYW2R9t4VRVd.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 562750, "title": "Soupe aux poulets", "original_title": "Soupe aux poulets", "slug_title": "soupe-aux-poulets", "date": "1963-06-12", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jctcIPkaDb0x0wOupQWLQhnmSN5.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

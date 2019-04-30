@@ -1,0 +1,1 @@
+{"tmdb_id": 342365, "title": "Calabash Brothers", "original_title": "Calabash Brothers", "slug_title": "calabash-brothers", "date": "2008-05-27", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zoy8knIt6xOZwjJzuebDn87BASY.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

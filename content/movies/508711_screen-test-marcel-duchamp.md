@@ -1,0 +1,1 @@
+{"tmdb_id": 508711, "title": "Screen Test: Marcel Duchamp", "original_title": "Screen Test: Marcel Duchamp", "slug_title": "screen-test-marcel-duchamp", "date": "1966-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcel Duchamp ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

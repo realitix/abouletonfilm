@@ -1,1 +1,0 @@
-{"tmdb_id": 472342, "title": "Leva i Jordbro", "original_title": "Leva i Jordbro", "slug_title": "leva-i-jordbro", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

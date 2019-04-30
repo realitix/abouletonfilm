@@ -1,0 +1,1 @@
+{"tmdb_id": 369583, "title": "A Morte Di\u00e1ria", "original_title": "A Morte Di\u00e1ria", "slug_title": "a-morte-diaria", "date": "2015-04-13", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "The end of that land. The end of that time.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

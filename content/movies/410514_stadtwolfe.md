@@ -1,0 +1,1 @@
+{"tmdb_id": 410514, "title": "Stadtw\u00f6lfe", "original_title": "Stadtw\u00f6lfe", "slug_title": "stadtwolfe", "date": "1982-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Markus is 15 years old and gets into the Munich scene. Obviously no good idea...", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

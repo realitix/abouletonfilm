@@ -1,0 +1,1 @@
+{"tmdb_id": 454731, "title": "Parallel Inquiries", "original_title": "Parallel Inquiries", "slug_title": "parallel-inquiries", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "sound from image / image from color // inquiries into the analog film system", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 186498, "title": "Rockpalast: Kula Shaker", "original_title": "Rockpalast: Kula Shaker", "slug_title": "rockpalast-kula-shaker", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Kula Shaker on Rockpalast, 2008", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

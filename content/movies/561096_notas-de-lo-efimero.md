@@ -1,0 +1,1 @@
+{"tmdb_id": 561096, "title": "Notas de lo ef\u00edmero", "original_title": "Notas de lo ef\u00edmero", "slug_title": "notas-de-lo-efimero", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

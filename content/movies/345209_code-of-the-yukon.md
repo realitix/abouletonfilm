@@ -1,0 +1,1 @@
+{"tmdb_id": 345209, "title": "Code of the Yukon", "original_title": "Code of the Yukon", "slug_title": "code-of-the-yukon", "date": "1918-12-01", "genre": [""], "score": "0.0/10", "synopsis": "A man fights for this life in the Canadian Northwest.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

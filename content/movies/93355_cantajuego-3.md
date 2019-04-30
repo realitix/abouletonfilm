@@ -1,0 +1,1 @@
+{"tmdb_id": 93355, "title": "CantaJuego 3", "original_title": "CantaJuego 3", "slug_title": "cantajuego-3", "date": "2007-01-01", "genre": [""], "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7YeAvumzZhv20eh3B9MAXoqkcP2.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

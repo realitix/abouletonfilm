@@ -1,0 +1,1 @@
+{"tmdb_id": 338962, "title": "Oddball", "original_title": "Oddball", "slug_title": "oddball", "date": "1969-05-05", "genre": ["Animation"], "score": "6.0/10", "synopsis": "A child founds a strange ball.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2CXeqBMul25pD1yQ8djVQXQFTGf.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 553707, "title": "Graffiti", "original_title": "Graffiti", "slug_title": "graffiti", "date": "2000-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "Short film by Romanian director.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

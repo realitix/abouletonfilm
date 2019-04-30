@@ -1,0 +1,1 @@
+{"tmdb_id": 590350, "title": "Pati Patni Aur Woh", "original_title": "Pati Patni Aur Woh", "slug_title": "pati-patni-aur-woh", "date": "2019-12-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kartik Aaryan ()", "Bhumi Pednekar ()", "Ananya Pandey ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

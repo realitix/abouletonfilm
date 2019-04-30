@@ -1,0 +1,1 @@
+{"tmdb_id": 544476, "title": "O Homem Banco", "original_title": "O Homem Banco", "slug_title": "o-homem-banco", "date": "2018-09-13", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/61G6c5TKMeJCsic7RVRwM48SNwD.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

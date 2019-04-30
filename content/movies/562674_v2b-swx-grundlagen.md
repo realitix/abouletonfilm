@@ -1,0 +1,1 @@
+{"tmdb_id": 562674, "title": "v2b - swx grundlagen", "original_title": "v2b - swx grundlagen", "slug_title": "v2b-swx-grundlagen", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

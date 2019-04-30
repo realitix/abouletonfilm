@@ -1,0 +1,1 @@
+{"tmdb_id": 259297, "title": "Burning Rubber", "original_title": "Burning Rubber", "slug_title": "burning-rubber", "date": "1981-05-22", "genre": [""], "score": "0.0/10", "synopsis": "The Bay City Rollers play a car racing crew", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

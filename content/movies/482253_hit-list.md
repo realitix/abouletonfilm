@@ -1,0 +1,1 @@
+{"tmdb_id": 482253, "title": "Hit List", "original_title": "Hit List", "slug_title": "hit-list", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Revenge has no limitations.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4foJ1QgNxbpneQwZ3kn3aG8VjqP.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

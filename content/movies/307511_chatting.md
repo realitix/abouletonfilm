@@ -1,0 +1,1 @@
+{"tmdb_id": 307511, "title": "Chatting", "original_title": "Chatting", "slug_title": "chatting", "date": "1956-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Silke Becu, Ashly Berden and Stephanie Vanden Blink", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

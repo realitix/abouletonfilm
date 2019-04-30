@@ -1,0 +1,1 @@
+{"tmdb_id": 350874, "title": "\ub808\ud14c\uc758 \uc5f0\uac00", "original_title": "\ub808\ud14c\uc758 \uc5f0\uac00", "slug_title": "reteyi-yeonga", "date": "1987-04-11", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 319771, "title": "Murali Krishna", "original_title": "Murali Krishna", "slug_title": "murali-krishna", "date": "1964-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Akkineni Nageshwara Rao, Jamuna and Haranath", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

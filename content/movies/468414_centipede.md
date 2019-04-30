@@ -1,0 +1,1 @@
+{"tmdb_id": 468414, "title": "Centipede", "original_title": "Centipede", "slug_title": "centipede", "date": "2015-10-07", "genre": [""], "score": "0.0/10", "synopsis": "Short Film by Padrick Ritch which displays distorted found footage", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

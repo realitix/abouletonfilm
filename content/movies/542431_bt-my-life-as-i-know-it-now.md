@@ -1,0 +1,1 @@
+{"tmdb_id": 542431, "title": "BT: My Life As I Know It Now", "original_title": "BT: My Life As I Know It Now", "slug_title": "bt-my-life-as-i-know-it-now", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Coming Soon", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

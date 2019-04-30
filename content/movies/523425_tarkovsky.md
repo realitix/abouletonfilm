@@ -1,0 +1,1 @@
+{"tmdb_id": 523425, "title": "Tarkovsky", "original_title": "Tarkovsky", "slug_title": "tarkovsky", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Title produced by Chris Marker on Andrei Tarkovsky for EA Intermix in 1986.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

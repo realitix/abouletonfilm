@@ -1,0 +1,1 @@
+{"tmdb_id": 532894, "title": "Clinic of Stumble", "original_title": "Clinic of Stumble", "slug_title": "clinic-of-stumble", "date": "1947-01-01", "genre": ["Musique"], "score": "0.0/10", "synopsis": "A comically solemn dance film composed of superimposed images.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

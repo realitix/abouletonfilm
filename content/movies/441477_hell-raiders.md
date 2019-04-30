@@ -1,0 +1,1 @@
+{"tmdb_id": 441477, "title": "Hell Raiders", "original_title": "Hell Raiders", "slug_title": "hell-raiders", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Filipino war actioner from what I can gather set during World War 2.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

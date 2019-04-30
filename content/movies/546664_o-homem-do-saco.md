@@ -1,0 +1,1 @@
+{"tmdb_id": 546664, "title": "O Homem do Saco", "original_title": "O Homem do Saco", "slug_title": "o-homem-do-saco", "date": "2017-08-12", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1WRljf16VemnBPIIcGDfdgdEenU.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

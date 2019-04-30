@@ -1,0 +1,1 @@
+{"tmdb_id": 563069, "title": "Les mordus de Paris", "original_title": "Les mordus de Paris", "slug_title": "les-mordus-de-paris", "date": "1965-05-31", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eGiiBF9G6BcDYHC8IrbHmJ76Q3D.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

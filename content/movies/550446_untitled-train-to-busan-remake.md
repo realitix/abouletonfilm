@@ -1,0 +1,1 @@
+{"tmdb_id": 550446, "title": "Untitled Train To Busan Remake", "original_title": "Untitled Train To Busan Remake", "slug_title": "untitled-train-to-busan-remake", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "English remake of the Korean film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

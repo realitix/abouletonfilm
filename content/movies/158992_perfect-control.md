@@ -1,0 +1,1 @@
+{"tmdb_id": 158992, "title": "Perfect Control", "original_title": "Perfect Control", "slug_title": "perfect-control", "date": "1932-02-01", "genre": [""], "score": "0.0/10", "synopsis": "Babe Ruth plays ball with some kids.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

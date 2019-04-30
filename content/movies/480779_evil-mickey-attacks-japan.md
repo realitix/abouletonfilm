@@ -1,0 +1,1 @@
+{"tmdb_id": 480779, "title": "Evil Mickey attacks Japan", "original_title": "Evil Mickey attacks Japan", "slug_title": "evil-mickey-attacks-japan", "date": "1934-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

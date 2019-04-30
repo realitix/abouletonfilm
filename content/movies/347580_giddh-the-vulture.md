@@ -1,0 +1,1 @@
+{"tmdb_id": 347580, "title": "Giddh: The Vulture", "original_title": "Giddh", "slug_title": "giddh-the-vulture", "date": "1984-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Starring Om Puri, Smita Patil, and Nana Patekar", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 472792, "title": "Unterwegs mit Dr. Uwe Boll", "original_title": "Unterwegs mit Dr. Uwe Boll", "slug_title": "unterwegs-mit-dr-uwe-boll", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Uwe Boll (Er selbst)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531915, "title": "Principiantes", "original_title": "Principiantes", "slug_title": "principiantes", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 477680, "title": "Juliette", "original_title": "Juliette", "slug_title": "juliette", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A timid girl, in a car with two sex crazed girls.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

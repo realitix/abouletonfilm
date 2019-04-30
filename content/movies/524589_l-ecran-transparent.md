@@ -1,0 +1,1 @@
+{"tmdb_id": 524589, "title": "L'\u00e9cran\ufeff transparent", "original_title": "L'\u00e9cran\ufeff transparent", "slug_title": "l-ecran-transparent", "date": "1973-05-16", "genre": [""], "score": "0.0/10", "synopsis": "A film by Bernard Parmegiani.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

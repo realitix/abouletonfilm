@@ -1,0 +1,1 @@
+{"tmdb_id": 511727, "title": "Uniform Attraction", "original_title": "Uniform Attraction", "slug_title": "uniform-attraction", "date": "2008-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A short film about the fetishistic interest in military uniforms.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 377893, "title": "Das Handy - die mobile Revolution der Welt", "original_title": "Das Handy - die mobile Revolution der Welt", "slug_title": "das-handy-die-mobile-revolution-der-welt", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

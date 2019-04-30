@@ -1,0 +1,1 @@
+{"tmdb_id": 449013, "title": "The Eternal Blonde", "original_title": "The Eternal Blonde", "slug_title": "the-eternal-blonde", "date": "", "genre": ["Crime / Drame"], "score": "0.0/10", "synopsis": "A true crime noir about the execution of Ruth Snyder", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

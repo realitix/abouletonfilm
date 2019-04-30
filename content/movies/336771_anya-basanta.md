@@ -1,0 +1,1 @@
+{"tmdb_id": 336771, "title": "Anya Basanta", "original_title": "Anya Basanta", "slug_title": "anya-basanta", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Aditi Roy, the movie is based on a novel by Suchitra Bhattachariya.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

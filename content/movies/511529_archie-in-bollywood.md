@@ -1,0 +1,1 @@
+{"tmdb_id": 511529, "title": "Archie in Bollywood", "original_title": "Archie in Bollywood", "slug_title": "archie-in-bollywood", "date": "", "genre": ["Com\u00e9die / Romance"], "score": "0.0/10", "synopsis": "Archie and the gang get a Bollywood-style rework.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

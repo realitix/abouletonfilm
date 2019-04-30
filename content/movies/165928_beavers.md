@@ -1,0 +1,1 @@
+{"tmdb_id": 165928, "title": "Beavers", "original_title": "Beavers", "slug_title": "beavers", "date": "1930-01-30", "genre": [""], "score": "0.0/10", "synopsis": "An early documentary short about beavers and their environment.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

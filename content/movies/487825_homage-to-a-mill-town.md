@@ -1,1 +1,0 @@
-{"tmdb_id": 487825, "title": "Homage to a Mill Town", "original_title": "Homage to a Mill Town", "slug_title": "homage-to-a-mill-town", "date": "1980-11-18", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "A short documentary about Braddock", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

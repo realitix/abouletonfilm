@@ -1,0 +1,1 @@
+{"tmdb_id": 279743, "title": "Punch the Clock", "original_title": "Punch the Clock", "slug_title": "punch-the-clock", "date": "1990-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A beautiful con gets involved with a bail bondsman.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

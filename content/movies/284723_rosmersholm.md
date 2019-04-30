@@ -1,0 +1,1 @@
+{"tmdb_id": 284723, "title": "Rosmersholm", "original_title": "Rosmersholm", "slug_title": "rosmersholm", "date": "1961-05-03", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maria Becker ()", "Elsa Fehrmann ()", "Will Quadflieg ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

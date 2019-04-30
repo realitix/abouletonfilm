@@ -1,0 +1,1 @@
+{"tmdb_id": 438973, "title": "Den starkare", "original_title": "Den starkare", "slug_title": "den-starkare", "date": "2004-08-31", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thorsten Flinck (Y)", "Mikael Persbrandt (X)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

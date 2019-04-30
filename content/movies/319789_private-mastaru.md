@@ -1,0 +1,1 @@
+{"tmdb_id": 319789, "title": "Private Mastaru", "original_title": "Private Mastaru", "slug_title": "private-mastaru", "date": "1967-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Musical film starring  Anjali Devi and Krishna Ghattamaneni", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

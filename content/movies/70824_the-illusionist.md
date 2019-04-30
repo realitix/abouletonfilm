@@ -1,0 +1,1 @@
+{"tmdb_id": 70824, "title": "The Illusionist", "original_title": "The Illusionist", "slug_title": "the-illusionist", "date": "2009-01-01", "genre": ["Animation"], "score": "1.8/10", "synopsis": "The journey of a magician performing illusions to amaze and humour.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

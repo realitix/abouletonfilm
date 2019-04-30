@@ -1,0 +1,1 @@
+{"tmdb_id": 349830, "title": "\uc0b0\ub3d9\ubc18\uc810", "original_title": "\uc0b0\ub3d9\ubc18\uc810", "slug_title": "sandongbanjeom", "date": "1983-11-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

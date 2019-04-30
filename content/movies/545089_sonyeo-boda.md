@@ -1,0 +1,1 @@
+{"tmdb_id": 545089, "title": "\uc18c\ub140, \ubcf4\ub2e4", "original_title": "\uc18c\ub140, \ubcf4\ub2e4", "slug_title": "sonyeo-boda", "date": "2014-09-25", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

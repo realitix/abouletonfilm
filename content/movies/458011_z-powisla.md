@@ -1,0 +1,1 @@
+{"tmdb_id": 458011, "title": "Z Powisla", "original_title": "Z Powisla", "slug_title": "z-powisla", "date": "1958-01-31", "genre": ["Documentaire"], "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tadeusz \u0141omnicki (Narrator (voice))"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

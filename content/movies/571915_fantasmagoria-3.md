@@ -1,0 +1,1 @@
+{"tmdb_id": 571915, "title": "Fantasmagoria #3", "original_title": "Fantasmagoria #3", "slug_title": "fantasmagoria-3", "date": "1940-01-01", "genre": [""], "score": "0.0/10", "synopsis": "The third film in the Fantasmagoria series.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

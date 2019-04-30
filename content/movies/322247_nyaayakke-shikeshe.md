@@ -1,0 +1,1 @@
+{"tmdb_id": 322247, "title": "Nyaayakke Shikeshe", "original_title": "Nyaayakke Shikeshe", "slug_title": "nyaayakke-shikeshe", "date": "1987-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1987 Indian Film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

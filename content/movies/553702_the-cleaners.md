@@ -1,0 +1,1 @@
+{"tmdb_id": 553702, "title": "The Cleaners", "original_title": "The Cleaners", "slug_title": "the-cleaners", "date": "", "genre": ["Documentaire"], "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

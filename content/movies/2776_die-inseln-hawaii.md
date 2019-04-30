@@ -1,0 +1,1 @@
+{"tmdb_id": 2776, "title": "Die Inseln Hawaii", "original_title": "Die Inseln Hawaii", "slug_title": "die-inseln-hawaii", "date": "2005-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

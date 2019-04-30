@@ -1,0 +1,1 @@
+{"tmdb_id": 77698, "title": "Diana Krall Live in San Blas", "original_title": "Diana Krall Live in San Blas", "slug_title": "diana-krall-live-in-san-blas", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Good", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

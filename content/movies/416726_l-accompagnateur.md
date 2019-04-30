@@ -1,0 +1,1 @@
+{"tmdb_id": 416726, "title": "L'accompagnateur", "original_title": "L'accompagnateur", "slug_title": "l-accompagnateur", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

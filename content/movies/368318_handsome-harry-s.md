@@ -1,0 +1,1 @@
+{"tmdb_id": 368318, "title": "Handsome Harry's", "original_title": "Handsome Harry's", "slug_title": "handsome-harry-s", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "American TV-Comedy", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

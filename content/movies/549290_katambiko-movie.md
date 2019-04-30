@@ -1,0 +1,1 @@
+{"tmdb_id": 549290, "title": "katambiko movie", "original_title": "katambiko movie", "slug_title": "katambiko-movie", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "test movie  , see what is recquired", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

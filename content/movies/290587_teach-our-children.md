@@ -1,0 +1,1 @@
+{"tmdb_id": 290587, "title": "Teach Our Children", "original_title": "Teach Our Children", "slug_title": "teach-our-children", "date": "1972-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about the 1971 rebellion at Attica State Prison.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

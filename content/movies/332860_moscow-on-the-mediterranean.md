@@ -1,0 +1,1 @@
+{"tmdb_id": 332860, "title": "Moscow on the Mediterranean", "original_title": "Moscow on the Mediterranean", "slug_title": "moscow-on-the-mediterranean", "date": "1999-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Yeud Levanon.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

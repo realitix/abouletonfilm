@@ -1,0 +1,1 @@
+{"tmdb_id": 590562, "title": "\u041a\u0440\u0430\u0441\u043e\u0442\u043a\u0430", "original_title": "\u041a\u0440\u0430\u0441\u043e\u0442\u043a\u0430", "slug_title": "krasotka", "date": "", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

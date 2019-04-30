@@ -1,0 +1,1 @@
+{"tmdb_id": 557848, "title": "Kohlen f\u00fcr die Naunynstra\u00dfe", "original_title": "Kohlen f\u00fcr die Naunynstra\u00dfe", "slug_title": "kohlen-fur-die-naunynstrasse", "date": "1971-04-01", "genre": [""], "score": "0.0/10", "synopsis": "Short film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

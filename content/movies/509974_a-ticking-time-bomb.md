@@ -1,0 +1,1 @@
+{"tmdb_id": 509974, "title": "A Ticking Time Bomb", "original_title": "A Ticking Time Bomb", "slug_title": "a-ticking-time-bomb", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Documentary on the effects of Lyme Disease.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

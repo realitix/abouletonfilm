@@ -1,0 +1,1 @@
+{"tmdb_id": 436861, "title": "Coroner - Rewind", "original_title": "Coroner - Rewind", "slug_title": "coroner-rewind", "date": "2017-01-22", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about swiss thrash metal band Coroner.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 597318, "title": "La millor opci\u00f3", "original_title": "La millor opci\u00f3", "slug_title": "la-millor-opcio", "date": "2016-12-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7O3BCYKYP4wYwBSvcaxIFrfPZMe.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

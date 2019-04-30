@@ -1,0 +1,1 @@
+{"tmdb_id": 327698, "title": "Ice Breaker", "original_title": "Ice Breaker", "slug_title": "ice-breaker", "date": "2005-03-03", "genre": [""], "score": "0.0/10", "synopsis": "Documents life aboard a modern Canadian ice breaker.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

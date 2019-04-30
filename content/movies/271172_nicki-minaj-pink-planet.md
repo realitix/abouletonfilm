@@ -1,0 +1,1 @@
+{"tmdb_id": 271172, "title": "Nicki Minaj: Pink Planet", "original_title": "Nicki Minaj: Pink Planet", "slug_title": "nicki-minaj-pink-planet", "date": "2013-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary profiling Nicki Minaj", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

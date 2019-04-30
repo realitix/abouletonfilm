@@ -1,0 +1,1 @@
+{"tmdb_id": 301369, "title": "Tiger's Curse", "original_title": "Tiger's Curse", "slug_title": "tiger-s-curse", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Fantasy about a girl who bonds with a prince trapped in the body of a circus tiger.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

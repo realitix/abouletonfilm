@@ -1,0 +1,1 @@
+{"tmdb_id": 350799, "title": "La bella otero", "original_title": "La bella otero", "slug_title": "la-bella-otero", "date": "2008-07-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Natalia Verbeke ()", "Montse Guallar ()", "Asunci\u00f3n Balaguer ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

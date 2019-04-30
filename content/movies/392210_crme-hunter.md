@@ -1,0 +1,1 @@
+{"tmdb_id": 392210, "title": "Crme Hunter", "original_title": "Crme Hunter", "slug_title": "crme-hunter", "date": "1989-04-10", "genre": [""], "score": "0.0/10", "synopsis": "Toei's first straight-to-video live action film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 581797, "title": "War Games", "original_title": "War Games", "slug_title": "war-games", "date": "2011-01-17", "genre": [""], "score": "0.0/10", "synopsis": "After escaping imprisonment, a soldier continues fighting for his life.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

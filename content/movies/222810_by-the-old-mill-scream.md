@@ -1,0 +1,1 @@
+{"tmdb_id": 222810, "title": "By the Old Mill Scream", "original_title": "By the Old Mill Scream", "slug_title": "by-the-old-mill-scream", "date": "1953-07-02", "genre": [""], "score": "0.0/10", "synopsis": "Casper befriends Short Tail, the beaver.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

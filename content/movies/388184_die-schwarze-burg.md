@@ -1,0 +1,1 @@
+{"tmdb_id": 388184, "title": "Die schwarze Burg", "original_title": "Die schwarze Burg", "slug_title": "die-schwarze-burg", "date": "1988-12-09", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 562547, "title": "Lo sgarro", "original_title": "Lo sgarro", "slug_title": "lo-sgarro", "date": "1963-02-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zUFNxqY9NLg8JtaK5XmLaelSGG7.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

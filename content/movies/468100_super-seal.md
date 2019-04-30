@@ -1,0 +1,1 @@
+{"tmdb_id": 468100, "title": "Super Seal", "original_title": "Super Seal", "slug_title": "super-seal", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Please help improve the database by adding an overview of this film.", "image": "/img/default-cover.png", "actors": ["Michael Dugan (Director)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

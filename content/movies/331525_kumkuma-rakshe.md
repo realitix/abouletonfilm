@@ -1,0 +1,1 @@
+{"tmdb_id": 331525, "title": "Kumkuma Rakshe", "original_title": "Kumkuma Rakshe", "slug_title": "kumkuma-rakshe", "date": "1977-10-13", "genre": [""], "score": "0.0/10", "synopsis": "A 1977 Kannada movie.", "image": "/img/default-cover.png", "actors": ["Rajinikanth ()", "Leelavati ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

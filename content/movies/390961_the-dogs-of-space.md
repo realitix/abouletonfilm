@@ -1,0 +1,1 @@
+{"tmdb_id": 390961, "title": "The Dogs of Space", "original_title": "The Dogs of Space", "slug_title": "the-dogs-of-space", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A short dramatizing the launch of two Soviet space dogs into orbit.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

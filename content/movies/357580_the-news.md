@@ -1,0 +1,1 @@
+{"tmdb_id": 357580, "title": "The News", "original_title": "The News", "slug_title": "the-news", "date": "1980-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Ian Breakwell.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eMiFecZaNlxgYCMhNW5d8tnmevH.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

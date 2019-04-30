@@ -1,0 +1,1 @@
+{"tmdb_id": 475130, "title": "Barabaniada", "original_title": "Barabaniada", "slug_title": "barabaniada", "date": "1981-04-01", "genre": [""], "score": "0.0/10", "synopsis": "A man meets a drum that falls in love with him.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

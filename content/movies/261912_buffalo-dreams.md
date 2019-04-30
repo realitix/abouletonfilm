@@ -1,0 +1,1 @@
+{"tmdb_id": 261912, "title": "Buffalo Dreams", "original_title": "Buffalo Dreams", "slug_title": "buffalo-dreams", "date": "2013-06-22", "genre": [""], "score": "0.0/10", "synopsis": "The story of Scott Shand, the only commercial buffalo farmer in Scotland.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

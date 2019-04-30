@@ -1,0 +1,1 @@
+{"tmdb_id": 500198, "title": "Csillag\u00f6sv\u00e9nyen 3", "original_title": "Csillag\u00f6sv\u00e9nyen 3", "slug_title": "csillagosvenyen-3", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cobI2j8xcWzMGplKKb3wQwue8Nt.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

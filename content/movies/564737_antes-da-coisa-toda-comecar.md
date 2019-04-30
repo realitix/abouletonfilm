@@ -1,0 +1,1 @@
+{"tmdb_id": 564737, "title": "Antes da Coisa Toda Come\u00e7ar", "original_title": "Antes da Coisa Toda Come\u00e7ar", "slug_title": "antes-da-coisa-toda-comecar", "date": "2018-11-29", "genre": [""], "score": "0.0/10", "synopsis": "Before The Whole Thing Begin", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

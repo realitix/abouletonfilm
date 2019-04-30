@@ -1,0 +1,1 @@
+{"tmdb_id": 567139, "title": "The Confederate", "original_title": "The Confederate", "slug_title": "the-confederate", "date": "2018-12-04", "genre": [""], "score": "0.0/10", "synopsis": "Western about a young woman who passes herself off as a man.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

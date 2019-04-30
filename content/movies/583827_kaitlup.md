@@ -1,0 +1,1 @@
+{"tmdb_id": 583827, "title": "\u041a\u0430\u0439\u0442\u043b\u0443\u043f", "original_title": "\u041a\u0430\u0439\u0442\u043b\u0443\u043f", "slug_title": "kaitlup", "date": "2019-03-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

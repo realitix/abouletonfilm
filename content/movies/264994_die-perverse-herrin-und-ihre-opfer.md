@@ -1,0 +1,1 @@
+{"tmdb_id": 264994, "title": "Die perverse Herrin und ihre Opfer", "original_title": "Die perverse Herrin und ihre Opfer", "slug_title": "die-perverse-herrin-und-ihre-opfer", "date": "1968-01-01", "genre": [""], "score": "0.0/10", "synopsis": "German sex comedy", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

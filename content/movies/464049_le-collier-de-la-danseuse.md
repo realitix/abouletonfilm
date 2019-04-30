@@ -1,0 +1,1 @@
+{"tmdb_id": 464049, "title": "Le collier de la danseuse", "original_title": "Le collier de la danseuse", "slug_title": "le-collier-de-la-danseuse", "date": "1912-02-02", "genre": [""], "score": "0.0/10", "synopsis": "Short crime film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

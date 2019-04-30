@@ -1,0 +1,1 @@
+{"tmdb_id": 572442, "title": "White Goods", "original_title": "White Goods", "slug_title": "white-goods", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "When Rio Tard finds a magical box in the wall, all hell breaks loose.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

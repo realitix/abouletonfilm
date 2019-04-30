@@ -1,0 +1,1 @@
+{"tmdb_id": 377768, "title": "The Dog Show", "original_title": "The Dog Show", "slug_title": "the-dog-show", "date": "1950-05-25", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon released August 1950. Directed by Eddie Donnelly.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 415470, "title": "Salome Mad", "original_title": "Salome Mad", "slug_title": "salome-mad", "date": "1909-07-01", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "A man is obsessed by the 'Salome' dance.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

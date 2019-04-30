@@ -1,0 +1,1 @@
+{"tmdb_id": 351499, "title": "A Dog's Dream", "original_title": "A Dog's Dream", "slug_title": "a-dog-s-dream", "date": "1941-05-02", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon released 2 May 1941.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

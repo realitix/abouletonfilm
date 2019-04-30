@@ -1,0 +1,1 @@
+{"tmdb_id": 50040, "title": "Puterea si adevarul", "original_title": "Puterea si adevarul", "slug_title": "puterea-si-adevarul", "date": "1971-01-01", "genre": [""], "score": "0.0/10", "synopsis": " ", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 368212, "title": "Nancy's Nightmare", "original_title": "Nancy's Nightmare", "slug_title": "nancy-s-nightmare", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "It's up to her to stop him, if she fails no one will survive.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

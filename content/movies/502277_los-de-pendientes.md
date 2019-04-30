@@ -1,0 +1,1 @@
+{"tmdb_id": 502277, "title": "Los (De)pendientes", "original_title": "Los (De)pendientes", "slug_title": "los-de-pendientes", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "There are a people to come. Open the images and make it appear!", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

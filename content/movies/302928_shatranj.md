@@ -1,0 +1,1 @@
+{"tmdb_id": 302928, "title": "Shatranj", "original_title": "Shatranj", "slug_title": "shatranj", "date": "1993-12-17", "genre": [""], "score": "0.0/10", "synopsis": "Dharamraj dislikes women and has told his younger brothers to stay away from them.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

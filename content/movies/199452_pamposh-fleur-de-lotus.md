@@ -1,0 +1,1 @@
+{"tmdb_id": 199452, "title": "Pamposh, fleur de lotus", "original_title": "Pamposh", "slug_title": "pamposh-fleur-de-lotus", "date": "1954-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Ezra Mir", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

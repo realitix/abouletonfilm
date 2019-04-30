@@ -1,0 +1,1 @@
+{"tmdb_id": 596937, "title": "Divotverne oko", "original_title": "Divotverne oko", "slug_title": "divotverne-oko", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Scientists demonstrate the wonders of magnified objects.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

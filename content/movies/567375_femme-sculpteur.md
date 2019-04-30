@@ -1,0 +1,1 @@
+{"tmdb_id": 567375, "title": "Femme sculpteur", "original_title": "Femme sculpteur", "slug_title": "femme-sculpteur", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Anna Ladd dans son atelier parisien", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

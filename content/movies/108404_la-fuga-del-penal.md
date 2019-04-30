@@ -1,0 +1,1 @@
+{"tmdb_id": 108404, "title": "La Fuga del Penal", "original_title": "La Fuga del Penal", "slug_title": "la-fuga-del-penal", "date": "2006-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rafael Goyri ()", "Guillermo Quintanilla ()", "Marvin Tinoco ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

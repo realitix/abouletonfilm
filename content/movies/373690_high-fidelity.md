@@ -1,0 +1,1 @@
+{"tmdb_id": 373690, "title": "High Fidelity", "original_title": "High Fidelity", "slug_title": "high-fidelity", "date": "1978-01-13", "genre": [""], "score": "0.0/10", "synopsis": "In this animated short, a half-naked woman dances with her black-suited partner.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

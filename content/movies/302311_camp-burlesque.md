@@ -1,0 +1,1 @@
+{"tmdb_id": 302311, "title": "Camp Burlesque", "original_title": "Camp Burlesque", "slug_title": "camp-burlesque", "date": "2007-06-01", "genre": [""], "score": "0.0/10", "synopsis": "Mockumentary about a fictional burlesque dancers' fantasy camp", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

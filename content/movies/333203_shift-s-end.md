@@ -1,0 +1,1 @@
+{"tmdb_id": 333203, "title": "Shift's End", "original_title": "Shift's End", "slug_title": "shift-s-end", "date": "2013-02-26", "genre": [""], "score": "0.0/10", "synopsis": "Marty thinks its just another day at the market.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 304290, "title": "Musafirkhana", "original_title": "Musafirkhana", "slug_title": "musafirkhana", "date": "1955-01-01", "genre": [""], "score": "4.0/10", "synopsis": "Film starring Karan Dewan, Shyama and Jayant", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

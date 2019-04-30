@@ -1,0 +1,1 @@
+{"tmdb_id": 330185, "title": "La ribalta", "original_title": "La ribalta", "slug_title": "la-ribalta", "date": "1912-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A woman and a mistress fight.", "image": "/img/default-cover.png", "actors": ["Mario Caserini ()", "Oreste Grandi ()", "Febo Mari ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

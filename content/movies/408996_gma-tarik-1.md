@@ -1,0 +1,1 @@
+{"tmdb_id": 408996, "title": "Gma Tarik 1", "original_title": "Gma Tarik 1", "slug_title": "gma-tarik-1", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Ali n' Productions", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gYpAawqTlePbtN3PvNoP8Ny64hq.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

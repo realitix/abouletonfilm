@@ -1,0 +1,1 @@
+{"tmdb_id": 161904, "title": "Indian Whoopee", "original_title": "Indian Whoopee", "slug_title": "indian-whoopee", "date": "1933-07-06", "genre": [""], "score": "3.0/10", "synopsis": "Cubby Bear imagines himself living during the the time of the pilgrims.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

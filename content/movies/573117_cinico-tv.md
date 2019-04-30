@@ -1,0 +1,1 @@
+{"tmdb_id": 573117, "title": "Cinico tv", "original_title": "Cinico tv", "slug_title": "cinico-tv", "date": "1992-01-01", "genre": [""], "score": "6.0/10", "synopsis": "An anthology of video short films directed by Daniele Cipr\u00ec and Franco Maresco.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

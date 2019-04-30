@@ -1,0 +1,1 @@
+{"tmdb_id": 521232, "title": "Eln\u00f6kkisasszony", "original_title": "Eln\u00f6kkisasszony", "slug_title": "elnokkisasszony", "date": "1935-06-05", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fuMrS9bXNpAyzCiGsXx0PcJ5sfG.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

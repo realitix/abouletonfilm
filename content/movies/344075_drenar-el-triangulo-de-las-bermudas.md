@@ -1,0 +1,1 @@
+{"tmdb_id": 344075, "title": "Drenar el tri\u00e1ngulo de las bermudas", "original_title": "Drenar el tri\u00e1ngulo de las bermudas", "slug_title": "drenar-el-triangulo-de-las-bermudas", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

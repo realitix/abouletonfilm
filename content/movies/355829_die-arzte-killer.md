@@ -1,0 +1,1 @@
+{"tmdb_id": 355829, "title": "Die \u00c4rzte: Killer", "original_title": "Die \u00c4rzte: Killer", "slug_title": "die-arzte-killer", "date": "2000-10-23", "genre": [""], "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jn0KqrlcjAkwImMdnSqjGxfYmEM.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

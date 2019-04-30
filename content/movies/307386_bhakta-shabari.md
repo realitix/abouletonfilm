@@ -1,0 +1,1 @@
+{"tmdb_id": 307386, "title": "Bhakta Shabari", "original_title": "Bhakta Shabari", "slug_title": "bhakta-shabari", "date": "1960-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No Overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

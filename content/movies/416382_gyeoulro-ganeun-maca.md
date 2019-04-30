@@ -1,0 +1,1 @@
+{"tmdb_id": 416382, "title": "\uaca8\uc6b8\ub85c \uac00\ub294 \ub9c8\ucc28", "original_title": "\uaca8\uc6b8\ub85c \uac00\ub294 \ub9c8\ucc28", "slug_title": "gyeoulro-ganeun-maca", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

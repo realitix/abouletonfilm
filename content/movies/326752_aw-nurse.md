@@ -1,0 +1,1 @@
+{"tmdb_id": 326752, "title": "Aw, Nurse", "original_title": "Aw, Nurse", "slug_title": "aw-nurse", "date": "1934-03-09", "genre": [""], "score": "0.0/10", "synopsis": "A Columbia Scrappy cartoon released March 9, 1934.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

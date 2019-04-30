@@ -1,0 +1,1 @@
+{"tmdb_id": 520100, "title": "O Turista No Espelho", "original_title": "O Turista No Espelho", "slug_title": "o-turista-no-espelho", "date": "2018-04-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

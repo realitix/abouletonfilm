@@ -1,0 +1,1 @@
+{"tmdb_id": 176619, "title": "Firmeza", "original_title": "Firmeza", "slug_title": "firmeza", "date": "2012-12-13", "genre": [""], "score": "0.0/10", "synopsis": "Short film by Asia Argento depicting an ayahuasca ceremony.", "image": "/img/default-cover.png", "actors": ["Asia Argento (Asia)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

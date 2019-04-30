@@ -1,0 +1,1 @@
+{"tmdb_id": 594743, "title": "WAKAMIZUYA", "original_title": "\u82e5\u6c34\u591c", "slug_title": "wakamizuya", "date": "1993-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gXWaF50aJktjkFn1slhi6PRc1jF.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 334438, "title": "Day of the Earth", "original_title": "Yawm al-Ard", "slug_title": "day-of-the-earth", "date": "1977-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Ghaleb Chaath.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

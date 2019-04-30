@@ -1,1 +1,0 @@
-{"tmdb_id": 484613, "title": "Venceremos", "original_title": "Venceremos", "slug_title": "venceremos", "date": "1970-02-20", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w5NoGQD4XknIpRiczJC1oDDmBJJ.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 528459, "title": "Cosas de chicos", "original_title": "Cosas de chicos", "slug_title": "cosas-de-chicos", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

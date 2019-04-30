@@ -1,0 +1,1 @@
+{"tmdb_id": 593607, "title": "66, Rue Stephenson", "original_title": "66, Rue Stephenson", "slug_title": "66-rue-stephenson", "date": "2013-04-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

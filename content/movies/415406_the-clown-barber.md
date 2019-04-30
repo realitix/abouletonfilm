@@ -1,0 +1,1 @@
+{"tmdb_id": 415406, "title": "The Clown Barber", "original_title": "The Clown Barber", "slug_title": "the-clown-barber", "date": "1898-08-01", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "A clown cuts off a customer's head and replaces it.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

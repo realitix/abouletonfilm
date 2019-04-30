@@ -1,0 +1,1 @@
+{"tmdb_id": 557206, "title": "Quand te tues-tu?", "original_title": "Quand te tues-tu?", "slug_title": "quand-te-tues-tu", "date": "1931-11-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

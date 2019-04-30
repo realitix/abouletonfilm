@@ -1,0 +1,1 @@
+{"tmdb_id": 572421, "title": "S\u00e9rie noire", "original_title": "S\u00e9rie noire", "slug_title": "serie-noire", "date": "1980-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Un film de Florence De M\u00e9redieu", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

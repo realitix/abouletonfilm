@@ -1,0 +1,1 @@
+{"tmdb_id": 493536, "title": "\uc78a\uc744 \uc218 \uc5c6\ub294 \uc21c\uac04", "original_title": "\uc78a\uc744 \uc218 \uc5c6\ub294 \uc21c\uac04", "slug_title": "ijeul-su-eobsneun-sungan", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

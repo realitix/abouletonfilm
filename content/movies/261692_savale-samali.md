@@ -1,0 +1,1 @@
+{"tmdb_id": 261692, "title": "Savale Samali", "original_title": "Savale Samali", "slug_title": "savale-samali", "date": "1971-07-03", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sivaji Ganesan ()", "Jayalalithaa J ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

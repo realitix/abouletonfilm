@@ -1,0 +1,1 @@
+{"tmdb_id": 302146, "title": "Dark Street", "original_title": "Dark Street", "slug_title": "dark-street", "date": "1961-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Iftekhar, Amirbai Karnataki and Anoop Kumar", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

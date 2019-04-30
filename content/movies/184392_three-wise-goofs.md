@@ -1,0 +1,1 @@
+{"tmdb_id": 184392, "title": "Three Wise Goofs", "original_title": "Three Wise Goofs", "slug_title": "three-wise-goofs", "date": "1925-10-03", "genre": [""], "score": "0.0/10", "synopsis": "A heavyweight slapstick comedy with \"A Ton Of Fun\".", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

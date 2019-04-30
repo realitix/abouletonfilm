@@ -1,0 +1,1 @@
+{"tmdb_id": 526846, "title": "Mount Magnet", "original_title": "Mount Magnet", "slug_title": "mount-magnet", "date": "2009-11-17", "genre": [""], "score": "0.0/10", "synopsis": "Part of the Optofonica #1 series.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

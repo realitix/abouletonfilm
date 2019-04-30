@@ -1,0 +1,1 @@
+{"tmdb_id": 361916, "title": "Sea Rhythms", "original_title": "Sea Rhythms", "slug_title": "sea-rhythms", "date": "1971-09-29", "genre": [""], "score": "0.0/10", "synopsis": "experimental film by Jim Davis", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k9bekcN5B8RIQ7N3k25pyPayiaH.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

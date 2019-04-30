@@ -1,0 +1,1 @@
+{"tmdb_id": 587915, "title": "Devil Boats", "original_title": "Devil Boats", "slug_title": "devil-boats", "date": "1944-03-13", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "PT Boat Training Film from World War II.", "image": "/img/default-cover.png", "actors": ["Warren Douglas ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

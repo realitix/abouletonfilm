@@ -1,0 +1,1 @@
+{"tmdb_id": 308665, "title": "The Best Man Wedding", "original_title": "The Best Man Wedding", "slug_title": "the-best-man-wedding", "date": "", "genre": ["Romance / Com\u00e9die"], "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

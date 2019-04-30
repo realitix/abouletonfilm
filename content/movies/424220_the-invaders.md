@@ -1,0 +1,1 @@
+{"tmdb_id": 424220, "title": "The Invaders", "original_title": "The Invaders", "slug_title": "the-invaders", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A look at the Memphis-based civil rights group.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 539581, "title": "Mestiza", "original_title": "Mestiza", "slug_title": "mestiza", "date": "2018-08-05", "genre": ["Drame"], "score": "0.0/10", "synopsis": "A short but impactful remark from a stranger leaves young Yasmin questioning her identity.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

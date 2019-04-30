@@ -1,0 +1,1 @@
+{"tmdb_id": 520048, "title": "A-Bombs Over Nevada", "original_title": "A-Bombs Over Nevada", "slug_title": "a-bombs-over-nevada", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bmOA5L64P3ZTRPrk3YTVf1KwKx3.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

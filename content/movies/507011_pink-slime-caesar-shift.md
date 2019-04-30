@@ -1,0 +1,1 @@
+{"tmdb_id": 507011, "title": "Pink Slime Caesar Shift", "original_title": "Pink Slime Caesar Shift", "slug_title": "pink-slime-caesar-shift", "date": "2018-02-14", "genre": [""], "score": "0.0/10", "synopsis": "Pink Slime Caesar Shift", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

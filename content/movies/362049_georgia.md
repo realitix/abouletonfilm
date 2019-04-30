@@ -1,0 +1,1 @@
+{"tmdb_id": 362049, "title": "Georgia", "original_title": "Georgia", "slug_title": "georgia", "date": "1966-09-30", "genre": [""], "score": "0.0/10", "synopsis": "short film by Gordon Ball", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mRLS86jA9rF8SQtzoq3WtSbsCey.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 332059, "title": "Shelter", "original_title": "Miklat", "slug_title": "shelter", "date": "1989-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Rashid Masharawi.", "image": "/img/default-cover.png", "actors": ["Mohammad Bakri ()", "Salim Dau ()", "Rami Livni ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

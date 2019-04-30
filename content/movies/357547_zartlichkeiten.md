@@ -1,0 +1,1 @@
+{"tmdb_id": 357547, "title": "Z\u00e4rtlichkeiten", "original_title": "Z\u00e4rtlichkeiten", "slug_title": "zartlichkeiten", "date": "1985-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Women love other women in Berlin.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351970, "title": "O Catolicismo e o Dinheiro", "original_title": "O Catolicismo e o Dinheiro", "slug_title": "o-catolicismo-e-o-dinheiro", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

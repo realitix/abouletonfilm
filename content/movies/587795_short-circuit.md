@@ -1,0 +1,1 @@
+{"tmdb_id": 587795, "title": "Short Circuit", "original_title": "Short Circuit", "slug_title": "short-circuit", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A film by David Wise", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

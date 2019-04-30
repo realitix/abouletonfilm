@@ -1,0 +1,1 @@
+{"tmdb_id": 305840, "title": "Naya Safar", "original_title": "Naya Safar", "slug_title": "naya-safar", "date": "1982-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1982", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 578077, "title": "Yo Soy Rap", "original_title": "Yo Soy Rap", "slug_title": "yo-soy-rap", "date": "2014-08-27", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4hCJnHCSRiXyCaG313DH9DCfdEQ.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

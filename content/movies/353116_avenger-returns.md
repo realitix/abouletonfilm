@@ -1,0 +1,1 @@
+{"tmdb_id": 353116, "title": "Avenger Returns", "original_title": "Avenger Returns", "slug_title": "avenger-returns", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "Action movie", "image": "/img/default-cover.png", "actors": ["Shriti Jha (Pragya Mehra)", "Shabbir Ahluwalia (Abhishek Mehra)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

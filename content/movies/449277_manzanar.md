@@ -1,0 +1,1 @@
+{"tmdb_id": 449277, "title": "Manzanar", "original_title": "Manzanar", "slug_title": "manzanar", "date": "1972-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Short film about the Manzanar Japanese American internment camp.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

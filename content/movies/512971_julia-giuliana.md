@@ -1,0 +1,1 @@
+{"tmdb_id": 512971, "title": "Julia/Giuliana", "original_title": "Julia/Giuliana", "slug_title": "julia-giuliana", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Dutch experimental short featuring footage of famous Italian actress Monica Vitti.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

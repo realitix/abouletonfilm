@@ -1,0 +1,1 @@
+{"tmdb_id": 585272, "title": "Das Kochduell", "original_title": "Das Kochduell", "slug_title": "das-kochduell", "date": "2007-12-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zOLfqCSnoFJvXKamtbkgFSEjDmc.jpg", "actors": ["Mya Diamond ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

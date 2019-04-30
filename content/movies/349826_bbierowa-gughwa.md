@@ -1,0 +1,1 @@
+{"tmdb_id": 349826, "title": "\uc090\uc5d0\ub85c\uc640 \uad6d\ud654", "original_title": "\uc090\uc5d0\ub85c\uc640 \uad6d\ud654", "slug_title": "bbierowa-gughwa", "date": "1982-12-16", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

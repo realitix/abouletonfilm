@@ -1,0 +1,1 @@
+{"tmdb_id": 404706, "title": "Dieter Nuhr live! - WM Spezial", "original_title": "Dieter Nuhr live! - WM Spezial", "slug_title": "dieter-nuhr-live-wm-spezial", "date": "2010-06-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

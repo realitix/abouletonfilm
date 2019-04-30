@@ -1,0 +1,1 @@
+{"tmdb_id": 346057, "title": "News of the Queen", "original_title": "Not\u00edcias da Rainha", "slug_title": "news-of-the-queen", "date": "2013-10-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Short documentary about a Brazilian radio queen.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

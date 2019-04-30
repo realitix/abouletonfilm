@@ -1,0 +1,1 @@
+{"tmdb_id": 335300, "title": "Guerra Fria", "original_title": "Guerra Fria", "slug_title": "guerra-fria", "date": "2016-07-07", "genre": [""], "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/caONqy4kNWBgcJrkx0yQYdCIjeO.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

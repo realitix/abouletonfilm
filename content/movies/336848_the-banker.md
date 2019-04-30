@@ -1,0 +1,1 @@
+{"tmdb_id": 336848, "title": "The Banker", "original_title": "The Banker", "slug_title": "the-banker", "date": "2012-03-29", "genre": ["Animation"], "score": "0.0/10", "synopsis": "Will Mr Christie allow Terry to join the Mayan End of the World Society?", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

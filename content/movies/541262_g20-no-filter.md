@@ -1,0 +1,1 @@
+{"tmdb_id": 541262, "title": "G20 - No Filter", "original_title": "G20 - No Filter", "slug_title": "g20-no-filter", "date": "2018-08-19", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

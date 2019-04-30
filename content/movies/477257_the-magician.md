@@ -1,0 +1,1 @@
+{"tmdb_id": 477257, "title": "The Magician", "original_title": "The Magician", "slug_title": "the-magician", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A movie about the cycle of life.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

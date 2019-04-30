@@ -1,0 +1,1 @@
+{"tmdb_id": 496650, "title": "Friendly Fire", "original_title": "Friendly Fire", "slug_title": "friendly-fire", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Short by Martha Colburn.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

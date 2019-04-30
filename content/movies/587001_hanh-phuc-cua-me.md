@@ -1,0 +1,1 @@
+{"tmdb_id": 587001, "title": "Hanh Phuc Cua Me", "original_title": "Hanh Phuc Cua Me", "slug_title": "hanh-phuc-cua-me", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ki\u1ec1u Minh Tu\u1ea5n (Giang)", "C\u00e1t Ph\u01b0\u1ee3ng (Tue)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

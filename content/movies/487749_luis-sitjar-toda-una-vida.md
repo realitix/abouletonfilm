@@ -1,0 +1,1 @@
+{"tmdb_id": 487749, "title": "Luis Sitjar, Toda una Vida", "original_title": "Luis Sitjar, Toda una Vida", "slug_title": "luis-sitjar-toda-una-vida", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

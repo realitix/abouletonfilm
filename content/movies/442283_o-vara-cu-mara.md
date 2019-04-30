@@ -1,0 +1,1 @@
+{"tmdb_id": 442283, "title": "O vara cu Mara", "original_title": "O vara cu Mara", "slug_title": "o-vara-cu-mara", "date": "1988-01-01", "genre": ["Romance"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

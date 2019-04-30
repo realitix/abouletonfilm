@@ -1,0 +1,1 @@
+{"tmdb_id": 68669, "title": "2 Bucks Short", "original_title": "2 Bucks Short", "slug_title": "2-bucks-short", "date": "2009-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A busy man's encounter with a homeless person changes both their lives forever.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

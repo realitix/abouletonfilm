@@ -1,0 +1,1 @@
+{"tmdb_id": 445379, "title": "Capcana", "original_title": "Capcana", "slug_title": "capcana", "date": "1974-01-07", "genre": ["Crime / Action / Drame"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rR5sasqC9mQZdcBMtpNOCmrp5k8.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

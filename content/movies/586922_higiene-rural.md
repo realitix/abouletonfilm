@@ -1,0 +1,1 @@
+{"tmdb_id": 586922, "title": "Higiene Rural", "original_title": "Higiene Rural", "slug_title": "higiene-rural", "date": "1954-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uGbmH1cOHpVmnUoWcueaaBBkwT4.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

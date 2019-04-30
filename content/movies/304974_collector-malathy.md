@@ -1,0 +1,1 @@
+{"tmdb_id": 304974, "title": "Collector Malathy", "original_title": "Collector Malathy", "slug_title": "collector-malathy", "date": "1967-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1967", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 329562, "title": "Deixa'm viure", "original_title": "Deixa'm viure", "slug_title": "deixa-m-viure", "date": "2014-06-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dXsFwxe9PgNs3qXsJSrpSemjac9.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 571820, "title": "Act of Will", "original_title": "Act of Will", "slug_title": "act-of-will", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "The story of three generations of women, from 1926 to the present day.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

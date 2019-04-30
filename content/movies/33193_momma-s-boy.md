@@ -1,0 +1,1 @@
+{"tmdb_id": 33193, "title": "Momma's Boy", "original_title": "Momma's Boy", "slug_title": "momma-s-boy", "date": "2006-01-01", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

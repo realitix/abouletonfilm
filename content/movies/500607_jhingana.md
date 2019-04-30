@@ -1,0 +1,1 @@
+{"tmdb_id": 500607, "title": "Jhingana", "original_title": "Jhingana", "slug_title": "jhingana", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "nepali mvie from nepali thriller  movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

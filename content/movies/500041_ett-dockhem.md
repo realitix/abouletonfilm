@@ -1,0 +1,1 @@
+{"tmdb_id": 500041, "title": "Ett dockhem", "original_title": "Ett dockhem", "slug_title": "ett-dockhem", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

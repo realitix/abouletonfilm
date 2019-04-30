@@ -1,0 +1,1 @@
+{"tmdb_id": 262360, "title": "Chinnachiru Ulagam", "original_title": "Chinnachiru Ulagam", "slug_title": "chinnachiru-ulagam", "date": "1966-09-02", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "Nirmala ()", "Nagesh ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

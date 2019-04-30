@@ -1,0 +1,1 @@
+{"tmdb_id": 411050, "title": "Pumpkinhead", "original_title": "Pumpkinhead", "slug_title": "pumpkinhead", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

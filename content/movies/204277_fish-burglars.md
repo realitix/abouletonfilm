@@ -1,0 +1,1 @@
+{"tmdb_id": 204277, "title": "Fish Burglars", "original_title": "Fish Burglars", "slug_title": "fish-burglars", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Three friends try to heist a rare Japanese fish from an aquarium, with unexpected results.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

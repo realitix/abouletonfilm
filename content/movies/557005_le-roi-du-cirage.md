@@ -1,0 +1,1 @@
+{"tmdb_id": 557005, "title": "Le roi du cirage", "original_title": "Le roi du cirage", "slug_title": "le-roi-du-cirage", "date": "1931-11-13", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 580400, "title": "Bomber's", "original_title": "Bomber's", "slug_title": "bomber-s", "date": "2010-04-15", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fdx2sA1z2uOX5M97jq4buxf8lBw.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

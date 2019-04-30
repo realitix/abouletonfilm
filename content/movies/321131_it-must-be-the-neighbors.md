@@ -1,0 +1,1 @@
+{"tmdb_id": 321131, "title": "It Must Be The Neighbors", "original_title": "It Must Be The Neighbors", "slug_title": "it-must-be-the-neighbors", "date": "1966-01-01", "genre": [""], "score": "1.0/10", "synopsis": "Directed by Wilmer H. Kimberly.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 157438, "title": "An American Werewolf in London", "original_title": "An American Werewolf in London", "slug_title": "an-american-werewolf-in-london", "date": "2020-12-31", "genre": [""], "score": "0.0/10", "synopsis": "Remake of the 80's classic.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

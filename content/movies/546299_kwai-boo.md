@@ -1,0 +1,1 @@
+{"tmdb_id": 546299, "title": "Kwai Boo", "original_title": "Kwai Boo", "slug_title": "kwai-boo", "date": "2015-08-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cXC5wRmI3EkrnCF4t5LH0fGcfi.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

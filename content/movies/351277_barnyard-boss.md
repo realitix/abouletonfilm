@@ -1,0 +1,1 @@
+{"tmdb_id": 351277, "title": "Barnyard Boss", "original_title": "Barnyard Boss", "slug_title": "barnyard-boss", "date": "1937-12-24", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon released 24 December 1937.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

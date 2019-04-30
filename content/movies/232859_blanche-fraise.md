@@ -1,0 +1,1 @@
+{"tmdb_id": 232859, "title": "Blanche Fraise", "original_title": "Blanche Fraise", "slug_title": "blanche-fraise", "date": "2011-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

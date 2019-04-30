@@ -1,0 +1,1 @@
+{"tmdb_id": 477895, "title": "War and Truth", "original_title": "War and Truth", "slug_title": "war-and-truth", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "War and Truth chronicles the history of embedded journalists from WWII to today.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 307419, "title": "Aasthulu Anthasthulu", "original_title": "Aasthulu Anthasthulu", "slug_title": "aasthulu-anthasthulu", "date": "1988-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1988", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

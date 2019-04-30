@@ -1,0 +1,1 @@
+{"tmdb_id": 307756, "title": "Dushmano Ka Dushman", "original_title": "Dushmano Ka Dushman", "slug_title": "dushmano-ka-dushman", "date": "1984-12-01", "genre": [""], "score": "0.0/10", "synopsis": "Film from V. Srinivasan", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

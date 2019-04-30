@@ -1,0 +1,1 @@
+{"tmdb_id": 406321, "title": "Gun Runners", "original_title": "Gun Runners", "slug_title": "gun-runners", "date": "1966-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No description", "image": "/img/default-cover.png", "actors": ["Darryl Read (Abu)", "Ria Mills (Selima)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

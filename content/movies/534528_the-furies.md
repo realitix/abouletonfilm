@@ -1,0 +1,1 @@
+{"tmdb_id": 534528, "title": "The Furies", "original_title": "The Furies", "slug_title": "the-furies", "date": "1930-03-16", "genre": [""], "score": "0.0/10", "synopsis": "This film is believed lost.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/exm52ne5tPT2wE2VWui1Hdxre2G.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 296539, "title": "Deranged", "original_title": "Deranged", "slug_title": "deranged", "date": "2001-12-18", "genre": [""], "score": "0.0/10", "synopsis": "A disturbed man takes revenge on the man who raped his wife in this thriller", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

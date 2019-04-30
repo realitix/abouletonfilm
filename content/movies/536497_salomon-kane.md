@@ -1,0 +1,1 @@
+{"tmdb_id": 536497, "title": "salomon kane", "original_title": "salomon kane", "slug_title": "salomon-kane", "date": "", "genre": [""], "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zsuqdSnd5E5aUX0s7LLQeIgz7n4.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

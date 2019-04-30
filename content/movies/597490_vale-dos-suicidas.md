@@ -1,0 +1,1 @@
+{"tmdb_id": 597490, "title": "Vale dos Suic\u00eddas", "original_title": "Vale dos Suic\u00eddas", "slug_title": "vale-dos-suicidas", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xCWB8znEpR9O9XPFNrwSxWj47yW.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

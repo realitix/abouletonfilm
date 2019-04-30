@@ -1,0 +1,1 @@
+{"tmdb_id": 477757, "title": "On the Road by Jack Kerouac", "original_title": "On the Road by Jack Kerouac", "slug_title": "on-the-road-by-jack-kerouac", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "14 min, b&w, silent, 35mm, Mexico-Columbia", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

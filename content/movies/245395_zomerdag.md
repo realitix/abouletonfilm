@@ -1,0 +1,1 @@
+{"tmdb_id": 245395, "title": "Zomerdag", "original_title": "Zomerdag", "slug_title": "zomerdag", "date": "2006-10-02", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ellik Bargai ()", "Marcel Hensema ()", "Ruben van Weelden ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

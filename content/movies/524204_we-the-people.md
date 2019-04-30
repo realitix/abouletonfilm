@@ -1,0 +1,1 @@
+{"tmdb_id": 524204, "title": "We, the people", "original_title": "We, the people", "slug_title": "we-the-people", "date": "2016-07-18", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

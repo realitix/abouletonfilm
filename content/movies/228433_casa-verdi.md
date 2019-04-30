@@ -1,0 +1,1 @@
+{"tmdb_id": 228433, "title": "Casa Verdi", "original_title": "Casa Verdi", "slug_title": "casa-verdi", "date": "2008-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

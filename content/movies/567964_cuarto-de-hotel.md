@@ -1,0 +1,1 @@
+{"tmdb_id": 567964, "title": "Cuarto de Hotel", "original_title": "Cuarto de Hotel", "slug_title": "cuarto-de-hotel", "date": "", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/byga8N3XjOhg6OqRQxUN9eNDMFi.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

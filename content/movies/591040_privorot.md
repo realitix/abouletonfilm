@@ -1,0 +1,1 @@
+{"tmdb_id": 591040, "title": "\u041f\u0440\u0438\u0432\u043e\u0440\u043e\u0442", "original_title": "\u041f\u0440\u0438\u0432\u043e\u0440\u043e\u0442", "slug_title": "privorot", "date": "", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 502553, "title": "bache ha", "original_title": "bache ha", "slug_title": "bache-ha", "date": "1997-02-02", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "An ethnographic documentary about the forgotten part of Iran.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

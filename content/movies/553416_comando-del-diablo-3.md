@@ -1,0 +1,1 @@
+{"tmdb_id": 553416, "title": "Comando del Diablo 3", "original_title": "Comando del Diablo 3", "slug_title": "comando-del-diablo-3", "date": "2013-02-01", "genre": [""], "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fS8GOs2RZYSDDKZKqhkBz6ywKyo.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

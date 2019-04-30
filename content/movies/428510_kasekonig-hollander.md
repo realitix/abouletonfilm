@@ -1,0 +1,1 @@
+{"tmdb_id": 428510, "title": "K\u00e4sek\u00f6nig Holl\u00e4nder", "original_title": "K\u00e4sek\u00f6nig Holl\u00e4nder", "slug_title": "kasekonig-hollander", "date": "1919-03-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernst Lubitsch ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

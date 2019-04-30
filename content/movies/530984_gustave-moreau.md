@@ -1,0 +1,1 @@
+{"tmdb_id": 530984, "title": "Gustave Moreau", "original_title": "Gustave Moreau", "slug_title": "gustave-moreau", "date": "1962-01-02", "genre": [""], "score": "0.0/10", "synopsis": "A film about Gustave Moreau and his influence.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

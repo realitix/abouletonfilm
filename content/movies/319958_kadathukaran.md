@@ -1,0 +1,1 @@
+{"tmdb_id": 319958, "title": "Kadathukaran", "original_title": "Kadathukaran", "slug_title": "kadathukaran", "date": "1965-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Sathyan, Adoor Bhasi and Vinodini", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 66499, "title": "Cinema", "original_title": "Cinema", "slug_title": "cinema", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Cinema", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

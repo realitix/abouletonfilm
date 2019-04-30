@@ -1,0 +1,1 @@
+{"tmdb_id": 31436, "title": "L'Etrange Monsieur Joseph", "original_title": "L'Etrange Monsieur Joseph", "slug_title": "l-etrange-monsieur-joseph", "date": "2001-11-26", "genre": [""], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

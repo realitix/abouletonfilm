@@ -1,0 +1,1 @@
+{"tmdb_id": 450282, "title": "Cornish Cowboy", "original_title": "Cornish Cowboy", "slug_title": "cornish-cowboy", "date": "2016-02-12", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "A documentary on horse whisperer Dan Wilson", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

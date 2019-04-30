@@ -1,0 +1,1 @@
+{"tmdb_id": 580392, "title": "Freshboys: Campus Heartthrob", "original_title": "Freshboys: Campus Heartthrob", "slug_title": "freshboys-campus-heartthrob", "date": "2009-03-14", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

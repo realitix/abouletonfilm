@@ -1,0 +1,1 @@
+{"tmdb_id": 371400, "title": "Weihnachten? Weihnachten!", "original_title": "Weihnachten? Weihnachten!", "slug_title": "weihnachten-weihnachten", "date": "2009-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about social projects in Berlin.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 373833, "title": "Voodoo Science Park", "original_title": "Voodoo Science Park", "slug_title": "voodoo-science-park", "date": "2009-01-02", "genre": [""], "score": "0.0/10", "synopsis": "No overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

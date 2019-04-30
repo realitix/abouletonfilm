@@ -1,0 +1,1 @@
+{"tmdb_id": 169233, "title": "O Mimi san", "original_title": "O Mimi san", "slug_title": "o-mimi-san", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A silent melodrama from the very first series of American films to use a Japanese cast.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

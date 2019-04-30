@@ -1,0 +1,1 @@
+{"tmdb_id": 328411, "title": "The Last Soviet Movie", "original_title": "The Last Soviet Movie", "slug_title": "the-last-soviet-movie", "date": "2003-05-04", "genre": [""], "score": "0.0/10", "synopsis": "Spoof of Soviet epics", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

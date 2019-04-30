@@ -1,0 +1,1 @@
+{"tmdb_id": 292766, "title": "3 Blondinen auf Pinkeltour", "original_title": "3 Blondinen auf Pinkeltour", "slug_title": "3-blondinen-auf-pinkeltour", "date": "2001-01-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vivian Schmitt ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

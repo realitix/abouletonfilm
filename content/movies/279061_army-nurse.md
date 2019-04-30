@@ -1,0 +1,1 @@
+{"tmdb_id": 279061, "title": "Army Nurse", "original_title": "\u5973\u513f\u697c", "slug_title": "army-nurse", "date": "1985-01-02", "genre": ["Drame"], "score": "0.0/10", "synopsis": "The stories of a group of women training to become military nurses.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

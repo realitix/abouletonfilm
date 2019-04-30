@@ -1,0 +1,1 @@
+{"tmdb_id": 549644, "title": "\u5403\u8d27\u5b87\u5b99", "original_title": "\u5403\u8d27\u5b87\u5b99", "slug_title": "chi-huo-yu-zhou", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 428312, "title": "Tricky People", "original_title": "Tricky People", "slug_title": "tricky-people", "date": "1999-02-02", "genre": [""], "score": "0.0/10", "synopsis": "A couple spends a night at a hotel. Things get ugly.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

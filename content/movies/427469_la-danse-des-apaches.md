@@ -1,0 +1,1 @@
+{"tmdb_id": 427469, "title": "La danse des apaches", "original_title": "La danse des apaches", "slug_title": "la-danse-des-apaches", "date": "1904-11-24", "genre": [""], "score": "0.0/10", "synopsis": "A couple performs the Ruffian's Dance.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

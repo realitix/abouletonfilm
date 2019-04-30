@@ -1,0 +1,1 @@
+{"tmdb_id": 333055, "title": "Work Camp", "original_title": "Ordu-ye Kar", "slug_title": "work-camp", "date": "1974-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Mohammad Hosain Mahini Hasanabadi.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

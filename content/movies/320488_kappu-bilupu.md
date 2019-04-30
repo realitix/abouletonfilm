@@ -1,0 +1,1 @@
+{"tmdb_id": 320488, "title": "Kappu Bilupu", "original_title": "Kappu Bilupu", "slug_title": "kappu-bilupu", "date": "1959-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1969", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

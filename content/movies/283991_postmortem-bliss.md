@@ -1,0 +1,1 @@
+{"tmdb_id": 283991, "title": "Postmortem Bliss", "original_title": "Postmortem Bliss", "slug_title": "postmortem-bliss", "date": "2006-09-15", "genre": [""], "score": "0.0/10", "synopsis": "The over-medicated, addicted, and misdiagnosed generation of today.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349657, "title": "\uc57d\uc18d\ud55c \uc5ec\uc790", "original_title": "\uc57d\uc18d\ud55c \uc5ec\uc790", "slug_title": "yagsoghan-yeoja", "date": "1983-06-18", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

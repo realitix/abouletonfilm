@@ -1,0 +1,1 @@
+{"tmdb_id": 570628, "title": "Mashed Bandicoot", "original_title": "Mashed Bandicoot", "slug_title": "mashed-bandicoot", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "The story arc between Dr. Neo Cortex, Dr. Ivo Robotnik, and Mario Head.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

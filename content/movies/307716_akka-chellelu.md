@@ -1,0 +1,1 @@
+{"tmdb_id": 307716, "title": "Akka Chellelu", "original_title": "Akka Chellelu", "slug_title": "akka-chellelu", "date": "1970-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1970", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

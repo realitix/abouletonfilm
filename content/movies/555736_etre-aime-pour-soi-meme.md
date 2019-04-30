@@ -1,0 +1,1 @@
+{"tmdb_id": 555736, "title": "\u00catre aim\u00e9 pour soi m\u00eame", "original_title": "\u00catre aim\u00e9 pour soi m\u00eame", "slug_title": "etre-aime-pour-soi-meme", "date": "1920-02-04", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

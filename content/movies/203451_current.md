@@ -1,0 +1,1 @@
+{"tmdb_id": 203451, "title": "Current", "original_title": "Corrente", "slug_title": "current", "date": "2013-06-25", "genre": [""], "score": "0.0/10", "synopsis": "A current of flow", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

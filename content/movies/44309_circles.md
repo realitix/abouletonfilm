@@ -1,0 +1,1 @@
+{"tmdb_id": 44309, "title": "Circles", "original_title": "Ma'agalim Shel Shi-Shabbat", "slug_title": "circles", "date": "1980-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Idit Shehori.", "image": "/img/default-cover.png", "actors": ["Noa Cohen-Raz ()", "Motti Dichne ()", "Galit Gil ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

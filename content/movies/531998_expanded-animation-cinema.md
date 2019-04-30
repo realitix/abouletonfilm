@@ -1,0 +1,1 @@
+{"tmdb_id": 531998, "title": "Expanded Animation Cinema", "original_title": "Expanded Animation Cinema", "slug_title": "expanded-animation-cinema", "date": "2014-06-24", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Alias Yederbeck.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

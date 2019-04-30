@@ -1,0 +1,1 @@
+{"tmdb_id": 351258, "title": "The Book Shop", "original_title": "The Book Shop", "slug_title": "the-book-shop", "date": "1937-02-05", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon released 5 February 1937.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

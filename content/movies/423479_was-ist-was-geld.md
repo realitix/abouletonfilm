@@ -1,0 +1,1 @@
+{"tmdb_id": 423479, "title": "Was ist Was - Geld", "original_title": "Was ist Was - Geld", "slug_title": "was-ist-was-geld", "date": "2010-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y8pXW07hQR5G7bdkHeQmDphpFes.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

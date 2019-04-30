@@ -1,0 +1,1 @@
+{"tmdb_id": 556937, "title": "Coquecigrole", "original_title": "Coquecigrole", "slug_title": "coquecigrole", "date": "1931-12-22", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 386592, "title": "Dal segno", "original_title": "Dal segno", "slug_title": "dal-segno", "date": "2000-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A taxi driver gets confused after an accident.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

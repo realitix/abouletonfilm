@@ -1,0 +1,1 @@
+{"tmdb_id": 476298, "title": "The Supers", "original_title": "The Supers", "slug_title": "the-supers", "date": "2017-10-05", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Chevers ()", "Sarah Tyler Shaw ()", "Ross Ellis ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

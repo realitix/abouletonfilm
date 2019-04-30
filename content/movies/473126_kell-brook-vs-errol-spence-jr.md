@@ -1,0 +1,1 @@
+{"tmdb_id": 473126, "title": "Kell Brook vs Errol Spence Jr", "original_title": "Kell Brook vs Errol Spence Jr", "slug_title": "kell-brook-vs-errol-spence-jr", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Kell Brook vs Errol Spence Jr 2017", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

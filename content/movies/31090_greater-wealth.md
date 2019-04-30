@@ -1,0 +1,1 @@
+{"tmdb_id": 31090, "title": "Greater Wealth", "original_title": "Greater Wealth", "slug_title": "greater-wealth", "date": "1913-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

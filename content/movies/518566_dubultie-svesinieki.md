@@ -1,0 +1,1 @@
+{"tmdb_id": 518566, "title": "Dubultie sve\u0161inieki", "original_title": "Dubultie sve\u0161inieki", "slug_title": "dubultie-svesinieki", "date": "2015-05-26", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

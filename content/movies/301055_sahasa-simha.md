@@ -1,0 +1,1 @@
+{"tmdb_id": 301055, "title": "Sahasa Simha", "original_title": "Sahasa Simha", "slug_title": "sahasa-simha", "date": "1982-01-01", "genre": [""], "score": "6.0/10", "synopsis": "Motion Picture starring Vishnuvardhan, Udaya Kumar and Rajyalakshmi", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

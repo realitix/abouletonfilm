@@ -1,0 +1,1 @@
+{"tmdb_id": 472252, "title": "Dog Walk", "original_title": "Dog Walk", "slug_title": "dog-walk", "date": "", "genre": ["Myst\u00e8re / Horreur"], "score": "2.0/10", "synopsis": "A man with a mission climbs the stairs of a haunted apartment building.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

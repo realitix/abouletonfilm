@@ -1,0 +1,1 @@
+{"tmdb_id": 531580, "title": "No Strings Attached", "original_title": "No Strings Attached", "slug_title": "no-strings-attached", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Short drama written and directed by Jake Hunsicker", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

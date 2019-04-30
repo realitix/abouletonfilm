@@ -1,0 +1,1 @@
+{"tmdb_id": 521791, "title": "Kim & Steven", "original_title": "Kim & Steven", "slug_title": "kim-steven", "date": "1994-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Kim, a dancer, gets a foot massage from Steven, a drummer.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

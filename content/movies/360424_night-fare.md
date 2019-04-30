@@ -1,0 +1,1 @@
+{"tmdb_id": 360424, "title": "Night Fare", "original_title": "Druga taryfa", "slug_title": "night-fare", "date": "1962-09-19", "genre": [""], "score": "0.0/10", "synopsis": "no overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

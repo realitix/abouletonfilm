@@ -1,0 +1,1 @@
+{"tmdb_id": 219931, "title": "Argentina latente", "original_title": "Argentina latente", "slug_title": "argentina-latente", "date": "2007-05-24", "genre": [""], "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xt06KNJQY6caVRNxASNDEtrQZXa.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 444852, "title": "Firefly", "original_title": "Firefly", "slug_title": "firefly", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Superimposed images of a woman dancing.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

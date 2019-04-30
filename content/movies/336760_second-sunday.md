@@ -1,0 +1,1 @@
+{"tmdb_id": 336760, "title": "Second Sunday", "original_title": "Second Sunday", "slug_title": "second-sunday", "date": "2014-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Mother's Day: Some things can't be said with flowers.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

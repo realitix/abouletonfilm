@@ -1,0 +1,1 @@
+{"tmdb_id": 516092, "title": "Malta Force", "original_title": "Malta Force", "slug_title": "malta-force", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Maltese movie", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pb15DsyFF4jJu0MxzO41yJIyU0Z.jpg", "actors": ["Joe Demicoli ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

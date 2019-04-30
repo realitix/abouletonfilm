@@ -1,0 +1,1 @@
+{"tmdb_id": 331183, "title": "Two Hats", "original_title": "Two Hats", "slug_title": "two-hats", "date": "2012-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary from Andrew Garcia", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

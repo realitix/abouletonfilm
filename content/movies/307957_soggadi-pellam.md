@@ -1,0 +1,1 @@
+{"tmdb_id": 307957, "title": "Soggadi Pellam", "original_title": "Soggadi Pellam", "slug_title": "soggadi-pellam", "date": "1996-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Mohan Babu, Monica Bedi and Tanikella Bharani", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

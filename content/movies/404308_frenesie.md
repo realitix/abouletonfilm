@@ -1,0 +1,1 @@
+{"tmdb_id": 404308, "title": "Frenesie", "original_title": "Frenesie", "slug_title": "frenesie", "date": "1955-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Abstract short.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

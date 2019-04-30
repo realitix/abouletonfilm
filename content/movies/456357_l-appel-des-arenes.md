@@ -1,0 +1,1 @@
+{"tmdb_id": 456357, "title": "L'appel des ar\u00e8nes", "original_title": "L'appel des ar\u00e8nes", "slug_title": "l-appel-des-arenes", "date": "2005-02-02", "genre": [""], "score": "0.0/10", "synopsis": "Love story set among wrestlers in Senegal.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

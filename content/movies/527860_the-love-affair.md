@@ -1,0 +1,1 @@
+{"tmdb_id": 527860, "title": "The Love Affair", "original_title": "The Love Affair", "slug_title": "the-love-affair", "date": "2010-11-09", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uKiCvsGgDBN9vBabinnPksGqv5P.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 573470, "title": "Hijo por Hijo", "original_title": "Hijo por Hijo", "slug_title": "hijo-por-hijo", "date": "2018-01-01", "genre": [""], "score": "0.0/10", "synopsis": "The life of a Venezuelan Kidnapper takes an unexpected turn on his last job.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

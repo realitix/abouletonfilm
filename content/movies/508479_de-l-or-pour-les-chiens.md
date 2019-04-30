@@ -1,0 +1,1 @@
+{"tmdb_id": 508479, "title": "De l'Or pour les Chiens", "original_title": "De l'Or pour les Chiens", "slug_title": "de-l-or-pour-les-chiens", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "premier long-m\u00e9trage d'Anna Cazenave-Cambet", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

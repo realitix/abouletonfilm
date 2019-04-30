@@ -1,0 +1,1 @@
+{"tmdb_id": 400436, "title": "P\u00e9nzt, de sokat!", "original_title": "P\u00e9nzt, de sokat!", "slug_title": "penzt-de-sokat", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

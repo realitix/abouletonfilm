@@ -1,0 +1,1 @@
+{"tmdb_id": 547441, "title": "Samba, 100 Anos de Resist\u00eancia", "original_title": "Samba, 100 Anos de Resist\u00eancia", "slug_title": "samba-100-anos-de-resistencia", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

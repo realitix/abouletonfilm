@@ -1,0 +1,1 @@
+{"tmdb_id": 510277, "title": "Pra ficar na hist\u00f3ria", "original_title": "Pra ficar na hist\u00f3ria", "slug_title": "pra-ficar-na-historia", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

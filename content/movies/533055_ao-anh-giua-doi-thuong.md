@@ -1,0 +1,1 @@
+{"tmdb_id": 533055, "title": "Ao anh giua doi thuong", "original_title": "Ao anh giua doi thuong", "slug_title": "ao-anh-giua-doi-thuong", "date": "1995-11-12", "genre": [""], "score": "0.0/10", "synopsis": "(no summary for the moment)", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

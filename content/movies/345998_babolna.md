@@ -1,0 +1,1 @@
+{"tmdb_id": 345998, "title": "B\u00e1bolna", "original_title": "B\u00e1bolna", "slug_title": "babolna", "date": "1985-01-01", "genre": [""], "score": "0.0/10", "synopsis": "One of the longest films ever made", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

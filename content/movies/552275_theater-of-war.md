@@ -1,0 +1,1 @@
+{"tmdb_id": 552275, "title": "Theater of War", "original_title": "Theater of War", "slug_title": "theater-of-war", "date": "", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "Based on an episode of This American Life.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

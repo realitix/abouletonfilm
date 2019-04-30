@@ -1,0 +1,1 @@
+{"tmdb_id": 568633, "title": "Les Indolents", "original_title": "Les Indolents", "slug_title": "les-indolents", "date": "1999-01-01", "genre": [""], "score": "0.0/10", "synopsis": "un film de Caroline Deruas", "image": "/img/default-cover.png", "actors": ["Vincent Macaigne ()", "Victoria Cohen ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

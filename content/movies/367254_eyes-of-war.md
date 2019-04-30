@@ -1,0 +1,1 @@
+{"tmdb_id": 367254, "title": "Eyes of war", "original_title": "Eyes of war", "slug_title": "eyes-of-war", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "American TV-movie, including Henry Kissinger, Robert Mitchum, Manfred Rommel", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 473685, "title": "Afternoon", "original_title": "Afternoon", "slug_title": "afternoon", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "An austere Arab mother and her tearaway teen daughter struggle with a family dynamic in transition.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 101798, "title": "Take a Hike", "original_title": "Take a Hike", "slug_title": "take-a-hike", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A young man takes his girlfriend's father into the forest to ask him the big question.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

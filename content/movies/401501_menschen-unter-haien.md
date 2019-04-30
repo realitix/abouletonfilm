@@ -1,0 +1,1 @@
+{"tmdb_id": 401501, "title": "Menschen unter Haien", "original_title": "Menschen unter Haien", "slug_title": "menschen-unter-haien", "date": "1947-06-24", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Hass (himself)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

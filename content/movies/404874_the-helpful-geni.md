@@ -1,0 +1,1 @@
+{"tmdb_id": 404874, "title": "The Helpful Geni", "original_title": "The Helpful Geni", "slug_title": "the-helpful-geni", "date": "1951-08-14", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon.", "image": "/img/default-cover.png", "actors": ["Dayton Allen (Geni (voice))"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

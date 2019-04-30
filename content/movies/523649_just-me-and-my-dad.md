@@ -1,0 +1,1 @@
+{"tmdb_id": 523649, "title": "Just Me and My Dad", "original_title": "Just Me and My Dad", "slug_title": "just-me-and-my-dad", "date": "1993-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Little Critter and his dad go camping.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

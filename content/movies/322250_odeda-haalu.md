@@ -1,0 +1,1 @@
+{"tmdb_id": 322250, "title": "Odeda Haalu", "original_title": "Odeda Haalu", "slug_title": "odeda-haalu", "date": "1984-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1984 Kannada film directed by Joe Simon", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

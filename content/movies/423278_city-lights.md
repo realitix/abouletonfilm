@@ -1,0 +1,1 @@
+{"tmdb_id": 423278, "title": "City Lights", "original_title": "City Lights", "slug_title": "city-lights", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A night security guard and a cleaner in opposite office blocks have a interesting courtship.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

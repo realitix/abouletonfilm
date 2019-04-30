@@ -1,0 +1,1 @@
+{"tmdb_id": 397338, "title": "The Righteous Revenge", "original_title": "The Righteous Revenge", "slug_title": "the-righteous-revenge", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Black and White", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

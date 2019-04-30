@@ -1,0 +1,1 @@
+{"tmdb_id": 509018, "title": "Awakening", "original_title": "Bu\u0111enje", "slug_title": "awakening", "date": "1999-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

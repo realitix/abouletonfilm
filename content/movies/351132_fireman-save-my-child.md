@@ -1,0 +1,1 @@
+{"tmdb_id": 351132, "title": "Fireman, Save My Child", "original_title": "Fireman, Save My Child", "slug_title": "fireman-save-my-child", "date": "1935-02-22", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon released 22 February 1935.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 302279, "title": "Sumangali", "original_title": "Sumangali", "slug_title": "sumangali", "date": "1940-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1940 film starring Chittor V. Nagaiah, Giri A.S. and Kumari", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

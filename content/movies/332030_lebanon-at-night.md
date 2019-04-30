@@ -1,0 +1,1 @@
+{"tmdb_id": 332030, "title": "Lebanon at Night", "original_title": "Lubnan fi lail", "slug_title": "lebanon-at-night", "date": "1963-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Muhammad Selman.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

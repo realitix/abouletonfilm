@@ -1,0 +1,1 @@
+{"tmdb_id": 540084, "title": "Treta Civil", "original_title": "Treta Civil", "slug_title": "treta-civil", "date": "2016-07-07", "genre": [""], "score": "0.0/10", "synopsis": "Oh no, man.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

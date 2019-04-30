@@ -1,0 +1,1 @@
+{"tmdb_id": 272810, "title": "The Pizza Man", "original_title": "The Pizza Man", "slug_title": "the-pizza-man", "date": "2001-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A pizza delivery man kills his customers.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

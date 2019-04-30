@@ -1,0 +1,1 @@
+{"tmdb_id": 480262, "title": "L'Anima del Diavolo 3", "original_title": "L'Anima del Diavolo 3", "slug_title": "l-anima-del-diavolo-3", "date": "", "genre": ["Myst\u00e8re / Thriller"], "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

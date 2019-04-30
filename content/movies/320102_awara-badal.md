@@ -1,0 +1,1 @@
+{"tmdb_id": 320102, "title": "Awara Badal", "original_title": "Awara Badal", "slug_title": "awara-badal", "date": "1964-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Abducted at a young age, a prince turns into a much feared masked bandit.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

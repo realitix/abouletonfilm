@@ -1,0 +1,1 @@
+{"tmdb_id": 495221, "title": "La media vuelta", "original_title": "La media vuelta", "slug_title": "la-media-vuelta", "date": "2013-07-15", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pedro Casablanc (Emilio)", "Ana Labordeta (Silvia)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

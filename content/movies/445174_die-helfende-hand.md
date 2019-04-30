@@ -1,0 +1,1 @@
+{"tmdb_id": 445174, "title": "Die helfende Hand", "original_title": "Die helfende Hand", "slug_title": "die-helfende-hand", "date": "2016-03-02", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

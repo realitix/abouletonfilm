@@ -1,0 +1,1 @@
+{"tmdb_id": 513694, "title": "Liebscher Bracht Schmerzfrei", "original_title": "Liebscher Bracht Schmerzfrei", "slug_title": "liebscher-bracht-schmerzfrei", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

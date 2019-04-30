@@ -1,0 +1,1 @@
+{"tmdb_id": 303304, "title": "Sampangi", "original_title": "Sampangi", "slug_title": "sampangi", "date": "2001-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 2001", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

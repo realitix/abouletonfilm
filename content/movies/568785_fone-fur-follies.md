@@ -1,0 +1,1 @@
+{"tmdb_id": 568785, "title": "Fone Fur Follies", "original_title": "Fone Fur Follies", "slug_title": "fone-fur-follies", "date": "2008-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Fone Fur Follies is the English version of T\u00e9l\u00e9pattes.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

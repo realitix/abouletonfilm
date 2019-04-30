@@ -1,0 +1,1 @@
+{"tmdb_id": 304128, "title": "Dil Ki Karen", "original_title": "Dil Ki Karen", "slug_title": "dil-ki-karen", "date": "2006-03-06", "genre": [""], "score": "0.0/10", "synopsis": "A couple facing adversity must find comfort in each other or betray their love.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

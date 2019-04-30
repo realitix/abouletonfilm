@@ -1,0 +1,1 @@
+{"tmdb_id": 262381, "title": "Malathi", "original_title": "Malathi", "slug_title": "malathi", "date": "1970-10-28", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "B. Saroja Devi ()", "Ravichandran ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

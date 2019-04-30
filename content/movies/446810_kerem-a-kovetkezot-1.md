@@ -1,0 +1,1 @@
+{"tmdb_id": 446810, "title": "K\u00e9rem a k\u00f6vetkez\u0151t 1.", "original_title": "K\u00e9rem a k\u00f6vetkez\u0151t 1.", "slug_title": "kerem-a-kovetkezot-1", "date": "1973-06-11", "genre": ["Familial"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

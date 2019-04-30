@@ -1,0 +1,1 @@
+{"tmdb_id": 349308, "title": "A Good Day to Fall in Love", "original_title": "\uc0ac\ub791\ud558\uae30 \uc88b\uc740 \ub0a0", "slug_title": "a-good-day-to-fall-in-love", "date": "1995-01-14", "genre": ["Romance"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

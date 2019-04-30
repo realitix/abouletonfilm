@@ -1,0 +1,1 @@
+{"tmdb_id": 435285, "title": "Ciutad\u00e0 Escarr\u00e9", "original_title": "Ciutad\u00e0 Escarr\u00e9", "slug_title": "ciutada-escarre", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eBj224146IPfuwqoHUFCwIqRnHd.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

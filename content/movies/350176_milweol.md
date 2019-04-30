@@ -1,0 +1,1 @@
+{"tmdb_id": 350176, "title": "\ubc00\uc6d4", "original_title": "\ubc00\uc6d4", "slug_title": "milweol", "date": "1989-01-28", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

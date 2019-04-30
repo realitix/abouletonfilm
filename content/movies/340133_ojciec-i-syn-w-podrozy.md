@@ -1,0 +1,1 @@
+{"tmdb_id": 340133, "title": "Ojciec i syn w podr\u00f3zy", "original_title": "Ojciec i syn w podr\u00f3zy", "slug_title": "ojciec-i-syn-w-podrozy", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Father and Son on a Journey", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

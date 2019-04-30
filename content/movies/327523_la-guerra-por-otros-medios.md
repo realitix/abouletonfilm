@@ -1,0 +1,1 @@
+{"tmdb_id": 327523, "title": "La guerra por otros medios", "original_title": "La guerra por otros medios", "slug_title": "la-guerra-por-otros-medios", "date": "2010-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

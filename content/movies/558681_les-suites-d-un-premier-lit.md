@@ -1,0 +1,1 @@
+{"tmdb_id": 558681, "title": "Les suites d'un premier lit", "original_title": "Les suites d'un premier lit", "slug_title": "les-suites-d-un-premier-lit", "date": "1935-01-18", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

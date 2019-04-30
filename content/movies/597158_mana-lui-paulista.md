@@ -1,0 +1,1 @@
+{"tmdb_id": 597158, "title": "M\u00e2na lui Paulista", "original_title": "M\u00e2na lui Paulista", "slug_title": "mana-lui-paulista", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

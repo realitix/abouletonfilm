@@ -1,0 +1,1 @@
+{"tmdb_id": 387454, "title": "La moglie del capitano", "original_title": "La moglie del capitano", "slug_title": "la-moglie-del-capitano", "date": "1913-07-30", "genre": [""], "score": "0.0/10", "synopsis": "Italian comedy short.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 462450, "title": "A Mala Sinistra", "original_title": "A Mala Sinistra", "slug_title": "a-mala-sinistra", "date": "1908-10-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7uaDfBf4Mu6afSZ3MkLjPoCO79A.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

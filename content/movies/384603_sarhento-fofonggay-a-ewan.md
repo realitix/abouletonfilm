@@ -1,0 +1,1 @@
+{"tmdb_id": 384603, "title": "Sarhento Fofonggay: A, ewan!", "original_title": "Sarhento Fofonggay: A, ewan!", "slug_title": "sarhento-fofonggay-a-ewan", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Dolphy comedy.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

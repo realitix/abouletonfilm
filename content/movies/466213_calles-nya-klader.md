@@ -1,0 +1,1 @@
+{"tmdb_id": 466213, "title": "Calles nya kl\u00e4der", "original_title": "Calles nya kl\u00e4der", "slug_title": "calles-nya-klader", "date": "1917-01-22", "genre": [""], "score": "0.0/10", "synopsis": "Calle has to go on the run.", "image": "/img/default-cover.png", "actors": ["Carl Barcklind (Calle)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

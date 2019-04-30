@@ -1,0 +1,1 @@
+{"tmdb_id": 378720, "title": "Go Girl Victory!", "original_title": "VICTORY!~\u30d5\u30c3\u30c8\u30ac\u30fc\u30eb\u30ba\u306e\u9752\u6625~", "slug_title": "go-girl-victory", "date": "2003-11-22", "genre": ["Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

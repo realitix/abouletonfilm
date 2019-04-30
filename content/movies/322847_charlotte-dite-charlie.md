@@ -1,0 +1,1 @@
+{"tmdb_id": 322847, "title": "Charlotte dite 'Charlie'", "original_title": "Charlotte dite 'Charlie'", "slug_title": "charlotte-dite-charlie", "date": "1995-05-31", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Caroline Huppert.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 464727, "title": "\u5815\u60aa \uff5eDARK\uff5e", "original_title": "\u5815\u60aa \uff5eDARK\uff5e", "slug_title": "duo-e-dark", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yOdPsSqp0ecSyKkDr6PYYjJ6KjI.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

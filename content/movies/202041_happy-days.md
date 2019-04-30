@@ -1,0 +1,1 @@
+{"tmdb_id": 202041, "title": "Happy Days", "original_title": "Happy Days", "slug_title": "happy-days", "date": "1936-09-29", "genre": [""], "score": "0.0/10", "synopsis": "Pinhead is ridiculed by the other boys on the way to the fishing hole.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 262230, "title": "Gitanos de Buenos Aires", "original_title": "Gitanos de Buenos Aires", "slug_title": "gitanos-de-buenos-aires", "date": "2012-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Amaya ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

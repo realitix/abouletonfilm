@@ -1,0 +1,1 @@
+{"tmdb_id": 578288, "title": "Es mejor ser rico que pobre", "original_title": "Es mejor ser rico que pobre", "slug_title": "es-mejor-ser-rico-que-pobre", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

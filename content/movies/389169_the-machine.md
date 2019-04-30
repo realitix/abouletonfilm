@@ -1,0 +1,1 @@
+{"tmdb_id": 389169, "title": "The Machine", "original_title": "The Machine", "slug_title": "the-machine", "date": "1970-03-21", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Jerzy Rozenberg and Arlene Shermann", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

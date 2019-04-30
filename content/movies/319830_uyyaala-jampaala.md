@@ -1,0 +1,1 @@
+{"tmdb_id": 319830, "title": "Uyyaala Jampaala", "original_title": "Uyyaala Jampaala", "slug_title": "uyyaala-jampaala", "date": "1965-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Indian drama starring  Kongara Jaggaiah and Krishna Kumari", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 284653, "title": "Kali Film", "original_title": "Kali Film", "slug_title": "kali-film", "date": "1988-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Birgit Hein.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 471479, "title": "\u00c9szak fel\u00e9", "original_title": "\u00c9szak fel\u00e9", "slug_title": "eszak-fele", "date": "1938-08-17", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

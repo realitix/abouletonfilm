@@ -1,0 +1,1 @@
+{"tmdb_id": 536648, "title": "A Kentucky Feud", "original_title": "A Kentucky Feud", "slug_title": "a-kentucky-feud", "date": "1905-11-07", "genre": ["Drame"], "score": "0.0/10", "synopsis": "A fictionalized account of the Hatfields and the McCoys.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 519388, "title": "Kimbanda", "original_title": "Kimbanda", "slug_title": "kimbanda", "date": "1979-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1979 Angolan documentary.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/TLS98G9VN02gX96Yo5JBvbcTgC.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

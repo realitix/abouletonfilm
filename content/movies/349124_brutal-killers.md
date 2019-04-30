@@ -1,0 +1,1 @@
+{"tmdb_id": 349124, "title": "Brutal Killers", "original_title": "Brutal Killers", "slug_title": "brutal-killers", "date": "2008-09-24", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 225994, "title": "Rito terminal", "original_title": "Rito terminal", "slug_title": "rito-terminal", "date": "2000-09-24", "genre": [""], "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o2pxaJT8wJeNsKW6zjn328gHMgD.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

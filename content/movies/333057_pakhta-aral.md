@@ -1,0 +1,1 @@
+{"tmdb_id": 333057, "title": "Pakhta-Aral", "original_title": "Pakhta-Aral", "slug_title": "pakhta-aral", "date": "1925-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by N. Scerbakov.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

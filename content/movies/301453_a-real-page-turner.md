@@ -1,0 +1,1 @@
+{"tmdb_id": 301453, "title": "A Real Page Turner", "original_title": "A Real Page Turner", "slug_title": "a-real-page-turner", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A failed writer begins to wish he was illiterate.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

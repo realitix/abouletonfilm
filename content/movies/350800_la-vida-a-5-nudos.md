@@ -1,0 +1,1 @@
+{"tmdb_id": 350800, "title": "La vida a 5 nudos", "original_title": "La vida a 5 nudos", "slug_title": "la-vida-a-5-nudos", "date": "2015-07-14", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

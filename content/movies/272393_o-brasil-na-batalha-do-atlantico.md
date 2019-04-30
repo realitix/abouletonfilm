@@ -1,0 +1,1 @@
+{"tmdb_id": 272393, "title": "O Brasil na Batalha do Atl\u00e2ntico", "original_title": "O Brasil na Batalha do Atl\u00e2ntico", "slug_title": "o-brasil-na-batalha-do-atlantico", "date": "2012-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

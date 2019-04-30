@@ -1,0 +1,1 @@
+{"tmdb_id": 329126, "title": "The Bazaar Weeps", "original_title": "Bazar Migeryad", "slug_title": "the-bazaar-weeps", "date": "1976-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Student film directed by Abbas Baqerian and Reza Gharavi.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

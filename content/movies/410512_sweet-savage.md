@@ -1,0 +1,1 @@
+{"tmdb_id": 410512, "title": "Sweet Savage", "original_title": "Sweet Savage", "slug_title": "sweet-savage", "date": "1979-09-01", "genre": [""], "score": "0.0/10", "synopsis": "A real delicious Western!", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

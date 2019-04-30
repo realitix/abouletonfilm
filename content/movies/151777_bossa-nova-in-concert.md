@@ -1,0 +1,1 @@
+{"tmdb_id": 151777, "title": "Bossa Nova In Concert", "original_title": "Bossa Nova In Concert", "slug_title": "bossa-nova-in-concert", "date": "2016-02-13", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Cbs0BeITEqrMqJcqMZ09IpFqB7.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

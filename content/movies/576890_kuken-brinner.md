@@ -1,0 +1,1 @@
+{"tmdb_id": 576890, "title": "Kuken brinner", "original_title": "Kuken brinner", "slug_title": "kuken-brinner", "date": "2011-01-13", "genre": [""], "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/clUOiBbqAq73hBAZfZbk4BdzhqU.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

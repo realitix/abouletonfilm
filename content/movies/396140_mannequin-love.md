@@ -1,0 +1,1 @@
+{"tmdb_id": 396140, "title": "Mannequin Love", "original_title": "Mannequin Love", "slug_title": "mannequin-love", "date": "2014-03-16", "genre": [""], "score": "0.0/10", "synopsis": "Stop motion short film inspired by Tim Burton's Nightmare Before Christmas.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

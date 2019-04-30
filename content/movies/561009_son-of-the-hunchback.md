@@ -1,0 +1,1 @@
+{"tmdb_id": 561009, "title": "Son of the Hunchback", "original_title": "Il figlio di Lagard\u00e8re", "slug_title": "son-of-the-hunchback", "date": "1952-11-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

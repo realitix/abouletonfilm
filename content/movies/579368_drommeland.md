@@ -1,0 +1,1 @@
+{"tmdb_id": 579368, "title": "Dr\u00f8mmeland", "original_title": "Dr\u00f8mmeland", "slug_title": "drommeland", "date": "2019-03-28", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dTrJq9h4gDCOmgy2EMff2EouAI0.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

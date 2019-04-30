@@ -1,0 +1,1 @@
+{"tmdb_id": 149322, "title": "Say Goodbye", "original_title": "Say Goodbye", "slug_title": "say-goodbye", "date": "1971-01-08", "genre": [""], "score": "0.0/10", "synopsis": "The imperiled relationship between man and nature.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

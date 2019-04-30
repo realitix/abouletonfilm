@@ -1,0 +1,1 @@
+{"tmdb_id": 593657, "title": "Sinitsa", "original_title": "Sinitsa", "slug_title": "sinitsa", "date": "1944-04-08", "genre": ["Animation"], "score": "0.0/10", "synopsis": "Eating time in the forest.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

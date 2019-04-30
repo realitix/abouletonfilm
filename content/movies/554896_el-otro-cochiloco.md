@@ -1,0 +1,1 @@
+{"tmdb_id": 554896, "title": "El Otro Cochiloco", "original_title": "El Otro Cochiloco", "slug_title": "el-otro-cochiloco", "date": "2013-02-01", "genre": [""], "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ljD4FzFWO0157M8CAu4bSelRp4p.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

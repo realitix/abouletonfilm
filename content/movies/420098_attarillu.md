@@ -1,0 +1,1 @@
+{"tmdb_id": 420098, "title": "Attarillu", "original_title": "Attarillu", "slug_title": "attarillu", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Attarillu 2016 Telugu Movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 366330, "title": "Crasher Three! R/C Bloopers Tape", "original_title": "Crasher Three! R/C Bloopers Tape", "slug_title": "crasher-three-r-c-bloopers-tape", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "45 MINUTES OF MODELING MAYHEM!", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

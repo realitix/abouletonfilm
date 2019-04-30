@@ -1,0 +1,1 @@
+{"tmdb_id": 483525, "title": "Chegamos Antes", "original_title": "Chegamos Antes", "slug_title": "chegamos-antes", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

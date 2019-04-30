@@ -1,0 +1,1 @@
+{"tmdb_id": 279221, "title": "Sindbad und Alibaba", "original_title": "Sindbad und Alibaba", "slug_title": "sindbad-und-alibaba", "date": "1976-06-28", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/59nB5T8aWacqj5Nl4DnmnnVpIxJ.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

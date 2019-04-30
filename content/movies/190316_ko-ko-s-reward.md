@@ -1,0 +1,1 @@
+{"tmdb_id": 190316, "title": "Ko-Ko's Reward", "original_title": "Ko-Ko's Reward", "slug_title": "ko-ko-s-reward", "date": "1929-02-22", "genre": [""], "score": "0.0/10", "synopsis": "Thanks to Magic Ink, a live-action girl joins Koko in a haunted house.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

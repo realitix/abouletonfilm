@@ -1,0 +1,1 @@
+{"tmdb_id": 542281, "title": "Euclydes da Cunha - 1866-1909", "original_title": "Euclydes da Cunha - 1866-1909", "slug_title": "euclydes-da-cunha-1866-1909", "date": "1944-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

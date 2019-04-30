@@ -1,0 +1,1 @@
+{"tmdb_id": 216338, "title": "\u6a21\u5973\u751f\u6b7b\u9b25", "original_title": "\u6a21\u5973\u751f\u6b7b\u9b25", "slug_title": "mo-nu-sheng-si-dou", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

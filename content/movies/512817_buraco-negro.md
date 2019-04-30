@@ -1,0 +1,1 @@
+{"tmdb_id": 512817, "title": "Buraco Negro", "original_title": "Buraco Negro", "slug_title": "buraco-negro", "date": "2018-03-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/49zU7kAwBTAPh9aE20gVunOKugn.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 499291, "title": "The Entertainer", "original_title": "The Entertainer", "slug_title": "the-entertainer", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A cheap party entertainer spirals out of control at a young girl's Bat Mitzvah.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

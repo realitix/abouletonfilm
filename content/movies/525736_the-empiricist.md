@@ -1,0 +1,1 @@
+{"tmdb_id": 525736, "title": "The Empiricist", "original_title": "The Empiricist", "slug_title": "the-empiricist", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A doctor begins to question the effectiveness of conventional medical treatments.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

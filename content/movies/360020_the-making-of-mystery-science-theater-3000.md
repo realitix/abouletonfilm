@@ -1,0 +1,1 @@
+{"tmdb_id": 360020, "title": "The Making of 'Mystery Science Theater 3000'", "original_title": "The Making of 'Mystery Science Theater 3000'", "slug_title": "the-making-of-mystery-science-theater-3000", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

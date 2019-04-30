@@ -1,0 +1,1 @@
+{"tmdb_id": 320896, "title": "Maanasa Sarovara", "original_title": "Maanasa Sarovara", "slug_title": "maanasa-sarovara", "date": "1982-01-01", "genre": [""], "score": "8.5/10", "synopsis": "Film starring Pandithachar, Ramakrishna and Srinath", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

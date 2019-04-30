@@ -1,0 +1,1 @@
+{"tmdb_id": 155179, "title": "Satya Harishchandra", "original_title": "Satya Harishchandra", "slug_title": "satya-harishchandra", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Telugu old mythological movie.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

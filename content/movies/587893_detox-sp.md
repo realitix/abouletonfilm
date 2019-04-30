@@ -1,0 +1,1 @@
+{"tmdb_id": 587893, "title": "Detox SP", "original_title": "Detox SP", "slug_title": "detox-sp", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

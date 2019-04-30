@@ -1,0 +1,1 @@
+{"tmdb_id": 503644, "title": "Un giorno alla settimana", "original_title": "Un giorno alla settimana", "slug_title": "un-giorno-alla-settimana", "date": "1966-02-07", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

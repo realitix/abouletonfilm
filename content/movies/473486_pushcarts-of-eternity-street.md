@@ -1,0 +1,1 @@
+{"tmdb_id": 473486, "title": "Pushcarts of Eternity Street", "original_title": "Pushcarts of Eternity Street", "slug_title": "pushcarts-of-eternity-street", "date": "2006-09-01", "genre": [""], "score": "0.0/10", "synopsis": "Eternalism 3-D film by Ken Jacobs", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

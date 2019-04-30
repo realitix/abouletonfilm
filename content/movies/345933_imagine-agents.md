@@ -1,0 +1,1 @@
+{"tmdb_id": 345933, "title": "Imagine Agents", "original_title": "Imagine Agents", "slug_title": "imagine-agents", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "Based off the Boom! comic.", "image": "/img/default-cover.png", "actors": ["Michael Keaton ()"], "comments": [], "recommandations_id": [424853, 457232], "youtube_key": "notfound"}

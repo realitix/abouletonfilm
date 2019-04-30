@@ -1,0 +1,1 @@
+{"tmdb_id": 470138, "title": "My Dear Karady", "original_title": "My Dear Karady", "slug_title": "my-dear-karady", "date": "", "genre": [""], "score": "3.0/10", "synopsis": "My Dear Karady is a Malayalam movie released in 1999, starring Kalabhavan Mani.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

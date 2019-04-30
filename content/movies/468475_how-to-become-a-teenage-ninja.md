@@ -1,0 +1,1 @@
+{"tmdb_id": 468475, "title": "How to Become a Teenage Ninja", "original_title": "How to Become a Teenage Ninja", "slug_title": "how-to-become-a-teenage-ninja", "date": "1990-08-20", "genre": [""], "score": "0.0/10", "synopsis": "Comment devenir un ado ninja", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

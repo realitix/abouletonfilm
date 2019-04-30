@@ -1,0 +1,1 @@
+{"tmdb_id": 106146, "title": "Nerd-Alarm!", "original_title": "Nerd-Alarm!", "slug_title": "nerd-alarm", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

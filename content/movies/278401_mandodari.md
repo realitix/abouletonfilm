@@ -1,0 +1,1 @@
+{"tmdb_id": 278401, "title": "Mandodari", "original_title": "Mandodari", "slug_title": "mandodari", "date": "", "genre": ["Drame"], "score": "0.0/10", "synopsis": "What the movie has in store for you, wait and watch this space for more updates.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

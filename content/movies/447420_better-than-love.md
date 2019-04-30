@@ -1,0 +1,1 @@
+{"tmdb_id": 447420, "title": "Better Than Love", "original_title": "Better Than Love", "slug_title": "better-than-love", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

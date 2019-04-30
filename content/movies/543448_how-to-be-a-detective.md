@@ -1,0 +1,1 @@
+{"tmdb_id": 543448, "title": "How to Be a Detective", "original_title": "How to Be a Detective", "slug_title": "how-to-be-a-detective", "date": "1980-06-01", "genre": [""], "score": "0.0/10", "synopsis": "A film about being a detective", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

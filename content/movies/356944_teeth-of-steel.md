@@ -1,0 +1,1 @@
+{"tmdb_id": 356944, "title": "Teeth of Steel", "original_title": "Teeth of Steel", "slug_title": "teeth-of-steel", "date": "1942-01-02", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Short part of BFI collection \"This Working Life: Steel\".", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

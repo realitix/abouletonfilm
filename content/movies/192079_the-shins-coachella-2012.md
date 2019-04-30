@@ -1,0 +1,1 @@
+{"tmdb_id": 192079, "title": "The Shins Coachella 2012", "original_title": "The Shins Coachella 2012", "slug_title": "the-shins-coachella-2012", "date": "", "genre": ["Musique"], "score": "0.0/10", "synopsis": "The Shins playing weekend 1 at Coachella 2012", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

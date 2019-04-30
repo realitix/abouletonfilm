@@ -1,0 +1,1 @@
+{"tmdb_id": 535654, "title": "The Dark Room", "original_title": "The Dark Room", "slug_title": "the-dark-room", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "In the mysterious realm of the dark room, sea and shore join and part, expand and contract.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 571960, "title": "Pr\u00e9sence", "original_title": "Pr\u00e9sence", "slug_title": "presence", "date": "1974-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Un court film de Rovere, Pizzorno et Shapiro", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

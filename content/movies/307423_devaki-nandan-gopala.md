@@ -1,0 +1,1 @@
+{"tmdb_id": 307423, "title": "Devaki Nandan Gopala", "original_title": "Devaki Nandan Gopala", "slug_title": "devaki-nandan-gopala", "date": "1977-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

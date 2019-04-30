@@ -1,0 +1,1 @@
+{"tmdb_id": 387442, "title": "I parassiti della rana", "original_title": "I parassiti della rana", "slug_title": "i-parassiti-della-rana", "date": "1913-08-12", "genre": [""], "score": "0.0/10", "synopsis": "Parasites of the Frog, short documentary.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

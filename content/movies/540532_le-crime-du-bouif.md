@@ -1,0 +1,1 @@
+{"tmdb_id": 540532, "title": "Le crime du Bouif", "original_title": "Le crime du Bouif", "slug_title": "le-crime-du-bouif", "date": "1933-01-27", "genre": [""], "score": "0.0/10", "synopsis": "No overview found", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

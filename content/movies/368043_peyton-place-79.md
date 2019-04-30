@@ -1,0 +1,1 @@
+{"tmdb_id": 368043, "title": "Peyton Place '79", "original_title": "Peyton Place '79", "slug_title": "peyton-place-79", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "American TV-movie, based on daytime serial", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

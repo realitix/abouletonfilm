@@ -1,0 +1,1 @@
+{"tmdb_id": 150382, "title": "Paris by Night 73", "original_title": "Paris by Night 73", "slug_title": "paris-by-night-73", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "The Best of Duets (song Ca \u0110\u1eb7c Bi\u1ec7t)", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

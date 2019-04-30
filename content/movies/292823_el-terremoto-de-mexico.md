@@ -1,0 +1,1 @@
+{"tmdb_id": 292823, "title": "El terremoto de M\u00e9xico", "original_title": "El terremoto de M\u00e9xico", "slug_title": "el-terremoto-de-mexico", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

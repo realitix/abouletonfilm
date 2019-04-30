@@ -1,0 +1,1 @@
+{"tmdb_id": 261404, "title": "In The Steps of Buddha", "original_title": "In The Steps of Buddha", "slug_title": "in-the-steps-of-buddha", "date": "1962-04-26", "genre": [""], "score": "0.0/10", "synopsis": "1962 Documentary shown at Cannes.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 583626, "title": "Burgundia II", "original_title": "Burgundia II", "slug_title": "burgundia-ii", "date": "2009-10-22", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "A journey through Bourgogne and Dijon where he lived for 15 years.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

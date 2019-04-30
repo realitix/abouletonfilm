@@ -1,0 +1,1 @@
+{"tmdb_id": 26024, "title": "Trip Brazil 04", "original_title": "Trip Brazil 04", "slug_title": "trip-brazil-04", "date": "2004-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No overview found.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/adStn7XBCqQoBhaCIteeFph1S9O.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

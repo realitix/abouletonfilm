@@ -1,0 +1,1 @@
+{"tmdb_id": 512384, "title": "Black Inferno", "original_title": "Black Inferno", "slug_title": "black-inferno", "date": "", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "Dracula lures a woman into a cemetery.  Sequel to 1956's Curse of Dracula.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

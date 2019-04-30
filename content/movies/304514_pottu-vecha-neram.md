@@ -1,0 +1,1 @@
+{"tmdb_id": 304514, "title": "Pottu Vecha Neram", "original_title": "Pottu Vecha Neram", "slug_title": "pottu-vecha-neram", "date": "1985-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film with a soundtrack featuring the music of Malaysia Vasudevan", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

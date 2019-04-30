@@ -1,0 +1,1 @@
+{"tmdb_id": 340334, "title": "Ztring Theory", "original_title": "Ztring Theory", "slug_title": "ztring-theory", "date": "2009-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Digital images pulasting.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 296926, "title": "Black & Blue", "original_title": "Black & Blue", "slug_title": "black-blue", "date": "2001-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Action -  -  Cedric Moore, Adam C. Horne, Seth Miller", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 538414, "title": "Tierra bald\u00eda", "original_title": "Tierra bald\u00eda", "slug_title": "tierra-baldia", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/olzobuJ0nuq6mio3U3arHfeTkHs.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

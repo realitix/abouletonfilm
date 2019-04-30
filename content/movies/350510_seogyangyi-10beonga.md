@@ -1,0 +1,1 @@
+{"tmdb_id": 350510, "title": "\uc11d\uc591\uc758 10\ubc88\uac00", "original_title": "\uc11d\uc591\uc758 10\ubc88\uac00", "slug_title": "seogyangyi-10beonga", "date": "1979-06-17", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

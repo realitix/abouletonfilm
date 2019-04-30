@@ -1,0 +1,1 @@
+{"tmdb_id": 346647, "title": "Need for Speed 2", "original_title": "Need for Speed 2", "slug_title": "need-for-speed-2", "date": "", "genre": ["Action"], "score": "10.0/10", "synopsis": "A follow-up to the 2014 action film 'Need for Speed'.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

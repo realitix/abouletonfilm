@@ -1,0 +1,1 @@
+{"tmdb_id": 43246, "title": "Hannoversche Filmsch\u00e4tze - Die 70er Jahre", "original_title": "Hannoversche Filmsch\u00e4tze - Die 70er Jahre", "slug_title": "hannoversche-filmschatze-die-70er-jahre", "date": "", "genre": [""], "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

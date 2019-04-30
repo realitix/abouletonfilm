@@ -1,0 +1,1 @@
+{"tmdb_id": 496908, "title": "Der Katalog", "original_title": "Der Katalog", "slug_title": "der-katalog", "date": "1986-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Short doc on the making of the Otto mail-order catalog.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

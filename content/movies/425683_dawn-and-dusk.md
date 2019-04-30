@@ -1,0 +1,1 @@
+{"tmdb_id": 425683, "title": "Dawn and Dusk", "original_title": "Dawn and Dusk", "slug_title": "dawn-and-dusk", "date": "1977-11-11", "genre": [""], "score": "0.0/10", "synopsis": "16mm, colour, silent.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/64RcR7CBfPCWJVmOme9HcGe9abD.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

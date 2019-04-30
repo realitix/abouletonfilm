@@ -1,0 +1,1 @@
+{"tmdb_id": 587798, "title": "The Devil is Dead", "original_title": "The Devil is Dead", "slug_title": "the-devil-is-dead", "date": "1964-01-01", "genre": [""], "score": "0.0/10", "synopsis": "by Carl Linder", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

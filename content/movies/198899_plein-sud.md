@@ -1,0 +1,1 @@
+{"tmdb_id": 198899, "title": "Plein sud", "original_title": "Plein sud", "slug_title": "plein-sud", "date": "1961-05-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Directed by Gaston De Gerlache", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

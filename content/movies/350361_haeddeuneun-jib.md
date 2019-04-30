@@ -1,0 +1,1 @@
+{"tmdb_id": 350361, "title": "\ud574\ub728\ub294 \uc9d1", "original_title": "\ud574\ub728\ub294 \uc9d1", "slug_title": "haeddeuneun-jib", "date": "1980-12-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 512815, "title": "Ver\u00e3o em Rildas", "original_title": "Ver\u00e3o em Rildas", "slug_title": "verao-em-rildas", "date": "2018-04-26", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pTrfwnUY4D33aNGFummT7GpCQJx.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

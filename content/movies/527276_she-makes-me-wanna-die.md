@@ -1,0 +1,1 @@
+{"tmdb_id": 527276, "title": "She Makes Me Wanna Die", "original_title": "\u5982\u679c\u5929\u4f7f\u4e0d\u6b7b", "slug_title": "she-makes-me-wanna-die", "date": "1998-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1998 short film by Rita Hui", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

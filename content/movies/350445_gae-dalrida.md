@@ -1,0 +1,1 @@
+{"tmdb_id": 350445, "title": "\uac1c \ub2ec\ub9ac\ub2e4", "original_title": "\uac1c \ub2ec\ub9ac\ub2e4", "slug_title": "gae-dalrida", "date": "2000-06-03", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

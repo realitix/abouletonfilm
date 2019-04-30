@@ -1,0 +1,1 @@
+{"tmdb_id": 298361, "title": "Lost Command", "original_title": "Lost Command", "slug_title": "lost-command", "date": "1988-08-05", "genre": [""], "score": "0.0/10", "synopsis": "Philipino War Movie", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Y57dy3rMXKokC1ENpCBdCbdJnK.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

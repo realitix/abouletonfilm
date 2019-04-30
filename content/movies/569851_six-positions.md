@@ -1,0 +1,1 @@
+{"tmdb_id": 569851, "title": "Six Positions", "original_title": "Six Positions", "slug_title": "six-positions", "date": "1998-04-03", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Six Positions  (1998) is about task of a funeral home director.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

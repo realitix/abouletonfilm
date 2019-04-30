@@ -1,0 +1,1 @@
+{"tmdb_id": 333257, "title": "The Truck Driver", "original_title": "Sa'iq al-Shahinah", "slug_title": "the-truck-driver", "date": "1967-01-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

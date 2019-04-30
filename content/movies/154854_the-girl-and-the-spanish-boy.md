@@ -1,0 +1,1 @@
+{"tmdb_id": 154854, "title": "The Girl and the Spanish Boy", "original_title": "The Girl and the Spanish Boy", "slug_title": "the-girl-and-the-spanish-boy", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "She loved. She lost. She found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 582726, "title": "V\u00e4ike l\u00fchin\u00e4gelik boamadu", "original_title": "V\u00e4ike l\u00fchin\u00e4gelik boamadu", "slug_title": "vaike-luhinagelik-boamadu", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

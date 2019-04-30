@@ -1,0 +1,1 @@
+{"tmdb_id": 598569, "title": "Bella Ciao!", "original_title": "Bella Ciao!", "slug_title": "bella-ciao", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "An Altmanesque carnival of characters", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

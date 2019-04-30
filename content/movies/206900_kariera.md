@@ -1,0 +1,1 @@
+{"tmdb_id": 206900, "title": "Kariera", "original_title": "Kariera", "slug_title": "kariera", "date": "1964-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "A short documentary from Poland about a model casting in the Sixties.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

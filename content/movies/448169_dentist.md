@@ -1,0 +1,1 @@
+{"tmdb_id": 448169, "title": "Dentist", "original_title": "Dentist", "slug_title": "dentist", "date": "2005-04-21", "genre": ["Animation"], "score": "5.5/10", "synopsis": "A satirical take on dentistry.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kNrRlWmGEUpe90f67SKWlLVi5XQ.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

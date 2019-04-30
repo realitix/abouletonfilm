@@ -1,0 +1,1 @@
+{"tmdb_id": 506295, "title": "Silence", "original_title": "Silence", "slug_title": "silence", "date": "1998-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "Filmed on a Game Boy Camera, the blurry pictures suggest deeper than you would think.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

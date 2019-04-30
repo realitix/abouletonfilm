@@ -1,0 +1,1 @@
+{"tmdb_id": 530021, "title": "Amerasia", "original_title": "Amerasia", "slug_title": "amerasia", "date": "1985-06-30", "genre": [""], "score": "0.0/10", "synopsis": "Munich Film Festival 1985.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

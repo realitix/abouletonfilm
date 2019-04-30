@@ -1,0 +1,1 @@
+{"tmdb_id": 327580, "title": "De Jungle Bende 2", "original_title": "De Jungle Bende 2", "slug_title": "de-jungle-bende-2", "date": "2015-02-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3MOuodjoKPnkgAFLhWRyFQO2GYk.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

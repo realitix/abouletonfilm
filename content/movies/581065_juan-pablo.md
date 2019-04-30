@@ -1,0 +1,1 @@
+{"tmdb_id": 581065, "title": "Juan Pablo", "original_title": "Juan Pablo", "slug_title": "juan-pablo", "date": "2017-02-27", "genre": ["Drame"], "score": "0.0/10", "synopsis": "Short film about Juan Pablo Duarte, the Dominican Republic's founding father.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

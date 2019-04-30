@@ -1,0 +1,1 @@
+{"tmdb_id": 153142, "title": "Landet som inte l\u00e4ngre \u00e4r", "original_title": "Landet som inte l\u00e4ngre \u00e4r", "slug_title": "landet-som-inte-langre-ar", "date": "2012-12-27", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

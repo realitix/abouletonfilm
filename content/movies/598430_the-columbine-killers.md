@@ -1,0 +1,1 @@
+{"tmdb_id": 598430, "title": "The Columbine Killers", "original_title": "The Columbine Killers", "slug_title": "the-columbine-killers", "date": "2007-04-23", "genre": [""], "score": "0.0/10", "synopsis": "The story of Eric Harris and Dylan Klebold.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

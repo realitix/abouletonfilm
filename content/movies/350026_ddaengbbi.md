@@ -1,0 +1,1 @@
+{"tmdb_id": 350026, "title": "\ub561\uc090", "original_title": "\ub561\uc090", "slug_title": "ddaengbbi", "date": "1990-10-27", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

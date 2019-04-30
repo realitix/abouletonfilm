@@ -1,0 +1,1 @@
+{"tmdb_id": 325898, "title": "Dating A Zombie", "original_title": "Dating A Zombie", "slug_title": "dating-a-zombie", "date": "2012-06-23", "genre": [""], "score": "0.0/10", "synopsis": "Can There Be Love In Zombietown?", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

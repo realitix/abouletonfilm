@@ -1,0 +1,1 @@
+{"tmdb_id": 474964, "title": "La Gent del Rio", "original_title": "La Gent del Rio", "slug_title": "la-gent-del-rio", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A hundred and fifty people live in Ernestina.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

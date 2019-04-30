@@ -1,0 +1,1 @@
+{"tmdb_id": 303925, "title": "Sher Ali", "original_title": "Sher Ali", "slug_title": "sher-ali", "date": "1992-12-25", "genre": [""], "score": "0.0/10", "synopsis": "Film directed by Masud Butt starring Neeli, Sultan Rahi and Saima", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

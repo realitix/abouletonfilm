@@ -1,0 +1,1 @@
+{"tmdb_id": 317237, "title": "A Jungle Jumble", "original_title": "A Jungle Jumble", "slug_title": "a-jungle-jumble", "date": "1932-07-03", "genre": [""], "score": "0.0/10", "synopsis": "A Oswald the Lucky Rabbit cartoon.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

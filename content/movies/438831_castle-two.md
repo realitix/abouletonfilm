@@ -1,0 +1,1 @@
+{"tmdb_id": 438831, "title": "Castle Two", "original_title": "Castle Two", "slug_title": "castle-two", "date": "1968-02-02", "genre": [""], "score": "0.0/10", "synopsis": "Found film sequences brought together in the paranoia of the cold war and Vietnam.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

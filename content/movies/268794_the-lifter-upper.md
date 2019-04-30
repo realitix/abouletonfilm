@@ -1,0 +1,1 @@
+{"tmdb_id": 268794, "title": "The Lifter Upper", "original_title": "The Lifter Upper", "slug_title": "the-lifter-upper", "date": "2009-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Animated short starring Tiffany Chambers-Goldberg, In-q, Kameron Lord", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

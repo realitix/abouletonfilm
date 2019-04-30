@@ -1,0 +1,1 @@
+{"tmdb_id": 579378, "title": "Juventud rebeld\u00eda revoluci\u00f3n", "original_title": "Juventud rebeld\u00eda revoluci\u00f3n", "slug_title": "juventud-rebeldia-revolucion", "date": "1969-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

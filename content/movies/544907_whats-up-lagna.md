@@ -1,0 +1,1 @@
+{"tmdb_id": 544907, "title": "Whats up lagna", "original_title": "Whats up lagna", "slug_title": "whats-up-lagna", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A romance blossoms throughout Mumbai, Nashik and Pune.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 424001, "title": "Goode Knight", "original_title": "Goode Knight", "slug_title": "goode-knight", "date": "1934-02-23", "genre": [""], "score": "0.0/10", "synopsis": "Cubby the Bear's version of the Robin Hood story.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 565245, "title": "For Monkeys Only", "original_title": "For Monkeys Only", "slug_title": "for-monkeys-only", "date": "2014-01-01", "genre": [""], "score": "0.0/10", "synopsis": "For Monkeys Only - Video SD", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

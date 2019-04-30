@@ -1,0 +1,1 @@
+{"tmdb_id": 585532, "title": "Zanbato", "original_title": "Zanbato", "slug_title": "zanbato", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Zanbato centers around a young girl (between 10-15) with lethal fighting skills.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 576115, "title": "Batsin bu d\u00fcnya", "original_title": "Batsin bu d\u00fcnya", "slug_title": "batsin-bu-dunya", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3j01xRvRXl48O7weQKHoZy8ynj9.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 303040, "title": "Adhe Prema", "original_title": "Adhe Prema", "slug_title": "adhe-prema", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Film with a soundtrack featuring the music of Kishan Khavadiya , Anjana Sowmya and more!", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

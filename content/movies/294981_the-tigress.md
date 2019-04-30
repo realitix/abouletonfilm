@@ -1,0 +1,1 @@
+{"tmdb_id": 294981, "title": "The Tigress", "original_title": "The Tigress", "slug_title": "the-tigress", "date": "1993-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Two hustlers plot against a wealthy American man in 1920s Berlin.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

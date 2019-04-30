@@ -1,0 +1,1 @@
+{"tmdb_id": 468804, "title": "Gente dei bagni", "original_title": "Gente dei bagni", "slug_title": "gente-dei-bagni", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hUC48WtZq6jMnMgbOsrN0PcvFjO.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

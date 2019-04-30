@@ -1,0 +1,1 @@
+{"tmdb_id": 307219, "title": "Choron Ki Baaraat", "original_title": "Choron Ki Baaraat", "slug_title": "choron-ki-baaraat", "date": "1980-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Shatrughan Sinha, Neetu Singh and Ajit", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

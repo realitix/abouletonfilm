@@ -1,0 +1,1 @@
+{"tmdb_id": 350508, "title": "30\uc77c\uac04\uc758 \uc57c\uc720\ud68c", "original_title": "30\uc77c\uac04\uc758 \uc57c\uc720\ud68c", "slug_title": "30ilganyi-yayuhoe", "date": "1980-08-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

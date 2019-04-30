@@ -1,0 +1,1 @@
+{"tmdb_id": 572748, "title": "Backslash", "original_title": "Backslash", "slug_title": "backslash", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A man's shaving routine doesn't go as planned.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

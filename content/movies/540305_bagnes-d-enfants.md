@@ -1,0 +1,1 @@
+{"tmdb_id": 540305, "title": "Bagnes d'enfants", "original_title": "Bagnes d'enfants", "slug_title": "bagnes-d-enfants", "date": "1933-07-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

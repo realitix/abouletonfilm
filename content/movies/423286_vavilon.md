@@ -1,0 +1,1 @@
+{"tmdb_id": 423286, "title": "Vavilon", "original_title": "Vavilon", "slug_title": "vavilon", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Vavilon is a project by Riccardo Arena arising from his research conducted on the Soloviki Islands.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

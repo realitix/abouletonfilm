@@ -1,0 +1,1 @@
+{"tmdb_id": 306440, "title": "Pathreela Raasta", "original_title": "Pathreela Raasta", "slug_title": "pathreela-raasta", "date": "1994-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Dimple Kapadia, Varsha Usgaonkar and Sadashiv Amrapurkar", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

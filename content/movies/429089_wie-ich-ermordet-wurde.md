@@ -1,0 +1,1 @@
+{"tmdb_id": 429089, "title": "Wie ich ermordet wurde", "original_title": "Wie ich ermordet wurde", "slug_title": "wie-ich-ermordet-wurde", "date": "1915-12-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernst Lubitsch ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

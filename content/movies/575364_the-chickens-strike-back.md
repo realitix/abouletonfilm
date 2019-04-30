@@ -1,0 +1,1 @@
+{"tmdb_id": 575364, "title": "The Chickens Strike Back!", "original_title": "The Chickens Strike Back!", "slug_title": "the-chickens-strike-back", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "It\u2019s pretty self-explanatory.", "image": "/img/default-cover.png", "actors": ["Ike Harrell ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

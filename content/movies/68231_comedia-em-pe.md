@@ -1,0 +1,1 @@
+{"tmdb_id": 68231, "title": "Com\u00e9dia em P\u00e9", "original_title": "Com\u00e9dia em P\u00e9", "slug_title": "comedia-em-pe", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yfyYLY8ZQh7kUCvRZi8ZVE0cLJC.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

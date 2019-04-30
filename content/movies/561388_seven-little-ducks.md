@@ -1,0 +1,1 @@
+{"tmdb_id": 561388, "title": "Seven Little Ducks", "original_title": "Seven Little Ducks", "slug_title": "seven-little-ducks", "date": "1967-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A short film about a little girl who keeps seven ducks as pets.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

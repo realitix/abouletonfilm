@@ -1,0 +1,1 @@
+{"tmdb_id": 574330, "title": "Street Film Part Zero", "original_title": "Street Film Part Zero", "slug_title": "street-film-part-zero", "date": "1976-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Un court film de Robert Fulton", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

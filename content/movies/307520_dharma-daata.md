@@ -1,0 +1,1 @@
+{"tmdb_id": 307520, "title": "Dharma Daata", "original_title": "Dharma Daata", "slug_title": "dharma-daata", "date": "1970-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Akkineni Nageshwara Rao, Kanchana and Showkar Janaki", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

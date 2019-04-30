@@ -1,0 +1,1 @@
+{"tmdb_id": 268732, "title": "Good God Bad Dog", "original_title": "Good God Bad Dog", "slug_title": "good-god-bad-dog", "date": "2011-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Good God Bad Dog", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

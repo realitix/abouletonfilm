@@ -1,0 +1,1 @@
+{"tmdb_id": 265690, "title": "No Hetero", "original_title": "No Hetero", "slug_title": "no-hetero", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "homophobia in African American communities as seen through the eyes of Morehouse and Spelman students", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 448632, "title": "Les Fusils", "original_title": "Les Fusils", "slug_title": "les-fusils", "date": "1962-03-22", "genre": [""], "score": "0.0/10", "synopsis": "A French short film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 385727, "title": "Demo dcfcffdd", "original_title": "Demo dcfcffdd", "slug_title": "demo-dcfcffdd", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

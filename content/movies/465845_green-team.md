@@ -1,0 +1,1 @@
+{"tmdb_id": 465845, "title": "Green Team", "original_title": "Green Team", "slug_title": "green-team", "date": "", "genre": [""], "score": "7.0/10", "synopsis": "McKay, Ferrell and Reilly form a Green Team to save our polluted environment.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

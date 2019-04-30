@@ -1,0 +1,1 @@
+{"tmdb_id": 307451, "title": "Devatha", "original_title": "Devatha", "slug_title": "devatha", "date": "1965-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1965", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

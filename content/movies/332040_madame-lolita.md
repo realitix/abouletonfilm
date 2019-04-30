@@ -1,0 +1,1 @@
+{"tmdb_id": 332040, "title": "Madame Lolita", "original_title": "Madame Lolita", "slug_title": "madame-lolita", "date": "1919-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Egyptian film released in 1919.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

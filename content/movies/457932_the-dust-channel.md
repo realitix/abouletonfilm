@@ -1,0 +1,1 @@
+{"tmdb_id": 457932, "title": "The Dust Channel", "original_title": "Arutz HaAvak", "slug_title": "the-dust-channel", "date": "2016-06-17", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/crxWbEZnwRKVgKsVNkW4TsTwZu0.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

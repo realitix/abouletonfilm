@@ -1,0 +1,1 @@
+{"tmdb_id": 578914, "title": "City Girls", "original_title": "City Girls", "slug_title": "city-girls", "date": "2005-01-01", "genre": ["Drame"], "score": "0.0/10", "synopsis": "A man interviews 3 women to see if he met them during his youth.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 300922, "title": "Sankoch", "original_title": "Sankoch", "slug_title": "sankoch", "date": "1976-01-01", "genre": [""], "score": "0.0/10", "synopsis": "To be filled.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a34K88B1T01NPPyZR8gihEx3TTX.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

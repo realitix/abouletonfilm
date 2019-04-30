@@ -1,0 +1,1 @@
+{"tmdb_id": 306912, "title": "Apartment!", "original_title": "Apartment!", "slug_title": "apartment", "date": "2007-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Short animated film about people entering and leaving an apartment.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

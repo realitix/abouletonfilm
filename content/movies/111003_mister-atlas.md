@@ -1,0 +1,1 @@
+{"tmdb_id": 111003, "title": "Mister Atlas", "original_title": "Mister Atlas", "slug_title": "mister-atlas", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Fantastic adventure abounds in this story about a boy and a god.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

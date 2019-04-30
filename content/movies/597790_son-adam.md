@@ -1,0 +1,1 @@
+{"tmdb_id": 597790, "title": "Son Adam", "original_title": "Son Adam", "slug_title": "son-adam", "date": "1983-04-04", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7SZk2zVutN9OEdWnKZ1MdyggLy7.jpg", "actors": ["Beh\u00e7et Nacar ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

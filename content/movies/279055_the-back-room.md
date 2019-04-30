@@ -1,0 +1,1 @@
+{"tmdb_id": 279055, "title": "The Back Room", "original_title": "The Back Room", "slug_title": "the-back-room", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "The tale of a guy next door \u2014 who just happens to be a serial killer.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

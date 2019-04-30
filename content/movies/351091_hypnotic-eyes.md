@@ -1,0 +1,1 @@
+{"tmdb_id": 351091, "title": "Hypnotic Eyes", "original_title": "Hypnotic Eyes", "slug_title": "hypnotic-eyes", "date": "1933-07-31", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon released 1 August 1933.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

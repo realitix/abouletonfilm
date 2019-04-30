@@ -1,0 +1,1 @@
+{"tmdb_id": 542145, "title": "Influx: Documentary", "original_title": "Influx: Documentary", "slug_title": "influx-documentary", "date": "2016-06-22", "genre": [""], "score": "0.0/10", "synopsis": "A documentary about italian migration to London.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

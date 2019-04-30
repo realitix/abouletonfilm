@@ -1,0 +1,1 @@
+{"tmdb_id": 399164, "title": "Digital Speech", "original_title": "Digital Speech", "slug_title": "digital-speech", "date": "1984-05-25", "genre": [""], "score": "0.0/10", "synopsis": "1984 Peter Rose short work", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

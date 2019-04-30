@@ -1,0 +1,1 @@
+{"tmdb_id": 516552, "title": "The Brazilian Connection", "original_title": "A Conex\u00e3o Brasileira", "slug_title": "the-brazilian-connection", "date": "1983-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

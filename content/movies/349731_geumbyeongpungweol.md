@@ -1,0 +1,1 @@
+{"tmdb_id": 349731, "title": "\uae08\ubcd1\ud48d\uc6d4", "original_title": "\uae08\ubcd1\ud48d\uc6d4", "slug_title": "geumbyeongpungweol", "date": "1993-11-13", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

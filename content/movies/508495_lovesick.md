@@ -1,0 +1,1 @@
+{"tmdb_id": 508495, "title": "Lovesick", "original_title": "Lovesick", "slug_title": "lovesick", "date": "2017-06-26", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "Make sure you are all alone before you go to sleep...", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

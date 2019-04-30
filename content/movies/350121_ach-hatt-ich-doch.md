@@ -1,0 +1,1 @@
+{"tmdb_id": 350121, "title": "Ach h\u00e4tt' ich doch", "original_title": "Ach h\u00e4tt' ich doch", "slug_title": "ach-hatt-ich-doch", "date": "1936-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Partly animated film about fotography.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

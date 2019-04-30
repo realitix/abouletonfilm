@@ -1,0 +1,1 @@
+{"tmdb_id": 302272, "title": "Sher Dil", "original_title": "Sher Dil", "slug_title": "sher-dil", "date": "1965-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1965 film starring Dara Singh, Parveen Choudhary and Jayant", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

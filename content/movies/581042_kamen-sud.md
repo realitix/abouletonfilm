@@ -1,0 +1,1 @@
+{"tmdb_id": 581042, "title": "Kamen-S\u00fcd", "original_title": "Kamen-S\u00fcd", "slug_title": "kamen-sud", "date": "1989-03-09", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

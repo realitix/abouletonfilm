@@ -1,0 +1,1 @@
+{"tmdb_id": 360849, "title": "La chica", "original_title": "La chica", "slug_title": "la-chica", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

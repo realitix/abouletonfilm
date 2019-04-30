@@ -1,0 +1,1 @@
+{"tmdb_id": 585613, "title": "Mic Drop I", "original_title": "Mic Drop I", "slug_title": "mic-drop-i", "date": "2017-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A single-screen video work featuring poet Panya Banjoko.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

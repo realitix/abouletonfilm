@@ -1,0 +1,1 @@
+{"tmdb_id": 279697, "title": "I resti di Bisanzio", "original_title": "I resti di Bisanzio", "slug_title": "i-resti-di-bisanzio", "date": "2014-06-27", "genre": [""], "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zZqyzAzBzsHX0EOwuQwIwMkKNoS.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

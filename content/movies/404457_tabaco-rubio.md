@@ -1,0 +1,1 @@
+{"tmdb_id": 404457, "title": "Tabaco rubio", "original_title": "Tabaco rubio", "slug_title": "tabaco-rubio", "date": "1958-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Short documentary about the processing of tobacco.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

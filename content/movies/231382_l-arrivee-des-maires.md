@@ -1,0 +1,1 @@
+{"tmdb_id": 231382, "title": "L'Arriv\u00e9e des Maires", "original_title": "L'Arriv\u00e9e des Maires", "slug_title": "l-arrivee-des-maires", "date": "1900-10-29", "genre": [""], "score": "5.0/10", "synopsis": "Throngs of men in top hats walk past the camera.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

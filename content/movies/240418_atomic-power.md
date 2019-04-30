@@ -1,0 +1,1 @@
+{"tmdb_id": 240418, "title": "Atomic Power", "original_title": "Atomic Power", "slug_title": "atomic-power", "date": "1946-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A recreation of the making of the atomic bomb leading up to the Trinity test.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 8644, "title": "Die Menschenfischer", "original_title": "Die Menschenfischer", "slug_title": "die-menschenfischer", "date": "2004-10-19", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

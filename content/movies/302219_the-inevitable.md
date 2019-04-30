@@ -1,0 +1,1 @@
+{"tmdb_id": 302219, "title": "The Inevitable", "original_title": "The Inevitable", "slug_title": "the-inevitable", "date": "2013-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Life lessons can be taught to any one at any age-- even a doctor.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

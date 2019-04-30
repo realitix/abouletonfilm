@@ -1,0 +1,1 @@
+{"tmdb_id": 521751, "title": "Rompetechos", "original_title": "Rompetechos", "slug_title": "rompetechos", "date": "", "genre": ["Animation / Com\u00e9die"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4UUxE3KBACeIh3mKeVjjI4yQNLD.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

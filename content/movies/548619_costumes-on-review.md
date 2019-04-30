@@ -1,0 +1,1 @@
+{"tmdb_id": 548619, "title": "Costumes on Review", "original_title": "Costumes on Review", "slug_title": "costumes-on-review", "date": "1976-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

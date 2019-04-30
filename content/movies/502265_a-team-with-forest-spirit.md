@@ -1,0 +1,1 @@
+{"tmdb_id": 502265, "title": "A Team with Forest Spirit", "original_title": "W gromadzie ducha puszczy", "slug_title": "a-team-with-forest-spirit", "date": "1957-04-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about kids in summer camp.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

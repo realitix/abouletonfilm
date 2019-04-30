@@ -1,0 +1,1 @@
+{"tmdb_id": 535620, "title": "Devils Cove", "original_title": "Devils Cove", "slug_title": "devils-cove", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "An interracial lesbian couple commit a murder and have to flee for their lives.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

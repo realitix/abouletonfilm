@@ -1,0 +1,1 @@
+{"tmdb_id": 564079, "title": "Docteur Cara\u00efbes", "original_title": "Docteur Cara\u00efbes", "slug_title": "docteur-caraibes", "date": "1970-07-29", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pPKysIdqHxWejgUrcm1Wc1FCyRk.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 565614, "title": "Some title", "original_title": "Some title", "slug_title": "some-title", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Very good movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

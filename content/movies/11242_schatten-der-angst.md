@@ -1,0 +1,1 @@
+{"tmdb_id": 11242, "title": "Schatten der Angst", "original_title": "Schatten der Angst", "slug_title": "schatten-der-angst", "date": "1900-02-08", "genre": [""], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

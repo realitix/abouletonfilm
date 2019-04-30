@@ -1,0 +1,1 @@
+{"tmdb_id": 595850, "title": "Singham (Yamudu 3)", "original_title": "Singham (Yamudu 3)", "slug_title": "singham-yamudu-3", "date": "2016-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mTkKFsAvYFJaboEHFc5hSpZxP6y.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

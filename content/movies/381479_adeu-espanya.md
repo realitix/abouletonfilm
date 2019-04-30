@@ -1,0 +1,1 @@
+{"tmdb_id": 381479, "title": "Ad\u00e9u, Espanya?", "original_title": "Ad\u00e9u, Espanya?", "slug_title": "adeu-espanya", "date": "2010-06-03", "genre": ["Documentaire"], "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cevCqemxaxW2oQ5RjCne1o0MLob.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

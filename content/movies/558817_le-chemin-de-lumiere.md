@@ -1,0 +1,1 @@
+{"tmdb_id": 558817, "title": "Le chemin de lumi\u00e8re", "original_title": "Le chemin de lumi\u00e8re", "slug_title": "le-chemin-de-lumiere", "date": "1937-11-03", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

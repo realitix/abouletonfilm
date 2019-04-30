@@ -1,0 +1,1 @@
+{"tmdb_id": 367622, "title": "Murder Case Studies", "original_title": "Murder Case Studies", "slug_title": "murder-case-studies", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "British Straight to Video", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

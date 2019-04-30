@@ -1,0 +1,1 @@
+{"tmdb_id": 273051, "title": "Arizona (Vanguard)", "original_title": "Arizona (Vanguard)", "slug_title": "arizona-vanguard", "date": "2012-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Four teenagers become forever changed by a series of tragic events.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 320900, "title": "Maryade Mahalu", "original_title": "Maryade Mahalu", "slug_title": "maryade-mahalu", "date": "2014-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Udaya Kumar", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

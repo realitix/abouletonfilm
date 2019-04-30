@@ -1,0 +1,1 @@
+{"tmdb_id": 556723, "title": "Le chanteur de S\u00e9ville", "original_title": "Le chanteur de S\u00e9ville", "slug_title": "le-chanteur-de-seville", "date": "1931-02-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

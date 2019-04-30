@@ -1,0 +1,1 @@
+{"tmdb_id": 331613, "title": "Cahaya Tarbiyah di Bumi Khilafah", "original_title": "Cahaya Tarbiyah di Bumi Khilafah", "slug_title": "cahaya-tarbiyah-di-bumi-khilafah", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "MT light on Earth Khilafah", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

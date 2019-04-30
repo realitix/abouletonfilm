@@ -1,0 +1,1 @@
+{"tmdb_id": 329480, "title": "The Neon Children", "original_title": "Les enfants de neons", "slug_title": "the-neon-children", "date": "1990-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Brahm Tsaki.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

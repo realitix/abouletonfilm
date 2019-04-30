@@ -1,0 +1,1 @@
+{"tmdb_id": 529680, "title": "La Redenci\u00f3n", "original_title": "La Redenci\u00f3n", "slug_title": "la-redencion", "date": "2018-05-31", "genre": ["Drame / Histoire"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ohf5om1Q8Ykz09L3pnoTpYBmfmZ.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

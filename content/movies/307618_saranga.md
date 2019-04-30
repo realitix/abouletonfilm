@@ -1,0 +1,1 @@
+{"tmdb_id": 307618, "title": "Saranga", "original_title": "Saranga", "slug_title": "saranga", "date": "1961-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A woman faces problems when she insists on marrying the man she loves.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

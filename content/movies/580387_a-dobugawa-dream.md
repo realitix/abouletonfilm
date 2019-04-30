@@ -1,0 +1,1 @@
+{"tmdb_id": 580387, "title": "A Dobugawa Dream", "original_title": "A Dobugawa Dream", "slug_title": "a-dobugawa-dream", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A young man runs away from his past and forms a bond with an old vagrant.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

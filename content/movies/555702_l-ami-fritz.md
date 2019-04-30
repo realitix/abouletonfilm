@@ -1,0 +1,1 @@
+{"tmdb_id": 555702, "title": "L'ami Fritz", "original_title": "L'ami Fritz", "slug_title": "l-ami-fritz", "date": "1920-02-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 593756, "title": "Nazar Palmus", "original_title": "Nazar Palmus", "slug_title": "nazar-palmus", "date": "2016-03-12", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oqH4KenPra1cXo1ZvqtDRorwf7.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

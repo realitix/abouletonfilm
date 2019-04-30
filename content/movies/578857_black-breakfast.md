@@ -1,0 +1,1 @@
+{"tmdb_id": 578857, "title": "Black Breakfast", "original_title": "Black Breakfast", "slug_title": "black-breakfast", "date": "2008-10-23", "genre": [""], "score": "0.0/10", "synopsis": "Short-movie form Stories on Human Rights, 2008.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

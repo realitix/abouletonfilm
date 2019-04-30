@@ -1,0 +1,1 @@
+{"tmdb_id": 596402, "title": "\u0428\u0443\u0440\u0430\u043b\u0435", "original_title": "\u0428\u0443\u0440\u0430\u043b\u0435", "slug_title": "shurale", "date": "1987-01-01", "genre": ["Animation / Fantastique"], "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

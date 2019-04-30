@@ -1,0 +1,1 @@
+{"tmdb_id": 578781, "title": "L'\u00c2ge d'or", "original_title": "L'\u00c2ge d'or", "slug_title": "l-age-d-or", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nina Kaptsova ()", "Ruslan Skvortsov ()", "Mikhail Lobukhin ()", "Ekaterina Krysanova ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

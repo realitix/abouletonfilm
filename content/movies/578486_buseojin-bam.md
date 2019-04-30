@@ -1,0 +1,1 @@
+{"tmdb_id": 578486, "title": "\ubd80\uc11c\uc9c4 \ubc24", "original_title": "\ubd80\uc11c\uc9c4 \ubc24", "slug_title": "buseojin-bam", "date": "", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lee Min-ji ()", "Han Joo-wan ()", "Jeong In-gi ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

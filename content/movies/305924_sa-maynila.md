@@ -1,0 +1,1 @@
+{"tmdb_id": 305924, "title": "Sa Maynila", "original_title": "Sa Maynila", "slug_title": "sa-maynila", "date": "1989-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Short film about Manila. It is raining.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

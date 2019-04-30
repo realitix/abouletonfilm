@@ -1,0 +1,1 @@
+{"tmdb_id": 478491, "title": "Haarlem", "original_title": "Haarlem", "slug_title": "haarlem", "date": "1922-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Documentary about Haarlem.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

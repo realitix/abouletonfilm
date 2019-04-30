@@ -1,0 +1,1 @@
+{"tmdb_id": 572872, "title": "Pu\u0137u Ansis", "original_title": "Pu\u0137u Ansis", "slug_title": "puku-ansis", "date": "1968-01-01", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oVpkp6F2dOfdIG2rJsDUTfvI2Wc.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

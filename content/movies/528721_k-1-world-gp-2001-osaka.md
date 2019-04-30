@@ -1,0 +1,1 @@
+{"tmdb_id": 528721, "title": "K-1 World GP 2001 Osaka", "original_title": "K-1 World GP 2001 Osaka", "slug_title": "k-1-world-gp-2001-osaka", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "K-1 World GP 2001 Osaka", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

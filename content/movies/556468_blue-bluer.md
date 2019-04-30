@@ -1,0 +1,1 @@
+{"tmdb_id": 556468, "title": "Blue Bluer", "original_title": "Blue Bluer", "slug_title": "blue-bluer", "date": "2017-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A filmic approximation of the color blue.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

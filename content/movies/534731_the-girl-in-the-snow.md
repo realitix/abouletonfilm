@@ -1,0 +1,1 @@
+{"tmdb_id": 534731, "title": "The Girl in the Snow", "original_title": "Das M\u00e4dchen im Schnee", "slug_title": "the-girl-in-the-snow", "date": "2018-04-20", "genre": [""], "score": "8.0/10", "synopsis": "A day in the life of a foley artist.", "image": "/img/default-cover.png", "actors": ["Sina Schwery ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

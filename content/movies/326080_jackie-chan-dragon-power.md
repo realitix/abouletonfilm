@@ -1,0 +1,1 @@
+{"tmdb_id": 326080, "title": "Jackie Chan: Dragon Power", "original_title": "Jackie Chan: Dragon Power", "slug_title": "jackie-chan-dragon-power", "date": "2002-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Documentary on Jackie Chan by Channel 4 UK", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350021, "title": "\ubb3c \uc704\ub97c \uac77\ub294 \uc5ec\uc790", "original_title": "\ubb3c \uc704\ub97c \uac77\ub294 \uc5ec\uc790", "slug_title": "mul-wireul-geodneun-yeoja", "date": "1990-09-29", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

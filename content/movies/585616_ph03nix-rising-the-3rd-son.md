@@ -1,0 +1,1 @@
+{"tmdb_id": 585616, "title": "Ph03nix Rising: The 3rd Son", "original_title": "Ph03nix Rising: The 3rd Son", "slug_title": "ph03nix-rising-the-3rd-son", "date": "2014-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Video by Larry Achiampong.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

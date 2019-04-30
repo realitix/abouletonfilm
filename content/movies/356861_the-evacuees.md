@@ -1,0 +1,1 @@
+{"tmdb_id": 356861, "title": "The Evacuees", "original_title": "The Evacuees", "slug_title": "the-evacuees", "date": "1969-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by B. S. Johnson.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qW1oQlOHizRHXZQrpkimYr0oxzn.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

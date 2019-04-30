@@ -1,0 +1,1 @@
+{"tmdb_id": 397088, "title": "Stella, I love you", "original_title": "Stella, I love you", "slug_title": "stella-i-love-you", "date": "2012-12-24", "genre": ["Drame"], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e8m5rXBhFI06qwI3JLk4NmawW5d.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 297688, "title": "Paulo Freire Contempor\u00e2neo", "original_title": "Paulo Freire Contempor\u00e2neo", "slug_title": "paulo-freire-contemporaneo", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paulo Freire ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

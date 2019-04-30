@@ -1,0 +1,1 @@
+{"tmdb_id": 280629, "title": "Bananer i Pyjamas: Skojiga Bananer", "original_title": "Bananer i Pyjamas: Skojiga Bananer", "slug_title": "bananer-i-pyjamas-skojiga-bananer", "date": "2008-07-07", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

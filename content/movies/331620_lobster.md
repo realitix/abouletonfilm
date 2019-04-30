@@ -1,0 +1,1 @@
+{"tmdb_id": 331620, "title": "Lobster", "original_title": "Istakusa", "slug_title": "lobster", "date": "1996-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Inas Al Degheidy.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

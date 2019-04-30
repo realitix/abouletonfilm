@@ -1,0 +1,1 @@
+{"tmdb_id": 598132, "title": "Schiller: Morgenstund (Deluxe-Edition)", "original_title": "Schiller: Morgenstund (Deluxe-Edition)", "slug_title": "schiller-morgenstund-deluxe-edition", "date": "", "genre": ["Musique"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

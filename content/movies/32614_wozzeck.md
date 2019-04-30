@@ -1,0 +1,1 @@
+{"tmdb_id": 32614, "title": "Wozzeck", "original_title": "Wozzeck", "slug_title": "wozzeck", "date": "1994-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

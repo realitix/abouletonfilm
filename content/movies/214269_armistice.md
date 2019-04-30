@@ -1,0 +1,1 @@
+{"tmdb_id": 214269, "title": "Armistice", "original_title": "Armistice", "slug_title": "armistice", "date": "1918-12-01", "genre": [""], "score": "0.0/10", "synopsis": "People celebrate Armistice Day in Paris, France.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

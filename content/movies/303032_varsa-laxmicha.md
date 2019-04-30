@@ -1,0 +1,1 @@
+{"tmdb_id": 303032, "title": "Varsa Laxmicha", "original_title": "Varsa Laxmicha", "slug_title": "varsa-laxmicha", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Sukanya Kulkarni and Ravindra Mankani", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

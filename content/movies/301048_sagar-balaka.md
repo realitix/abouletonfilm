@@ -1,0 +1,1 @@
+{"tmdb_id": 301048, "title": "Sagar Balaka", "original_title": "Sagar Balaka", "slug_title": "sagar-balaka", "date": "1983-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Indian film starring Dipankar Dey, Soma Dey and Anil Chatterjee", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

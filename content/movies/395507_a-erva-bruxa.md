@@ -1,0 +1,1 @@
+{"tmdb_id": 395507, "title": "A Erva Bruxa", "original_title": "A Erva Bruxa", "slug_title": "a-erva-bruxa", "date": "1970-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tGhknQztaIn95Ivd5Vw6j6x1iJ2.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

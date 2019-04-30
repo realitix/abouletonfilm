@@ -1,0 +1,1 @@
+{"tmdb_id": 377910, "title": "Inertia", "original_title": "Inertia", "slug_title": "inertia", "date": "2012-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Experimental film invoving a street.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

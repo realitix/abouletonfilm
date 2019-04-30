@@ -1,0 +1,1 @@
+{"tmdb_id": 587453, "title": "Doctor Co", "original_title": "Dokter Co", "slug_title": "doctor-co", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "Doctor Co is an 80-year-old doctor who tends to the refugees all over Amsterdam.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

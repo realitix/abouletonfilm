@@ -1,0 +1,1 @@
+{"tmdb_id": 393439, "title": "DUO\u9648\u5955\u8fc52010\u6f14\u5531\u4f1a", "original_title": "DUO\u9648\u5955\u8fc52010\u6f14\u5531\u4f1a", "slug_title": "duochen-yi-xun-2010yan-chang-hui", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

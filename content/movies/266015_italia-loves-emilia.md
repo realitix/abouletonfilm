@@ -1,0 +1,1 @@
+{"tmdb_id": 266015, "title": "ITALIA LOVES EMILIA", "original_title": "ITALIA LOVES EMILIA", "slug_title": "italia-loves-emilia", "date": "2012-09-22", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uESpFNRaidD5pv7jejiFeeWqmxk.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

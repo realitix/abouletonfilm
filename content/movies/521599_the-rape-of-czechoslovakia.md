@@ -1,0 +1,1 @@
+{"tmdb_id": 521599, "title": "The Rape of Czechoslovakia", "original_title": "The Rape of Czechoslovakia", "slug_title": "the-rape-of-czechoslovakia", "date": "1939-04-29", "genre": [""], "score": "0.0/10", "synopsis": "A documentary by Jir\u00ed Weiss", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

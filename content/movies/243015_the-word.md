@@ -1,0 +1,1 @@
+{"tmdb_id": 243015, "title": "The Word", "original_title": "The Word", "slug_title": "the-word", "date": "1953-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Oscar nominated short documentary from 1953 by", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

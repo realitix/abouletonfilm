@@ -1,0 +1,1 @@
+{"tmdb_id": 305903, "title": "Shoorveer", "original_title": "Shoorveer", "slug_title": "shoorveer", "date": "1988-05-20", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Rajan Sippy, Mandakini and Deepti Naval", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 585611, "title": "Abhimanyu", "original_title": "Abhimanyu", "slug_title": "abhimanyu", "date": "1936-01-01", "genre": ["Fantastique"], "score": "0.0/10", "synopsis": "A fantasy film based on a folk-tale from the Mahabharata.", "image": "/img/default-cover.png", "actors": ["M.G. Ramachandran ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

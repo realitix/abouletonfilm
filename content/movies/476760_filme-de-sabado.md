@@ -1,0 +1,1 @@
+{"tmdb_id": 476760, "title": "Filme de S\u00e1bado", "original_title": "Filme de S\u00e1bado", "slug_title": "filme-de-sabado", "date": "2009-01-01", "genre": [""], "score": "0.0/10", "synopsis": "It's Saturday morning and Andr\u00e9 has had an idea...", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

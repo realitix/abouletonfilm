@@ -1,0 +1,1 @@
+{"tmdb_id": 350224, "title": "\ub9e4\uc77c \uc8fd\ub294 \ub0a8\uc790", "original_title": "\ub9e4\uc77c \uc8fd\ub294 \ub0a8\uc790", "slug_title": "maeil-jugneun-namja", "date": "1981-02-14", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

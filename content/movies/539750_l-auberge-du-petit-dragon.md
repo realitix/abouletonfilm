@@ -1,0 +1,1 @@
+{"tmdb_id": 539750, "title": "L'auberge du Petit-Dragon", "original_title": "L'auberge du Petit-Dragon", "slug_title": "l-auberge-du-petit-dragon", "date": "1934-12-14", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

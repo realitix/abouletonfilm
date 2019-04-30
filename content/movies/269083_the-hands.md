@@ -1,0 +1,1 @@
+{"tmdb_id": 269083, "title": "The Hands", "original_title": "Ta heria", "slug_title": "the-hands", "date": "1962-06-10", "genre": [""], "score": "0.0/10", "synopsis": "Directed by John G. Contes", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

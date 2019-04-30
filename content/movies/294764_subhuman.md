@@ -1,0 +1,1 @@
+{"tmdb_id": 294764, "title": "Subhuman", "original_title": "Subhuman", "slug_title": "subhuman", "date": "2002-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film starring Huntley Ritter and Travis Sher", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

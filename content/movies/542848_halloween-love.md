@@ -1,0 +1,1 @@
+{"tmdb_id": 542848, "title": "Halloween Love", "original_title": "Halloween Love", "slug_title": "halloween-love", "date": "2013-01-01", "genre": ["Romance"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Mora ()", "Alejandra Saba ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349743, "title": "Boating Dance", "original_title": "\uc120\uc720\ub77d", "slug_title": "boating-dance", "date": "1994-02-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

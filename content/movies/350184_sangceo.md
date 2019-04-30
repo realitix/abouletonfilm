@@ -1,0 +1,1 @@
+{"tmdb_id": 350184, "title": "\uc0c1\ucc98", "original_title": "\uc0c1\ucc98", "slug_title": "sangceo", "date": "1989-02-18", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

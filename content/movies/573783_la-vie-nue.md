@@ -1,0 +1,1 @@
+{"tmdb_id": 573783, "title": "La vie nue", "original_title": "La vie nue", "slug_title": "la-vie-nue", "date": "2003-06-04", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6KrBMjroEDFrhryzk1uUPflhfIj.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

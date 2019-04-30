@@ -1,0 +1,1 @@
+{"tmdb_id": 351010, "title": "The Champ", "original_title": "The Champ", "slug_title": "the-champ", "date": "1931-09-19", "genre": [""], "score": "0.0/10", "synopsis": "A Terrytoons cartoon released 20 September 1931.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}
